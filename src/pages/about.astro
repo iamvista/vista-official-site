@@ -1,63 +1,171 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
-<Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage={AboutHeroImage}
->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-	</p>
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`關於我 - ${SITE_TITLE}`} description="Vista Cheng 的個人故事與經歷" />
+		<style>
+            /* About Page Specific Styles */
+            .about-hero {
+                padding: 6rem 1rem 4rem;
+                max-width: 1000px;
+                margin: 0 auto;
+                text-align: center;
+            }
+            .about-hero h1 {
+                font-size: 3rem;
+                font-weight: 800;
+                margin-bottom: 1rem;
+            }
+            .about-hero .lead {
+                font-size: 1.5rem;
+                color: var(--color-secondary);
+                max-width: 700px;
+                margin: 0 auto 3rem;
+            }
+            .about-hero img {
+                border-radius: 12px;
+                box-shadow: var(--box-shadow);
+                max-width: 100%;
+                height: auto;
+            }
 
-	<p>
-		Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non
-		tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non
-		blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna
-		porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis
-		massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-		Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis
-		bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra
-		massa massa ultricies mi.
-	</p>
+            .content-section {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 4rem 1rem;
+            }
+            .content-section p {
+                font-size: 1.2rem;
+                line-height: 1.8;
+                margin-bottom: 1.5rem;
+                color: var(--color-primary);
+            }
+            .content-section h2 {
+                font-size: 2rem;
+                margin-top: 3rem;
+                margin-bottom: 1.5rem;
+                color: var(--color-primary);
+                border-left: 5px solid var(--color-red);
+                padding-left: 1rem;
+            }
 
-	<p>
-		Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl
-		suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet
-		nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae
-		turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem
-		dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat
-		semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-		vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum
-		facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam
-		vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla
-		urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-	</p>
+            /* Timeline */
+            .timeline {
+                position: relative;
+                margin: 4rem 0;
+            }
+            .timeline::before {
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                width: 2px;
+                background: var(--gray-light);
+            }
+            .timeline-item {
+                margin-left: 2rem;
+                margin-bottom: 3rem;
+                position: relative;
+            }
+            .timeline-item::before {
+                content: '';
+                position: absolute;
+                left: -2.4rem;
+                top: 0.5rem;
+                width: 1rem;
+                height: 1rem;
+                background: var(--color-red);
+                border-radius: 50%;
+                border: 3px solid white;
+                box-shadow: 0 0 0 1px var(--gray-light);
+            }
+            .timeline-year {
+                font-weight: 700;
+                color: var(--color-red);
+                font-size: 1.1rem;
+                margin-bottom: 0.5rem;
+                display: block;
+            }
+            .timeline-title {
+                font-size: 1.4rem;
+                font-weight: 700;
+                margin-bottom: 0.5rem;
+            }
+            .timeline-desc {
+                color: var(--color-secondary);
+            }
 
-	<p>
-		Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper
-		viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc
-		scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur
-		gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus
-		pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-		blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id
-		cursus metus aliquam eleifend mi.
-	</p>
+            /* Media Logos Grid (Placeholder) */
+            .logo-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+                gap: 2rem;
+                opacity: 0.6;
+                filter: grayscale(100%);
+                margin-top: 2rem;
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <article class="about-hero">
+                <h1>關於 Vista Cheng</h1>
+                <p class="lead">資深技術作家、AI 應用教練，致力於推動內容產業的數位轉型。</p>
+                <img src="/profile.jpg" alt="Vista Cheng" width="800" height="500" />
+            </article>
 
-	<p>
-		Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta
-		nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam
-		tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci
-		ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar
-		proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
-	</p>
-</Layout>
+            <section class="content-section">
+                <h2>我的故事</h2>
+                <p>
+                    你好，我是 Vista Cheng。
+                    <br/><br/>
+                    過去二十年，我穿梭在技術與人文之間。從早期的軟體工程師，到後來的技術媒體主編，再到現在的 AI 應用教練。我的職涯看似跨度很大，但核心始終未變：<b>「用科技工具，解決人的問題。」</b>
+                </p>
+                <p>
+                    在這個 AI 爆炸的時代，許多人感到焦慮。但我看見的是機會——一個讓每個人都能成為「超級個體」的機會。我希望能透過我的寫作、課程與顧問服務，協助你掌握這些數位槓桿，放大你的專業價值。
+                </p>
+
+                <h2>重要歷程</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <span class="timeline-year">2023 - Present</span>
+                        <div class="timeline-title">AI 應用教練 & 內容顧問</div>
+                        <div class="timeline-desc">專注於生成式 AI 的企業導入與個人生產力培訓。</div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2018 - 2022</span>
+                        <div class="timeline-title">「Vista 寫作陪伴計畫」發起人</div>
+                        <div class="timeline-desc">協助超過 500 位學員建立寫作習慣，成功打造個人品牌。</div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2010 - 2017</span>
+                        <div class="timeline-title">資深技術主編 / 媒體人</div>
+                        <div class="timeline-desc">曾任職於國內知名科技媒體，負責 App 評測與趨勢分析專欄。</div>
+                    </div>
+                     <div class="timeline-item">
+                        <span class="timeline-year">200X - 2010</span>
+                        <div class="timeline-title">軟體工程師</div>
+                        <div class="timeline-desc">擁有紮實的技術背景，奠定了日後以科技思維解決問題的基礎。</div>
+                    </div>
+                </div>
+
+                 <h2>合作媒體與企業</h2>
+                 <p>曾接受多家媒體採訪或受邀至企業授課：</p>
+                 <!-- Placeholder for Logos -->
+                 <div style="padding: 2rem; background: var(--gray-light); text-align: center; border-radius: 8px;">
+                    (此處可放置過往合作單位的 Logo，例如：數位時代、天下雜誌、各大企業等)
+                 </div>
+
+            </section>
+		</main>
+		<Footer />
+	</body>
+</html>
