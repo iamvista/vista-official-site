@@ -28,7 +28,8 @@ import { SITE_TITLE } from '../../consts';
 				margin: 0 auto;
 			}
 			
-			.service-grid {
+			/* Force New Layout Engine */
+			.services-wrapper {
 				display: grid;
 				grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 				gap: 3rem;
@@ -37,20 +38,18 @@ import { SITE_TITLE } from '../../consts';
 				padding: 2rem 1rem 6rem 1rem;
 			}
 			
-			.service-card {
+			.service-box {
 				background: white;
 				border-radius: 12px;
 				padding: 3rem 2rem;
 				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 				border: 1px solid var(--gray-light);
-				transition: transform 0.2s, box-shadow 0.2s;
 				display: flex;
 				flex-direction: column;
 				height: 100%;
-                /* Adding explicit margins for mobile stack safety */
                 margin-bottom: 2rem;
 			}
-			.service-card:hover {
+			.service-box:hover {
 				transform: translateY(-5px);
 				box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
 				border-color: var(--color-red);
@@ -69,13 +68,13 @@ import { SITE_TITLE } from '../../consts';
 				font-size: 2rem;
 			}
 			
-			.service-card h2 {
+			.service-box h2 {
 				font-size: 1.75rem;
 				margin-bottom: 1rem;
 				color: var(--color-primary);
 			}
 			
-			.service-card p {
+			.service-box p {
 				color: var(--color-secondary);
 				line-height: 1.6;
 				margin-bottom: 2rem;
@@ -131,7 +130,7 @@ import { SITE_TITLE } from '../../consts';
 			.consult-btn {
 				display: inline-block;
 				margin-top: 1.5rem;
-				background: var(--color-red);
+				background: var(--color-red); /* Red Button */
 				color: white;
 				padding: 1rem 3rem;
 				border-radius: 9999px;
@@ -140,13 +139,13 @@ import { SITE_TITLE } from '../../consts';
                 transition: all 0.2s;
 			}
             .consult-btn:hover {
-                background: #b91c1c;
+                background: #b91c1c; /* Darker Red */
                 transform: translateY(-2px);
             }
 
             @media (max-width: 768px) {
                 .services-hero h1 { font-size: 2.5rem; }
-                .service-grid { grid-template-columns: 1fr; }
+                .services-wrapper { grid-template-columns: 1fr; }
             }
 		</style>
 	</head>
@@ -158,8 +157,8 @@ import { SITE_TITLE } from '../../consts';
 				<p>協助個人與企業，駕馭文字力量與 AI 科技，實現指數級成長。</p>
 			</section>
 			
-			<div class="service-grid">
-				<div class="service-card">
+			<div class="services-wrapper">
+				<div class="service-box">
 					<div class="icon-wrapper">✍️</div>
 					<h2>寫作教練</h2>
 					<p>適合想建立個人品牌、經營自媒體或出版書籍的專業人士。從 0 到 1 陪伴你產出優質內容。</p>
@@ -171,7 +170,7 @@ import { SITE_TITLE } from '../../consts';
 					<a href="/services/writing" class="card-btn">了解詳情 &rarr;</a>
 				</div>
 				
-				<div class="service-card">
+				<div class="service-box">
 					<div class="icon-wrapper">🤖</div>
 					<h2>AI 生產力賦能</h2>
 					<p>不只是學工具，而是建立系統。協助企業與個人導入 AI 工作流，提升 10 倍工作效率。</p>
@@ -183,7 +182,7 @@ import { SITE_TITLE } from '../../consts';
 					<a href="/services/ai-consulting" class="card-btn">了解詳情 &rarr;</a>
 				</div>
 				
-				<div class="service-card">
+				<div class="service-box">
 					<div class="icon-wrapper">🎤</div>
 					<h2>企業內訓與演講</h2>
 					<p>針對企業需求量身打造的培訓課程。涵蓋數位轉型、內容行銷與 AI 趨勢。</p>
@@ -195,7 +194,7 @@ import { SITE_TITLE } from '../../consts';
 					<a href="/services/speaking" class="card-btn">了解詳情 &rarr;</a>
 				</div>
 
-				<div class="service-card">
+				<div class="service-box">
 					<div class="icon-wrapper">💡</div>
 					<h2>內容策略顧問</h2>
 					<p>為您的品牌規劃長期的內容藍圖。用精準的內容策略，驅動有機流量與商業轉換。</p>
