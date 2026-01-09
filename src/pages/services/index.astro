@@ -28,26 +28,25 @@ import { SITE_TITLE } from '../../consts';
 				margin: 0 auto;
 			}
 			
-			/* Force New Layout Engine */
 			.services-wrapper {
 				display: grid;
 				grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-				gap: 3rem;
+				gap: 2rem;
 				max-width: 1200px;
 				margin: 0 auto;
-				padding: 2rem 1rem 6rem 1rem;
+				padding: 2rem 1rem 4rem 1rem;
 			}
 			
 			.service-box {
 				background: white;
 				border-radius: 12px;
-				padding: 3rem 2rem;
+				padding: 2rem;
 				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 				border: 1px solid var(--gray-light);
 				display: flex;
 				flex-direction: column;
 				height: 100%;
-                margin-bottom: 2rem;
+                margin-bottom: 1.5rem;
 			}
 			.service-box:hover {
 				transform: translateY(-5px);
@@ -56,29 +55,29 @@ import { SITE_TITLE } from '../../consts';
 			}
 			
 			.icon-wrapper {
-				width: 64px;
-				height: 64px;
+				width: 56px;
+				height: 56px;
 				background: var(--color-warm-bg);
-				border-radius: 16px;
+				border-radius: 12px;
 				display: flex;
 				align-items: center;
 				justify-content: center;
-				margin-bottom: 1.5rem;
+				margin-bottom: 1rem;
 				color: var(--color-red);
-				font-size: 2rem;
+				font-size: 1.75rem;
 			}
 			
 			.service-box h2 {
-				font-size: 1.75rem;
-				margin-bottom: 1rem;
+				font-size: 1.5rem;
+				margin-bottom: 0.75rem;
 				color: var(--color-primary);
 			}
 			
 			.service-box p {
 				color: var(--color-secondary);
 				line-height: 1.6;
-				margin-bottom: 2rem;
-				flex-grow: 1;
+				margin-bottom: 1.5rem;
+				/* Removed flex-grow to reduce gap */
 			}
 			
 			.service-features {
