@@ -11,25 +11,26 @@ import { SITE_TITLE } from '../../consts';
 		<BaseHead title={`AI 生產力賦能 - ${SITE_TITLE}`} description="協助企業與個人導入 AI 工作流，提升 10 倍生產力。" />
 		<style>
             .lp-hero {
-                background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
-                color: white;
+                background: var(--color-warm-bg);
+                color: var(--color-primary);
                 padding: 6rem 1rem;
                 text-align: center;
+                border-bottom: 1px solid #eee;
             }
-            .lp-hero h1 { color: #38bdf8; /* Sky-400 */ margin-bottom: 1.5rem; font-size: 3rem; }
-            .lp-hero p { color: #e2e8f0; font-size: 1.4rem; max-width: 800px; margin: 0 auto 2rem; }
+            .lp-hero h1 { color: var(--color-primary); margin-bottom: 1.5rem; font-size: 3rem; }
+            .lp-hero p { color: var(--color-secondary); font-size: 1.4rem; max-width: 800px; margin: 0 auto 2rem; }
             
             .cta-btn {
                 display: inline-block;
                 padding: 1rem 3rem;
-                background: #0ea5e9; /* Sky-500 */
+                background: var(--color-red);
                 color: white;
                 font-weight: bold;
-                border-radius: 6px;
+                border-radius: 50px;
                 text-decoration: none;
                 transition: all 0.2s;
             }
-            .cta-btn:hover { background: #0284c7; }
+            .cta-btn:hover { background: #b91c1c; box-shadow: 0 4px 12px rgba(185, 28, 28, 0.3); transform: translateY(-2px);}
 
             .section { padding: 5rem 1rem; max-width: 960px; margin: 0 auto; }
             
@@ -41,11 +42,14 @@ import { SITE_TITLE } from '../../consts';
             }
             .feature-card {
                 padding: 2rem;
-                border: 1px solid var(--gray-light);
+                border: 1px solid #eee;
+                border-top: 4px solid var(--color-red);
                 border-radius: 8px;
+                background: white;
                 transition: transform 0.2s;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
             }
-            .feature-card:hover { transform: translateY(-5px); border-color: #0ea5e9; }
+            .feature-card:hover { transform: translateY(-5px); }
             .feature-card h3 { color: var(--color-primary); margin-top: 0; }
 
             .workflow-step {
@@ -55,7 +59,7 @@ import { SITE_TITLE } from '../../consts';
                 align-items: flex-start;
             }
             .step-number {
-                background: #0ea5e9;
+                background: var(--color-red);
                 color: white;
                 width: 40px;
                 height: 40px;
