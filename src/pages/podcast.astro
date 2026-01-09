@@ -9,176 +9,262 @@ import { SITE_TITLE } from '../consts';
 <html lang="zh-Hant">
 	<head>
 		<BaseHead title={`Podcast: 開外掛的人 - ${SITE_TITLE}`} description="拒絕平庸的勞力堆疊。專為高企圖心工作者打造的實戰 Podcast。" />
+        <!-- Font Awesome for Brand Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 		<style>
-            .podcast-hero {
+            /* Premium Magazine Style */
+            :root {
+                --font-serif: "Noto Serif TC", "Songti TC", serif;
+                --color-gold: #c5a365;
+            }
+
+            .podcast-page {
+                background: #fdfbf7; /* Very warm paper-like bg */
+            }
+
+            .hero-section {
                 padding: 6rem 1rem 4rem;
-                text-align: center;
-                background: linear-gradient(135deg, #1f2937 0%, #111827 100%); /* Dark theme for Podcast to standout? Or Light? User said "Light + Red". Let's stick to Light + Red but maybe Dark Hero is okay? User said "Don't use strange colors". Let's use Warm BG. */
-                background: var(--color-warm-bg); 
-            }
-            .podcast-hero h1 { 
-                font-size: 3rem; 
-                margin-bottom: 1rem; 
-                color: var(--color-primary); 
-                font-weight: 900;
-                letter-spacing: -0.05em;
-            }
-            .podcast-hero p { 
-                font-size: 1.25rem; 
-                color: var(--color-secondary); 
-                max-width: 700px; 
-                margin: 0 auto 2rem; 
-                line-height: 1.8;
+                max-width: 1100px;
+                margin: 0 auto;
+                display: flex;
+                align-items: center;
+                gap: 4rem;
             }
             
-            .cover-art-container {
-                width: 250px;
-                height: 250px;
-                background: #ddd;
-                margin: 0 auto 2rem;
-                border-radius: 20px;
-                box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
-                overflow: hidden;
+            .hero-content {
+                flex: 1;
             }
-            .cover-path {
+
+            .hero-image {
+                flex: 0 0 350px;
+                position: relative;
+            }
+            .hero-image img, .hero-image .placeholder {
                 width: 100%;
-                height: 100%;
+                aspect-ratio: 1/1;
+                border-radius: 4px;
+                box-shadow: 20px 20px 0 var(--color-gold); /* Offset solid shadow */
                 object-fit: cover;
-                background-color: var(--color-primary); /* Placeholder color if image missing */
-                display: flex; 
-                align-items: center; 
+                background: #333;
+                display: flex;
+                align-items: center;
                 justify-content: center;
                 color: white;
-                font-size: 3rem;
-            }
-
-            .platform-buttons {
-                display: flex;
-                gap: 1rem;
-                justify-content: center;
-                flex-wrap: wrap;
-                margin-top: 2rem;
-            }
-            .platform-btn {
-                background: white;
-                color: var(--color-primary);
-                border: 2px solid var(--gray-light);
-                padding: 0.75rem 1.5rem;
-                border-radius: 12px;
-                font-weight: 600;
-                text-decoration: none;
-                display: flex;
-                align-items: center;
-                gap: 0.5rem;
-                transition: all 0.2s;
-            }
-            .platform-btn:hover {
-                border-color: var(--color-red);
-                transform: translateY(-2px);
-                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                font-size: 5rem;
             }
             
-            .segments-section {
-                padding: 5rem 1rem;
-                max-width: 1000px;
-                margin: 0 auto;
+            h1.main-title { 
+                font-family: var(--font-serif);
+                font-size: 4rem; 
+                line-height: 1.1;
+                margin-bottom: 1.5rem; 
+                color: #1a1a1a;
+                font-weight: 900;
+                letter-spacing: -0.03em;
             }
-            .segments-grid {
-                display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-                gap: 3rem;
-            }
-            .segment-card {
-                padding: 2rem;
-                background: white;
-                border-left: 4px solid var(--color-red);
-                border-radius: 0 12px 12px 0;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.02);
-            }
-            .segment-card h3 {
-                color: var(--color-primary);
+            
+            .tagline {
+                font-family: var(--font-serif);
                 font-size: 1.5rem;
-                margin-top: 0;
+                color: var(--color-gold);
+                margin-bottom: 2rem;
+                font-style: italic;
+                position: relative;
+                padding-left: 1rem;
+                border-left: 3px solid var(--color-red);
             }
 
-            .latest-episode-embed {
-                max-width: 800px;
-                margin: 4rem auto;
-                background: #f3f4f6;
-                height: 200px;
-                border-radius: 12px;
+            .description {
+                font-size: 1.1rem;
+                color: #555;
+                line-height: 1.8;
+                margin-bottom: 3rem;
+            }
+
+            /* Brand Buttons */
+            .listen-on {
+                display: flex;
+                gap: 1rem;
+                flex-wrap: wrap;
+            }
+            .btn-platform {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.75rem;
+                padding: 0.8rem 1.5rem;
+                border-radius: 50px;
+                text-decoration: none;
+                font-weight: 600;
+                font-size: 0.95rem;
+                transition: transform 0.2s, box-shadow 0.2s;
+                color: white;
+            }
+            .btn-apple { background: #000; }
+            .btn-spotify { background: #1DB954; }
+            .btn-soundon { background: #FACC15; color: #000; }
+            
+            .btn-platform:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+            }
+
+            /* Segments - Elegant Grid */
+            .segments-container {
+                max-width: 1100px;
+                margin: 6rem auto;
+                padding: 0 1rem;
+            }
+            .segments-title {
+                text-align: center;
+                font-family: var(--font-serif);
+                font-size: 2.5rem;
+                margin-bottom: 4rem;
+                position: relative;
+                display: inline-block;
+                width: 100%;
+            }
+            .segments-title::after {
+                content: '';
+                display: block;
+                width: 60px;
+                height: 3px;
+                background: var(--color-red);
+                margin: 1rem auto 0;
+            }
+
+            .segment-row {
+                display: flex;
+                gap: 4rem;
+                margin-bottom: 4rem;
+                align-items: flex-start;
+            }
+            .segment-icon {
+                font-size: 3rem;
+                color: var(--color-red);
+                background: white;
+                width: 80px;
+                height: 80px;
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                color: var(--gray);
+                border-radius: 50%;
+                box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+                flex-shrink: 0;
+            }
+            .segment-content h3 {
+                font-family: var(--font-serif);
+                font-size: 2rem;
+                margin-bottom: 1rem;
+                color: #1a1a1a;
+            }
+            .segment-content p {
+                font-size: 1.1rem;
+                color: #666;
+                line-height: 1.8;
+            }
+
+            /* Embed Area */
+            .player-area {
+                background: #111;
+                color: white;
+                padding: 5rem 1rem;
+                text-align: center;
+            }
+            .player-placeholder {
+                max-width: 800px;
+                height: 200px;
+                background: #222;
+                margin: 2rem auto 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border: 1px dashed #444;
+                border-radius: 8px;
+                color: #888;
+            }
+
+            @media (max-width: 768px) {
+                .hero-section { flex-direction: column-reverse; /* Image top on mobile? or bottom? Top usually. */ flex-direction: column; gap: 2rem;}
+                .hero-image { flex: auto; width: 100%; max-width: 300px; margin: 0 auto;}
+                h1.main-title { font-size: 2.5rem; }
+                .segment-row { flex-direction: column; gap: 1rem; text-align: center;}
+                .segment-icon { margin: 0 auto; }
             }
 		</style>
 	</head>
-	<body>
+	<body class="podcast-page">
 		<Header />
 		<main>
-            <section class="podcast-hero">
-                <div class="cover-art-container">
-                    <!-- Placeholder Cover until we have actual image -->
-                    <div class="cover-path">🎙️</div> 
+            <!-- Hero -->
+            <section class="hero-section">
+                <div class="hero-content">
+                    <div class="tagline">The Cheat Code User</div>
+                    <h1 class="main-title">開外掛的人</h1>
+                    <p class="description">
+                        拒絕平庸的勞力堆疊。這是一個專為高企圖心工作者打造的實戰節目。<br>
+                        我們不聊理論，只拆解高手的 SOP 與底層邏輯，讓你在職場與人生中，擁有不公平的優勢。
+                    </p>
+                    <div class="listen-on">
+                        <a href="#" class="btn-platform btn-apple"><i class="fa-brands fa-apple"></i> Apple Podcasts</a>
+                        <a href="#" class="btn-platform btn-spotify"><i class="fa-brands fa-spotify"></i> Spotify</a>
+                        <a href="#" class="btn-platform btn-soundon"><i class="fa-solid fa-play"></i> SoundOn</a>
+                    </div>
                 </div>
-                <h1>開外掛的人</h1>
-                <p>
-                    <b>拒絕平庸的勞力堆疊。</b><br/>
-                    這是一個專為高企圖心工作者打造的實戰節目。<br/>
-                    我們不聊理論，只拆解高手的 SOP，讓你擁有不公平的職場優勢。
-                </p>
+                <div class="hero-image">
+                    <div class="placeholder">🎙️</div>
+                </div>
+            </section>
+
+            <!-- Segments -->
+            <section class="segments-container">
+                <div class="segments-title">節目單元</div>
                 
-                <div class="platform-buttons">
-                    <a href="https://podcasts.apple.com/tw/podcast/%E9%96%8B%E5%A4%96%E6%8E%9B%E7%9A%84%E4%BA%BA/id123456789" target="_blank" class="platform-btn">
-                        <span></span> Apple Podcasts
-                    </a>
-                    <a href="https://open.spotify.com/show/123456789" target="_blank" class="platform-btn">
-                         Spotify
-                    </a>
-                    <a href="https://player.soundon.fm/" target="_blank" class="platform-btn">
-                        SoundOn
-                    </a>
-                </div>
-            </section>
-
-            <section class="segments-section">
-                <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2rem;">節目單元</h2>
-                <div class="segments-grid">
-                    <div class="segment-card">
-                        <h3>⚡️ 一招開掛 (One Trick)</h3>
-                        <p>不講廢話。每集針對一個具體場景（如提案、會議），提供 3 個步驟的外掛 SOP。聽完這集，你就能直接產出結果，準時下班。</p>
+                <div class="segment-row">
+                    <div class="segment-icon"><i class="fa-solid fa-bolt"></i></div>
+                    <div class="segment-content">
+                        <h3>一招開掛 (One Trick)</h3>
+                        <p>不講廢話、不談空泛理論。每集針對一個具體職場場景（如提案、會議、談判），直接提供 3 個可執行的外掛 SOP。聽完這集，你就能直接應用，拿回主控權。</p>
                     </div>
-                    <div class="segment-card">
-                        <h3>🧠 對話嘉賓 (The Hacker)</h3>
-                        <p>師法具有實戰經驗的強者。挖掘他們如何利用工具與底層邏輯，駭進產業核心。聽聽他們是怎麼取得那份不公平優勢？</p>
+                </div>
+
+                <div class="segment-row">
+                    <div class="segment-icon"><i class="fa-solid fa-user-secret"></i></div>
+                    <div class="segment-content">
+                        <h3>對話嘉賓 (The Hacker)</h3>
+                        <p>邀請各領域具有實戰經驗的強者。挖掘他們如何利用工具、思維模型與底層邏輯，駭進產業核心。聽聽他們是如何取得那份「不公平優勢」。</p>
                     </div>
                 </div>
             </section>
-            
-            <!-- Latest Episode (Placeholder for Embed) -->
-            <div style="text-align: center; padding: 0 1rem 4rem;">
-                <h3 style="margin-bottom: 1rem;">最新單集</h3>
-                <div class="latest-episode-embed">
-                    [ Podcast Player Embed Goes Here ]
-                </div>
-                <p style="color: var(--gray);">* 嵌入播放器需要 SoundOn / Firstory 的 Embed Code</p>
-            </div>
 
-            <!-- Newsletter Re-use -->
-            <section style="background: var(--color-primary); color: white; padding: 4rem 1rem; text-align: center;">
-                 <h2 style="color:white; font-size: 1.8rem; margin-bottom: 1rem;">不用做筆記，我寄給你</h2>
-                 <p style="color: var(--gray-light); margin-bottom: 2rem;">我們把最關鍵的 Cheat Sheet 整理成一頁精華，每週寄送到你的信箱。</p>
+            <!-- Player -->
+            <section class="player-area">
+                <h2 style="font-family: var(--font-serif); font-size: 2rem;">最新單集搶先聽</h2>
+                <div class="player-placeholder">
+                    [ 預留嵌入播放器區塊：請提供 SoundOn / Firstory Embed Code ]
+                </div>
+            </section>
+
+            <!-- Call to Action -->
+            <section style="background: var(--color-red); color: white; padding: 6rem 1rem; text-align: center;">
+                 <h2 style="font-family: var(--font-serif); font-size: 2.5rem; margin-bottom: 1.5rem;">不用做筆記，我寄給你</h2>
+                 <p style="font-size: 1.2rem; opacity: 0.9; margin-bottom: 3rem; max-width: 600px; margin-left: auto; margin-right: auto;">
+                    每週一封電子報，為你整理最關鍵的 Cheat Sheet。<br>
+                    直接複製高手的思考路徑，存入你的大腦。
+                 </p>
                  <a href="https://iamvista.substack.com/" target="_blank" style="
                         display: inline-block;
-                        background: var(--color-red);
-                        color: white;
+                        background: white;
+                        color: var(--color-red);
                         text-decoration: none;
-                        padding: 1rem 3rem;
-                        border-radius: 9999px;
-                        font-weight: bold;
+                        padding: 1.2rem 3.5rem;
+                        border-radius: 4px;
+                        font-weight: 700;
+                        letter-spacing: 1px;
+                        text-transform: uppercase;
+                        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+                        transition: transform 0.2s;
                     ">
-                        免費訂閱電子報 &rarr;
+                        免費訂閱 Substack
                 </a>
             </section>
 		</main>
