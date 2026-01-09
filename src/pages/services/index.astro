@@ -54,23 +54,34 @@ import { SITE_TITLE } from '../../consts';
 				border-color: var(--color-red);
 			}
 			
+            /* New Flex Header for Icon + Title */
+            .card-header {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+                margin-bottom: 1rem;
+            }
+
 			.icon-wrapper {
-				width: 56px;
-				height: 56px;
-				background: var(--color-warm-bg);
-				border-radius: 12px;
+                /* Removed Background */
+				background: transparent;
+				width: auto;
+				height: auto;
 				display: flex;
 				align-items: center;
 				justify-content: center;
-				margin-bottom: 1rem;
+                /* margin-bottom handled by card-header gap */
 				color: var(--color-red);
-				font-size: 1.75rem;
+				font-size: 2.5rem; /* Slightly larger icon */
+                padding: 0;
+                line-height: 1;
 			}
 			
 			.service-box h2 {
 				font-size: 1.5rem;
-				margin-bottom: 0.75rem;
+				margin-bottom: 0; /* Handled by wrapper gap */
 				color: var(--color-primary);
+                line-height: 1.2;
 			}
 			
 			.service-box p {
@@ -158,8 +169,10 @@ import { SITE_TITLE } from '../../consts';
 			
 			<div class="services-wrapper">
 				<div class="service-box">
-					<div class="icon-wrapper">✍️</div>
-					<h2>寫作教練</h2>
+                    <div class="card-header">
+					    <div class="icon-wrapper">✍️</div>
+					    <h2>寫作教練</h2>
+                    </div>
 					<p>適合想建立個人品牌、經營自媒體或出版書籍的專業人士。從 0 到 1 陪伴你產出優質內容。</p>
 					<ul class="service-features">
 						<li>一對一寫作諮詢</li>
@@ -170,8 +183,10 @@ import { SITE_TITLE } from '../../consts';
 				</div>
 				
 				<div class="service-box">
-					<div class="icon-wrapper">🤖</div>
-					<h2>AI 生產力賦能</h2>
+                    <div class="card-header">
+					    <div class="icon-wrapper">🤖</div>
+					    <h2>AI 生產力賦能</h2>
+                    </div>
 					<p>不只是學工具，而是建立系統。協助企業與個人導入 AI 工作流，提升 10 倍工作效率。</p>
 					<ul class="service-features">
 						<li>AI 工作流診斷</li>
@@ -182,8 +197,10 @@ import { SITE_TITLE } from '../../consts';
 				</div>
 				
 				<div class="service-box">
-					<div class="icon-wrapper">🎤</div>
-					<h2>企業內訓與演講</h2>
+                    <div class="card-header">
+					    <div class="icon-wrapper">🎤</div>
+					    <h2>企業內訓與演講</h2>
+                    </div>
 					<p>針對企業需求量身打造的培訓課程。涵蓋數位轉型、內容行銷與 AI 趨勢。</p>
 					<ul class="service-features">
 						<li>客製化企業內訓</li>
@@ -194,8 +211,10 @@ import { SITE_TITLE } from '../../consts';
 				</div>
 
 				<div class="service-box" style="margin-top: 6rem;">
-					<div class="icon-wrapper">💡</div>
-					<h2>內容策略顧問</h2>
+                    <div class="card-header">
+					    <div class="icon-wrapper">💡</div>
+					    <h2>內容策略顧問</h2>
+                    </div>
 					<p>為您的品牌規劃長期的內容藍圖。用精準的內容策略，驅動有機流量與商業轉換。</p>
 					<ul class="service-features">
 						<li>品牌內容健檢</li>
