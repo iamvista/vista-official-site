@@ -19,22 +19,30 @@ const posts = (await getCollection('blog')).sort(
 		<style>
             /* Local Styles for Homepage */
             .hero-section {
-                padding: 4rem 1rem;
+                padding: 6rem 1rem;
                 text-align: center;
-                background: linear-gradient(180deg, var(--color-warm-bg) 0%, #fff 100%);
+                background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('/hero-banner.png');
+                background-size: cover;
+                background-position: center;
+                border-radius: 20px;
+                margin-bottom: 3rem;
+                box-shadow: var(--box-shadow);
+            }
+            .hero-content {
+                max-width: 800px;
+                margin: 0 auto;
             }
             .hero-content h1 {
-                font-size: 3rem;
+                font-size: 3.5rem;
                 font-weight: 800;
                 letter-spacing: -0.05em;
-                margin-bottom: 1rem;
+                margin-bottom: 1.5rem;
                 color: var(--color-primary);
             }
             .hero-content p {
-                font-size: 1.25rem;
+                font-size: 1.4rem;
                 color: var(--color-secondary);
-                max-width: 600px;
-                margin: 0 auto 2rem;
+                margin: 0 auto 2.5rem;
                 line-height: 1.6;
             }
             .cta-button {
