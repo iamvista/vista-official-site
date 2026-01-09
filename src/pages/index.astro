@@ -20,7 +20,6 @@ const posts = (await getCollection('blog')).sort(
             /* Local Styles for Homepage */
             .hero-section {
                 padding: 4rem 1rem;
-                /* Clean background, no image */
                 background: linear-gradient(180deg, var(--color-warm-bg) 0%, #fff 100%);
                 display: flex;
                 flex-direction: column;
@@ -32,111 +31,141 @@ const posts = (await getCollection('blog')).sort(
                     flex-direction: row;
                     text-align: left;
                     justify-content: center;
-                    gap: 4rem;
-                    padding: 6rem 1rem;
+                    gap: 6rem;
+                    padding: 8rem 1rem;
                 }
                 .hero-content {
                     text-align: left;
                     max-width: 500px;
                 }
                 .hero-image {
-                    max-width: 400px;
+                    max-width: 380px;
                 }
             }
 
             .hero-image img {
                 width: 100%;
-                border-radius: 20px;
-                box-shadow: var(--box-shadow);
-                border: 4px solid white;
+                border-radius: 12px;
+                box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
             }
 
             .hero-content h1 {
-                font-size: 3rem;
+                font-size: 3.5rem;
                 font-weight: 800;
                 letter-spacing: -0.05em;
-                margin-bottom: 1rem;
+                margin-bottom: 0.5rem;
                 color: var(--color-primary);
+                line-height: 1.1;
             }
-            .hero-content .highlight {
-                color: var(--color-red); /* Red Accent */
+            .hero-subtitle {
+                font-size: 1.5rem;
+                color: var(--color-secondary);
+                font-weight: 500;
+                margin-bottom: 1.5rem;
+                display: flex;
+                flex-wrap: wrap;
+                gap: 1rem;
+                align-items: center;
             }
+            .hero-subtitle span.divider {
+                color: var(--color-gold);
+            }
+
             .hero-content p {
                 font-size: 1.25rem;
-                color: var(--color-secondary);
-                margin-bottom: 2rem;
+                color: var(--gray-dark);
+                margin-bottom: 2.5rem;
                 line-height: 1.6;
             }
             .cta-button {
                 display: inline-block;
-                padding: 0.75rem 2rem;
-                background-color: var(--color-red); /* Red Button */
+                padding: 1rem 2.5rem;
+                background-color: var(--color-red);
                 color: white;
                 text-decoration: none;
                 border-radius: 9999px;
                 font-weight: 600;
-                transition: transform 0.2s, background-color 0.2s;
+                font-size: 1.1rem;
+                transition: all 0.2s;
                 border: none;
-                box-shadow: 0 4px 6px rgba(220, 38, 38, 0.25);
+                box-shadow: 0 4px 6px rgba(220, 38, 38, 0.2);
             }
             .cta-button:hover {
                 transform: translateY(-2px);
-                background-color: #b91c1c; /* Darker red */
+                background-color: #b91c1c;
+                box-shadow: 0 10px 15px rgba(220, 38, 38, 0.3);
             }
 
             .section-title {
                 text-align: center;
-                font-size: 2rem;
+                font-size: 2.25rem;
                 margin-bottom: 3rem;
-                position: relative;
-            }
-            .section-title::after {
-                content: '';
-                display: block;
-                width: 60px;
-                height: 4px;
-                background: var(--color-red); /* Red Line */
-                margin: 0.5rem auto 0;
+                color: var(--color-primary);
+                font-weight: 700;
             }
 
             .grid-section {
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
                 gap: 2rem;
                 padding: 2rem 0;
-                max-width: 960px;
+                max-width: 1100px;
                 margin: 0 auto;
             }
             .card {
-                padding: 2rem;
+                padding: 2.5rem;
                 background: var(--color-paper);
-                border-radius: 12px;
-                box-shadow: var(--box-shadow);
+                border-radius: 4px; /* More minimal */
+                box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+                transition: transform 0.2s, box-shadow 0.2s;
                 border: 1px solid var(--gray-light);
-                transition: transform 0.2s;
-                border-top: 4px solid var(--accent); /* Blue Top Border */
             }
             .card:hover {
-                transform: translateY(-4px);
+                transform: translateY(-2px);
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
             }
             .card h3 {
                 margin-top: 0;
                 font-size: 1.5rem;
                 color: var(--color-primary);
+                margin-bottom: 1rem;
+            }
+            .card p {
+                color: var(--color-secondary);
+                line-height: 1.6;
             }
 
-            .latest-posts ul {
-                list-style: none;
-                padding: 0;
-                display: grid;
-                gap: 2rem;
+            /* Podcast Section */
+            .podcast-section {
+                background-color: var(--color-primary);
+                color: white;
+                padding: 6rem 1rem;
+                text-align: center;
+                border-radius: 0; /* Full width vibe */
+                margin: 4rem 0;
+            }
+            .podcast-section h2 { color: white; margin-bottom: 1rem; }
+            .podcast-section p { color: var(--gray-light); max-width: 600px; margin: 0 auto 2rem; }
+            .podcast-btn {
+                border: 2px solid white;
+                color: white;
+                padding: 0.75rem 2rem;
+                border-radius: 9999px;
+                text-decoration: none;
+                font-weight: 600;
+                transition: all 0.2s;
+            }
+            .podcast-btn:hover {
+                background: white;
+                color: var(--color-primary);
             }
             
             /* Responsive Font Sizes */
             @media (max-width: 768px) {
                 .hero-content h1 { font-size: 2.5rem; }
-                .hero-section { text-align: center; } /* Revert to center on mobile */
+                .hero-section { text-align: center; }
                 .hero-content { text-align: center; }
+                .hero-subtitle { justify-content: center; font-size: 1.25rem; }
             }
 		</style>
 	</head>
@@ -147,13 +176,16 @@ const posts = (await getCollection('blog')).sort(
             <section class="hero-section">
                 <!-- Text Left (Desktop) -->
                 <div class="hero-content">
-                    <h1>Vista Cheng <br/><span class="highlight">開外掛的人</span></h1>
+                    <h1>Vista Cheng</h1>
+                    <div class="hero-subtitle">
+                        資深技術作家 <span class="divider">•</span> AI 應用教練
+                    </div>
                     <p>
-                        資深技術作家、AI 應用教練。
-                        <br />
-                        協助你用科技與寫作，放大個人影響力。
+                        我相信，寫作與科技是現代人最強大的槓桿。
+                        <br/>
+                        協助你打造個人品牌，建立系統化的知識工作流。
                     </p>
-                    <a href="/about" class="cta-button">認識 Vista</a>
+                    <a href="/about" class="cta-button">關於 Vista &rarr;</a>
                 </div>
                 <!-- Image Right (Desktop) -->
                 <div class="hero-image">
@@ -161,39 +193,46 @@ const posts = (await getCollection('blog')).sort(
                 </div>
             </section>
 
-            <!-- Services / Features -->
-            <section style="padding: 4rem 1rem; background: #fff;">
-                <h2 class="section-title">專業服務</h2>
+            <!-- Services -->
+            <section style="padding: 4rem 1rem;">
+                <h2 class="section-title">核心服務</h2>
                 <div class="grid-section">
                     <div class="card">
-                        <h3>寫作教練</h3>
-                        <p>從文字力到影響力，打造個人品牌的基石。</p>
+                        <h3>✍️ 寫作陪伴</h3>
+                        <p>拆解寫作焦慮，建立穩定產出的原子習慣。從部落格到出書，陪你走過創作長路。</p>
                     </div>
                     <div class="card">
-                        <h3>AI 應用導入</h3>
-                        <p>為企業與個人量身打造 AI 工作流，提升 10 倍生產力。</p>
+                        <h3>🤖 AI 工作流</h3>
+                        <p>不只是下指令，而是打造專屬於你的 AI 協作系統。提升 10 倍效率，專注在更有價值的事。</p>
                     </div>
                     <div class="card">
-                        <h3>企業內訓</h3>
-                        <p>提供專業的培訓課程，協助組織數位轉型。</p>
+                        <h3>💼 企業內訓</h3>
+                        <p>為企業團隊導入內容行銷與數位工具思維，提升組織整體的溝通與生產力。</p>
                     </div>
                 </div>
             </section>
 
+            <!-- Podcast Feature -->
+            <div class="podcast-section">
+                <h2>Podcast: 開外掛的人</h2>
+                <p>探索 AI 工具、生產力方法與創作者心法。每週更新，為你的生活與工作「開外掛」。</p>
+                <a href="https://podcasts.apple.com/" class="podcast-btn" target="_blank">收聽最新單元</a>
+            </div>
+
             <!-- Latest Articles -->
             <section style="padding: 4rem 1rem;">
-                <h2 class="section-title" style="margin-bottom: 2rem;">最新文章</h2>
+                <h2 class="section-title">最新觀點</h2>
                 <div style="max-width: 800px; margin: 0 auto;">
-                    <ul class="latest-posts">
+                    <ul style="list-style: none; padding: 0; display: grid; gap: 2rem;">
                         {
                             posts.map((post) => (
-                                <li style="margin-bottom: 1.5rem;">
+                                <li style="margin-bottom: 0;">
                                     <a href={`/blog/${post.id}/`} style="text-decoration: none; display: block;">
-                                        <div class="card" style="display: flex; flex-direction: column; gap: 0.5rem; padding: 1.5rem; border-top: none; border-left: 4px solid var(--color-secondary);">
-                                            <h4 style="margin:0; font-size: 1.25rem; color: var(--color-primary);">{post.data.title}</h4>
+                                        <div class="card" style="padding: 2rem; border-left: 4px solid var(--color-red);">
+                                            <h4 style="margin:0 0 0.5rem 0; font-size: 1.4rem; color: var(--color-primary);">{post.data.title}</h4>
                                             <div style="display: flex; justify-content: space-between; font-size: 0.9rem; color: var(--gray);">
                                                 <FormattedDate date={post.data.pubDate} />
-                                                <span style="color: var(--color-red);">閱讀更多 &rarr;</span>
+                                                <span style="color: var(--color-red); font-weight: 500;">閱讀全文 &rarr;</span>
                                             </div>
                                         </div>
                                     </a>
@@ -201,8 +240,8 @@ const posts = (await getCollection('blog')).sort(
                             ))
                         }
                     </ul>
-                    <div style="text-align: center; margin-top: 2rem;">
-                        <a href="/blog" class="cta-button" style="background: transparent; color: var(--color-primary); border: 2px solid var(--color-primary);">閱讀所有文章</a>
+                    <div style="text-align: center; margin-top: 3rem;">
+                        <a href="/blog" style="font-weight: 600; text-decoration: none; color: var(--color-gray-dark); border-bottom: 2px solid var(--color-red);">閱讀更多文章</a>
                     </div>
                 </div>
             </section>
