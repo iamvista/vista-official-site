@@ -1,9 +1,6 @@
 /*
   The CSS in this file will be available globally to the application.
 */
-/*
-  The CSS in this file will be available globally to the application.
-*/
 :root {
 	/* Professional + Warm Theme */
 	--accent: 59, 130, 246;
@@ -17,10 +14,12 @@
 	--color-secondary: #475569;
 	/* Slate-600 */
 	--color-warm-bg: #fdfbf7;
-	/* Warm Off-white / Cream */
+	/* Warm Off-white */
 	--color-paper: #ffffff;
 	--color-gold: #b45309;
-	/* Amber-700: Warm accent */
+	/* Amber-700 */
+	--color-red: #dc2626;
+	/* Red-600 */
 
 	--black: 15, 23, 42;
 	--gray: 100, 116, 139;
@@ -69,7 +68,6 @@ h5,
 h6 {
 	margin: 0 0 0.5rem 0;
 	color: var(--color-primary);
-	/* Updated to Theme Color */
 	line-height: 1.2;
 }
 
@@ -106,19 +104,6 @@ a:hover {
 	color: var(--accent);
 }
 
-textarea {
-	width: 100%;
-	font-size: 16px;
-}
-
-input {
-	font-size: 16px;
-}
-
-table {
-	width: 100%;
-}
-
 img {
 	max-width: 100%;
 	height: auto;
@@ -134,10 +119,6 @@ code {
 pre {
 	padding: 1.5em;
 	border-radius: 8px;
-}
-
-pre>code {
-	all: unset;
 }
 
 blockquote {
