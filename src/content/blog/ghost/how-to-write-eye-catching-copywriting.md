@@ -1,0 +1,22 @@
+---
+title: "如何寫出吸睛的商品文案？"
+description: "看完這份厲害的商品文案，也讓我統整一下自己對於文案撰寫的一些想法。我建議大家在開始撰寫商品文案之前，最好能先思考一下目標受眾的需求以及貴公司可以協助解決哪些問題？"
+pubDate: "2022-04-07T21:21:22.000Z"
+updatedDate: "2025-01-25T09:28:09.000Z"
+heroImage: "https://images.unsplash.com/photo-1486649567693-aaa9b2e59385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGV5ZSUyMGNhdGhjaW5nJTIwfGVufDB8fHx8MTczNzc5NzEzNHww&ixlib=rb-4.0.3&q=80&w=2000"
+tags: ["寫作"]
+---
+
+身為一位職業講師與寫作顧問，我常在「Vista寫作陪伴計畫」的LINE群組裡，跟學員們分享與寫作、行銷相關的資訊。
+
+  
+先前，我看到一份厲害的[商品文案](https://www.contenthacker.today/2018/08/vista-copywriting-book.html)，就忍不住跟第九期的夥伴們分享。這份商品文案主要是在宣傳一個線上訓練營，**作者一開始就拋出一個問題，而且是與讀者（潛在客戶）息息相關的議題，所以很容易吸引大家的目光。**
+
+  
+接下來，開始提到了線上訓練營的師資，也不忘宣傳講師的豐功偉業，吸引大眾的好奇心。等到大家都屏息以待之際，這份文案開始談參加這個訓練營的實際利益，再次打中潛在客戶的心。
+
+  
+最後，**作者當然沒有忘記[行動呼籲](https://www.contenthacker.today/2019/01/how-to-create-the-perfect-call-to-action.html)，提醒大家限量是殘酷的，心動就要馬上行動（報名）！**
+
+  
+看完這份厲害的商品文案，也讓我統整一下自己對於文案撰寫的一些想法。我建議大家在開始撰寫商品文案之前，最好能先思考一下目標受眾的需求以及貴公司可以協助解決哪些問題？

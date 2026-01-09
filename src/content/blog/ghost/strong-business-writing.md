@@ -1,0 +1,51 @@
+---
+title: "我看《刪到只剩二十字》：與其妙筆生花，不如淺顯易懂"
+description: "作者提醒我們，善用邏輯思考說故事，將重要的訊息精簡到二十字以內，才是促成目標對象採取行動的關鍵。"
+pubDate: "2025-01-25T13:59:53.000Z"
+updatedDate: "2025-01-25T14:00:42.000Z"
+heroImage: "https://images.unsplash.com/photo-1520763185298-1b434c919102?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxmbG93ZXJ8ZW58MHx8fHwxNzM3ODEzMzcxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+tags: ["寫作"]
+---
+
+身為一名時常在企業、公部門與大學院校講授寫作技巧的講師，我平時不但會寫很多與寫作、行銷相關的文章和書籍，對於出版市場的動態也必須瞭若指掌。特別是與寫作、行銷等主題相關的書籍，更可說是在我的守備範圍之內。
+
+所以，當我在書店看到《[刪到只剩二十字：用一個強而有力的訊息打動對方，寫文案和說話都用得到的高概念溝通術](https://www.books.com.tw/exep/assp.php/vista/products/0010885087?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202103)》這本新書問世時，首先就被這個犀利的書名所吸引。
+
+一如作者提到的，平時無論寫文案、做簡報乃至於上臺說話，我們時常需要對外溝通傳達。但為什麼寫了一大堆，卻總是無法打動目標受眾呢？
+
+作者告訴我們，這些都是有跡可循的。所以，透過她的[這本書](https://www.books.com.tw/exep/assp.php/vista/products/0010885087?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202103)，可以告訴我們如何善用邏輯思考抓出重點。只需要使用二十個字傳達最重要的訊息，就能夠達到「七秒吸睛、三十秒擄獲人心」的目標，讓目標受眾立刻下單、採取行動！
+
+聽起來是不是很神奇呢？我也有類似的感覺。但我看過作者的經歷之後，我就知道這是一本可以參考的好書。
+
+但有趣的是，我一開始其實是被作者的名字所吸引。嗯，利普舒茲信元夏代？這是什麼跟什麼呀？怎麼會有一個人的名字裡頭，既有日文元素，卻又讀起來像英文呢？我猜想，也許這跟她移民到美國有關吧？
+
+好，讓我們言歸正傳。
+
+據說[本書](https://www.books.com.tw/exep/assp.php/vista/products/0010885087?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202103)作者利普舒茲信元夏代是日本最當紅的文案顧問，也是演講教練。她指出，文案、簡報或演講，一字一句都是和他人交流的開端，具有改變人生的力量，必須勇敢刪字才能擁有這股力量。
+
+作者提醒我們，善用邏輯思考說故事，將重要的訊息精簡到二十字以內，才是促成目標對象採取行動的關鍵。
+
+而善用邏輯思考說故事的三個步驟，包括：
+
+**步驟一：從目標對象的角度整理資訊**  
+目標對象是誰？為什麼是由你來說明？你希望目標對象看過或聽過之後，採取什麼行動？
+
+**步驟二：確認傳遞什麼訊息給目標對象**  
+為何你能如此主張？所以結論是什麼？
+
+**步驟三：該如何抓住目標對象的心**  
+善用說故事的力量，在七秒內吸睛、三十秒內擄獲人心。
+
+整體來說，我滿喜歡《[刪到只剩二十字：用一個強而有力的訊息打動對方，寫文案和說話都用得到的高概念溝通術](https://www.books.com.tw/exep/assp.php/vista/products/0010885087?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202103)》這本書的。因為作者沒有刻意賣弄太多複雜的理論，卻能夠將許多演講、簡報領域的常用技巧，應用、移轉到寫作教學的範疇上。同時，經過一番有系統的梳理之後，讓人更容易吸收。
+
+整本書讀起來非常舒服，也不難讓人理解：溝通傳達的道理其實是相通的，誠然可以旁徵博引，快速發揮效用。
+
+此外，[本書](https://www.books.com.tw/exep/assp.php/vista/products/0010885087?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202103)還提供了故事編排、彩排、正式上場三階段檢查表，可以讓讀者朋友們能夠輕鬆地學會善用邏輯思考來說個好故事。
+
+最後，我也想說說自己看完這本書的感受。根據近年來在企業與校園的教學經驗，我發現很多人在寫文章時缺乏中心思想，往往是想到哪裡就寫到哪裡。加上結構不夠嚴謹，所以原本一個簡單的概念，卻要花很多篇幅解釋，甚至還得用上很多看似酷炫的專有名詞⋯⋯
+
+如此一來，也會容易讓讀者抓不到重點，甚至失去耐心。所以，我也同意[本書](https://www.books.com.tw/exep/assp.php/vista/products/0010885087?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202104)作者的建議，可以盡量用簡短且淺顯易懂的話語來溝通表達！
+
+寫作，是一門行動的藝術。
+
+所以，我真的很鼓勵大家多動手練習寫作，如果您在刪減與濃縮內容的過程中遇到任何問題，也歡迎和我聯繫、討論唷！

@@ -1,0 +1,30 @@
+---
+title: "你會組織靈感嗎？Vista教你打造靈感資料庫"
+description: "顧名思義，靈感資料庫就是找到一種自己喜歡的工具或方法來儲存、管理各種靈感。如果你喜歡傳統紙筆的紀錄方式，可以準備一本筆記本和便利貼，若你習慣使用電腦或智慧型手機等行動裝置，當然可以選擇像是Roam Research、Evernote、OneNote、Quip、Notion或是Heptabase等各式各樣的數位工具。"
+pubDate: "2022-06-10T21:15:37.000Z"
+updatedDate: "2025-01-25T15:22:10.000Z"
+heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxpZGVhJTIwYnVyc3J8ZW58MHx8fHwxNzM3ODE4NDQ5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+tags: ["內容策略","寫作"]
+---
+
+之前，我曾寫過幾篇有關靈感" target="\_blank" rel="noreferrer noopener">靈感的文章。無論你是否打算依賴靈感，我想每個人都有需要好好整理、組織自己的靈感跟情報！
+
+嘿，你有自己的[靈感資料庫](https://www.contenthacker.today/2018/09/build-a-inspiration-database.html)嗎？
+
+顧名思義，靈感資料庫就是找到一種自己喜歡的工具或方法來儲存、管理各種靈感。如果你喜歡傳統紙筆的紀錄方式，可以準備一本筆記本和便利貼，若你習慣使用電腦或智慧型手機等行動裝置，當然可以選擇像是Roam Research、Evernote、OneNote、Quip、Notion或是Heptabase等各式各樣的數位工具。
+
+我想提醒你，重點不在於選擇哪種酷炫的App、手帳或工具，而是養成觀察事物的好奇心，還有隨時記錄與思辨的習慣。
+
+舉例來說，你知道大家平常喜歡閱讀哪些主題的內容嗎？以我個人的觀察，像是社交、情感、專業、實用資訊和時事等議題，特別容易引起大眾的關注。這時，我們不妨可以從這些角度切入，來搜集寫作或規劃行銷活動所需的靈感。
+
+我也特別喜歡運用[Google Trend](https://trends.google.com.tw/trends/?geo=TW)、[網路溫度計](https://dailyview.tw)或[百度指數](https://index.baidu.com/v2/index.html)等工具來搜集有用的情報，掌握網路上的熱門新聞與趨勢、動態。同時，我也會關注一些特定的專家、學者和意見領袖的言論，可以從他們的[粉絲專頁](https://www.facebook.com/vista.tw/)、[YouTube頻道](https://www.youtube.com/c/VistaCheng/videos)或其他社群媒體上得到最新的資訊。
+
+此外，由於大家平常都會隨身攜帶智慧型手機，所以不管走到哪裏，想要搜集素材也就成了相當容易的事情。以我自己來說，現在只要一看到有趣的事物，或是和科技、行銷等產業相關的資訊，就會立刻拍照和留下文字記錄，並自動上傳到雲端資料庫。如此一來，就不怕錯漏寶貴的情報線索了！
+
+嗯，說到情報線索，我們索性再來談談對於時事與節慶議題的掌握好了！以往，我曾多次跟大家分享[內容行事曆](https://www.contenthacker.today/search?q=內容行事曆)的重要性。好比每年的母親節、端午節或是中秋節，你有留意商家如何撰寫商品文案嗎？現代社會又流行怎樣的送禮文化呢？究竟是「送禮送到心坎裡」，還是「送禮送到想砍你」，這之間可就有天壤之別了！
+
+無論你是社群小編，抑或必須負責公司官方網站、部落格與電子報的更新，若能事先規劃內容行事曆與[內容策略](https://www.content.tw/category/content-strategy)，自然不愁沒有題材可以發揮囉！
+
+平常，我也習慣搜集各種素材，或是會把網路上一些不錯的傳單儲存下來。我不但會搜集各種圖片，研究上頭的文案和排版樣式，我連顏色配置也都會仔細研究哦！這時，就要跟大家推薦[Eagle](https://tw.eagle.cool)這款好用的圖片管理工具了。
+
+如果你想知道如何打造自己的資料庫，或是想知道有關內容策略與內容行銷的執行細節，都歡迎跟我討論。

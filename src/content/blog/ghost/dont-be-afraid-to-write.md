@@ -1,0 +1,30 @@
+---
+title: "跟作文恐慌症說掰掰"
+description: "根據這幾年來的觀察，我發現很多人對文案寫作有所誤解，以為只要妙筆生花，相關的產品或服務也就一定賣得好！其實，在整個銷售的過程中，文案只是扮演刺激消費慾望的推動角色，背後還需要很多其他環節的共同配合。一篇帶有明確目的且淺顯易懂的文案，不但可以拉近與受眾之間的距離，也有助於傳達觀點。話說回來，這當然也是好文案的基本要件。"
+pubDate: "2025-01-26T03:07:23.000Z"
+updatedDate: "2025-01-26T03:14:26.000Z"
+heroImage: "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fG9mZmljZXxlbnwwfHx8fDE3Mzc4NjA5NTV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+tags: ["寫作"]
+---
+
+近年來，我常在不同的機構開設文案寫作的公開班課程，也時常應邀到各大企業或學校去做培訓，我發現很多人罹患了[作文恐慌症](https://video.udn.com/news/401483)──只要一聽到要寫商品文案或企畫案，就開始頭皮發麻，甚至顯得手足無措、呼吸不順。
+
+殊不知寫作其實沒有大家想像得那麼困難，只要先建立正確的觀念，再加上大量的臨摹和練習即可入門。換句話說，勇敢承認自己對寫作的畏懼並不可恥，只要您願意虛心學習，並且掌握寫作的基本邏輯和技巧，再多加練習即可。請相信我，不用太擔心[寫作焦慮](https://writingcenter.unc.edu/tips-and-tools/writing-anxiety/)！
+
+>  [寫作焦慮](https://en.wikipedia.org/wiki/Writing_anxiety)是指在某些情況下給予寫作任務，會讓人產生緊張、憂慮或其他的負面情緒。有些人可能會因為要寫一篇學術論文而感到擔心害怕，但寫一篇同樣主題的電子郵件卻不會引發焦慮；其他人可能會感覺寫一份實驗報告很容易，但要給親人寫一封家書卻覺得下筆真有千斤重。
+
+有些朋友曾告訴我，儘管平常也有閱讀文章或寫[部落格](https://www.writing.cool/search/label/%E9%83%A8%E8%90%BD%E6%A0%BC?max-results=6)、社群貼文的習慣，但真正到了要動筆的關鍵時刻，卻不知道該如何下標和組織段落？再不然就是腸思枯竭，苦於找不到[靈感](https://www.contenthacker.today/2018/09/build-a-inspiration-database.html)，無法寫出感動人心的篇章；即便勉強拼湊完一篇文章交差，但總好像少了點自己的觀點，難以令人信服。
+
+在過往的[授課過程](https://www.writing.cool/p/courses.html)中，只要時間許可，我總會安排實戰寫作練習的單元，讓學員們有機會多書寫，藉此強化文案寫作能力。甚至，我會透過交換閱讀其他學員文章的方式，讓大家得以觀摩和學習他人的長處與優點。
+
+說到文案寫作，不知各位是否會立刻想到全聯福利中心、[綠藤生機](https://www.contenthacker.today/2017/12/2017ghst-greenvines-content-marketing.html)、蝦皮購物或[故宮精品](https://www.contenthacker.today/2018/01/npmshops-content-marketing.html)等知名品牌所寫的走心文案呢？要知道，那些讓人拍案叫絕的文案，固然值得觀摩和學習，但其實文案寫作的重點並不只是舞文弄墨，或者想要霸佔目標受眾的眼球與心智──對於寫作者來說，這更是一段陪伴大家走過的精神旅程。
+
+根據這幾年來的觀察，我發現很多人對[文案](https://www.writing.cool/search/label/%E6%96%87%E6%A1%88?max-results=6)寫作有所誤解，以為只要妙筆生花，相關的產品或服務也就一定賣得好！其實，在整個銷售的過程中，文案只是扮演刺激消費慾望的推動角色，背後還需要很多其他環節的共同配合。一篇帶有明確目的且淺顯易懂的文案，不但可以拉近與受眾之間的距離，也有助於傳達觀點。話說回來，這當然也是好文案的基本要件。
+
+所以，我認為[內容產製](https://www.contenthacker.today/2019/02/how-to-create-great-content.html)的重點，其實首重能夠通順地表達自己的觀點，並帶給目標受眾具體的利益。2023年冬天，我重新再版了《[慢讀秒懂數位好文案（全新增訂版）：Vista老師的文案寫作入門課](https://www.books.com.tw/exep/assp.php/vista/products/0010973827?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201909)》，希望透過這本書，可以帶給大家正確的寫作觀念。當然，不只是提供寫作框架與套路，我更期待能夠幫助讀者朋友從零開始，奠定扎實的文案寫作基礎。
+
+這本書的名字很有趣，叫做《[慢讀秒懂數位好文案（全新增訂版）：Vista老師的文案寫作入門課](https://www.books.com.tw/exep/assp.php/vista/products/0010973827?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201909)》，是出版社編輯們腦力激盪之後的結晶。所謂「慢讀」，係指讀者朋友們可以細細體會每一篇傑出文案背後的強大功力，而「秒懂」則是努力讓自己寫出獨特銷售主張與核心價值，進而為消費大眾勾勒出具體的利益和願景。
+
+當初，我寫這本書的起心動念，其實就是希望可以根據自己的親身經驗來協助大家，特別是那些視寫作為畏途的朋友們——不只是希望可以幫助大家解決寫作焦慮，找回書寫的樂趣，更期待看到各位朋友結合豐富的人生經驗，進而寫出精彩的篇章。
+
+我自己很喜歡這本書，希望你也會喜歡！
