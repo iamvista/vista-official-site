@@ -1,0 +1,135 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE } from '../../consts';
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`寫作教練 - ${SITE_TITLE}`} description="Vista 寫作陪伴計畫：協助您建立個人品牌，從部落格到出書。" />
+		<style>
+            /* Sub-page Styles */
+            .lp-hero {
+                background: var(--color-primary);
+                color: white;
+                padding: 6rem 1rem;
+                text-align: center;
+            }
+            .lp-hero h1 { color: white; margin-bottom: 1.5rem; font-size: 3rem; }
+            .lp-hero p { color: var(--gray-light); font-size: 1.4rem; max-width: 800px; margin: 0 auto 2rem; }
+            
+            .cta-btn {
+                display: inline-block;
+                padding: 1rem 3rem;
+                background: var(--color-red);
+                color: white;
+                font-weight: bold;
+                border-radius: 9999px;
+                text-decoration: none;
+                transition: transform 0.2s;
+            }
+            .cta-btn:hover { transform: scale(1.05); }
+
+            .section { padding: 5rem 1rem; max-width: 900px; margin: 0 auto; }
+            .section h2 { text-align: center; margin-bottom: 3rem; font-size: 2.25rem; }
+            
+            .pain-points {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                gap: 2rem;
+            }
+            .pain-point {
+                background: #fef2f2; /* Red-50 */
+                padding: 2rem;
+                border-radius: 12px;
+                border-left: 4px solid var(--color-red);
+            }
+            .pain-point h3 { color: var(--color-red); margin-top: 0; }
+            
+            .solution-list li {
+                font-size: 1.2rem;
+                margin-bottom: 1rem;
+                padding-left: 2rem;
+                position: relative;
+            }
+            .solution-list li::before {
+                content: '✨';
+                position: absolute;
+                left: 0;
+            }
+
+            .pricing-card {
+                background: white;
+                border: 2px solid var(--gray-light);
+                border-radius: 16px;
+                padding: 3rem;
+                text-align: center;
+                box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+                max-width: 500px;
+                margin: 3rem auto;
+            }
+            .price { font-size: 3rem; font-weight: 800; color: var(--color-primary); margin: 1rem 0; }
+            .price span { font-size: 1rem; color: var(--gray); font-weight: 400; }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <section class="lp-hero">
+                <h1>讓寫作成為你最強的個人品牌槓桿</h1>
+                <p>別讓你的專業知識被埋沒。透過有系統的寫作訓練，建立話語權，開啟職涯新機會。</p>
+                <a href="#pricing" class="cta-btn">申請諮詢</a>
+            </section>
+
+            <section class="section">
+                <h2>你是否也遇到這些問題？</h2>
+                <div class="pain-points">
+                    <div class="pain-point">
+                        <h3>想寫但寫不出來</h3>
+                        <p>坐在電腦前發呆，明明有很多想法，卻不知道如何下筆組織成文章。</p>
+                    </div>
+                    <div class="pain-point">
+                        <h3>寫了沒人看</h3>
+                        <p>用心經營部落格，但流量始終沒有起色，不知道讀者想看什麼。</p>
+                    </div>
+                    <div class="pain-point">
+                        <h3>難以持之以恆</h3>
+                        <p>總是三天捕魚兩天曬網，缺乏穩定產出的系統與紀律。</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" style="background-color: var(--color-warm-bg); border-radius: 20px;">
+                <h2>Vista 寫作陪伴計畫</h2>
+                <p style="font-size: 1.2rem; margin-bottom: 2rem;">
+                    這不是一堂單向輸出的錄影課程，而是一個為期 3 個月的<b>實戰教練計畫</b>。我將手把手帶你走過從選題、架構到經營的每一步。
+                </p>
+                <ul class="solution-list">
+                    <li><b>精準選題策略</b>：找出市場需求與你專業的交集點。</li>
+                    <li><b>文章批改與回饋</b>：每週一對一作業批改，直接點出盲點。</li>
+                    <li><b>建立寫作系統</b>：打造屬於你的靈感庫與產出流程，不再依賴靈感。</li>
+                    <li><b>個人品牌定位</b>：協助你梳理職涯優勢，打造具辨識度的專家形象。</li>
+                </ul>
+            </section>
+
+            <section class="section" id="pricing">
+                <h2>投資你的未來</h2>
+                <div class="pricing-card">
+                    <h3>一對一教練陪跑</h3>
+                    <div class="price">NT$ ??? <span>/ 3個月</span></div>
+                    <p>每週 1 小時諮詢 + 無限次 Email 提問</p>
+                    <ul style="text-align: left; margin: 2rem 0;">
+                        <li>深度盤點個人優勢</li>
+                        <li>客製化寫作課表</li>
+                        <li>出版提案輔導 (加贈)</li>
+                    </ul>
+                    <a href="https://cal.com/iamvista" class="cta-btn" style="width: 100%; box-sizing: border-box;">預約面談評估</a>
+                    <p style="font-size: 0.9rem; color: var(--gray); margin-top: 1rem;">* 為確保品質，每月僅收 3 名學員</p>
+                </div>
+            </section>
+		</main>
+		<Footer />
+	</body>
+</html>

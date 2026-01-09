@@ -1,0 +1,215 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE } from '../../consts';
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`專業服務 - ${SITE_TITLE}`} description="Vista Cheng 提供的專業服務：寫作教練、AI 顧問、企業內訓" />
+		<style>
+			.services-hero {
+				padding: 6rem 1rem 4rem;
+				text-align: center;
+				background: linear-gradient(180deg, var(--color-warm-bg) 0%, #fff 100%);
+			}
+			.services-hero h1 {
+				font-size: 3rem;
+				font-weight: 800;
+				margin-bottom: 1rem;
+				color: var(--color-primary);
+			}
+			.services-hero p {
+				font-size: 1.25rem;
+				color: var(--color-secondary);
+				max-width: 600px;
+				margin: 0 auto;
+			}
+			
+			.service-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+				gap: 3rem;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 4rem 1rem;
+			}
+			
+			.service-card {
+				background: white;
+				border-radius: 12px;
+				padding: 3rem 2rem;
+				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+				border: 1px solid var(--gray-light);
+				transition: transform 0.2s, box-shadow 0.2s;
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+			}
+			.service-card:hover {
+				transform: translateY(-5px);
+				box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+				border-color: var(--accent);
+			}
+			
+			.icon-wrapper {
+				width: 64px;
+				height: 64px;
+				background: var(--color-warm-bg);
+				border-radius: 16px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				margin-bottom: 1.5rem;
+				color: var(--color-gold);
+				font-size: 2rem;
+			}
+			
+			.service-card h2 {
+				font-size: 1.75rem;
+				margin-bottom: 1rem;
+				color: var(--color-primary);
+			}
+			
+			.service-card p {
+				color: var(--color-secondary);
+				line-height: 1.6;
+				margin-bottom: 2rem;
+				flex-grow: 1;
+			}
+			
+			.service-features {
+				list-style: none;
+				padding: 0;
+				margin-bottom: 2rem;
+			}
+			.service-features li {
+				margin-bottom: 0.5rem;
+				display: flex;
+				align-items: center;
+				color: var(--gray-dark);
+			}
+			.service-features li::before {
+				content: '✓';
+				color: var(--color-red);
+				margin-right: 0.75rem;
+				font-weight: bold;
+			}
+			
+			.card-btn {
+				display: block;
+				text-align: center;
+				background: white;
+				border: 2px solid var(--color-primary);
+				padding: 0.75rem;
+				border-radius: 8px;
+				color: var(--color-primary);
+				text-decoration: none;
+				font-weight: 600;
+				transition: all 0.2s;
+			}
+			.card-btn:hover {
+				background: var(--color-primary);
+				color: white;
+			}
+			
+			.consult-banner {
+				background: var(--color-primary);
+				color: white;
+				padding: 4rem 1rem;
+				text-align: center;
+				border-radius: 20px;
+				max-width: 1000px;
+				margin: 0 auto 4rem;
+			}
+			.consult-btn {
+				display: inline-block;
+				margin-top: 1.5rem;
+				background: var(--color-golden);
+				background-color: var(--color-gold); 
+				color: white;
+				padding: 1rem 3rem;
+				border-radius: 9999px;
+				text-decoration: none;
+				font-weight: 700;
+			}
+
+            /* Responsive Adjustments */
+            @media (max-width: 768px) {
+                .services-hero h1 { font-size: 2.5rem; }
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="services-hero">
+				<h1>專業服務項目</h1>
+				<p>協助個人與企業，駕馭文字力量與 AI 科技，實現指數級成長。</p>
+			</section>
+			
+			<div class="service-grid">
+				<!-- Writing -->
+				<div class="service-card">
+					<div class="icon-wrapper">✍️</div>
+					<h2>寫作教練</h2>
+					<p>適合想建立個人品牌、經營自媒體或出版書籍的專業人士。從 0 到 1 陪伴你產出優質內容。</p>
+					<ul class="service-features">
+						<li>一對一寫作諮詢</li>
+						<li>文章批改與優化建議</li>
+						<li>出版提案輔導</li>
+					</ul>
+					<a href="/services/writing" class="card-btn">了解詳情 &rarr;</a>
+				</div>
+				
+				<!-- AI -->
+				<div class="service-card">
+					<div class="icon-wrapper">🤖</div>
+					<h2>AI 生產力賦能</h2>
+					<p>不只是學工具，而是建立系統。協助企業與個人導入 AI 工作流，提升 10 倍工作效率。</p>
+					<ul class="service-features">
+						<li>AI 工作流診斷</li>
+						<li>企業導入顧問</li>
+						<li>ChatGPT/Claude 實戰班</li>
+					</ul>
+					<a href="/services/ai-consulting" class="card-btn">了解詳情 &rarr;</a>
+				</div>
+				
+				<!-- Speaking -->
+				<div class="service-card">
+					<div class="icon-wrapper">🎤</div>
+					<h2>企業內訓與演講</h2>
+					<p>針對企業需求量身打造的培訓課程。涵蓋數位轉型、內容行銷與 AI 趨勢。</p>
+					<ul class="service-features">
+						<li>客製化企業內訓</li>
+						<li>年度趨勢演講</li>
+						<li>品牌敘事工作坊</li>
+					</ul>
+					<a href="/services/speaking" class="card-btn">了解詳情 &rarr;</a>
+				</div>
+
+                 <!-- Consulting -->
+				<div class="service-card">
+					<div class="icon-wrapper">💡</div>
+					<h2>內容策略顧問</h2>
+					<p>為您的品牌規劃長期的內容藍圖。用精準的內容策略，驅動有機流量與商業轉換。</p>
+					<ul class="service-features">
+						<li>品牌內容健檢</li>
+						<li>SEO 關鍵字佈局</li>
+						<li>企業部落格代營運</li>
+					</ul>
+					<a href="mailto:vista@VistaCheng.com" class="card-btn">聯絡洽詢 &rarr;</a>
+				</div>
+			</div>
+			
+			<div class="consult-banner">
+				<h2 style="color:white; margin-bottom:1rem;">不確定適合哪種服務？</h2>
+				<p style="color:var(--gray-light); margin-bottom:0;">歡迎預約 30 分鐘免費諮詢，讓我們聊聊您的需求。</p>
+				<a href="https://cal.com/iamvista" target="_blank" class="consult-btn">預約免費諮詢</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
