@@ -246,6 +246,34 @@ const posts = (await getCollection('blog')).sort(
                 </div>
             </section>
 
+            <!-- Newsletter Section -->
+            <section style="background: var(--color-primary); color: white; padding: 5rem 1rem; text-align: center;">
+                <div style="max-width: 600px; margin: 0 auto;">
+                    <h2 style="color: white; margin-bottom: 1rem; font-size: 2rem;">訂閱【Vista 的開外掛週報】</h2>
+                    <p style="color: var(--gray-light); line-height: 1.8; margin-bottom: 2rem; font-size: 1.1rem;">
+                        每週一封信，分享關於 AI 工具、高效寫作與數位一人公司的實戰心法。
+                        <br/>
+                        加入我們，一起在 AI 時代開外掛。
+                    </p>
+                    <a href="https://iamvista.substack.com/" target="_blank" style="
+                        display: inline-block;
+                        background: var(--color-red);
+                        color: white;
+                        text-decoration: none;
+                        padding: 1rem 3rem;
+                        border-radius: 9999px;
+                        font-weight: bold;
+                        font-size: 1.2rem;
+                        transition: transform 0.2s;
+                    " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+                        免費訂閱 Substack &rarr;
+                    </a>
+                    <p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--gray);">
+                        已有超過數千名讀者訂閱。隨時可以取消。
+                    </p>
+                </div>
+            </section>
+
 		</main>
 		<Footer />
 	</body>
