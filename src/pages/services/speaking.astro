@@ -30,12 +30,13 @@ import { SITE_TITLE } from '../../consts';
                 background: white;
                 padding: 2rem;
                 border-radius: 8px;
-                box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-                border-top: 4px solid var(--color-gold);
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Softer shadow */
+                border-top: 4px solid var(--color-red); /* Red Border */
             }
             .topic-card h3 { margin-top: 0; color: var(--color-primary); }
             .topic-card ul { padding-left: 1.2rem; color: var(--gray-dark); }
             .topic-card li { margin-bottom: 0.5rem; }
+            .topic-card li::marker { color: var(--color-red); } /* Red bullets */
 
             .client-logos {
                 text-align: center;
@@ -44,22 +45,28 @@ import { SITE_TITLE } from '../../consts';
             }
             
             .booking-form {
-                background: var(--color-primary);
-                color: white;
+                background: var(--color-warm-bg); /* Light Theme */
+                color: var(--color-primary);
                 padding: 3rem;
                 border-radius: 12px;
                 text-align: center;
                 margin-top: 4rem;
+                border: 2px solid var(--color-red); /* Red Border Frame */
             }
             .booking-btn {
                 display: inline-block;
                 padding: 1rem 3rem;
-                background: var(--color-gold);
+                background: var(--color-red); /* Red Button */
                 color: white;
                 font-weight: bold;
-                border-radius: 6px;
+                border-radius: 50px;
                 text-decoration: none;
                 margin-top: 1rem;
+                transition: transform 0.2s, box-shadow 0.2s;
+            }
+            .booking-btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(185, 28, 28, 0.3);
             }
 		</style>
 	</head>
