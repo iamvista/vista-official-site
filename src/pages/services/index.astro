@@ -28,14 +28,13 @@ import { SITE_TITLE } from '../../consts';
 				margin: 0 auto;
 			}
 			
-            /* Grid Layout */
 			.service-grid {
 				display: grid;
-				grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+				grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 				gap: 3rem;
 				max-width: 1200px;
 				margin: 0 auto;
-				padding: 2rem 1rem 6rem 1rem; /* Added bottom padding */
+				padding: 2rem 1rem 6rem 1rem;
 			}
 			
 			.service-card {
@@ -48,13 +47,13 @@ import { SITE_TITLE } from '../../consts';
 				display: flex;
 				flex-direction: column;
 				height: 100%;
-                /* Ensure separation */
-                margin-bottom: 1rem; 
+                /* Adding explicit margins for mobile stack safety */
+                margin-bottom: 2rem;
 			}
 			.service-card:hover {
 				transform: translateY(-5px);
 				box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
-				border-color: var(--color-red); /* Red Hover */
+				border-color: var(--color-red);
 			}
 			
 			.icon-wrapper {
@@ -66,7 +65,7 @@ import { SITE_TITLE } from '../../consts';
 				align-items: center;
 				justify-content: center;
 				margin-bottom: 1.5rem;
-				color: var(--color-red); /* Icon Red */
+				color: var(--color-red);
 				font-size: 2rem;
 			}
 			
@@ -96,7 +95,7 @@ import { SITE_TITLE } from '../../consts';
 			}
 			.service-features li::before {
 				content: '✓';
-				color: var(--color-red); /* Checkmark Red */
+				color: var(--color-red);
 				margin-right: 0.75rem;
 				font-weight: bold;
 			}
@@ -119,21 +118,20 @@ import { SITE_TITLE } from '../../consts';
 				color: white;
 			}
 			
-            /* Banner - Light Theme now */
 			.consult-banner {
-				background: var(--color-warm-bg); /* Light BG */
+				background: var(--color-warm-bg);
 				color: var(--color-primary);
                 border: 2px solid var(--gray-light);
 				padding: 4rem 1rem;
 				text-align: center;
 				border-radius: 20px;
 				max-width: 1000px;
-				margin: 4rem auto 6rem; /* Huge margins */
+				margin: 4rem auto 6rem;
 			}
 			.consult-btn {
 				display: inline-block;
 				margin-top: 1.5rem;
-				background: var(--color-red); /* Red Button */
+				background: var(--color-red);
 				color: white;
 				padding: 1rem 3rem;
 				border-radius: 9999px;
@@ -142,13 +140,13 @@ import { SITE_TITLE } from '../../consts';
                 transition: all 0.2s;
 			}
             .consult-btn:hover {
-                background: #b91c1c; /* Darker Red */
+                background: #b91c1c;
                 transform: translateY(-2px);
             }
 
-            /* Responsive Adjustments */
             @media (max-width: 768px) {
                 .services-hero h1 { font-size: 2.5rem; }
+                .service-grid { grid-template-columns: 1fr; }
             }
 		</style>
 	</head>
@@ -161,7 +159,6 @@ import { SITE_TITLE } from '../../consts';
 			</section>
 			
 			<div class="service-grid">
-				<!-- Writing -->
 				<div class="service-card">
 					<div class="icon-wrapper">✍️</div>
 					<h2>寫作教練</h2>
@@ -174,7 +171,6 @@ import { SITE_TITLE } from '../../consts';
 					<a href="/services/writing" class="card-btn">了解詳情 &rarr;</a>
 				</div>
 				
-				<!-- AI -->
 				<div class="service-card">
 					<div class="icon-wrapper">🤖</div>
 					<h2>AI 生產力賦能</h2>
@@ -187,7 +183,6 @@ import { SITE_TITLE } from '../../consts';
 					<a href="/services/ai-consulting" class="card-btn">了解詳情 &rarr;</a>
 				</div>
 				
-				<!-- Speaking -->
 				<div class="service-card">
 					<div class="icon-wrapper">🎤</div>
 					<h2>企業內訓與演講</h2>
@@ -200,7 +195,6 @@ import { SITE_TITLE } from '../../consts';
 					<a href="/services/speaking" class="card-btn">了解詳情 &rarr;</a>
 				</div>
 
-                 <!-- Consulting -->
 				<div class="service-card">
 					<div class="icon-wrapper">💡</div>
 					<h2>內容策略顧問</h2>
