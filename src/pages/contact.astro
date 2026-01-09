@@ -1,0 +1,116 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`聯絡我 - ${SITE_TITLE}`} description="預約 Vista Cheng 的諮詢服務，或洽談演講合作。" />
+		<style>
+            .contact-hero {
+                padding: 6rem 1rem 4rem;
+                text-align: center;
+                background: var(--color-warm-bg);
+            }
+            .contact-hero h1 { font-size: 3rem; margin-bottom: 1rem; color: var(--color-primary); }
+            .contact-hero p { font-size: 1.25rem; color: var(--color-secondary); max-width: 600px; margin: 0 auto; }
+            
+            .grid-cols {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 4rem;
+                max-width: 1000px;
+                margin: 4rem auto;
+                padding: 0 1rem;
+            }
+            @media (min-width: 768px) {
+                .grid-cols { grid-template-columns: 1fr 1fr; }
+            }
+
+            .info-card {
+                background: white;
+                padding: 2.5rem;
+                border-radius: 12px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                border: 1px solid var(--gray-light);
+            }
+            .info-card h2 { font-size: 1.5rem; margin-top: 0; color: var(--color-primary); border-bottom: 2px solid var(--color-red); padding-bottom: 0.5rem; display: inline-block; margin-bottom: 1.5rem; }
+            .info-item { margin-bottom: 1.5rem; font-size: 1.1rem; }
+            .info-item strong { display: block; color: var(--gray-dark); font-size: 0.9rem; margin-bottom: 0.25rem; }
+            .info-item a { color: var(--color-primary); text-decoration: none; font-weight: 500; }
+            .info-item a:hover { color: var(--color-red); }
+
+            .cal-embed {
+                min-height: 600px;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <section class="contact-hero">
+                <h1>聯絡我</h1>
+                <p>無論是演講邀約、企業內訓，還是個人諮詢，都歡迎與我聯繫。</p>
+            </section>
+
+            <div class="grid-cols">
+                <!-- Contact Info -->
+                <div class="info-card">
+                    <h2>合作洽詢</h2>
+                    <p style="margin-bottom: 2rem; color: var(--gray);">
+                        如果您有明確的合作意向，建議直接來信，說明您的需求、預算以及預計時程，我將會優先處理。
+                    </p>
+                    
+                    <div class="info-item">
+                        <strong>Email</strong>
+                        <a href="mailto:vista@VistaCheng.com">vista@VistaCheng.com</a>
+                    </div>
+                    
+                    <div class="info-item">
+                        <strong>社群媒體</strong>
+                        <div style="display: flex; gap: 1rem; margin-top: 0.5rem;">
+                            <a href="https://www.facebook.com/iamvista" target="_blank">Facebook</a>
+                            <span style="color:var(--gray-light)">|</span>
+                            <a href="https://www.threads.net/@vista" target="_blank">Threads</a>
+                        </div>
+                    </div>
+                    
+                    <div class="info-item" style="margin-top: 3rem;">
+                        <strong>訂閱電子報</strong>
+                        <a href="https://iamvista.substack.com/" target="_blank">Vista 的開外掛週報 &rarr;</a>
+                    </div>
+                </div>
+
+                <!-- Calendly Embed (Placeholder/Link) -->
+                <div class="info-card">
+                    <h2>預約諮詢</h2>
+                    <p style="margin-bottom: 2rem; color: var(--gray);">
+                        想聊聊您的寫作計畫或 AI 導入問題？<br/>
+                        歡迎直接預約 30 分鐘的視訊會議。
+                    </p>
+                    <div style="text-align: center; padding: 3rem 0; background: var(--color-warm-bg); border-radius: 8px;">
+                        <a href="https://cal.com/iamvista" target="_blank" style="
+                            display: inline-block;
+                            padding: 1rem 2rem;
+                            background: var(--color-primary);
+                            color: white;
+                            text-decoration: none;
+                            border-radius: 6px;
+                            font-weight: bold;
+                        ">
+                            前往預約時間 (Cal.com) &rarr;
+                        </a>
+                    </div>
+                </div>
+            </div>
+		</main>
+		<Footer />
+	</body>
+</html>
