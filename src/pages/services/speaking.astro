@@ -1,0 +1,117 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE } from '../../consts';
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`企業內訓與演講 - ${SITE_TITLE}`} description="Vista Cheng 企業內訓、演講邀約：數位轉型、內容行銷、AI 趨勢" />
+		<style>
+            .lp-hero {
+                background: var(--color-warm-bg);
+                padding: 6rem 1rem;
+                text-align: center;
+            }
+            .lp-hero h1 { color: var(--color-primary); margin-bottom: 1.5rem; font-size: 2.5rem; }
+            .lp-hero p { color: var(--color-secondary); font-size: 1.25rem; max-width: 800px; margin: 0 auto 2rem; }
+            
+            .section { padding: 4rem 1rem; max-width: 1000px; margin: 0 auto; }
+            
+            .topics-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                gap: 2rem;
+                margin-top: 2rem;
+            }
+            .topic-card {
+                background: white;
+                padding: 2rem;
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+                border-top: 4px solid var(--color-gold);
+            }
+            .topic-card h3 { margin-top: 0; color: var(--color-primary); }
+            .topic-card ul { padding-left: 1.2rem; color: var(--gray-dark); }
+            .topic-card li { margin-bottom: 0.5rem; }
+
+            .client-logos {
+                text-align: center;
+                padding: 4rem 1rem;
+                background: white;
+            }
+            
+            .booking-form {
+                background: var(--color-primary);
+                color: white;
+                padding: 3rem;
+                border-radius: 12px;
+                text-align: center;
+                margin-top: 4rem;
+            }
+            .booking-btn {
+                display: inline-block;
+                padding: 1rem 3rem;
+                background: var(--color-gold);
+                color: white;
+                font-weight: bold;
+                border-radius: 6px;
+                text-decoration: none;
+                margin-top: 1rem;
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <section class="lp-hero">
+                <h1>企業內訓 & 演講邀約</h1>
+                <p>為您的組織注入數位轉型思維與實戰力。課程內容可根據企業產業屬性客製化調整。</p>
+            </section>
+
+            <section class="section">
+                <h2 style="text-align: center; margin-bottom: 3rem;">熱門講座主題</h2>
+                <div class="topics-grid">
+                    <div class="topic-card">
+                        <h3>🚀 AI 趨勢與職場應用</h3>
+                        <ul>
+                            <li>生成式 AI 對產業的衝擊與機會</li>
+                            <li>如何用 ChatGPT 提升辦公效率</li>
+                            <li>未來人才的必備數位技能</li>
+                        </ul>
+                    </div>
+                    <div class="topic-card">
+                        <h3>✍️ 內容行銷與品牌敘事</h3>
+                        <ul>
+                            <li>如何說好品牌故事 (Storytelling)</li>
+                            <li>社群內容規劃與經營心法</li>
+                            <li>從文案到轉換的寫作技巧</li>
+                        </ul>
+                    </div>
+                    <div class="topic-card">
+                        <h3>📊 數位轉型思維</h3>
+                        <ul>
+                            <li>傳統企業的數位化挑戰</li>
+                            <li>建立數據驅動的決策文化</li>
+                            <li>敏捷工作術與協作工具</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <div class="booking-form">
+                    <h2>誠摯邀請您合作</h2>
+                    <p style="color: var(--gray-light); margin-bottom: 2rem;">
+                        若您有演講或內訓需求，歡迎填寫邀約表單，或直接來信洽詢。<br/>
+                        我們將於 24 小時內回覆您。
+                    </p>
+                    <a href="mailto:vista@VistaCheng.com" class="booking-btn">寄信邀約</a>
+                </div>
+            </section>
+		</main>
+		<Footer />
+	</body>
+</html>
