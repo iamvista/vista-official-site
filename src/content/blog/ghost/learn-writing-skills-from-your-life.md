@@ -11,7 +11,7 @@ tags: ["寫作"]
 
 感覺已經好一陣子沒能好好地寫下心中所想，常常覺得每天都好忙，忙著上課、交報告，忙著學習。曾經以為每天讓自己忙碌著，某種程度上算是「認真生活」的樣態，但實則錯過了許多生活上的感受與發現。許久未提筆記錄生活的自己，對於許多感觸的靈敏度，好似不復過往。
 
-暑假因為實習的關係，需要大量撰寫[文案](https://www.contenthacker.today/search?q=%E6%96%87%E6%A1%88)，所以整理與觀摩了許多作家或是文字工作者的所思所想。再回過頭來聽[Vista](__GHOST_URL__/)老師的分享，特別有所收穫，尤其是針對編撰的策略。
+暑假因為實習的關係，需要大量撰寫[文案](https://www.contenthacker.today/search?q=%E6%96%87%E6%A1%88)，所以整理與觀摩了許多作家或是文字工作者的所思所想。再回過頭來聽[Vista](https://copywriting.vista.tw/)老師的分享，特別有所收穫，尤其是針對編撰的策略。
 
 先前在文案撰寫的經驗裡，往往過於注重「要溝通的東西」，卻忽略了[受眾](https://www.contenthacker.today/2019/05/your-first-step-of-content-marketing.html)在看此篇貼文或文章的期待以及[品牌價值](https://www.contenthacker.today/2017/12/teasoap-brand-story.html)，使得整個層級不夠深入，沒能寫出「真實打動受眾」的故事。在下筆之前，先別急著埋頭找有關產品的資料，應先釐清下列項目：
 

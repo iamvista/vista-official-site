@@ -19,7 +19,7 @@ tags: ["日記"]
 
 雖然這樣的數位化體驗還是有些不太流暢，偶爾會遇到操作卡住的時候，但當我完成所有手續，走出銀行時，腦海裡浮現一個問題——**這就是金融業的未來嗎？人與人的接觸，真的會逐漸被這些高效的數位流程所取代？**
 
-這讓我想到上午閱讀的一篇[文章](https://www.businessinsider.com/ai-chiefs-top-consulting-firms-how-to-use-ai-prompts-2025-2)，《[Business Insider](https://www.businessinsider.com/)》訪問了**四大諮詢公司（EY, KPMG, McKinsey, PwC）的 AI 高管**，探討 AI 在他們日常工作中的應用方式。其中，麥肯錫的 [Rodney Zemmel](https://www.mckinsey.com/our-people/rodney-zemmel) 提到，**太多人仍然把 AI 當作查詢工具，而非真正的生產力助手，關鍵在於如何讓** [**AI**](__GHOST_URL__/external-brain/) **幫助我們省下 80% 的機械性工作，專注於 20% 的高價值事務。**
+這讓我想到上午閱讀的一篇[文章](https://www.businessinsider.com/ai-chiefs-top-consulting-firms-how-to-use-ai-prompts-2025-2)，《[Business Insider](https://www.businessinsider.com/)》訪問了**四大諮詢公司（EY, KPMG, McKinsey, PwC）的 AI 高管**，探討 AI 在他們日常工作中的應用方式。其中，麥肯錫的 [Rodney Zemmel](https://www.mckinsey.com/our-people/rodney-zemmel) 提到，**太多人仍然把 AI 當作查詢工具，而非真正的生產力助手，關鍵在於如何讓** [**AI**](https://copywriting.vista.tw/external-brain/) **幫助我們省下 80% 的機械性工作，專注於 20% 的高價值事務。**
 
 這正是今天我在銀行裡的體驗——這些透過平板電腦操作的流程，並不是要取代行員，而是希望讓客戶能夠更自主、更快速地完成標準化的程序，而行員則能把時間花在更複雜、更需要人性判斷的業務上。
 
@@ -43,9 +43,9 @@ Vista陪你《Ai賦能》重返校園讀博士
 
 本活動開放曾經報名《今周學堂》課程學員「直播講座」免費上課，錄影回放影片後製完成，會上架到課程，限付費學員觀看。
 
-![](__GHOST_URL__/content/images/icon/b172811b-9e2e-4922-9891-7bd91b456a77.png)今周學堂今周學堂PPA
+![](https://copywriting.vista.tw/content/images/icon/b172811b-9e2e-4922-9891-7bd91b456a77.png)今周學堂今周學堂PPA
 
-![](__GHOST_URL__/content/images/thumbnail/5df1f396-1e4b-4b24-961f-b2daa035be57.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/5df1f396-1e4b-4b24-961f-b2daa035be57.jpg)
 
 ](https://school.businesstoday.com.tw/events/20241227-c01)
 

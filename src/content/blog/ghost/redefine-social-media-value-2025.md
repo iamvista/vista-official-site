@@ -169,11 +169,11 @@ Canva 的成功絕非偶然，它依靠的不只是產品技術，而是三大�
 
 在這個內容爆炸、注意力稀缺的時代，我們需要的不只是資訊呈現能力，而是說服力、洞察力與故事力。簡報從來不是單向傳遞資訊，而是為了說服、為了激起行動。AI在這裡，可以幫你做很多事——但你得清楚分工。所以，AI 可以說是我們打造這些能力的第二大腦。
 
-![](__GHOST_URL__/content/images/icon/yv-45.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-45.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1677442136019-21780ecad995)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1677442136019-21780ecad995)
 
-](__GHOST_URL__/ai-powered-presentation/)
+](https://copywriting.vista.tw/ai-powered-presentation/)
 
 ### 以「AI 美容顧問」重塑社群互動場景
 
@@ -268,6 +268,6 @@ Lancôme 的成功提醒我們：未來的社群媒體不只是一種溝通管�
 
 當你開始從這樣的問題出發，社群的價值，將不再是 KPI 工作表上的一欄，而會成為商業模式的核心。現在，就讓我們一起努力吧！
 
-![](__GHOST_URL__/content/images/2025/05/business-value.png)
+![](https://copywriting.vista.tw/content/images/2025/05/business-value.png)
 
 [請 Vista 喝杯咖啡](https://vista.im/coffee)

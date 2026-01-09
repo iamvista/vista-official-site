@@ -15,9 +15,9 @@ AI文案寫作課：職場AI寫作策略必修課
 
 職場升級必修課！從Vista的文案絕學中揭開AI文案寫作的奧秘。掌握AI寫作策略，提升您的職場文案技能！
 
-![](__GHOST_URL__/content/images/icon/db67aef1-a86b-4f27-93d8-67fc4b4730d5.png)鄭緯筌｜知名文案寫作暢銷作家
+![](https://copywriting.vista.tw/content/images/icon/db67aef1-a86b-4f27-93d8-67fc4b4730d5.png)鄭緯筌｜知名文案寫作暢銷作家
 
-![](__GHOST_URL__/content/images/thumbnail/86c06a49-8d09-45b5-9013-c525c2993da1.jpeg)
+![](https://copywriting.vista.tw/content/images/thumbnail/86c06a49-8d09-45b5-9013-c525c2993da1.jpeg)
 
 ](https://etstar.ettoday.net/courses/k3)
 
@@ -37,9 +37,9 @@ AI文案寫作課：職場AI寫作策略必修課
 
 昨晚我和「Vista寫作陪伴計畫」的學員們進行線上研討。大家提出很多有關寫作的問題，好比有人問到該如何把文章寫得更長一點？也有人問到該怎麼尋找自己的定位以及如何培養靈感⋯⋯這些問題，都是很多朋友在寫作歷程中時常遭遇的瓶頸。所以，在今天的《Vista的小聲音》節目裡，我想跟大家聊聊如何培養靈感？
 
-![](__GHOST_URL__/content/images/icon/favicon-8.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-8.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/AVvXsEiqUtJ6YvKJ47obbQk53mFDKwtCv2E5lmql4oVbPPeqSl34oRY5MPnHoZXyeKxkqTEM8uy9IbeLetL6GBDO7X9Wg1pEf4d3NWGF5DGEdLFq0FPRozPWL4mwJhawY7NKwta77vUybKcQGf8y5FxpKM_nwhtLKhPj_RogiCe9wspsb8XvmwhX69ZON1DWPg-w1200-h630-p-k-no-nu)
+![](https://copywriting.vista.tw/content/images/thumbnail/AVvXsEiqUtJ6YvKJ47obbQk53mFDKwtCv2E5lmql4oVbPPeqSl34oRY5MPnHoZXyeKxkqTEM8uy9IbeLetL6GBDO7X9Wg1pEf4d3NWGF5DGEdLFq0FPRozPWL4mwJhawY7NKwta77vUybKcQGf8y5FxpKM_nwhtLKhPj_RogiCe9wspsb8XvmwhX69ZON1DWPg-w1200-h630-p-k-no-nu)
 
 ](https://www.vistacheng.com/2022/01/6-simple-things-you-can-get-inspired.html)
 
@@ -61,9 +61,9 @@ Vista電子報 No.16：尋找寫作的靈感，從這裡開始做起
 
 Vista教您建立靈感資料庫，神奇點子信手拈來！
 
-![](__GHOST_URL__/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-2.png)Vista電子報Vista Cheng
+![](https://copywriting.vista.tw/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-2.png)Vista電子報Vista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2Ffda83654-953f-49b9-b26e-a7dd8bfbc967_2078x1540.png)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2Ffda83654-953f-49b9-b26e-a7dd8bfbc967_2078x1540.png)
 
 ](https://iamvista.substack.com/p/vista-no16)
 
@@ -83,9 +83,9 @@ Vista教您建立靈感資料庫，神奇點子信手拈來！
 
 在資訊爆炸的時代，我們往往被訊息所淹沒，而忽略了最基本但卻極為重要的能力——觀察。觀察是一門古老卻永不過時的藝術，它賦予你我洞悉世界的力量，讓我們能夠在看似平凡的生活中，發現不平凡的創意和機會。身為一位作家、講師與商業顧問，我深知觀察的重要性，因為它不僅幫助我在寫作的過程注入靈感，更能提供關鍵洞察。
 
-![](__GHOST_URL__/content/images/icon/favicon-9.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-9.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E8-A7-80-E5-AF-9F.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E8-A7-80-E5-AF-9F.jpg)
 
 ](https://www.vistacheng.com/2024/08/be-a-good-observer.html)
 
@@ -95,7 +95,7 @@ Vista教您建立靈感資料庫，神奇點子信手拈來！
 
 遺憾的是，後來家父因為車禍的關係而臥病在床，過了幾年終究還是撒手人寰。儘管他過世了，但他的精神卻依舊長存。每當我瀏覽家父所留下來的那些攝影作品或閱讀筆記時，我都會想起他帶給我的身教以及生活的影響。他教會了我紀錄、捕捉關鍵時刻與保存資訊的重要性，更讓我理解如何以不同的視角看世界，以及如何用心去欣賞我們身處的美麗世界。
 
-我對他老人家最美好的回憶之一，就是他對學習以及[寫筆記](__GHOST_URL__/note-taking-quirks/)的熱愛。他不但是一位業餘的攝影師，書法也寫得極好！更讓我佩服的是他的學習精神，從不忘記寫下他所學到的東西和他遇到的問題。無論走到哪裡，他都會隨身攜帶一本筆記本，並在字裡行間寫下他的想法、思考和觀察。
+我對他老人家最美好的回憶之一，就是他對學習以及[寫筆記](https://copywriting.vista.tw/note-taking-quirks/)的熱愛。他不但是一位業餘的攝影師，書法也寫得極好！更讓我佩服的是他的學習精神，從不忘記寫下他所學到的東西和他遇到的問題。無論走到哪裡，他都會隨身攜帶一本筆記本，並在字裡行間寫下他的想法、思考和觀察。
 
 [
 
@@ -103,9 +103,9 @@ Vista教您建立靈感資料庫，神奇點子信手拈來！
 
 筆記本上的格線，的確有助於幫我們組織，把版面整理得更清爽、易於閱讀，當然也可以提供記錄的指引。但我也看過好多人，做好記錄之後還要重新謄寫過，以便整理出一本漂亮的筆記。 做筆記的方式本身沒有對錯，但我們不妨思考一下，自己是否被這些既定的框架、格式所拘泥了？自己的行為模式，是否因此而僵化了？
 
-![](__GHOST_URL__/content/images/icon/favicon-10.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-10.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E4-BD-A0-E5-9C-A8-E5-AF-AB-E7-AD-86-E8-A8-98-EF-BC-8C-E9-82-84-E6-98-AF-E7-AD-86-E8-A8-98-E5-9C-A8-E5-AF-AB-E4-BD-A0-EF-BC-9F-1.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E4-BD-A0-E5-9C-A8-E5-AF-AB-E7-AD-86-E8-A8-98-EF-BC-8C-E9-82-84-E6-98-AF-E7-AD-86-E8-A8-98-E5-9C-A8-E5-AF-AB-E4-BD-A0-EF-BC-9F-1.jpg)
 
 ](https://www.vistacheng.com/2021/04/note-taking.html)
 
@@ -125,7 +125,7 @@ Vista教您建立靈感資料庫，神奇點子信手拈來！
 
 感謝家父給我的骨血基因，讓我繼承了他對藝文的熱愛。他所留下的那些靈感筆記，讓我體認到創作和記錄的重要性，同時也促使我在遇到問題時，能夠冷靜思考和整理眼前的所有場景。
 
-![](__GHOST_URL__/content/images/2025/02/465696002_10160527857739053_8171019356747556561_n.jpg)
+![](https://copywriting.vista.tw/content/images/2025/02/465696002_10160527857739053_8171019356747556561_n.jpg)
 
 牆上的照片，不乏得獎作品。
 

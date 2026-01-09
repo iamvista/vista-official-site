@@ -7,13 +7,13 @@ heroImage: "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?crop=entro
 tags: ["內容行銷"]
 ---
 
-[銷售頁](__GHOST_URL__/how-to-design-a-landing-page/)，也就是大家時常在電商或行銷場合中聽到的Landing page。在網路行銷的領域之中，銷售頁可說是一個重要的角色。有的時候，也被稱為「著陸頁」或「名單搜集頁面」，就是當潛在用戶點擊廣告或者利用搜尋引擎搜尋之後顯示給用戶的網頁。一般而言，這個頁面會顯示和所點擊廣告或搜尋結果連結相關的擴展內容，而且這個頁面應該是針對某個關鍵字做過搜尋引擎優化的。
+[銷售頁](https://copywriting.vista.tw/how-to-design-a-landing-page/)，也就是大家時常在電商或行銷場合中聽到的Landing page。在網路行銷的領域之中，銷售頁可說是一個重要的角色。有的時候，也被稱為「著陸頁」或「名單搜集頁面」，就是當潛在用戶點擊廣告或者利用搜尋引擎搜尋之後顯示給用戶的網頁。一般而言，這個頁面會顯示和所點擊廣告或搜尋結果連結相關的擴展內容，而且這個頁面應該是針對某個關鍵字做過搜尋引擎優化的。
 
 以銷售導向的銷售頁來說，撰寫的目的無非希望可以抓住目標受眾的注意力，進而吸引他們駐足觀看，並採取購買、訂閱、下載或捐款等行動。
 
 毫無疑問，我們之所以要設計銷售頁，自然是以銷售產品或服務為主要目的。所以，有些人會誤以為在設計銷售頁的時候，就應該包羅萬象，把各種產品資訊與細節都收錄進來，藉此吸引目標受眾的關注。但是要特別小心，這樣做的話可能適得其反！
 
-實際上，一個有效的銷售頁不應該包含過量的資訊，而**必須讓**[**目標受眾**](__GHOST_URL__/how-to-write-copy/)**注意到產品的核心價值，並凸顯對受眾有利的資訊。**所以，在設計銷售頁的時候，通常是採用相對簡單明瞭的視覺設計方式來聚焦，並透過影音、表單和行動呼籲按鈕等元素來吸引受眾的關注。
+實際上，一個有效的銷售頁不應該包含過量的資訊，而**必須讓**[**目標受眾**](https://copywriting.vista.tw/how-to-write-copy/)**注意到產品的核心價值，並凸顯對受眾有利的資訊。**所以，在設計銷售頁的時候，通常是採用相對簡單明瞭的視覺設計方式來聚焦，並透過影音、表單和行動呼籲按鈕等元素來吸引受眾的關注。
 
 銷售頁的運作邏輯很簡單，也就是曝光、瀏覽和轉換。目前坊間有很多方便的銷售頁設計工具和服務，讓沒有網頁設計基礎的朋友也能容易上手！不過，設計好銷售頁，並把它傳遞到目標受眾的面前之後，挑戰才真正開始！銷售頁真正的成敗關鍵，也就是在最後階段的轉換。
 
@@ -23,11 +23,11 @@ tags: ["內容行銷"]
 
 什麼是「FAB銷售法則」（FAB Selling Technique）呢？簡單來說，「FAB銷售法則」是負責推銷的人士以文字、視覺或影音的溝通方式向消費者提供分析、介紹產品利益的一種好方法。想想如果今天你收到主管的指示，要幫某一款產品或服務撰寫銷售的文案，你會如何著手寫這篇文章呢？
 
-![](__GHOST_URL__/content/images/icon/yv-12.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-12.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1540080207997-ebe067608bd2)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1540080207997-ebe067608bd2)
 
-](__GHOST_URL__/fab-technique/)
+](https://copywriting.vista.tw/fab-technique/)
 
 也曾有業界朋友問過我，應該如何設定轉換的標準和指標。但其實這並沒有標準答案，全然取決於貴公司的產品、服務而定，以及大家所賦予這個銷售頁的目標與相關規劃。
 
@@ -35,7 +35,7 @@ tags: ["內容行銷"]
 
 舉例來說，常見的銷售頁轉換目標，多半是向目標受眾銷售商品、服務，或是設法透過電子郵件地址來搜集有效名單。在這邊我要特別提出來，很多人可能有些誤解，會以為在這個社群年代，電子郵件早就落伍了，其實不然！我認為，相較於傳統的行銷方式，**電子郵件行銷反而是一種主動出擊的行銷方式**，只要搭配有效的名單進行宣傳，更可相得益彰。
 
-至於銷售頁上頭所預埋的[行動呼籲](__GHOST_URL__/two-methods-to-call-to-action/)，其實也相當關鍵。所謂的行動呼籲，其用意就是希望激發目標受眾的內心想望，在看完銷售頁上頭的文案、影音之後，可以實際採取行動──好比希望消費者購買商品，或是捐款、捐血或參加活動等等。
+至於銷售頁上頭所預埋的[行動呼籲](https://copywriting.vista.tw/two-methods-to-call-to-action/)，其實也相當關鍵。所謂的行動呼籲，其用意就是希望激發目標受眾的內心想望，在看完銷售頁上頭的文案、影音之後，可以實際採取行動──好比希望消費者購買商品，或是捐款、捐血或參加活動等等。
 
 想要設計簡潔有力的行動呼籲，你可以先問自己以下幾個問題：希望目標受眾做哪些事情？如何確保目標受眾知道自己該做哪些事情？以及目標受眾為什麼要接受指令，做這些事？他們可以從中得到什麼利益嗎？
 
@@ -45,9 +45,9 @@ tags: ["內容行銷"]
 
 說到銷售頁，大家應該不陌生吧？我們常會從社群網絡上頭看到各種設計精美的網頁，而這些網頁無論是使用坊間常見的架站工具所打造，或奠基於WordPress等部落格平臺，往往都肩負了帶動商品銷售或促進網友採取特定行動的任務。
 
-![](__GHOST_URL__/content/images/icon/favicon-2.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-2.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E5-A6-82-E4-BD-95-E8-AE-93-E9-8A-B7-E5-94-AE-E9-A0-81-E8-AE-8A-E6-88-90-E5-8D-B0-E9-88-94-E6-A9-9F-EF-BC-9F.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E5-A6-82-E4-BD-95-E8-AE-93-E9-8A-B7-E5-94-AE-E9-A0-81-E8-AE-8A-E6-88-90-E5-8D-B0-E9-88-94-E6-A9-9F-EF-BC-9F.jpg)
 
 ](https://www.contenthacker.today/2019/06/how-to-turn-landing-pages-into-money-making-machines.html)
 
@@ -69,11 +69,11 @@ tags: ["內容行銷"]
 
 我們以坊間常見的銷售頁為例，除了運用清楚的圖文來展現商品的規格與特性，如果可以把獨特價值主張置於行動呼籲（Call to Action）的附近（好比在購買連結旁強化該商品的價值），將有可能進一步觸發或提升消費者的購買決策。
 
-![](__GHOST_URL__/content/images/icon/yv-13.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-13.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1665686308827-eb62e4f6604d)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1665686308827-eb62e4f6604d)
 
-](__GHOST_URL__/how-to-create-a-value-proposition/)
+](https://copywriting.vista.tw/how-to-create-a-value-proposition/)
 
 對了，也因為新版個資法和歐盟的「[一般資料保護規則](https://zh.wikipedia.org/zh-tw/歐盟一般資料保護規範)」（GDPR）已經上路，所以這個部分也要請您特別小心哦！
 
@@ -101,9 +101,9 @@ tags: ["內容行銷"]
 
 在內容行銷的領域中，對內容創作者來說，內容策略就像是指引方向的指南針，可說是舉足輕重的角色。它不僅僅是關於創造吸引人的內容，更重要的是協助制定一個明確的計畫，來指導內容的創造、發布、管理過程，以及如何衡量這些內容的效果。一個有效的內容策略能夠幫助創作者與目標受眾建立連結，並且在競爭激烈中脫穎而出。
 
-![](__GHOST_URL__/content/images/icon/favicon-3.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-3.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/DALL-C2-B7E-202024-03-21-2013.11.58-20--20Imagine-20a-20modern-20office-20scene-20where-20two-20Taiwanese-20women-20and-20one-20Taiwanese-20man-20are-20deeply-20engaged-20in-20a-20work-20discussion.-20The-20office-20is-20designed-20with-20sle.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/DALL-C2-B7E-202024-03-21-2013.11.58-20--20Imagine-20a-20modern-20office-20scene-20where-20two-20Taiwanese-20women-20and-20one-20Taiwanese-20man-20are-20deeply-20engaged-20in-20a-20work-20discussion.-20The-20office-20is-20designed-20with-20sle.jpg)
 
 ](https://www.contenthacker.today/2024/06/why-you-need-a-content-strategy.html)
 

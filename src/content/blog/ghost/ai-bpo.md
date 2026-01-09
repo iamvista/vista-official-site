@@ -3,7 +3,7 @@ title: "從「最可能被 AI 取代」到逆勢領航：AI 驅動下的客服�
 description: "AI 浪潮席捲各行各業，客服外包產業被視為最早遭受衝擊的領域之一。然而，程曦資訊董事長黃士軍卻選擇正面迎擊，以招募機器人、面試模擬、訓練 AI 與品質控管自動化等實戰作為，帶領團隊從「被取代邊緣」挺進「數位轉型典範」。7 月 23 日黃士軍董事長在講座中精采分享，全面揭示 AI 如何從工具變為戰略夥伴，如何協助企業重建成本結構、人才布局與競爭優勢。"
 pubDate: "2025-07-24T10:56:03.000Z"
 updatedDate: "2025-07-24T11:49:45.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/07/9B69BE05-07E8-43CE-9C34-ED3B8CFF223A.jpg"
+heroImage: "https://copywriting.vista.tw/content/images/2025/07/9B69BE05-07E8-43CE-9C34-ED3B8CFF223A.jpg"
 tags: ["人工智慧"]
 ---
 
@@ -17,11 +17,11 @@ tags: ["人工智慧"]
 
 當 AI 不再只是工具，而是重塑行銷邏輯與組織文化的驅動力，我們該如何重新定位自我與品牌？7月23日，我參加了【AI驅動 × 永續創新】產業趨勢講座，主講人懿文學妹在這場講座不是在教大家怎麼用AI做廣告，而是帶領我們深入思考：「在 AI 時代，我們要成為什麼樣的行銷人？」從哲學性的廣告價值，到品牌三層論、AI 雙刃劍效應與企業內部的文化轉型，懿文以其30年的產業歷練，條理分明地引領我們穿越技術浪潮，看清產業的底層邏輯。
 
-![](__GHOST_URL__/content/images/icon/yv-52.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-52.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/S__2981897_0.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/S__2981897_0.jpg)
 
-](__GHOST_URL__/ai-marketing-redefined/)
+](https://copywriting.vista.tw/ai-marketing-redefined/)
 
 程曦資訊集團作為臺灣最大的客服外包公司，服務涵蓋高鐵、台鐵、台電與台水等重要公共事業，以及各大銀行的客戶服務中心。黃董事長笑稱，在媒體各種有關「AI 將取代的職業排行榜」調查中，客服外包幾乎都榜上有名，常常位居前三名。面對這樣的現象，黃董事長的回應方式讓我深感佩服：不否認，也不抗拒，而是主動迎戰。
 
@@ -201,11 +201,11 @@ AI 模擬訓練提供的是近似真實的壓力環境，讓學員得以在反�
 
 在這個內容爆炸、注意力稀缺的時代，我們需要的不只是資訊呈現能力，而是說服力、洞察力與故事力。簡報從來不是單向傳遞資訊，而是為了說服、為了激起行動。AI在這裡，可以幫你做很多事——但你得清楚分工。所以，AI 可以說是我們打造這些能力的第二大腦。
 
-![](__GHOST_URL__/content/images/icon/yv-53.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-53.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1677442136019-21780ecad995-1)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1677442136019-21780ecad995-1)
 
-](__GHOST_URL__/ai-powered-presentation/)
+](https://copywriting.vista.tw/ai-powered-presentation/)
 
 ### 從自動化到智能化的跨越
 

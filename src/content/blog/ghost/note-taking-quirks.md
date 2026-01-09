@@ -37,9 +37,9 @@ tags: ["筆記","寫作"]
 
 筆記本上的格線，的確有助於幫我們組織，把版面整理得更清爽、易於閱讀，當然也可以提供記錄的指引。但我也看過好多人，做好記錄之後還要重新謄寫過，以便整理出一本漂亮的筆記。 做筆記的方式本身沒有對錯，但我們不妨思考一下，自己是否被這些既定的框架、格式所拘泥了？自己的行為模式，是否因此而僵化了？
 
-![](__GHOST_URL__/content/images/icon/favicon-4.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-4.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E4-BD-A0-E5-9C-A8-E5-AF-AB-E7-AD-86-E8-A8-98-EF-BC-8C-E9-82-84-E6-98-AF-E7-AD-86-E8-A8-98-E5-9C-A8-E5-AF-AB-E4-BD-A0-EF-BC-9F.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E4-BD-A0-E5-9C-A8-E5-AF-AB-E7-AD-86-E8-A8-98-EF-BC-8C-E9-82-84-E6-98-AF-E7-AD-86-E8-A8-98-E5-9C-A8-E5-AF-AB-E4-BD-A0-EF-BC-9F.jpg)
 
 ](https://www.vistacheng.com/2021/04/note-taking.html)
 

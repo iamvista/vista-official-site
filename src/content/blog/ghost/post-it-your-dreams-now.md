@@ -3,7 +3,7 @@ title: "我讀《每天寫一張神可貼，九成願望都能實現！》：每
 description: "你是否曾經卡住，不知道下一步該往哪裡走？坂下仁的這本《每天寫一張神可貼，九成願望都能實現！》不只是一本自我成長工具書，更是一場關於覺察、行動與轉變的貼紙革命。只要每天寫下一張便利貼，把「我想做的事」貼在牆上，你的大腦就會開始替你導航，將潛意識變成人生的推進器。這篇讀書心得從實際實驗與專業角度切入，帶你深入解析便利貼曼陀羅的威力，並分享如何將這套方法轉化為創作者、教育者、斜槓工作者的生命加速器。讓願望不再只是想想而已，而是天天都有行動的魔法！"
 pubDate: "2025-07-04T13:46:29.000Z"
 updatedDate: "2025-07-04T13:46:29.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/07/---------.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/07/---------.png"
 tags: ["讀書心得"]
 ---
 
@@ -19,15 +19,15 @@ tags: ["讀書心得"]
 
 書名：每天寫一張神可貼，九成願望都能實現！，原文名稱：やりたいことが絶対見つかる神ふせん，語言：繁體中文，ISBN：9789861367415，頁數：208，出版社：如何，作者：坂下仁，譯者：林詠純，出版日期：2025/07/01，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-36.ico)博客來
+![](https://copywriting.vista.tw/content/images/icon/favicon-36.ico)博客來
 
-![](__GHOST_URL__/content/images/thumbnail/getImage-9)
+![](https://copywriting.vista.tw/content/images/thumbnail/getImage-9)
 
 ](https://www.books.com.tw/products/0011024719?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
 
 書中最讓我震撼的，正是作者反覆強調的「寫下」、「貼上」與「重新排列」三部曲。這看似簡單的動作，卻牽動了我們認知與潛意識之間的對話機制。許多學生和企業講師常問我，怎樣才能更明確自己的方向？這本書提供了一個極具實作性的答案：你只要每天寫下一張便利貼。
 
-![](__GHOST_URL__/content/images/2025/07/sticky_note_process_flow.png)
+![](https://copywriting.vista.tw/content/images/2025/07/sticky_note_process_flow.png)
 
 這張便利貼，不是待辦事項，也不是情緒日記，而是「你想做的事」的種子。你不需要立刻知道怎麼做、可不可行，只需要誠實寫下「我想要......」。這個動作會激活大腦中的多巴胺分泌，透過生理機制觸發心理動能，讓你更清晰地看見自我。
 
@@ -37,7 +37,7 @@ tags: ["讀書心得"]
 
 曼陀羅思考法的核心在於：從中心主題出發，向外延展出八個子主題，再各自展開行動項目。若將每一格都寫在便利貼上，不僅便於替換與重組，更形象呈現了行動場域與動能流動的變化。這種可視化的規劃策略，非常適合我這類常在多重專案中穿梭的創意工作者。
 
-![](__GHOST_URL__/content/images/2025/07/mandala_thinking.png)
+![](https://copywriting.vista.tw/content/images/2025/07/mandala_thinking.png)
 
 作者強調，寫下的過程不僅僅是記錄，更是一種與潛意識對話的方式。當我們將模糊的想法轉化為具體的文字時，大腦會自動開始整理和分類這些資訊。便利貼的小尺寸迫使我們精煉表達，這種限制反而激發了創造力。
 
@@ -47,7 +47,7 @@ tags: ["讀書心得"]
 
 作者指出，「貼上」的動作不只是為了整理資訊，而是一種儀式感的實踐。我們每次將便利貼啪地貼上，就像是對自己的願望承諾了一次行動。作者說這會產生多巴胺，從神經科學角度看，也確實如此——儀式能強化記憶與情緒，協助我們鞏固認知與行動的連結。多巴胺是大腦的「獎賞激素」，它不僅讓我們感到快樂，還能提高專注力和創造力。這解釋了為什麼很多人在貼便利貼時會感到莫名的愉悅和興奮。
 
-![](__GHOST_URL__/content/images/2025/07/dopamine_mechanism.png)
+![](https://copywriting.vista.tw/content/images/2025/07/dopamine_mechanism.png)
 
 我認為，「重新排列」是整個系統中最具魔力的環節。透過移動和重組便利貼，我們實際上是在進行空間化思考。這種思考方式能夠揭示隱藏的連結和模式，讓看似無關的想法產生新的組合和可能性。
 

@@ -15,9 +15,9 @@ Vista電子報 No.29：AI寫作煉金術
 
 2023年6月11日，Vista應邀在益品書屋臺中館舉辦的講座精華。
 
-![](__GHOST_URL__/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-1.png)Vista電子報Vista Cheng
+![](https://copywriting.vista.tw/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-1.png)Vista電子報Vista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2F0a0d4a7e-a533-4e35-95a0-856edd7bdb84_2048x985.jpeg)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2F0a0d4a7e-a533-4e35-95a0-856edd7bdb84_2048x985.jpeg)
 
 ](https://iamvista.substack.com/p/vista-no29ai)
 
@@ -37,11 +37,11 @@ Vista電子報 No.29：AI寫作煉金術
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](__GHOST_URL__/content/images/icon/yv-15.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-15.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-1)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-1)
 
-](__GHOST_URL__/embracing-ai/)
+](https://copywriting.vista.tw/embracing-ai/)
 
 **那麼，要如何讓 AI 成為你的最佳寫作助手？**
 
@@ -83,9 +83,9 @@ EP98｜鄭緯筌的AI寫作法：善用ChatGPT與智能工具，提高生產力
 
 本集《職場冰淇淋》邀請AI寫作專家鄭緯筌（Vista）老師，分享使用ChatGPT如何提升問題品質、獲得更精確答案的技巧。請各位聽眾冰友不要錯過本集節目！鄭緯筌老師認為，人類的情感與創造力並非輕易被取代之物，希望大家勇於嘗試使用ChatGPT，充分利用AI工具，提升生活與工作效率。
 
-![](__GHOST_URL__/content/images/icon/cropped-cropped-web-icon-270x270.png)品碩創新－人才培育與組織變革的專家職場冰淇淋 編輯部
+![](https://copywriting.vista.tw/content/images/icon/cropped-cropped-web-icon-270x270.png)品碩創新－人才培育與組織變革的專家職場冰淇淋 編輯部
 
-![](__GHOST_URL__/content/images/thumbnail/34162.jpeg)
+![](https://copywriting.vista.tw/content/images/thumbnail/34162.jpeg)
 
 ](https://pinshuoi.com/34162/)
 

@@ -35,11 +35,11 @@ tags: ["日記"]
 
 有時候，世界太過喧囂，而內心卻只剩下沉默。今天，在醫院陪伴母親，心裡滿是壓力與無力感。即便身邊有人陪伴，卻依然感到孤單，甚至對這個家庭感到無奈。與妹妹話不投機，論文寫不下去，這一天的情緒低落到極點。但即便如此，仍然試圖找到微小的光亮，比如與 AI 討論新商業模式，比如持續堅持某個決定，比如反思人與人之間的真誠與距離。人生或許本就是這樣——在無聲的角落，試著讓自己與世界重新對話。
 
-![](__GHOST_URL__/content/images/icon/yv-27.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-27.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1621765808360-5b2ea25d147a)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1621765808360-5b2ea25d147a)
 
-](__GHOST_URL__/the-weight-of-loneliness/)
+](https://copywriting.vista.tw/the-weight-of-loneliness/)
 
 我們總說，生病讓人脆弱，但或許，**正因為脆弱，我們才會更清楚地看見，誰是真正在乎我們的人。**
 
@@ -79,6 +79,6 @@ tags: ["日記"]
 
 這一天，我學到了如何照顧母親，深刻體會到親友關懷的可貴。我仍然感到疲憊，仍然有許多未解的難題，但**至少，我慢慢地前進，願意勇敢地迎接每一個新的開始。**
 
-因為人生的本質，從來不是停留，而是**學會如何在變化中找到自己的步調，然後，**[**繼續往前走**](__GHOST_URL__/slow-life/)**。**
+因為人生的本質，從來不是停留，而是**學會如何在變化中找到自己的步調，然後，**[**繼續往前走**](https://copywriting.vista.tw/slow-life/)**。**
 
 [請 Vista 喝杯咖啡](https://vista.im/coffee)

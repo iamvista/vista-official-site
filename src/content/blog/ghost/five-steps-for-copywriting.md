@@ -33,7 +33,7 @@ tags: ["寫作"]
 *   思考客戶為何要看您所寫的文案？
 *   思考如何說服目標受眾立即[行動](https://www.contenthacker.today/2019/01/how-to-create-the-perfect-call-to-action.html)？
 
-其實，曾上過我的文案課或參加過「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion/)」的朋友們，一定對上述這五點不陌生。我也簡單針對這五個步驟，提供一些個人的見解。
+其實，曾上過我的文案課或參加過「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion/)」的朋友們，一定對上述這五點不陌生。我也簡單針對這五個步驟，提供一些個人的見解。
 
 ## 精確鎖定潛在客群
 

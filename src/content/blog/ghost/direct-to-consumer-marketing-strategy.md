@@ -19,7 +19,7 @@ D2C的精髓在於善用網路直接與消費者產生連結，藉此擺脫經�
 
 伴隨資訊科技的日新月異與商業邏輯的快速迭代，加上人際之間長期以來所造成的疏離，讓我們在忙碌的生活中得以享受許多便利，卻也在無形中墊高商品行銷的成本。如今，已然進入了「酒香也怕巷子深」的時代；一旦少了平臺或經銷商的挹注，業者在從事[品牌行銷](https://www.vistacheng.com/2021/06/personal-branding.html)時就必須自立自強，想方設法讓顧客能夠「看到」自己的數位足跡。
 
-所以，根據YOTPO公司在2019年所做的調查發現，有**高達61％的D2C品牌主要依靠社群媒體來吸引客戶**；此外，[SEO](__GHOST_URL__/build-up-seo-thinking/)對D2C行銷也有偌大的助力，有多達51％的業者藉此吸引客戶。
+所以，根據YOTPO公司在2019年所做的調查發現，有**高達61％的D2C品牌主要依靠社群媒體來吸引客戶**；此外，[SEO](https://copywriting.vista.tw/build-up-seo-thinking/)對D2C行銷也有偌大的助力，有多達51％的業者藉此吸引客戶。
 
 基於有效[撙節成本](https://www.contenthacker.today/2019/05/the-benefits-of-using-of-social-media-for-government.html)以及與消費者保持緊密關聯等特性，近年來已有包括床墊品牌Casper、眼鏡品牌Warby Parker、行李箱品牌Away、日拋隱形眼鏡品牌Hubble與刮鬍刀品牌Dollar Shave Club……在內的多家業者，紛紛擁抱D2C行銷。
 

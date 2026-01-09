@@ -11,7 +11,7 @@ tags: ["寫作","內容行銷"]
 
 簡單來說，我們只需要注意以下三個面向即可：
 
-*   [目標受眾](__GHOST_URL__/reach-your-target-audience-more-effectively/)（Audience）：寫文之前必須弄清楚，您在對誰說話？千萬別以為只要隨便寫一篇文章，就可以打中所有人了！
+*   [目標受眾](https://copywriting.vista.tw/reach-your-target-audience-more-effectively/)（Audience）：寫文之前必須弄清楚，您在對誰說話？千萬別以為只要隨便寫一篇文章，就可以打中所有人了！
 *   商品特色（Features）：簡單來說，不能只是在文案中堆砌華麗的詞藻，更需要明確提到自家商品有哪些具體的特色、利益？
 *   瞄準目標（Aim）：這個面向牽涉到聚焦與轉換效益，也就是大家最關注的部份；換言之，文案能否達到宣傳的成效，自然必須先設定瞄準的目標。
 

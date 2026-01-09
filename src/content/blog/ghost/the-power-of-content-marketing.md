@@ -9,7 +9,7 @@ tags: ["內容行銷"]
 
 > 本文作者是東吳大學企業管理學系[林格葦](https://www.facebook.com/gracelinwing)同學，感謝授權轉載。
 
-本學期的「數位行銷實務專題」，特別邀請[鄭緯筌](__GHOST_URL__/)講座分享「[數位時代的內容行銷力](https://www.ba.scu.edu.tw/zh-hant/node/3599)」。[鄭緯筌](https://www.vistacheng.com)講師（Vista）是暢銷書籍《[内容感動行銷](https://www.books.com.tw/exep/assp.php/vista/products/0010838761?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202204)》的作者，也是「Vista寫作陪伴計畫」主理人。他不僅是自媒體創作者，亦經常幫企業內部做內容行銷顧問。
+本學期的「數位行銷實務專題」，特別邀請[鄭緯筌](https://copywriting.vista.tw/)講座分享「[數位時代的內容行銷力](https://www.ba.scu.edu.tw/zh-hant/node/3599)」。[鄭緯筌](https://www.vistacheng.com)講師（Vista）是暢銷書籍《[内容感動行銷](https://www.books.com.tw/exep/assp.php/vista/products/0010838761?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202204)》的作者，也是「Vista寫作陪伴計畫」主理人。他不僅是自媒體創作者，亦經常幫企業內部做內容行銷顧問。
 
 在這場講座上，Vista老師先讓我們了解何謂[內容行銷](https://www.contenthacker.today/search/label/內容行銷)？同時針對内容行銷的優點以及策略方法進行介紹，最後以實例來加深我們對內容行銷的了解，也可以發現其實這樣的行銷方式，已經漸漸融入一般消費者的日常生活。
 

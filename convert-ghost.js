@@ -66,12 +66,16 @@ async function migrate() {
 
         // Image handling: make relative paths absolute
         let heroImage = post.feature_image;
-        if (heroImage && heroImage.startsWith('/')) {
-            heroImage = `${DOMAIN}${heroImage}`;
+        if (heroImage) {
+            heroImage = heroImage.replace('__GHOST_URL__', DOMAIN);
+            if (heroImage.startsWith('/')) {
+                heroImage = `${DOMAIN}${heroImage}`;
+            }
         }
 
         // Convert Content
-        let markdown = turndownService.turndown(post.html || '');
+        let htmlContent = (post.html || '').replace(/__GHOST_URL__/g, DOMAIN);
+        let markdown = turndownService.turndown(htmlContent);
 
         // Fix relative images in content
         markdown = markdown.replace(/!\[([^\]]*)\]\((\/[^)]+)\)/g, (match, alt, url) => {

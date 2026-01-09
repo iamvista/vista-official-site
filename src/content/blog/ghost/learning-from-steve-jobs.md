@@ -3,7 +3,7 @@ title: "我看《跟賈伯斯學創新思考》：當創新成為一種生活方
 description: "《跟賈伯斯學創新思考》不只是一本談創意的書，而是一場重新學會「看世界」的旅程。作者卡曼・蓋洛以簡潔流暢的筆法，拆解史蒂夫・賈伯斯如何用七大心法──熱情、願景、跨界思維、顧客夢想、簡約設計、極致體驗與故事敘事──打造出改變時代的創新文化。這本書讓人明白，創新並非天才的專利，而是一種可被培養的生活態度。無論你是創業者、教師、設計師，或只是想讓人生更有火花的普通人，都能從中找到啟發。每一章都像一面鏡子，讓我們學會「不同凡想」，並行動成為改變世界的人。"
 pubDate: "2025-10-05T13:41:26.000Z"
 updatedDate: "2025-10-05T13:53:32.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/10/----------2.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/10/----------2.png"
 tags: ["讀書心得","職涯"]
 ---
 
@@ -29,7 +29,7 @@ tags: ["讀書心得","職涯"]
 
 當年 [iPod](https://zh.wikipedia.org/wiki/IPod) 的那句廣告詞「把一千首歌裝進口袋」，無疑是一個[經典案例](https://www.cna.com.tw/news/ait/202205110115.aspx)。它不是單純地描述規格，而是願景轉譯——一種讓人立刻懂、立刻想要的語言。
 
-![](__GHOST_URL__/content/images/2025/10/iPod.png)
+![](https://copywriting.vista.tw/content/images/2025/10/iPod.png)
 
 > [iPod](https://medium.com/@onlykutts/ipod-a-thousand-songs-in-your-pocket-c307931d626a) advertising’s success was due in large part to its simplicity. A brief tagline and simple, straightforward message provided all of the information needed to grasp what the iPod is about.
 
@@ -39,7 +39,7 @@ tags: ["讀書心得","職涯"]
 
 賈伯斯說：「創意就是把不同的點連接起來。」
 
-這句話在今日的 [AI 時代](__GHOST_URL__/embracing-ai/)，更具啟發性。跨界學習不只是懂一點別的領域，而是讓大腦保持多元輸入，讓連結的可能性最大化。
+這句話在今日的 [AI 時代](https://copywriting.vista.tw/embracing-ai/)，更具啟發性。跨界學習不只是懂一點別的領域，而是讓大腦保持多元輸入，讓連結的可能性最大化。
 
 書中提到他如何從日本禪宗、德國工藝到皮克斯動畫汲取靈感。這也提醒我，創新的燃料往往來自好奇心的橫向擴張。
 
@@ -87,7 +87,7 @@ tags: ["讀書心得","職涯"]
 
 賈伯斯懂得用故事說服、啟動共鳴和建立信仰，這是大家都了然於心的。他在產品發表會上總是用衝突、轉折與解決等三幕結構，讓生硬的科技變成生動的戲劇。
 
-![](__GHOST_URL__/content/images/2025/10/----------3.png)
+![](https://copywriting.vista.tw/content/images/2025/10/----------3.png)
 
 卡曼・蓋洛自身是溝通教練，他把這套敘事力延伸為創新溝通的核心能力。這對任何領導者、講師以及創作者來說，都極具啟發意義。
 

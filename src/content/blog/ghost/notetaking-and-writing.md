@@ -7,7 +7,7 @@ heroImage: "https://images.unsplash.com/photo-1717726974158-2a5ffd7a5451?crop=en
 tags: ["寫作"]
 ---
 
-平時除了教[文案寫作](__GHOST_URL__/five-steps-for-copywriting/)、[內容行銷](https://www.vistacheng.com/2020/05/the-power-of-content-marketing.html)，我也會針對廣大的上班族朋友開設「[職場寫作力](https://www.accupass.com/event/1806260807584248423420)」課程。
+平時除了教[文案寫作](https://copywriting.vista.tw/five-steps-for-copywriting/)、[內容行銷](https://www.vistacheng.com/2020/05/the-power-of-content-marketing.html)，我也會針對廣大的上班族朋友開設「[職場寫作力](https://www.accupass.com/event/1806260807584248423420)」課程。
 
 這堂課從寫作綱要和[內容策略](https://www.contenthacker.today/search?q=%E5%85%A7%E5%AE%B9%E7%AD%96%E7%95%A5)開始切入，教大家寫出可以有效說服主管、客戶的內容。不僅聚焦在職場寫作力的培養，更希望協助每位學員找到溝通、傳達的方法與樂趣。  
 ──職場寫作力，就是你的超能力！

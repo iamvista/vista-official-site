@@ -3,7 +3,7 @@ title: "我看《DEALS 交易力》：看懂商業世界的底層邏輯，學會
 description: "《DEALS 交易力》是美國哈佛與史丹佛大學教授聯手打造的經典課程，帶你從經濟學角度重新理解商業交易。書中透過併購、授權、合作與糾紛等真實案例，揭露交易背後的邏輯：如何處理資訊不對稱、預防道德風險、設計誘因機制與退場條款。作者主張，真正的交易力不在談判技巧，而在結構設計——懂得分配風險、創造共同剩餘、確保長期穩定。這是一本結合理論與實務的策略聖經，適合企業領導者、創業者與顧問精讀。"
 pubDate: "2025-10-06T05:37:34.000Z"
 updatedDate: "2025-10-06T05:49:50.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/10/----------------.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/10/----------------.png"
 tags: ["讀書心得","職涯"]
 ---
 
@@ -109,6 +109,6 @@ AI 時代的契約設計，更加凸顯這種平衡的必要。因為技術變�
 
 如果說《[從 0 到 1](https://www.books.com.tw/exep/assp.php/vista/products/0010651050?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202510)》教你如何創業，那麼《[DEALS 交易力](https://www.books.com.tw/products/0011031119?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202510)》就是一本教你如何守護與分配價值的好書。
 
-這本書的價值，不只在於幫你談成一筆交易，而是幫你建立思考與設計交易的能力。而這種能力，在 [AI 時代](__GHOST_URL__/tag/ai/)的多邊合作與跨界競合中，將成為新的關鍵競爭力。
+這本書的價值，不只在於幫你談成一筆交易，而是幫你建立思考與設計交易的能力。而這種能力，在 [AI 時代](https://copywriting.vista.tw/tag/ai/)的多邊合作與跨界競合中，將成為新的關鍵競爭力。
 
 [請 Vista 喝杯咖啡](https://vista.im/coffee)

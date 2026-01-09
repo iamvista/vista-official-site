@@ -17,7 +17,7 @@ tags: ["寫作"]
 
 雖然要命，但是為了自我實現目標，還是得嚐試及突破！不是我在說，寫得真是⋯⋯呃，連自己都看不下去了！雖然不時有些講師圈朋友會提供我一些回饋，但寫作這件事還是沒有顯著的進步。
 
-在《[刻意練習](https://www.books.com.tw/exep/assp.php/vista/products/0010752714?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201909)》這本書裡面，作者提到了一個很重要的步驟，就是需要教練的指導！只不過我始終沒去找個教練，因為深怕找到了國文老師（這是心理的陰影啊）。就在快要擠不出東西的時候，[Vista](__GHOST_URL__/)出現了！一個存在於某個大群組的網友，居然告訴我可以如何寫得更好？
+在《[刻意練習](https://www.books.com.tw/exep/assp.php/vista/products/0010752714?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201909)》這本書裡面，作者提到了一個很重要的步驟，就是需要教練的指導！只不過我始終沒去找個教練，因為深怕找到了國文老師（這是心理的陰影啊）。就在快要擠不出東西的時候，[Vista](https://copywriting.vista.tw/)出現了！一個存在於某個大群組的網友，居然告訴我可以如何寫得更好？
 
 怪了！這次我卻沒有抗拒Vista給我的回饋，在溝通上也沒有文理相隔的感覺。認識一段時間才發現，哇賽！我好狗運，居然遇到念理工科的寫作大神！念理工科可以強到去教寫作，真的超威的！
 

@@ -35,7 +35,7 @@ tags: ["日記"]
 
 ![](https://static.ghost.org/v5.0.0/images/link-icon.svg)
 
-![](__GHOST_URL__/content/images/thumbnail/logo.png)
+![](https://copywriting.vista.tw/content/images/thumbnail/logo.png)
 
 ](http://www.tcataiwan.org/paperdetail.asp?HP_ID=950)
 

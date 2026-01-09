@@ -21,6 +21,6 @@ tags: ["內容行銷"]
 
 [](https://1.bp.blogspot.com/-LGtpA5Sq88Q/XPWgWgf9qEI/AAAAAAAAizA/GMmwGlz5O8sxUXnaB6fLQusgpGg1rMX0gCLcBGAs/s1600/%25E5%2585%25A7%25E5%25AE%25B9%25E8%25A1%258C%25E9%258A%25B7%25E8%2588%2587%25E6%2596%2587%25E6%25A1%2588%25E5%25AF%25AB%25E4%25BD%259C.jpeg)**在課堂中，老師很注重和學員間的互動，不會死板板地站在講臺前一直講解授課內容。**課程一開始的時候，老師便請學員簡短地自我介紹，也趁此機會了解大家的背景和需求。在一整天的課程中，老師也會拿學員所待的產業和相關產品去舉例。不只是學員們的案例，老師也額外提供了許許多多值得參考的例子，也解說為什麼這些案例值得參考。
 
-「內容行銷＆文案寫作6Hrs實務班」課程的最後一個階段，也是高潮所在，[Vista老師](__GHOST_URL__/)讓我們練習撰寫文案，並透過分組方式與其他學員合作。雖然時間有點緊湊，老師所準備的內容又相當豐富，遠遠超過時間的安排，大家都捨不得下課了！但是透過簡短的幾個練習，卻足以讓我們抓到[商品文案寫作](https://www.contenthacker.today/2019/05/five-ways-to-write-magnificent-copy.html)的精髓。
+「內容行銷＆文案寫作6Hrs實務班」課程的最後一個階段，也是高潮所在，[Vista老師](https://copywriting.vista.tw/)讓我們練習撰寫文案，並透過分組方式與其他學員合作。雖然時間有點緊湊，老師所準備的內容又相當豐富，遠遠超過時間的安排，大家都捨不得下課了！但是透過簡短的幾個練習，卻足以讓我們抓到[商品文案寫作](https://www.contenthacker.today/2019/05/five-ways-to-write-magnificent-copy.html)的精髓。
 
 老師也鼓勵我們要多[練習寫作](https://www.vistacheng.com/2022/01/how-to-develop-a-writing-style.html)，之後若是在寫文案的過程中有任何問題，也都可以透過LINE群組進行討論。整體而言，我很榮幸能夠參加此次的課程，也希望之後可以開設更多類似這樣的實戰課程，以增進自己的實力。

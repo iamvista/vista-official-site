@@ -15,7 +15,7 @@ tags: ["日記"]
 
 當我抵達咖啡館，王老師已經優雅地坐在角落，手邊還放著一本筆記本。她的微笑依舊溫暖，帶著一種歷經歲月卻不減光采的從容。我們寒暄了幾句，話題很快進入正題。
 
-「**現在** [**AI**](__GHOST_URL__/embracing-ai/) **這麼強大，能不能幫助我們這些長年在培訓界的老師，把知識更有效率地傳遞給學員呢？有什麼方法，可以更快速、有效設計教學簡報？**」她問道，眼神裡閃爍著探索的光芒。
+「**現在** [**AI**](https://copywriting.vista.tw/embracing-ai/) **這麼強大，能不能幫助我們這些長年在培訓界的老師，把知識更有效率地傳遞給學員呢？有什麼方法，可以更快速、有效設計教學簡報？**」她問道，眼神裡閃爍著探索的光芒。
 
 我點點頭，打開筆電，向她展示如何使用 [Gamma](https://gamma.app/signup?r=qth4cfgint9qmt0) 這款 AI 工具來設計簡報，如何透過 AI 生成精彩的課綱內容來提升課程品質，甚至可以根據學員需求，**量身打造個人化的學習體驗**。老師聽得入神，不時地點頭。
 
@@ -25,11 +25,11 @@ tags: ["日記"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](__GHOST_URL__/content/images/icon/yv-37.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-37.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-5)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-5)
 
-](__GHOST_URL__/embracing-ai/)
+](https://copywriting.vista.tw/embracing-ai/)
 
 「這真的太棒了！」她笑著說，「但網站呢？如果我要開始建立自己的知識品牌，要從哪裡開始？」
 
@@ -39,7 +39,7 @@ tags: ["日記"]
 
 ## **午後的陪伴：當技術成為夢想的起點**
 
-從咖啡館離開後，我隨即趕往與儀甄約定的咖啡館。她最近也開始打造自己的[個人品牌](__GHOST_URL__/tag/personal-branding/)，想建立一個屬於自己的網站，於是，我決定陪她走過這個過程，讓她少走一些彎路。
+從咖啡館離開後，我隨即趕往與儀甄約定的咖啡館。她最近也開始打造自己的[個人品牌](https://copywriting.vista.tw/tag/personal-branding/)，想建立一個屬於自己的網站，於是，我決定陪她走過這個過程，讓她少走一些彎路。
 
 [
 
@@ -47,9 +47,9 @@ tags: ["日記"]
 
 為了讓更多朋友理解何謂個人品牌，以及該怎麼開始動手打造自己的品牌？最近，很高興有機會可以和「理財+1課」的共同創辦人駱潤生進行對談。駱大本身是一位投資理財專家，他平常除了工作，也在媒體撰寫專欄，跟讀者朋友們分享理財資訊。也因為他開始踏上個人品牌之路，所以我們就從這裏談起⋯⋯
 
-![](__GHOST_URL__/content/images/icon/favicon-14.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-14.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E4-BB-80-E9-BA-BC-E6-98-AF-E5-80-8B-E4-BA-BA-E5-93-81-E7-89-8C-EF-BC-9F.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E4-BB-80-E9-BA-BC-E6-98-AF-E5-80-8B-E4-BA-BA-E5-93-81-E7-89-8C-EF-BC-9F.jpg)
 
 ](https://www.vistacheng.com/2020/05/what-is-personal-branding.html?ref=vista.tw)
 
@@ -77,11 +77,11 @@ Vista 的進化論
 
 如何在 AI 浪潮中突圍，打造屬於你的個人品牌？我相信，這是很多人感到好奇的問題。從文案寫作到數位行銷，再到 AI 驅動的內容創作，我累積了數年的實戰經驗，見證了品牌行銷的劇變。2025 年，我希望可以引領更多創作者與企業探索 AI 賦能的個人品牌新時代，讓價值不再受限於傳統框架，而是透過數據、技術與策略，拓展影響力的無限可能！
 
-![](__GHOST_URL__/content/images/icon/yv-36.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-36.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1669334788758-c97e6263f149)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1669334788758-c97e6263f149)
 
-](__GHOST_URL__/the-evolution-of-vista/)
+](https://copywriting.vista.tw/the-evolution-of-vista/)
 
 她的話語像是一封未經郵戳的信件，無需儀式，卻溫暖直達內心。**這世上最美的連結，或許就是這樣，在不經意間，被一個人惦記著，並希望你能快樂。**
 

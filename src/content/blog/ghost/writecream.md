@@ -27,9 +27,9 @@ tags: ["寫作","人工智慧"]
 
 ## 產製部落格文章的點子
 
-最吸引我關注的工具，自然是「Create Blog Ideas」了！操作介面很簡潔，只需要我輸入「Product/Brand Name」和「Product Description」即可。我以「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion)」為例，看看它可以幫我產出什麼有趣的點子？
+最吸引我關注的工具，自然是「Create Blog Ideas」了！操作介面很簡潔，只需要我輸入「Product/Brand Name」和「Product Description」即可。我以「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion)」為例，看看它可以幫我產出什麼有趣的點子？
 
-大家可以看一下，[Writecream](https://appsumo.8odi.net/ai.writecream)幫我構思了幾個為「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion)」撰寫文章的點子。
+大家可以看一下，[Writecream](https://appsumo.8odi.net/ai.writecream)幫我構思了幾個為「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion)」撰寫文章的點子。
 
 粗略看一下，雖然看得出來系統對中文的支援還不是很完善，但是持平來說，[Writecream](https://appsumo.8odi.net/ai.writecream)幫我構思的某些點子，看在我這個寫作教練的眼裡，其實感覺還不賴呀！回想起我在寫作課上，也常跟學員們分享可以善用主標搭配副標的方式來下標，想想真有意思！電腦不但會選土豆，好像真的會寫文章啊！
 
@@ -110,7 +110,7 @@ Fourth Output:
 6.如何設定寫作動作  
 結論：寫得好，讓你的寫作閃閃發光！
 
-嗯，我特別喜歡[Writecream](https://appsumo.8odi.net/ai.writecream)的結論：**讓「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion)」，幫助你的寫作閃閃發光！**
+嗯，我特別喜歡[Writecream](https://appsumo.8odi.net/ai.writecream)的結論：**讓「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion)」，幫助你的寫作閃閃發光！**
 
 其實，我們在擬定[內容策略](https://www.content.tw/category/content-strategy)時，如果也能參考以上的架構，似乎也有助於寫出一篇四平八穩的文章。
 
@@ -118,7 +118,7 @@ Fourth Output:
 
 不只是可以幫我們構思寫作的靈感，如果你正在創業，[Writecream](https://appsumo.8odi.net/ai.writecream)也可以幫你寫出向天使投資人徵求投資的文案哦！
 
-同樣以「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion)」為例，假設我要以這個專案來爭取天使投資人的投資意向的話：
+同樣以「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion)」為例，假設我要以這個專案來爭取天使投資人的投資意向的話：
 
 #### **Your Angel Pitch Emails:** 
 
@@ -177,7 +177,7 @@ Vista Cheng
 *   **在 Vista 小幫手的協助下，您可以發展實現目標所需的技能。**
 *   **寫作是成功的關鍵**。
 
-哇，我不得不說，Writecream真的有掌握到「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion)」的核心價值呀！
+哇，我不得不說，Writecream真的有掌握到「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion)」的核心價值呀！
 
 ## 產製獨特價值主張
 

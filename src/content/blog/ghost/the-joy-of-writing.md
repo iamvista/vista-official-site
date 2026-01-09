@@ -9,7 +9,7 @@ tags: ["寫作"]
 
 > [本文](https://medium.com/@chunping.cheng/%E5%A3%B9%E8%82%86%E6%9F%92-%E5%AF%AB%E4%BD%9C%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BF%AB%E6%A8%82%E7%9A%84%E4%BA%8B-%E5%85%A7%E5%AE%B9%E6%84%9F%E5%8B%95%E8%A1%8C%E9%8A%B7-%E9%84%AD%E7%B7%AF%E7%AD%8C-vista-%E8%80%81%E5%B8%AB-ff8a9a6aa46d)作者是[鄭君平](https://www.facebook.com/chunping.cheng)（Oscar Cheng），《[一擊必中！給職場人的簡報策略書](https://www.books.com.tw/exep/assp.php/vista/products/0010817343?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201905)》作者。感謝慨允授權轉載，特此申謝。
 
-我想在寫作的圈子中，[Vista老師](__GHOST_URL__/)是我看過少數從構思脈絡到撰寫內容，稱得上是最快的 TOP 3吧！記得2019年五月，在我的《[一擊必中！給職場人的簡報策略書](https://www.books.com.tw/exep/assp.php/vista/products/0010817343?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201905)》的第二場新書分享會上，我遇見了Vista老師親自來參加，我何其榮幸在沒有任何背景、知名度的初始階段，能夠獲得與Vista老師的會談與[書籍推薦文](https://www.contenthacker.today/2019/05/the-value-of-a-great-presentation.html)，真的備感榮幸！[  
+我想在寫作的圈子中，[Vista老師](https://copywriting.vista.tw/)是我看過少數從構思脈絡到撰寫內容，稱得上是最快的 TOP 3吧！記得2019年五月，在我的《[一擊必中！給職場人的簡報策略書](https://www.books.com.tw/exep/assp.php/vista/products/0010817343?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201905)》的第二場新書分享會上，我遇見了Vista老師親自來參加，我何其榮幸在沒有任何背景、知名度的初始階段，能夠獲得與Vista老師的會談與[書籍推薦文](https://www.contenthacker.today/2019/05/the-value-of-a-great-presentation.html)，真的備感榮幸！[  
 ](https://www.contenthacker.today/2019/05/the-value-of-a-great-presentation.html)  
 而且令我最深刻的印象是，這篇文章是Vista老師在分享會的過程中就寫完了！能夠在這麼短的時間產出好的文章，相信背後所積累的經驗與思考絕對不是一、兩年能夠鍛鍊而成，也因此種下個人的[好奇心](https://www.content.tw/writing/speech-reflection)，為什麼Vista老師能夠[這麼快產出文章](https://www.contenthacker.today/2019/02/write-your-blog-post-faster.html)？怎麼利用[文字的力量](https://www.content.tw/?s=%E5%AF%AB%E4%BD%9C)，去產生內容，並行銷給受眾？
 

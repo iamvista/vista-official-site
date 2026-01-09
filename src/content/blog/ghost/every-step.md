@@ -17,15 +17,15 @@ tags: ["日記"]
 
 一路走來，我特別感恩那些關懷與支援：媽媽的貼心照料、親友的問候鼓勵，以及自己在放慢步伐後重新審視的人生。或許我們常常嚮往「健步如飛」的效率，卻忘了「慢步」也有它的好處——你能看清更多細節，感受更多溫暖，也擁有更多思考與自省的空間。
 
-![](__GHOST_URL__/content/images/icon/yv-18.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-18.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1524071556455-5773dff8256d-1)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1524071556455-5773dff8256d-1)
 
-](__GHOST_URL__/slow-life/)
+](https://copywriting.vista.tw/slow-life/)
 
 除了身體的復原，今天也是收穫滿滿的一天。上午，我終於完成了最後一天的函授課程製作，並將完整的內容寄給所有學員。這不僅是一次教學任務的結束，更是另一段旅程的開始。看到下午學員熱情回饋，說課程物超所值，甚至直言學費太便宜，內心湧起了滿滿的成就感。知識的價值並非在於價格，而在於它真正能為人們帶來的改變與啟發。這讓我更加堅定，未來要投入更多精力，打造更高品質的內容，讓學習成為一種有溫度的陪伴。
 
-今天的連結也格外豐富。除了與學員的互動，我還與幾位朋友聊了幾句，甚至幫一位老師用 [ChatGPT](__GHOST_URL__/how-to-use-chatgpt-for-copywriting/) 整理了教案。科技的進步讓我們的工作模式不斷革新，而 AI 的輔助，更是開啟了無限可能。看到朋友對這項技術的興奮與好奇，我不禁也開始思考，自己是否應該更深入學習這些新工具，讓創作與教學的效率更上一層樓。
+今天的連結也格外豐富。除了與學員的互動，我還與幾位朋友聊了幾句，甚至幫一位老師用 [ChatGPT](https://copywriting.vista.tw/how-to-use-chatgpt-for-copywriting/) 整理了教案。科技的進步讓我們的工作模式不斷革新，而 AI 的輔助，更是開啟了無限可能。看到朋友對這項技術的興奮與好奇，我不禁也開始思考，自己是否應該更深入學習這些新工具，讓創作與教學的效率更上一層樓。
 
 [
 
@@ -33,11 +33,11 @@ tags: ["日記"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](__GHOST_URL__/content/images/icon/yv-19.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-19.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-2)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-2)
 
-](__GHOST_URL__/embracing-ai/)
+](https://copywriting.vista.tw/embracing-ai/)
 
 在這樣充實的一天中，最大的收穫之一，莫過於決定投資自己。我開始採用一套製作課程的軟體，希望搭配內建的 AI 功能來打造更多優質的線上學習內容。知識分享一直是我的熱情所在，而現在的科技，讓這件事變得更加高效且具影響力。每一次對自己的投資，都是在為未來的可能性鋪路。
 

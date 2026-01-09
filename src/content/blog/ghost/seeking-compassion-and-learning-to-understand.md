@@ -31,11 +31,11 @@ tags: ["日記"]
 
 生命的旅途充滿變數，讓人驚嘆，也讓人省思。今天的種種經歷，從震驚的消息，到久違的重逢，從新技術的震撼，到未來的戰略思考，每一刻都讓我更加深刻地感受到人生的價值與無常。這一天，我見證了生命的脆弱，也看到了希望的微光；我思索未來的可能，也在當下找到溫暖。每一次連結，每一份學習，都是邁向更好自己的基石。
 
-![](__GHOST_URL__/content/images/icon/yv-24.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-24.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1535390313236-547dc376eaf3)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1535390313236-547dc376eaf3)
 
-](__GHOST_URL__/cherish-what-you-have-at-the-moment/)
+](https://copywriting.vista.tw/cherish-what-you-have-at-the-moment/)
 
 傍晚，我先行返回臺北，結果媽媽在病房裡，因為天氣寒冷，想向護理站**多借一條被子**，沒想到竟然遇上了一個小小的難題。原來，醫院的被子需要**押金 1030 元**，但媽媽身上只帶了 800 元，一時之間竟湊不齊。她試著向護理師詢問是否能先借一條，結果對方態度冷淡，媽媽一時之間也不知道該怎麼辦，甚至還開口問護理師：「那我可以跟妳借 200 元嗎？」結果，被護理師回絕了。
 

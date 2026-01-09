@@ -33,11 +33,11 @@ Vista 的進化論
 
 如何在 AI 浪潮中突圍，打造屬於你的個人品牌？我相信，這是很多人感到好奇的問題。從文案寫作到數位行銷，再到 AI 驅動的內容創作，我累積了數年的實戰經驗，見證了品牌行銷的劇變。2025 年，我希望可以引領更多創作者與企業探索 AI 賦能的個人品牌新時代，讓價值不再受限於傳統框架，而是透過數據、技術與策略，拓展影響力的無限可能！
 
-![](__GHOST_URL__/content/images/icon/yv-40.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-40.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1669334788758-c97e6263f149-1)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1669334788758-c97e6263f149-1)
 
-](__GHOST_URL__/the-evolution-of-vista/)
+](https://copywriting.vista.tw/the-evolution-of-vista/)
 
 「這就是我們想找你的原因，」他笑了。
 
@@ -49,7 +49,7 @@ Vista 的進化論
 
 當手機訊息不斷跳動時，我才發現，今天的[新書](https://vista.im/no-code-book)出版，竟然短暫地擠進了博客來的即時排行榜。朋友的訊息接連而來，有的人向我恭喜，也有朋友好奇這本書的內容，還有人則直接貼出購書擷圖，讓我感受到支持與鼓勵的溫度。
 
-[![](__GHOST_URL__/content/images/2025/02/---2ARB0034---------------------72dpi--2.jpg)](https://vista.im/no-code-book)
+[![](https://copywriting.vista.tw/content/images/2025/02/---2ARB0034---------------------72dpi--2.jpg)](https://vista.im/no-code-book)
 
 這本書，從構思到成稿，花了不少時間與精力，但當它真正出現在書店的那一刻，卻又顯得有些不真實。像是一場長途旅行，終於抵達終點，卻又不知道接下來該往哪裡走。
 
@@ -59,9 +59,9 @@ Vista 的進化論
 
 書名：不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌，語言：繁體中文，ISBN：9786269899685，頁數：184，出版社：真文化，作者：鄭緯筌（Vista Cheng），出版日期：2025/02/25，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-20.ico)
+![](https://copywriting.vista.tw/content/images/icon/favicon-20.ico)
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-3.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-3.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
 
 ](https://vista.im/no-code-book)
 

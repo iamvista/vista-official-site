@@ -31,7 +31,7 @@ tags: ["寫作"]
 
 >  [星巴克](https://www.gvm.com.tw/article/11514)是人的產業，透過一杯咖啡來服務，而不是在咖啡的產業來服務顧客。
 
-要知道，當今很多人喝咖啡，不只是耽溺於那神秘的黑色液體的成分、特色與價位，還會在意許多的事情。如果能夠搭配[FAB銷售法則](__GHOST_URL__/fab-technique/)做更深入的探討，也會是不錯的做法哦！
+要知道，當今很多人喝咖啡，不只是耽溺於那神秘的黑色液體的成分、特色與價位，還會在意許多的事情。如果能夠搭配[FAB銷售法則](https://copywriting.vista.tw/fab-technique/)做更深入的探討，也會是不錯的做法哦！
 
 有關FAB銷售法則的部分，如果您有興趣想要多瞭解的話，可以參考我在2019年11月所出版的拙作《[內容感動行銷](http://bit.ly/vista-content-marketing-book)》，或是可以上「內容駭客」網站，看看[這篇文章](https://www.contenthacker.today/2017/10/fab-technique.html)唷！
 

@@ -54,9 +54,9 @@ ChatGPT提問課，做個懂AI的高效工作者
 
 書名：ChatGPT提問課，做個懂AI的高效工作者，原文名稱：從零基礎到對答如流，ChatGPT職場應用指南，語言：繁體中文，ISBN：9786269749676，頁數：304，出版社：虎吉，作者：鄭緯筌（Vista Cheng），出版日期：2024/01/04，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-24.ico)
+![](https://copywriting.vista.tw/content/images/icon/favicon-24.ico)
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F097-2F79-2F0010977923-1.jpg%26v%3D658959d5k%26w%3D1146%26h%3D600)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F097-2F79-2F0010977923-1.jpg%26v%3D658959d5k%26w%3D1146%26h%3D600)
 
 ](https://vista.im/ai-book)
 
@@ -203,9 +203,9 @@ Jason 是一位在某大金控集團工作的金融分析師，他笑稱自己�
 
 書名：不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌，語言：繁體中文，ISBN：9786269899685，頁數：184，出版社：真文化，作者：鄭緯筌（Vista Cheng），出版日期：2025/02/25，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-23.ico)
+![](https://copywriting.vista.tw/content/images/icon/favicon-23.ico)
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-5.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-5.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
 
 ](https://vista.im/no-code-book)
 
@@ -227,7 +227,7 @@ Jason 是一位在某大金控集團工作的金融分析師，他笑稱自己�
 
 下面這張「新聞工作者的 AI 提示詞架構」，是我為世新大學新聞系同學們所設計的框架。也許你不是新聞工作者，但提示詞的原理都是相通的，有興趣的朋友可以參考一下！
 
-![](__GHOST_URL__/content/images/2025/03/prompt-template-diagram.png)
+![](https://copywriting.vista.tw/content/images/2025/03/prompt-template-diagram.png)
 
 新聞工作者的 AI 提示詞架構
 

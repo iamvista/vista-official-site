@@ -21,9 +21,9 @@ tags: ["日記"]
 
 書名：1分鐘驚豔ChatGPT爆款文案寫作聖經：寫作教練Vista教你用ChatGPT寫出引人入勝的銷售文案，語言：繁體中文，ISBN：9786267256947，頁數：240，出版社：布克文化，作者：鄭緯筌（Vista Cheng），出版日期：2023/05/27，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-19.ico)
+![](https://copywriting.vista.tw/content/images/icon/favicon-19.ico)
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Faddons.books.com.tw-2FG-2Fprod-2Fcomingsoon_sq-2.jpg%26v%3D50617f0ak%26w%3D1146%26h%3D600)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Faddons.books.com.tw-2FG-2Fprod-2Fcomingsoon_sq-2.jpg%26v%3D50617f0ak%26w%3D1146%26h%3D600)
 
 ](https://vista.im/chatgpt-book)
 
@@ -51,7 +51,7 @@ tags: ["日記"]
 
 這是一種奇妙的感覺，既不是緊張，也談不上興奮，而是一種微妙的期待與忐忑交織的狀態。這本書凝聚了過去一段時間的思考與努力，我希望它能觸動到對這個領域感興趣的人，也希望它能為讀者提供實質的價值。
 
-[![](__GHOST_URL__/content/images/2025/02/---2ARB0034---------------------72dpi--1.jpg)](https://vista.im/no-code-book)
+[![](https://copywriting.vista.tw/content/images/2025/02/---2ARB0034---------------------72dpi--1.jpg)](https://vista.im/no-code-book)
 
 每一本書的誕生，都是一場與世界的對話。而現在，我的話語即將流向更遠的地方，等待著與不同的讀者產生共鳴。
 

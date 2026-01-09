@@ -29,7 +29,7 @@ tags: ["日記"]
 
 💡 如果我的文章或分享對你有幫助，請我喝杯咖啡，讓我們一起走得更遠！ ☕️🚀 一直以來，我熱愛寫作、分享與教學，無論是數位行銷、個人品牌經營，還是AI技術如何影響內容創作，我都希望透過深入淺出的方式，幫助更多朋友找到適合自己的成長策略。在這條路上，我投入了大量時間與心力，不斷研究最新趨勢、優化教學內容，並打造更多實用的知識與工具，讓你能夠輕鬆吸收並立即應用。 如果我的文章、課程或顧問服務曾經幫助過你，或者你單純喜歡我的內容風格，歡迎贊助一杯咖啡，為Vista加油打氣！ ☕️ 這不僅是一份鼓勵，也是一種支持，讓我能夠持續產出高品質的內容，與你一起探索數位時代的無限可能。 你可以選擇一次贊助，也可以多次贊助，讓這份支持更有力！無論金額多少，每一杯咖啡都是一份溫暖與動力，我都會珍惜這份心意。❤️ 📢 請用你習慣的支付方式，請我喝杯咖啡吧！ 👉 感謝你的支持，期待在未來的分享中繼續與你相伴，共同成長！🔥 🚀
 
-![](__GHOST_URL__/content/images/icon/favicon-11.ico)PAYUNi 統一金流
+![](https://copywriting.vista.tw/content/images/icon/favicon-11.ico)PAYUNi 統一金流
 
 ![](https://ce8f609cc.cloudimg.io/crop/1200x630/foil1.95/https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Furlshortener-f1125.appspot.com%2Fo%2Fimages%2Fpublic%2Flinks%2F2025-01-31T01%3A55%3A14.676Z%3Falt%3Dmedia%26token%3D2a189b0a-4d28-42e1-9d40-4c3d9dcc096f)
 
@@ -55,11 +55,11 @@ tags: ["日記"]
 
 如何用 AI 提升寫作效率？關鍵在於精準提問！ AI 不是搜尋引擎，而是你的創作夥伴。透過角色設定、背景敘述與明確輸出需求，你可以讓 AI 產生更具價值的內容。本篇文章深入解析 AI 提問技巧，從深津式提問框架到個人化 AI 應用，幫助你提升寫作效率、優化內容創作策略，讓 AI 成為你的創意助力！
 
-![](__GHOST_URL__/content/images/icon/yv-29.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-29.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1456324504439-367cee3b3c32)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1456324504439-367cee3b3c32)
 
-](__GHOST_URL__/write-with-ai/)
+](https://copywriting.vista.tw/write-with-ai/)
 
 這樣的時刻，讓我更確信，**科技不是目的，關鍵在於我們如何讓它為我們創造價值。**
 

@@ -3,7 +3,7 @@ title: "AI 不是你的主子，而是靈感的副手：莫言用 AI 寫詩的�
 description: "最近，諾貝爾文學獎得主莫言分享了他與 AI 交手的幾次經驗，引發了我深深的共鳴。身為一位長期關注生成式 AI 發展的講師與創作用者寫，我對莫言的分享不僅感到親切，更感受到這是一個時代文學與科技碰撞的縮影。他的那句：「你得讓它是你的助手，不是你的主子」，引發我的共鳴。"
 pubDate: "2025-07-14T02:12:34.000Z"
 updatedDate: "2025-07-20T12:59:35.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/07/------------.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/07/------------.png"
 tags: ["人工智慧","寫作"]
 ---
 
@@ -15,9 +15,9 @@ tags: ["人工智慧","寫作"]
 
 自从DeepSeek出来以后，文艺界好多人经常聚在一块儿谈论这个话题，也有很多人谈到了他们使用AI创作的体会。 各种意见都有，乐观的、悲观的、积极的、消极的。 .…
 
-![](__GHOST_URL__/content/images/icon/favicon-38.ico)腾讯网
+![](https://copywriting.vista.tw/content/images/icon/favicon-38.ico)腾讯网
 
-![](__GHOST_URL__/content/images/thumbnail/0)
+![](https://copywriting.vista.tw/content/images/thumbnail/0)
 
 ](https://news.qq.com/rain/a/20250707A09JLD00)
 
@@ -35,7 +35,7 @@ tags: ["人工智慧","寫作"]
 
 我讀到這句時，真心佩服 AI 對語言形式的掌握能力，也理解了莫言的朋友所說的：「你給它一個思想，它就能演繹；你如果不給，它就只會模仿。」
 
-這其實闡明了一個重要觀點：[**生成式 AI**](__GHOST_URL__/tag/ai/) **不是靈感的起點，而是延伸器官。它能將我們腦海中的模糊意念轉化為成形語句，能把散亂的片段匯聚成文，但這一切的前提，是我們必須先有思想的火種。**
+這其實闡明了一個重要觀點：[**生成式 AI**](https://copywriting.vista.tw/tag/ai/) **不是靈感的起點，而是延伸器官。它能將我們腦海中的模糊意念轉化為成形語句，能把散亂的片段匯聚成文，但這一切的前提，是我們必須先有思想的火種。**
 
 ### **文學的本質，依然來自生活**
 
@@ -71,7 +71,7 @@ tags: ["人工智慧","寫作"]
 
 ### **創作的本質，是我們還活著的證明**
 
-莫言的這場[與 AI 的過招](__GHOST_URL__/embracing-ai/)，其實像極了我們所有人正在面對的處境：我們走進 AI 時代，無法迴避，也無需恐慌。但唯有回到自身的感受、記憶與價值，創作才能擁有穿越時代的力量。
+莫言的這場[與 AI 的過招](https://copywriting.vista.tw/embracing-ai/)，其實像極了我們所有人正在面對的處境：我們走進 AI 時代，無法迴避，也無需恐慌。但唯有回到自身的感受、記憶與價值，創作才能擁有穿越時代的力量。
 
 [
 
@@ -79,11 +79,11 @@ tags: ["人工智慧","寫作"]
 
 AI 能替代人類寫作嗎？作為一名專業的寫作教練，我想跟大家分享自己與 AI 共舞的真實旅程：除了探討如何在保持創作靈魂的同時善用AI工具，也希望可以幫助品牌在內容洪流中脫穎而出，並為未來寫作者提供明確的價值定位與發展路徑。
 
-![](__GHOST_URL__/content/images/icon/yv-49.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-49.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1456324504439-367cee3b3c32-1)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1456324504439-367cee3b3c32-1)
 
-](__GHOST_URL__/when-ai-becomes-a-writing-partner/)
+](https://copywriting.vista.tw/when-ai-becomes-a-writing-partner/)
 
 AI 不是創作的終點，而是新的起點。正如莫言所說：
 

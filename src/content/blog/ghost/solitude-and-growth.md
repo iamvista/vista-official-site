@@ -39,9 +39,9 @@ tags: ["日記"]
 
 金石堂：金石生活學堂‧在生活中閱讀，在閱讀中生活
 
-![](__GHOST_URL__/content/images/icon/kingstone_180x180_2.png)金石堂鄭緯筌
+![](https://copywriting.vista.tw/content/images/icon/kingstone_180x180_2.png)金石堂鄭緯筌
 
-![](__GHOST_URL__/content/images/thumbnail/ks2021logo.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/ks2021logo.jpg)
 
 ](https://www.kingstone.com.tw/stores/ireadlifedetail/202502120006)
 
@@ -57,7 +57,7 @@ tags: ["日記"]
 
 我們都習慣了在人際互動中尋找價值，卻很少停下來問自己：「**如果只有我一個人，我還能找到什麼價值？**」
 
-今天，我告訴自己，**孤單並不代表空虛，而是讓我們能夠專注在內在成長的機會。** 這段時間的學習、工作與[寫作](__GHOST_URL__/tag/writing/)，都是與自己對話的過程。而當我們能夠真正擁抱這份獨處，便會發現，**內在的力量，遠比我們想像的更強大。**
+今天，我告訴自己，**孤單並不代表空虛，而是讓我們能夠專注在內在成長的機會。** 這段時間的學習、工作與[寫作](https://copywriting.vista.tw/tag/writing/)，都是與自己對話的過程。而當我們能夠真正擁抱這份獨處，便會發現，**內在的力量，遠比我們想像的更強大。**
 
 當然，論文進度仍然是個難題。午夜之前寫完？這恐怕是不可能的任務，但沒關係，**重要的是，我已經開始前進了。**
 

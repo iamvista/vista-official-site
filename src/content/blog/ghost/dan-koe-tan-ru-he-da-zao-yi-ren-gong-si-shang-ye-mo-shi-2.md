@@ -47,9 +47,9 @@ Dan Koe 的說法，我也相當認同。我以前在網路產業或媒體業服
 
 這堂課程將結合理論、趨勢與實作練習進行，Vista老師不只教您累積網路聲量，更將協助您建置個人化網站、部落格，並傳授有關寫作、下標、社群行銷等內容經營。協助您結合自己的專業，打造最具魅力的個人品牌。
 
-![](__GHOST_URL__/content/images/icon/apple-touch-icon.png)YOTTA友讀——陪你成長的學習夥伴｜跨領域線上學習平台<%:prop.user%>
+![](https://copywriting.vista.tw/content/images/icon/apple-touch-icon.png)YOTTA友讀——陪你成長的學習夥伴｜跨領域線上學習平台<%:prop.user%>
 
-![](__GHOST_URL__/content/images/thumbnail/4d66785cb3ec0ba2bba8150762057587.png)
+![](https://copywriting.vista.tw/content/images/thumbnail/4d66785cb3ec0ba2bba8150762057587.png)
 
 ](https://www.yottau.com.tw/course/intro/982)
 
@@ -95,9 +95,9 @@ Dan Koe 的說法，我也相當認同。我以前在網路產業或媒體業服
 
 今日午後，雖然下了一場滂沱大雨，但並沒有澆熄大家對於「開一間一人公司」的研究興致，所以很快地就看到人潮聚集在新光三越A9的法雅客。我第一次來參加「工作生活家講座」，沒想到就發現會場上可說是座無虛席，只差沒看到疊羅漢的盛況了！嗯，我的運氣還真好⋯⋯
 
-![](__GHOST_URL__/content/images/icon/favicon-29.ico)BloggerVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-29.ico)BloggerVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E4-BA-8E-E7-82-BA-E6-9A-A2--E2-94-80--E4-BE-86-E9-96-8B-E4-B8-80-E9-96-93-E4-B8-80-E4-BA-BA-E5-85-AC-E5-8F-B8.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E4-BA-8E-E7-82-BA-E6-9A-A2--E2-94-80--E4-BE-86-E9-96-8B-E4-B8-80-E9-96-93-E4-B8-80-E4-BA-BA-E5-85-AC-E5-8F-B8.jpg)
 
 ](https://www.contenthacker.today/2019/07/company-of-one.html)
 

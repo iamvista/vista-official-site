@@ -13,6 +13,6 @@ tags: ["寫作"]
 
 也許，就是因為自己很享受書寫的愉悅，所以我才更想要幫助那些視作文為畏途的朋友們，重新找回信心。
 
-現在，我想幫助您。對，就是您，讓我來為您找回書寫的樂趣吧！無論您想要學習[寫作](__GHOST_URL__/testimonial/improve-your-writing-skills-with-customized-course)，或是有任何的問題，都十分歡迎與我進行交流唷！
+現在，我想幫助您。對，就是您，讓我來為您找回書寫的樂趣吧！無論您想要學習[寫作](https://copywriting.vista.tw/testimonial/improve-your-writing-skills-with-customized-course)，或是有任何的問題，都十分歡迎與我進行交流唷！
 
 我準備好了，那麼您呢？請與我[聯繫](mailto:iamvista@gmail.com)。

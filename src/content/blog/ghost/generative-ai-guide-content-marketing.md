@@ -9,7 +9,7 @@ tags: ["內容行銷","人工智慧"]
 
 > 本文原發表於《[經濟日報](https://money.udn.com/money/story/122331/7791744)》
 
-有別於傳統的廣告，[內容行銷](__GHOST_URL__/what-is-content-marketing/)專注於與消費者建立長期關係，提供資訊或娛樂價值，而不是直接推銷產品或服務。建議大家可以透過文章、影音、圖片、部落格、電子書和社群媒體貼文等多種形式，來從事內容行銷。
+有別於傳統的廣告，[內容行銷](https://copywriting.vista.tw/what-is-content-marketing/)專注於與消費者建立長期關係，提供資訊或娛樂價值，而不是直接推銷產品或服務。建議大家可以透過文章、影音、圖片、部落格、電子書和社群媒體貼文等多種形式，來從事內容行銷。
 
 內容行銷的重要性有四點。
 
@@ -21,13 +21,13 @@ tags: ["內容行銷","人工智慧"]
 
 內容營運的面向牽連甚廣，從內容的蒐集、創作到策畫、呈現，再到溝通、傳播，最後才能進入到成效的檢核與評估。在這個循環中，內容策略的制定是最重要的，而主要的重點就在於適得其所，把對的內容傳遞給對的族群，如此方能各取所需，也能收相得益彰之成效。
 
-![](__GHOST_URL__/content/images/icon/yv-6.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-6.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1573055418049-c8e0b7e3403b)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1573055418049-c8e0b7e3403b)
 
-](__GHOST_URL__/what-is-content-operations/)
+](https://copywriting.vista.tw/what-is-content-operations/)
 
-再來改善 [SEO](__GHOST_URL__/build-up-seo-thinking/) 和網路可見度：透過為目標關鍵字創建相關內容，內容行銷能夠提高網站的搜尋引擎排名，進而增加網路可見度和流量。
+再來改善 [SEO](https://copywriting.vista.tw/build-up-seo-thinking/) 和網路可見度：透過為目標關鍵字創建相關內容，內容行銷能夠提高網站的搜尋引擎排名，進而增加網路可見度和流量。
 
 第三提高[轉化率](https://advertising.amazon.com/zh-tw/library/guides/conversion-rate)：提供有價值的內容可以幫助教育潛在客戶，使他們更了解你的產品或服務，進而增加購買意願和轉化率。
 
@@ -37,13 +37,13 @@ tags: ["內容行銷","人工智慧"]
 
 一、內容創意和策劃：使用 ChatGPT 來生成內容點子和概念，幫助貴公司開發新的內容策略，滿足受眾的需求和興趣。
 
-二、高效率的內容創作：ChatGPT 可以快速生成各種文本內容，包括部落格文章、社群媒體貼文、[新聞稿](__GHOST_URL__/6-rules-of-writing-press-releases/)等，大幅提高內容產製的效率。
+二、高效率的內容創作：ChatGPT 可以快速生成各種文本內容，包括部落格文章、社群媒體貼文、[新聞稿](https://copywriting.vista.tw/6-rules-of-writing-press-releases/)等，大幅提高內容產製的效率。
 
 三、個性化內容生成：根據不同受眾的偏好，使用 ChatGPT 來客製化個性化內容，提高參與度和影響力。
 
 四、語言多樣性和翻譯：利用 ChatGPT 支持多種語言的能力，為不同語言的受眾創建或翻譯內容，擴大全球覆蓋範圍。
 
-五、[內容優化](__GHOST_URL__/evergreen-content/)和重寫：利用 ChatGPT 對現有內容進行優化和重寫，提升內容品質，使其更適應 SEO 和用戶需求。
+五、[內容優化](https://copywriting.vista.tw/evergreen-content/)和重寫：利用 ChatGPT 對現有內容進行優化和重寫，提升內容品質，使其更適應 SEO 和用戶需求。
 
 運用 ChatGPT 進行內容行銷，要保持內容品質和相關性，確保內容與品牌價值和受眾需求相符。此外，雖然 ChatGPT 能提高效率，但人工審核和事後調整仍不可或缺。
 

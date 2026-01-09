@@ -23,7 +23,7 @@ tags: ["內容行銷"]
 
 五、考慮80/20規則（80%的成功通常來自20%的努力）：監控你的結果，並將更多精力投入到推動取得成功的活動中。這將幫助你優化工作，並可確保自己將時間花在正確的地方。
 
-六、與擁有相同目標受眾的影響者建立關係：**在社群媒體和部落格上關注他們的動態，並與你的受眾分享。**在花時間真正參與之後，讓他們知道你在做什麼可能對他們的受眾有價值。考慮成為[Podcast](__GHOST_URL__/interview/how-to-get-more-followers)的嘉賓或在別人的部落格上寫一篇客座文章。根據貴公司提供的產品，可以考慮創建一個聯盟行銷計畫，讓有影響力的人可以從他們推薦的任何客戶那裡獲得銷售佣金。傑西卡特別推薦[SamCart](https://www.samcart.com/trial-pricing?type=monthly)和[ClickFunnels](https://www.clickfunnels.com/?aff=d9e007f9-e1ba-4d3b-a98d-5505af9a0966&utm_source=google&utm_campaign=18314447509&utm_medium=ad&utm_content=621452073119&utm_term=clickfunnels&wickedsource=google&wickedid=EAIaIQobChMIrfqcp5zi-wIVztKWCh1nDQXUEAAYASAAEgJrEPD_BwE&wickedid=621452073119&wcid=18314447509&wv=4&gclid=EAIaIQobChMIrfqcp5zi-wIVztKWCh1nDQXUEAAYASAAEgJrEPD_BwE)這兩套軟體，這是讓你管理聯盟行銷計畫的兩大利器。
+六、與擁有相同目標受眾的影響者建立關係：**在社群媒體和部落格上關注他們的動態，並與你的受眾分享。**在花時間真正參與之後，讓他們知道你在做什麼可能對他們的受眾有價值。考慮成為[Podcast](https://copywriting.vista.tw/interview/how-to-get-more-followers)的嘉賓或在別人的部落格上寫一篇客座文章。根據貴公司提供的產品，可以考慮創建一個聯盟行銷計畫，讓有影響力的人可以從他們推薦的任何客戶那裡獲得銷售佣金。傑西卡特別推薦[SamCart](https://www.samcart.com/trial-pricing?type=monthly)和[ClickFunnels](https://www.clickfunnels.com/?aff=d9e007f9-e1ba-4d3b-a98d-5505af9a0966&utm_source=google&utm_campaign=18314447509&utm_medium=ad&utm_content=621452073119&utm_term=clickfunnels&wickedsource=google&wickedid=EAIaIQobChMIrfqcp5zi-wIVztKWCh1nDQXUEAAYASAAEgJrEPD_BwE&wickedid=621452073119&wcid=18314447509&wv=4&gclid=EAIaIQobChMIrfqcp5zi-wIVztKWCh1nDQXUEAAYASAAEgJrEPD_BwE)這兩套軟體，這是讓你管理聯盟行銷計畫的兩大利器。
 
 七、用你的聲音說真話：光寫出美麗的[品牌故事](https://www.contenthacker.today/2017/12/teasoap-brand-story.html)還不夠，人們想要聯繫並且喜歡知道品牌背後有一個真正的人。不要害怕公開亮相，**請大方接受自己的古怪以及讓你與眾不同的特質。**
 

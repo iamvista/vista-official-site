@@ -3,7 +3,7 @@ title: "從新書宣傳到打造鐵粉生態圈：Pat Flynn 的全方位漏斗�
 description: "帕特・弗林（Pat Flynn）為了他的新書《Lean Learning》，進行一場為期兩年的全漏斗實驗：他以賽斯・高汀（Seth Godin）背書的銷售頁（Landing Page）鎖定目光，再透過四層購書獎勵、10堂迷你課與30天打卡挑戰，層層引導讀者從買書到加入 Email 名單，再到 Podcast 打造巡迴與社群共創，最終累積鐵粉與長尾收益。本文深入拆解其策略設計、數據驅動優化與心法思維，並提供給創作者、講師與顧問可立即複製的行動清單，帶你學會如何讓一本書變成多管道的現金流和品牌飛輪。立即吸收，掌握漏斗心法，創造長尾營收效益與動能！"
 pubDate: "2025-07-29T03:57:00.000Z"
 updatedDate: "2025-07-29T04:13:40.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/07/pat.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/07/pat.png"
 tags: ["內容行銷","個人品牌"]
 ---
 
@@ -25,7 +25,7 @@ Pat Flynn 創辦了 [Smart Passive Income](https://www.smartpassiveincome.com/)�
 
 感謝小金魚舉辦了這次的讀書會，讓我有機會重新翻閱 Pat Flynn 過往出版的[幾本書](https://search.books.com.tw/search/query/key/Pat+Flynn/adv_author/1/)，並且重新思考他的成功之道。
 
-在當今數位行銷的浪潮中，Pat Flynn 無疑是一位值得深度研究的標竿人物。這位擁有 [176 萬名 YouTube 訂閱者](https://www.youtube.com/c/DeepPocketMonster)和 [11.5 萬名 Instagram 粉絲](https://www.instagram.com/patflynn/)的創業導師，不僅在[內容](__GHOST_URL__/tag/content-marketing/)創作領域取得了巨大成功，更重要的是，他展現了一套完整而系統性的商業營運思維。從他最新著作《[Lean Learning](https://www.books.com.tw/exep/assp.php/vista/products/F01a978194?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)》的行銷策略中，我們能夠窺見現代內容創作者如何將產品發布轉化為長期的商業價值。
+在當今數位行銷的浪潮中，Pat Flynn 無疑是一位值得深度研究的標竿人物。這位擁有 [176 萬名 YouTube 訂閱者](https://www.youtube.com/c/DeepPocketMonster)和 [11.5 萬名 Instagram 粉絲](https://www.instagram.com/patflynn/)的創業導師，不僅在[內容](https://copywriting.vista.tw/tag/content-marketing/)創作領域取得了巨大成功，更重要的是，他展現了一套完整而系統性的商業營運思維。從他最新著作《[Lean Learning](https://www.books.com.tw/exep/assp.php/vista/products/F01a978194?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)》的行銷策略中，我們能夠窺見現代內容創作者如何將產品發布轉化為長期的商業價值。
 
 Pat Flynn 的成功並非偶然。作為 Smart Passive Income（SPI）的創辦人，他深諳[電子報](https://iamvista.substack.com/)行銷的精髓，更重要的是，他將理論與實踐完美結合。當我們深入分析他的行銷手法時，會發現這不僅僅關乎如何賣書，而是如何建立一個可持續的內容[商業生態系統](https://zh.wikipedia.org/zh-tw/%E5%95%86%E6%A5%AD%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1)。
 
@@ -45,7 +45,7 @@ Pat Flynn 在《[Lean Learning](https://www.books.com.tw/exep/assp.php/vista/pro
 
 同樣身為出過好幾本書的作者，以往我不是沒想過給新書設計銷售頁，但我必須承認，Pat Flynn 的手法更為細膩。
 
-![](__GHOST_URL__/content/images/2025/07/pre_launch_strategy.png)
+![](https://copywriting.vista.tw/content/images/2025/07/pre_launch_strategy.png)
 
 他首先建立一個專門的[書籍網站](https://leanlearningbook.com/)，這不僅僅是一個簡單的介紹頁面，而是一個完整的行銷漏斗入口。這個網站的設計顯然經過精心考慮，特別是首屏的內容安排，將《[這才是行銷](https://www.books.com.tw/exep/assp.php/vista/products/0010822530?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)》作者 [Seth Godin](https://www.sethgodin.com/) 這樣的行銷大師的推薦放在最顯眼的位置，利用權威背書建立信任。
 
@@ -57,7 +57,7 @@ Pat Flynn 在《[Lean Learning](https://www.books.com.tw/exep/assp.php/vista/pro
 
 Pat Flynn 的福利設計，展現了深度的商業思考。從購買一本書的基礎福利到購買一千本書的頂級體驗，每個層級都有其特定的商業目的。購買一本書的用戶，可以獲得課程觀看權。小金魚提醒大家，這實際上是將書籍讀者轉化為課程學員的橋樑。
 
-![](__GHOST_URL__/content/images/2025/07/benefit_tier_system.png)
+![](https://copywriting.vista.tw/content/images/2025/07/benefit_tier_system.png)
 
 課程內容的設計，特別值得關注。這不是簡單的 3-5 分鐘短影片，而是平均 10-15 分鐘的深度內容，每個章節都包含影片、關鍵要點總結和行動計畫。總計約 1.5 小時的課程內容，配合書籍的價格，創造了極高的價值感知。這種超值體驗不僅提升了客戶滿意度，更重要的是建立了從書籍到課程的信任遷移。
 
@@ -71,7 +71,7 @@ Pat Flynn 的福利設計，展現了深度的商業思考。從購買一本書�
 
 小金魚在 LINE 群組裡問大家：「這場讀書會對你最有幫助的部分是什麼？」我想，應該就是這種思維的轉換吧！對於所有的內容創作者而言，持續行銷可說是別具意義。
 
-![](__GHOST_URL__/content/images/2025/07/post_launch_strategy.png)
+![](https://copywriting.vista.tw/content/images/2025/07/post_launch_strategy.png)
 
 Pat Flynn 在《[Lean Learning](https://www.books.com.tw/exep/assp.php/vista/products/F01a978194?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)》發布後，制定了六大持續行銷策略。首先是 podcast 的宣傳計畫，他設定了上 100 個 podcast 節目的目標（如果以每週一個的頻率計算，這意味著近兩年的持續宣傳期）。這種長期承諾不僅展現了他對產品的信心，也凸顯對於市場教育的重視。
 
@@ -83,7 +83,7 @@ Pat Flynn 在《[Lean Learning](https://www.books.com.tw/exep/assp.php/vista/pro
 
 作為電子報行銷的專家，Pat Flynn 在名單收集方面展現了極高的專業水準。他的策略核心不變，始終以收集名單為最終目標，但手段卻不斷創新和優化。
 
-![](__GHOST_URL__/content/images/2025/07/email_funnel_system.png)
+![](https://copywriting.vista.tw/content/images/2025/07/email_funnel_system.png)
 
 在 pre-launch 階段，購書回傳表單是主要的名單收集工具。但當這個活動結束後，Pat Flynn 立即啟動了新的收集機制：免費測驗。這個 [The Lean Learning Quiz](https://www.leanlearningquiz.com/) 不是簡單的 3 到 5 題測試，而是包含十幾道題目的深度評估工具。
 
@@ -109,7 +109,7 @@ Pat Flynn 還提供了評論框架，告訴讀者他希望看到什麼樣的回�
 
 如果要分析 Pat Flynn 的成功要素，我覺得長期主義思維很關鍵。無論是 100 個podcast 的宣傳計畫，還是持續兩年的書籍推廣期，都體現了他對長期價值的重視。
 
-![](__GHOST_URL__/content/images/2025/07/long_term_business_model.png)
+![](https://copywriting.vista.tw/content/images/2025/07/long_term_business_model.png)
 
 這種思維模式，與大多數創作者的短期思維形成鮮明對比。許多人期望產品發布後立即獲得回報，當短期效果不理想時就放棄繼續努力。但 Pat Flynn 展示了另一種可能：將產品視為長期資產，持續投入時間和精力進行維護和推廣。
 
@@ -125,7 +125,7 @@ Pat Flynn 還提供了評論框架，告訴讀者他希望看到什麼樣的回�
 
 過往，我雖然也製作過一些[線上課程](https://hahow.in/cr/content-power)，但這一點的確是我還可以繼續精進之處。此外，人文關懷還體現在對社群的建設上。Pat Flynn 不僅關注個人品牌的建設，更重視社群成員之間的連結和互動。他創造的不僅是內容，更是一個有溫度的學習社群。
 
-這種人文關懷的商業價值在於，它創造了更深層的情感連結和更高的客戶忠誠度。在資訊爆炸的時代，每個人都能迅速學習最新的技術（想想這兩年的 [AI 風潮](__GHOST_URL__/ai-bpo/)），但人與人間的情感連結和人文關懷，反而成為了最重要的競爭優勢。
+這種人文關懷的商業價值在於，它創造了更深層的情感連結和更高的客戶忠誠度。在資訊爆炸的時代，每個人都能迅速學習最新的技術（想想這兩年的 [AI 風潮](https://copywriting.vista.tw/ai-bpo/)），但人與人間的情感連結和人文關懷，反而成為了最重要的競爭優勢。
 
 ## 重新定義內容創作的商業模式
 
@@ -135,7 +135,7 @@ Pat Flynn 還提供了評論框架，告訴讀者他希望看到什麼樣的回�
 
 Pat Flynn 的經驗告訴我們，成功的內容創作者需要具備創作能力、商業思維、數據分析能力以及社群營運能力等多重能力。更重要的是，需要具備長期主義的思維模式和對人文關懷的重視。
 
-放眼未來的內容創作領域，在 [AI 的加持](__GHOST_URL__/ai-marketing-redefined/)之下，單純的內容輸出將不再足夠。創作者需要思考如何構建完整的商業生態，如何創造持續的價值，以及如何建立深度的客戶關係。Pat Flynn 的成功經驗為我們提供了一個優秀的參考模型，值得每位內容創作者深入學習和思考。在此，也要特別感謝小金魚透過讀書會跟大家的解析與分享。
+放眼未來的內容創作領域，在 [AI 的加持](https://copywriting.vista.tw/ai-marketing-redefined/)之下，單純的內容輸出將不再足夠。創作者需要思考如何構建完整的商業生態，如何創造持續的價值，以及如何建立深度的客戶關係。Pat Flynn 的成功經驗為我們提供了一個優秀的參考模型，值得每位內容創作者深入學習和思考。在此，也要特別感謝小金魚透過讀書會跟大家的解析與分享。
 
 最終，做個快速的總結：Pat Flynn 的成功不僅在於他掌握了優秀的行銷技巧，更在於他建立了正確的商業哲學：以客戶價值為中心，以長期關係為目標，更以人文關懷為基礎。衡諸任何時代、任何行業，這種哲學都具有普遍的適用性和持久的價值。
 

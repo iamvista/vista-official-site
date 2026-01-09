@@ -11,7 +11,7 @@ tags: ["個人品牌","日記"]
 
 回望這些年的職涯旅程，我總能清楚地看到自己的軌跡：從文字的世界出發，穿越數位行銷的浪潮，最終在商管、媒體與電商等不同領域站穩腳步。我是一名作家，也是一名數位行銷講師，更是一名陪伴無數品牌成長的顧問與研究者。這條路，並非一蹴可幾，而是由無數個深夜思索、實戰驗證與持續學習所累積而成。
 
-[文案寫作](__GHOST_URL__/understanding-your-target-audience/)是我進入市場的起點。在這個領域，我不僅學會了如何用精煉的語言打動人心，更理解了市場需求與消費者心理的細微變化。寫作的過程，讓我深刻體會到，每一則成功的文案背後，都藏著一套精準的策略與洞察。當時，我的主要工作涵蓋了[品牌故事](__GHOST_URL__/four-rules-for-successful-brand-storytelling/)撰寫、廣告文案創作與社群內容規劃，並參與了數十個品牌的市場推廣計劃。透過這些經驗，我發現文字的力量不僅能影響消費者決策，甚至能形塑一個品牌的形象與價值。
+[文案寫作](https://copywriting.vista.tw/understanding-your-target-audience/)是我進入市場的起點。在這個領域，我不僅學會了如何用精煉的語言打動人心，更理解了市場需求與消費者心理的細微變化。寫作的過程，讓我深刻體會到，每一則成功的文案背後，都藏著一套精準的策略與洞察。當時，我的主要工作涵蓋了[品牌故事](https://copywriting.vista.tw/four-rules-for-successful-brand-storytelling/)撰寫、廣告文案創作與社群內容規劃，並參與了數十個品牌的市場推廣計劃。透過這些經驗，我發現文字的力量不僅能影響消費者決策，甚至能形塑一個品牌的形象與價值。
 
 [
 
@@ -19,23 +19,23 @@ tags: ["個人品牌","日記"]
 
 在數位時代，文案撰寫已經成為各行各業不可或缺的技能。然而，撰寫引人入勝、動人心弦的文案，卻是一門不易掌握的藝術。直到現在，ChatGPT將帶給您將一分鐘的時間轉化為驚豔的文字表達。本書從實戰出發，透過ChatGPT的千萬級AI語言模型，展示如何應對各種文案撰寫需求。
 
-![](__GHOST_URL__/content/images/icon/yv-2.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-2.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1674027444454-97b822a997b6)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1674027444454-97b822a997b6)
 
-](__GHOST_URL__/how-to-use-chatgpt-for-copywriting/)
+](https://copywriting.vista.tw/how-to-use-chatgpt-for-copywriting/)
 
-隨著[內容行銷](__GHOST_URL__/what-is-content-marketing/)的興起，我開始關注如何將傳統的文案技術與數位行銷工具相結合，進一步提升行銷效果。從品牌行銷、[SEO優化](__GHOST_URL__/build-up-seo-thinking/)、社群媒體策略、內容行銷，到多平台廣告投放，我不斷學習並實踐數位行銷的新趨勢。我親身見證了行銷產業從紙本廣告到社群時代的劇變，也觀察到影音內容如何成為當今最具影響力的傳播方式。
+隨著[內容行銷](https://copywriting.vista.tw/what-is-content-marketing/)的興起，我開始關注如何將傳統的文案技術與數位行銷工具相結合，進一步提升行銷效果。從品牌行銷、[SEO優化](https://copywriting.vista.tw/build-up-seo-thinking/)、社群媒體策略、內容行銷，到多平台廣告投放，我不斷學習並實踐數位行銷的新趨勢。我親身見證了行銷產業從紙本廣告到社群時代的劇變，也觀察到影音內容如何成為當今最具影響力的傳播方式。
 
 ### **數位行銷講師的轉變與使命**
 
-在這個過程中，我開始將自己的所學與經驗，透過講座與工作坊傳遞給更多人。從企業內訓、公開課程，到專屬的諮詢顧問與[陪跑計畫](__GHOST_URL__/improve-your-writing-skills-with-customized-course/)，我樂於分享，也享受看到學員們的成長。近年來 AI 風起雲湧，我也重返校園讀博士班，教學與學習的過程不僅讓我更加精進自己的專業知識，也讓我開始思考：
+在這個過程中，我開始將自己的所學與經驗，透過講座與工作坊傳遞給更多人。從企業內訓、公開課程，到專屬的諮詢顧問與[陪跑計畫](https://copywriting.vista.tw/improve-your-writing-skills-with-customized-course/)，我樂於分享，也享受看到學員們的成長。近年來 AI 風起雲湧，我也重返校園讀博士班，教學與學習的過程不僅讓我更加精進自己的專業知識，也讓我開始思考：
 
 > 如何幫助更多人利用 AI 工具與內容的力量，突破自我，打造獨特的個人品牌？
 
 這個問題，成為我近年來最關注的課題。特別是在後疫情時代，遠距工作與個人品牌經濟迅速崛起，許多人開始尋求新的發展方向。對我而言，**內容行銷不只是銷售產品，而是一種自我價值的延伸與展現。**
 
-我曾在許多企業擔任顧問與內部培訓講師，協助行銷團隊提升數位行銷技能，並在多所大學與專業機構開設課程，與來自各行各業的學員交流。他們有些是剛剛進入行銷領域的新人，有些則是希望透過[個人品牌](__GHOST_URL__/personal-brand-positioning/)建立事業的創業者。每一次的教學經驗都讓我更加確信，數位行銷是一項每個人都應該掌握的核心技能。
+我曾在許多企業擔任顧問與內部培訓講師，協助行銷團隊提升數位行銷技能，並在多所大學與專業機構開設課程，與來自各行各業的學員交流。他們有些是剛剛進入行銷領域的新人，有些則是希望透過[個人品牌](https://copywriting.vista.tw/personal-brand-positioning/)建立事業的創業者。每一次的教學經驗都讓我更加確信，數位行銷是一項每個人都應該掌握的核心技能。
 
 [
 
@@ -43,11 +43,11 @@ tags: ["個人品牌","日記"]
 
 今天，對「把握當下」這四個字有了更深的體悟。如果你也跟以前的我一樣，內心偶爾會有小小的完美主義作祟的話，那麼我有兩個錦囊想要送給你：第一個錦囊是「先求有，再求好」，第二個錦囊是「先完成，再完美」。
 
-![](__GHOST_URL__/content/images/icon/yv-4.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-4.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1523975864490-174dd4d9a41e)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1523975864490-174dd4d9a41e)
 
-](__GHOST_URL__/seize-the-day/)
+](https://copywriting.vista.tw/seize-the-day/)
 
 ### **AI應用研究與教學：開啟智慧行銷新時代**
 
@@ -81,11 +81,11 @@ tags: ["個人品牌","日記"]
 
 一路走來，我特別感恩那些關懷與支援：媽媽的貼心照料、親友的問候鼓勵，以及自己在放慢步伐後重新審視的人生。或許我們常常嚮往「健步如飛」的效率，卻忘了「慢步」也有它的好處——你能看清更多細節，感受更多溫暖，也擁有更多思考與自省的空間。
 
-![](__GHOST_URL__/content/images/icon/yv-5.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-5.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1524071556455-5773dff8256d)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1524071556455-5773dff8256d)
 
-](__GHOST_URL__/slow-life/)
+](https://copywriting.vista.tw/slow-life/)
 
 2025年，將是全新的開始，也是一次重要的突破。這不只是我個人的挑戰，更是一個屬於所有數位創作者的機會。
 

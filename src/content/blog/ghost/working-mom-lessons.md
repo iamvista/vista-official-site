@@ -3,7 +3,7 @@ title: "不是犧牲，而是成全：致每位用愛書寫人生的工作媽媽
 description: "當母職與職涯碰撞，我們該如何定義成功？好友丘美珍用《工作媽媽學會的事》這本動人之作，真誠描繪從總編輯到全職媽媽、再重返職場的生命轉折。她不以犧牲為榮，而以陪伴為力量；不教你怎麼「當好媽媽」，而是邀請你探索「如何成為更完整的自己」。本文既是Vista對好友的致敬，也是對所有身兼數職女性的溫柔告白。這是一篇寫給母親、也寫給正在尋找自我定位的你我他，關於放下、重啟與愛的練習。"
 pubDate: "2025-07-11T09:31:13.000Z"
 updatedDate: "2025-07-14T01:41:45.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/07/------------------------.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/07/------------------------.png"
 tags: ["讀書心得","職涯"]
 ---
 
@@ -59,9 +59,9 @@ tags: ["讀書心得","職涯"]
 
 書名：工作媽媽學會的事：陪伴有時、放飛有時、保有自我，一個母親的旅程，語言：繁體中文，ISBN：9786264173476，頁數：272，出版社：天下文化，作者：丘美珍，出版日期：2025/05/26，類別：心理勵志
 
-![](__GHOST_URL__/content/images/icon/favicon-37.ico)博客來
+![](https://copywriting.vista.tw/content/images/icon/favicon-37.ico)博客來
 
-![](__GHOST_URL__/content/images/thumbnail/getImage-10)
+![](https://copywriting.vista.tw/content/images/thumbnail/getImage-10)
 
 ](https://www.books.com.tw/products/0011021377?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
 

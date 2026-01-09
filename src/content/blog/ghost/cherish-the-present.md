@@ -15,11 +15,11 @@ tags: ["日記"]
 
 一路走來，我特別感恩那些關懷與支援：媽媽的貼心照料、親友的問候鼓勵，以及自己在放慢步伐後重新審視的人生。或許我們常常嚮往「健步如飛」的效率，卻忘了「慢步」也有它的好處——你能看清更多細節，感受更多溫暖，也擁有更多思考與自省的空間。
 
-![](__GHOST_URL__/content/images/icon/yv-22.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-22.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1524071556455-5773dff8256d-2)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1524071556455-5773dff8256d-2)
 
-](__GHOST_URL__/slow-life/)
+](https://copywriting.vista.tw/slow-life/)
 
 站在醫院的長廊，看著人來人往的病患與家屬，我的心中湧起一份感激——感謝這些默默付出的醫護人員，他們是這個社會的重要支柱。這份敬意，讓我提醒自己，在忙碌的日子裡，也要記得關注自己的身體狀況，不要等到健康亮起紅燈才後悔莫及。畢竟，沒有健康，其他的一切都無從談起。
 
@@ -39,13 +39,13 @@ Vista電子報 No.76：開工大吉，迎接更好的自己
 
 投資自己，就趁現在！
 
-![](__GHOST_URL__/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-3.png)Vista電子報Vista Cheng
+![](https://copywriting.vista.tw/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-3.png)Vista電子報Vista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2F81d11daf-9183-4bef-b45c-087023527582_1792x1024.heic)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2F81d11daf-9183-4bef-b45c-087023527582_1792x1024.heic)
 
 ](https://iamvista.substack.com/p/vista-no76)
 
-此外，今天也花了一些時間，策劃了兩項全新的[服務](__GHOST_URL__/external-brain/)，並決定採取 [MVP](https://www.bnext.com.tw/article/37675/BN-2015-10-16-154041-156)（最小可行性產品）方式進行測試。我一直相信，在這個快速變遷的時代，**最好的策略就是快速行動、快速試錯，讓市場來驗證想法的可行性。**這樣的實踐，讓我不僅能夠持續學習，也能夠更貼近市場需求，讓服務真正發揮價值。
+此外，今天也花了一些時間，策劃了兩項全新的[服務](https://copywriting.vista.tw/external-brain/)，並決定採取 [MVP](https://www.bnext.com.tw/article/37675/BN-2015-10-16-154041-156)（最小可行性產品）方式進行測試。我一直相信，在這個快速變遷的時代，**最好的策略就是快速行動、快速試錯，讓市場來驗證想法的可行性。**這樣的實踐，讓我不僅能夠持續學習，也能夠更貼近市場需求，讓服務真正發揮價值。
 
 然而，這一天仍然有些可以改善的地方。腳傷仍未完全康復，今天又走了不少路，身體的負擔讓我開始反思——或許應該更加謹慎地管理自己的行動量，不要讓過度勞累影響復原。適當的運動固然重要，但恢復期間的節制與照顧同樣關鍵。每一次的行動，都是對未來的投資，而身體的健康，才是這場長跑中最關鍵的資本。
 

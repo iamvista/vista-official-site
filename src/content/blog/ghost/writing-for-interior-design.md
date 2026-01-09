@@ -3,7 +3,7 @@ title: "三個建議，幫助室內設計師搞定寫作"
 description: ""
 pubDate: "2022-05-01T00:10:16.000Z"
 updatedDate: "2022-10-03T23:08:01.000Z"
-heroImage: "__GHOST_URL__/content/images/wordpress/2022/05/sketchbook-g859acf983_1280.jpg"
+heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/05/sketchbook-g859acf983_1280.jpg"
 tags: []
 ---
 
@@ -27,7 +27,7 @@ tags: []
 
 *   **第一個建議**：平時不妨多去搜集業界的傳單、作品，或是看看報章雜誌上的廣告，看看同行或其他廠商從哪些角度切入？他們在廣告中具體談論哪些重點？是地段嗎？格局還是裝潢呢？
 *   **第二個建議**：可以參考我在《[內容感動行銷](http://bit.ly/vista-content-marketing-book)》這本書中所提到的[FAB銷售法則](https://www.content.tw/fab-technique/)，先思考自家的定位，並多跟潛在客戶談可以帶來的優勢和利益。特別是貴公司獨有的利益，讓客戶牢牢記住您的賣點。
-*   **第三個建議**：平時除了大量涉獵資訊，也要記得篩選和輸出。寫作需要仰賴刻意的練習，如果您需要有人從旁協助或指點，也歡迎加入「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion/)」！順便打個小廣告，第15期即將開始招生囉。
+*   **第三個建議**：平時除了大量涉獵資訊，也要記得篩選和輸出。寫作需要仰賴刻意的練習，如果您需要有人從旁協助或指點，也歡迎加入「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion/)」！順便打個小廣告，第15期即將開始招生囉。
 
 如果您對文案寫作或[內容行銷](https://www.contenthacker.today/2019/11/content-marketing-book.html)等主題很感興趣的話，可以先來聽聽這集的[「房地產世界」Podcast節目](https://podcasts.apple.com/tw/podcast/201908%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E8%A6%81%E6%9C%83%E7%9A%84%E5%AF%AB%E4%BD%9C%E9%97%9C%E9%8D%B5-%E5%B0%88%E8%A8%AA%E5%85%A7%E5%AE%B9%E9%A7%AD%E5%AE%A2%E5%89%B5%E8%BE%A6%E4%BA%BAvista%E9%84%AD%E7%B7%AF%E7%AD%8C/id1484647416?i=1000459070043)。當然，也很歡迎您購買我的新書《[內容感動行銷](http://bit.ly/vista-content-marketing-book)》，或是選購我所主講的《[從0到1打造內容行銷](https://classone.cwgv.com.tw/course/C2019072307411251313)》音頻內容唷！
 
@@ -36,7 +36,7 @@ tags: []
   
 —
 
-★ 想有人陪伴您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion/)」。
+★ 想有人陪伴您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion/)」。
 
 ★ 想學習內容行銷技巧嗎？歡迎報名「[內容力：打造品牌的超能力](https://hahow.in/cr/content-power)」課程。
 

@@ -3,7 +3,7 @@ title: "「不說」的力量：黃庭堅的千古一默，給 AI 時代的啟�
 description: "在這個人人皆可發聲、AI更能日日寫作的時代，沈默變得愈來愈稀有，也愈來愈珍貴。宋代大文豪黃庭堅的一句詩：「萬言萬當，不如一默」，不僅是古人的修辭智慧，更是當代職場與創作者的修心之道。我從大學講師、寫作者與企業顧問的多重視角出發，深度剖析「沈默」在 AI 語境下的價值、在領導溝通中的戰略意義，以及在個人品牌經營中的深度回應。我們將黃庭堅的詩意思想拉進 AI 世代，重新審視語言的份量與「不說」的勇氣。若你也曾在說與不說之間掙扎，這篇文章，或許能帶你找到屬於自己的沈默節奏。"
 pubDate: "2025-07-20T12:57:22.000Z"
 updatedDate: "2025-07-20T12:59:25.000Z"
-heroImage: "__GHOST_URL__/content/images/2025/07/---------------------------.png"
+heroImage: "https://copywriting.vista.tw/content/images/2025/07/---------------------------.png"
 tags: ["職涯","人工智慧"]
 ---
 
@@ -13,9 +13,9 @@ tags: ["職涯","人工智慧"]
 
 黃庭堅 - 維基百科，自由的百科全書
 
-![](__GHOST_URL__/content/images/icon/wikipedia.png)Wikimedia Foundation, Inc.維基媒體專案貢獻者
+![](https://copywriting.vista.tw/content/images/icon/wikipedia.png)Wikimedia Foundation, Inc.維基媒體專案貢獻者
 
-![](__GHOST_URL__/content/images/thumbnail/-E9-BB-84-E5-BA-AD-E5-9D-9A.jpg)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E9-BB-84-E5-BA-AD-E5-9D-9A.jpg)
 
 ](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%BA%AD%E5%A0%85)
 

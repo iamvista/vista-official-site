@@ -11,7 +11,7 @@ tags: ["日記"]
 
 當晨曦還未完全揭開夜幕，我已經坐在書桌前，翻閱著明天開學的課程資料。心裡不斷提醒自己——明天將是**雙重身份的新起點**，一方面作為博士生，繼續深入研究；另一方面則是扮演大學講師的角色，站在講臺上，將累積的知識化為更具體的教學內容。
 
-這份沉甸甸的責任，讓我不禁思索，[**學習**](__GHOST_URL__/learn-writing-skills-from-your-life/)**的真正價值是什麼？**
+這份沉甸甸的責任，讓我不禁思索，[**學習**](https://copywriting.vista.tw/learn-writing-skills-from-your-life/)**的真正價值是什麼？**
 
 求學過程中，我們不斷追求知識的廣度與深度，卻很少真正去計算——**時間的成本**。如今的學費昂貴，每一堂課、每一篇論文乃至於每一次與學界先進們的對話，都是投資，換來的將不只是學位，而是知識轉化成影響力的能力。**如何讓這筆學習投資發揮最大價值，儼然成為現階段最重要的課題之一。**
 
@@ -25,15 +25,15 @@ tags: ["日記"]
 
 這門課的學生來自新聞系的大二生，而**課前問卷的回饋讓我更了解他們的期待與需求**。許多學生希望能學到 AI 工具的應用，能夠輕鬆有趣地學習，但又不想聽太多理論。這反映了當代年輕學子的學習習慣——**他們喜歡動手實作，討厭枯燥的學術內容，卻又想掌握技術的核心價值。**
 
-![](__GHOST_URL__/content/images/2025/02/wordcloud-3.png)
+![](https://copywriting.vista.tw/content/images/2025/02/wordcloud-3.png)
 
 同學們對這門 AI 課程的期待
 
 這對於我這位講師來說，既是一個挑戰，也是一個機會。
 
-如何讓學生真正「學會」[AI](__GHOST_URL__/generative-ai-guide-content-marketing/)，而不是只是「聽過」，這是我今天思考最久的問題之一。我決定將課堂設計為**三個層次**：
+如何讓學生真正「學會」[AI](https://copywriting.vista.tw/generative-ai-guide-content-marketing/)，而不是只是「聽過」，這是我今天思考最久的問題之一。我決定將課堂設計為**三個層次**：
 
-1. **工具操作入門** —— 先讓學生實際體驗 [AI 工具](__GHOST_URL__/finding-strength-in-change/)的基本應用，降低學習門檻。
+1. **工具操作入門** —— 先讓學生實際體驗 [AI 工具](https://copywriting.vista.tw/finding-strength-in-change/)的基本應用，降低學習門檻。
 
 2. **案例分析與應用** —— 透過新聞產業內的實際案例，讓學生理解 AI 如何影響媒體工作。
 
@@ -49,7 +49,7 @@ tags: ["日記"]
 
 這場偶遇，開啟了一場精彩的對話。
 
-![](__GHOST_URL__/content/images/2025/02/29603053-0DF2-4F9A-990D-0F31AFDE9383.png)
+![](https://copywriting.vista.tw/content/images/2025/02/29603053-0DF2-4F9A-990D-0F31AFDE9383.png)
 
 我和 Richard 賢伉儷相見歡
 
@@ -61,15 +61,15 @@ Richard 這幾年專注於 UX 設計的培訓，他的[悠識學院](https://edu
 
 悠識是一間UX使用者經驗顧問公司，運用質性訪談研究與量化問卷、流量數據分析…等方式，深入洞察使用者需求。我們結合商業策略，透過IA資訊架構規劃與原型設計與驗證，以確保體驗符合期待。同時也提供專業知識課程服務，並提供企業內訓與教練計畫，以滿足企業需求。
 
-![](__GHOST_URL__/content/images/icon/Favicon.png)悠識數位 UserXper – 全方位體驗顧問服務iris
+![](https://copywriting.vista.tw/content/images/icon/Favicon.png)悠識數位 UserXper – 全方位體驗顧問服務iris
 
-![](__GHOST_URL__/content/images/thumbnail/userxper_og.png)
+![](https://copywriting.vista.tw/content/images/thumbnail/userxper_og.png)
 
 ](https://userxper.com)
 
 這讓我思考，**知識工作者該如何從「輸出資訊」進階到「提供價值」？**
 
-我們聊到了市場趨勢、品牌定位，以及知識變現的可能性。這場對話，不只是交流 UX 設計的未來，更讓我看到[個人品牌](__GHOST_URL__/personal-brand-positioning/)在數位時代的無限可能。
+我們聊到了市場趨勢、品牌定位，以及知識變現的可能性。這場對話，不只是交流 UX 設計的未來，更讓我看到[個人品牌](https://copywriting.vista.tw/personal-brand-positioning/)在數位時代的無限可能。
 
 > 這讓我更加確信，**學習不只是為了累積知識，而是為了創造影響力。**
 
@@ -83,9 +83,9 @@ Richard 這幾年專注於 UX 設計的培訓，他的[悠識學院](https://edu
 
 你好，我是邱奕霖，是一位致力推動『用畫圖解決問題』的圖解教育創業家，也是一名視覺記錄師、作家、講師，同時創辦【圖解力學院】與全台最大視覺筆記社團，至今累積上百場圖解思考、溝通、視覺筆記等培訓課程與演講，客戶包含廣達、信義房屋、富邦、新光、匯豐汽車等企業及學校單位機關。 期待幫助更多人打破『我不會畫圖』的繪畫迷思，踏上成為【圖解力實踐家】的旅程，一起【相信圖解、勇於實踐】。
 
-![](__GHOST_URL__/content/images/icon/favicon-12.ico)Portaly
+![](https://copywriting.vista.tw/content/images/icon/favicon-12.ico)Portaly
 
-![](__GHOST_URL__/content/images/thumbnail/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9wb3J0YWx5LWNhOWUxLmFwcHNwb3QuY29tL28vYk9IbzNPMUFOU29Ba0JpYWx4REglMkZhdmF0YXI_YWx0PW1lZGlhJnRva2VuPWIyMWU3MTk3LWExYzctNDFhNi1hZmQ4LWIzMzJmNzlkNjllMA)
+![](https://copywriting.vista.tw/content/images/thumbnail/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9wb3J0YWx5LWNhOWUxLmFwcHNwb3QuY29tL28vYk9IbzNPMUFOU29Ba0JpYWx4REglMkZhdmF0YXI_YWx0PW1lZGlhJnRva2VuPWIyMWU3MTk3LWExYzctNDFhNi1hZmQ4LWIzMzJmNzlkNjllMA)
 
 ](https://portaly.cc/draw-to-win)
 

@@ -23,7 +23,7 @@ tags: []
 
 可想而知，內容商機的範疇很廣，不過本次講座主要聚焦在探索Podcast的[聲音經濟](https://www.contenthacker.today/2019/11/why-are-podcasts-so-popular.html)，堪稱是近年來最夯的話題之一。大會邀請了T客邦的陳皓朋副總經理、聯經出版的[陳芝宇](https://www.facebook.com/Dorisneow)總經理、親子天下的[陳世耀](https://www.facebook.com/shihyao.chen)副總經理和鏡好聽的[徐淑卿](https://www.facebook.com/sc.hsu.12)總監前來分享，可說是陣容華麗，機會難得呀！
 
-![](__GHOST_URL__/content/images/wordpress/2022/04/LINE_ALBUM_211229_36-1024x768.jpg)
+![](https://copywriting.vista.tw/content/images/wordpress/2022/04/LINE_ALBUM_211229_36-1024x768.jpg)
 
 ## 引爆聲音經濟
 
@@ -37,7 +37,7 @@ tags: []
 
 而在節目風格的設定上，陳副總經理也提出自己的見解：**如果是編雜誌的話，當然該雜誌的風格就是總編輯的風格，但如果是經營Podcast節目的話，節目風格最好跟主持人的個性相近為宜。**而對《[T客播 TechPodcast](https://open.spotify.com/show/4A2MSYXg8XmP53FKMQkVX5)》來說，他們所設定的出發點是「人物採訪」。
 
-![](__GHOST_URL__/content/images/wordpress/2022/04/4fead7973b7854bc82ee62be64839c4c-1024x538.jpg)
+![](https://copywriting.vista.tw/content/images/wordpress/2022/04/4fead7973b7854bc82ee62be64839c4c-1024x538.jpg)
 
 ## 養成收聽習慣
 

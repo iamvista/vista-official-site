@@ -19,13 +19,13 @@ tags: []
 
 書名：慢讀秒懂數位好文案（全新增訂版）：Vista老師的文案寫作入門課，語言：繁體中文，ISBN：9786267293157，頁數：240，出版社：大寫出版，作者：Vista（鄭緯筌），出版日期：2023/11/27，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-22.ico)
+![](https://copywriting.vista.tw/content/images/icon/favicon-22.ico)
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F097-2F38-2F0010973827.jpg%26v%3D65534cadk%26w%3D1146%26h%3D600)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F097-2F38-2F0010973827.jpg%26v%3D65534cadk%26w%3D1146%26h%3D600)
 
 ](https://vista.im/writing-book)
 
-這些年來，[AI 技術](__GHOST_URL__/embracing-ai/)發展迅速，許多企業、大學院校都開始將其融入商業策略與教育體系。企業想知道如何利用 AI 提升競爭力，學生則希望了解如何運用 AI 來打造未來職涯。我欣然接受這樣的邀約，不僅因為自己對此充滿熱情，更因為知識的價值在於流動，而非囿於個人的理解之中。
+這些年來，[AI 技術](https://copywriting.vista.tw/embracing-ai/)發展迅速，許多企業、大學院校都開始將其融入商業策略與教育體系。企業想知道如何利用 AI 提升競爭力，學生則希望了解如何運用 AI 來打造未來職涯。我欣然接受這樣的邀約，不僅因為自己對此充滿熱情，更因為知識的價值在於流動，而非囿於個人的理解之中。
 
 買好車票，我準備離開車站，此刻，剛好跟身旁的旅人擦身而過。看著他們推著行李踏上行程，而我則轉身走向臺北的晨間街道。這趟旅程還要等上幾週才會展開，但我的思緒，已經開始在腦海裡奔馳。
 
@@ -55,11 +55,11 @@ tags: []
 
 我每週一站在講臺上，週二則坐回教室當學生。今天，照舊搭了將近一個小時的公車來到學校，走進博士生研究室時，學長已經坐在角落，埋首於論文之中。他說，每天從早上八點多寫到傍晚五點，這樣的日子或許枯燥，卻也單純而美好。午後，手機響起，一家品牌顧問公司來電，希望我能協助規劃線上課程。我聽著對方描述需求，思考著該如何將知識轉化為實用的內容。這一切，似乎都是某種必然的發展。當然，今天最值得記住的，還是新書的出版。早上，它曾短暫擠進博客來的即時排行榜，朋友的訊息接連湧來，讓我覺得這一切的努力都沒有白費。然後，準備迎接接下來的另一場比賽——為中華隊加油。
 
-![](__GHOST_URL__/content/images/icon/yv-43.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-43.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1470252649378-9c29740c9fa8)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1470252649378-9c29740c9fa8)
 
-](__GHOST_URL__/morning-light-and-turning-pages/)
+](https://copywriting.vista.tw/morning-light-and-turning-pages/)
 
 這場對話，沒有絕對的答案，但卻讓我更加堅定，知識不只是傳授，而是讓學習者擁有應變的能力。這或許也是我未來要努力的方向——讓知識成為真正的武器，而不是只能陳列在書架上的理論。
 
@@ -73,7 +73,7 @@ tags: []
 
 「不只讀過，我還有掛名推薦。」我笑著回答。
 
-這場偶然的對話，成為了一場知識的交流。我與這位讀者分享了自己的實戰經驗，談到如何透過[文字](__GHOST_URL__/how-to-write-a-good-headline/)真正打動人心，也聊到 AI 如何影響內容創作。這場短暫的對話，讓我再次確信：知識的傳遞，或許不需要舞臺，不需要麥克風，它可能存在於書店的一角，也可能藏在某一本被人翻閱的好書裡。
+這場偶然的對話，成為了一場知識的交流。我與這位讀者分享了自己的實戰經驗，談到如何透過[文字](https://copywriting.vista.tw/how-to-write-a-good-headline/)真正打動人心，也聊到 AI 如何影響內容創作。這場短暫的對話，讓我再次確信：知識的傳遞，或許不需要舞臺，不需要麥克風，它可能存在於書店的一角，也可能藏在某一本被人翻閱的好書裡。
 
 ## **知識與回憶，在流動中交會**
 

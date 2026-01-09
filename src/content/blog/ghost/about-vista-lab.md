@@ -3,7 +3,7 @@ title: "關於Vista Lab，我想說的是⋯⋯"
 description: ""
 pubDate: "2022-07-01T07:39:40.000Z"
 updatedDate: "2022-10-03T22:05:18.000Z"
-heroImage: "__GHOST_URL__/content/images/wordpress/2022/06/%E6%AD%A1%E8%BF%8E%E5%8A%A0%E5%85%A5Vista-Lab.jpg"
+heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/06/%E6%AD%A1%E8%BF%8E%E5%8A%A0%E5%85%A5Vista-Lab.jpg"
 tags: []
 ---
 
@@ -11,9 +11,9 @@ tags: []
 > 
 > 《[除了死，都只是擦傷：一個狂熱編輯的革命工作哲學](https://www.books.com.tw/exep/assp.php/vista/products/0010819489?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202207)》
 
-[Vista Lab](__GHOST_URL__/vista-lab)，是我計畫推出的會員制服務，預計於2023年1月2日（\*）正式啟動，即日起開始試營運。其實，我想做一個會員制服務，這樣的念頭已經在腦海裡盤旋許久了。
+[Vista Lab](https://copywriting.vista.tw/vista-lab)，是我計畫推出的會員制服務，預計於2023年1月2日（\*）正式啟動，即日起開始試營運。其實，我想做一個會員制服務，這樣的念頭已經在腦海裡盤旋許久了。
 
-不知道你以為的[Vista Lab](__GHOST_URL__/vista-lab)，會是什麼樣子呢？在我的想像裡，它有多元的面貌：
+不知道你以為的[Vista Lab](https://copywriting.vista.tw/vista-lab)，會是什麼樣子呢？在我的想像裡，它有多元的面貌：
 
 > 它是一個學習社群，所有會員可以在私密的社群裡互動交流與成長。
 > 
@@ -35,7 +35,7 @@ tags: []
 
 —
 
-★ 想有人協助您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion/)」。
+★ 想有人協助您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion/)」。
 
 ★ 想學習內容行銷技巧嗎？歡迎報名「[內容力：打造品牌的超能力](https://hahow.in/cr/content-power)」課程。
 

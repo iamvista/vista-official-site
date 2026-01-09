@@ -31,7 +31,7 @@ tags: ["日記"]
 
 那一刻，時間彷彿放慢了速度，12 本書整齊地陳列在架上，熟悉的封面與書名映入眼簾，像是悄悄地對我微笑。這並不是我出版的第一本書，卻仍然帶來相同的悸動。
 
-![](__GHOST_URL__/content/images/2025/02/481871338_17899187688110591_2305600707769517794_n.jpg)
+![](https://copywriting.vista.tw/content/images/2025/02/481871338_17899187688110591_2305600707769517794_n.jpg)
 
 不會寫程式也能創立個人品牌和變現
 
@@ -43,9 +43,9 @@ tags: ["日記"]
 
 書名：不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌，語言：繁體中文，ISBN：9786269899685，頁數：184，出版社：真文化，作者：鄭緯筌（Vista Cheng），出版日期：2025/02/25，類別：商業理財
 
-![](__GHOST_URL__/content/images/icon/favicon-21.ico)
+![](https://copywriting.vista.tw/content/images/icon/favicon-21.ico)
 
-![](__GHOST_URL__/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-4.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
+![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-4.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
 
 ](https://vista.im/no-code-book)
 
@@ -75,11 +75,11 @@ tags: ["日記"]
 
 想知道如何以一人之力在網路上創業，用最少精力與成本合法賺取最大收益嗎？我將透過這篇超過 8000 字的指南揭露 10 種實證策略，從聯盟行銷到數位產品銷售，搭配 Pat Flynn、Tim Ferriss 等成功案例，為你完整解析。文中透過 10 種武器的隱喻拆解，我將教你如何低成本啟動並實現被動收入，適合新手與資深創業家。立即探索具體方法與實用建議，開啟你的線上賺錢之旅！
 
-![](__GHOST_URL__/content/images/icon/yv-41.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-41.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1523726491678-bf852e717f6a)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1523726491678-bf852e717f6a)
 
-](__GHOST_URL__/solo-entrepreneur-online-money-making-guide/)
+](https://copywriting.vista.tw/solo-entrepreneur-online-money-making-guide/)
 
 一天的時間，就這樣在學習與思索之中流轉。
 

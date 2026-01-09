@@ -7,7 +7,7 @@ heroImage: "https://images.unsplash.com/photo-1507494924047-60b8ee826ca9?crop=en
 tags: ["寫作"]
 ---
 
-之前，我曾提到[寫作最好不要依賴靈感](__GHOST_URL__/stop-relying-on-inspiration-to-write/)。雖然箇中的道理普遍大家都能接受，但還是有很多朋友跟我說，如果沒有靈感就無法下筆，這該如何是好？
+之前，我曾提到[寫作最好不要依賴靈感](https://copywriting.vista.tw/stop-relying-on-inspiration-to-write/)。雖然箇中的道理普遍大家都能接受，但還是有很多朋友跟我說，如果沒有靈感就無法下筆，這該如何是好？
 
 其實，如果不是以寫作維生的專業工作者，善用靈感倒也不失一種為寫作增色的方式。無論是想到有趣的點子，或是一些神奇的切入點，都對組織文章有些幫助。
 

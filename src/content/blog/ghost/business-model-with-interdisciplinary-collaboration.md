@@ -3,7 +3,7 @@ title: "規劃利他共好策略，跨領域整合產業創新"
 description: ""
 pubDate: "2022-08-17T21:41:55.000Z"
 updatedDate: "2022-10-03T21:59:26.000Z"
-heroImage: "__GHOST_URL__/content/images/wordpress/2022/08/trust-g66f8632a1_1280.jpg"
+heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/08/trust-g66f8632a1_1280.jpg"
 tags: []
 ---
 
@@ -35,7 +35,7 @@ tags: []
 
 —
 
-★ 想有人協助您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion/)」。
+★ 想有人協助您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion/)」。
 
 ★ 想學習內容行銷技巧嗎？歡迎報名「[內容力：打造品牌的超能力](https://hahow.in/cr/content-power)」課程。
 

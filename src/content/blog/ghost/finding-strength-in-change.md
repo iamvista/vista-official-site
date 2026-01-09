@@ -13,7 +13,7 @@ tags: ["日記"]
 
 這場對話，讓我深刻感受到 AI 在企業界的角色正在轉變——**它已經不是一個遙不可及的技術，而是企業經營不可或缺的利器**。這位企業家與他的夥伴們，早已不再只是對 AI 感興趣，而是積極尋找落地應用的方法。他問道：「**我們該如何區分哪些工作適合 AI？哪些仍然需要人來做？**」
 
-這個問題，讓我想起前幾天讀到的《Business Insider》[報導](__GHOST_URL__/grace-and-strength/)，當中訪問了**四大國際顧問公司（EY, KPMG, McKinsey, PwC）的 AI 高管**，探討 AI 在日常業務中的應用方式。其中，麥肯錫的 Rodney Zemmel 提到：**「AI 的真正價值，不在於取代人，而在於讓我們把 80% 機械性的工作交給 AI，專注於 20% 高價值的創造性決策。」**
+這個問題，讓我想起前幾天讀到的《Business Insider》[報導](https://copywriting.vista.tw/grace-and-strength/)，當中訪問了**四大國際顧問公司（EY, KPMG, McKinsey, PwC）的 AI 高管**，探討 AI 在日常業務中的應用方式。其中，麥肯錫的 Rodney Zemmel 提到：**「AI 的真正價值，不在於取代人，而在於讓我們把 80% 機械性的工作交給 AI，專注於 20% 高價值的創造性決策。」**
 
 [
 
@@ -21,11 +21,11 @@ tags: ["日記"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](__GHOST_URL__/content/images/icon/yv-30.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-30.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-3)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-3)
 
-](__GHOST_URL__/embracing-ai/)
+](https://copywriting.vista.tw/embracing-ai/)
 
 這段話讓我想到，我們在企業管理上需要一個新的思維模式：[**AI 不是取代人**](https://vista.im/chatgpt-book)**，而是幫助人更有效率地決策。**未來，企業真正的競爭力，不在於技術本身，而在於**誰能夠真正理解 AI，並找到適合自己的協作模式。**
 
@@ -51,7 +51,7 @@ tags: ["日記"]
 
 但另一件事，讓我重新找回對研究的熱情——**二月即將出版的**[**新書**](https://www.books.com.tw/exep/assp.php/vista/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)**，已經能在博客來查到了！**
 
-[![](__GHOST_URL__/content/images/2025/02/---2ARB0034---------------------72dpi-.jpg)](https://www.books.com.tw/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
+[![](https://copywriting.vista.tw/content/images/2025/02/---2ARB0034---------------------72dpi-.jpg)](https://www.books.com.tw/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
 
 不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌
 

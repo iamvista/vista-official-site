@@ -57,6 +57,6 @@ _倘若將你的網站想像成一塊美味的餡餅，那麼麵團就是內容�
 
 如果你時常看一些部落格文章，應該不難發現很多部落客開始為自己的文章添加目錄。建立目錄的目的，除了方便訪客瀏覽與快速掌握重點之外，也有助於搜尋引擎爬蟲理解你的文章架構。
 
-順帶一提，如果你採用[Ghost](__GHOST_URL__/)或[Google Blogger](https://www.vistacheng.com)來架設網站或部落格的話，坊間也有一些便捷的[外掛程式](https://www.johntool.com/wordpress-table-of-contents/)能夠迅速建立文章目錄，可說是相當方便。有興趣的朋友可以試試哦！如果你還有問題的話，也歡迎留言跟我討論。
+順帶一提，如果你採用[Ghost](https://copywriting.vista.tw/)或[Google Blogger](https://www.vistacheng.com)來架設網站或部落格的話，坊間也有一些便捷的[外掛程式](https://www.johntool.com/wordpress-table-of-contents/)能夠迅速建立文章目錄，可說是相當方便。有興趣的朋友可以試試哦！如果你還有問題的話，也歡迎留言跟我討論。
 
 今天的這篇文章，我也把它錄成了Podcast節目！如果你喜歡的話，歡迎收聽《[Vista的小聲音](https://vista.firstory.io/episodes/ckzdi1bqv01ny09026fb2kwgb)》，也誠摯邀請你訂閱我的[YouTube頻道](https://www.youtube.com/c/VistaCheng)，或是在[Apple Podcast](https://podcasts.apple.com/tw/podcast/vista%E7%9A%84%E5%B0%8F%E8%81%B2%E9%9F%B3/id1552853832)幫我打五星評論，並分享這個節目給有興趣的朋友們。

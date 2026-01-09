@@ -11,7 +11,7 @@ tags: ["人工智慧","閱讀"]
 
 Penny，不只是我共事過的夥伴，更是我親眼見證從生活實戰一步步走進「知識轉譯」的創作者典範。我們曾一起開辦[圖文訓練營](https://www.vistacheng.com/2021/06/creation-camp.html)，她總是能把複雜的知識，用淺白有趣的方式說清楚、講透徹。她用圖文溝通，也用人生說話，她不只是創作者，更是一位走過泥濘仍選擇向陽的人。 
 
-![](__GHOST_URL__/content/images/2025/06/---AI---------------------.png)
+![](https://copywriting.vista.tw/content/images/2025/06/---AI---------------------.png)
 
 在這本《[用 AI 打造素人影響力：圖解商業定位、內容策略與 AI 應用的 24 堂實戰課](https://www.books.com.tw/exep/assp.php/vista/products/0011021616?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202506)》中，Penny 陪我們走過每一個 AI 浪潮下的焦慮與期待。這不是一本技術手冊，而是一本重建信念與行動軌跡的生存指南。她用自己的故事，娓娓道來：如何從單親媽媽、無背景自由工作者的身分出發，一步步打造自己的知識品牌，並在AI世代中找到屬於自己的位置。
 
@@ -29,13 +29,13 @@ AI 學習與應用的行動指南：獻給職場人士的實戰手冊
 
 經過這一路的學習和實踐，最重要的轉變不是學會了多少 AI 工具，而是思維模式的改變。希望你可以開始用更系統、更開放的方式思考問題和解決問題，讓 AI 成為你的好朋友和好幫手。
 
-![](__GHOST_URL__/content/images/icon/favicon-34.ico)AI 賦能學院Vista Cheng
+![](https://copywriting.vista.tw/content/images/icon/favicon-34.ico)AI 賦能學院Vista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/-E5-AD-B8-E7-BF-92AI.png)
+![](https://copywriting.vista.tw/content/images/thumbnail/-E5-AD-B8-E7-BF-92AI.png)
 
 ](https://www.empowerai.school/2025/05/ai-playbook-for-professionals.html)
 
-「興趣可以當飯吃，但要先做好三件事。」這是 Penny 這幾年來的真實實踐，她沒有急著告訴你怎麼成功，她先教你怎麼不跌倒。從勇敢嘗試、堅持下去，到理解商業本質與使用 [AI](__GHOST_URL__/tag/ai/) 優化工作流程，這本書是一份寫給想活出自己版本人生的行動地圖。 
+「興趣可以當飯吃，但要先做好三件事。」這是 Penny 這幾年來的真實實踐，她沒有急著告訴你怎麼成功，她先教你怎麼不跌倒。從勇敢嘗試、堅持下去，到理解商業本質與使用 [AI](https://copywriting.vista.tw/tag/ai/) 優化工作流程，這本書是一份寫給想活出自己版本人生的行動地圖。 
 
 尤其是她對 MVP（最小可行性產品）的應用，從創業到生活，從測試夢想到日常執行，每一段都接地氣又能落實。[這本書](https://www.books.com.tw/exep/assp.php/vista/products/0011021616?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202506)不只是給想創業的人看的，更是為所有「想活得不一樣的人」準備的。
 
@@ -49,11 +49,11 @@ Penny 跟大家分享，她如何走過自我懷疑、如何在 [AI 時代](http
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](__GHOST_URL__/content/images/icon/yv-47.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-47.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-8)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-8)
 
-](__GHOST_URL__/embracing-ai/)
+](https://copywriting.vista.tw/embracing-ai/)
 
 她也許不完美，但她誠實；她真的沒太多背景，但她肯努力；她更沒有巨大的資本，但她有持續前進的力量。這樣的她，正在用自己的方式，讓 1% 的人活得有感，也讓剩下的 99%，開始相信自己也可以。
 

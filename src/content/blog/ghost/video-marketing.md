@@ -3,7 +3,7 @@ title: "善用影音行銷，有效抓住消費者眼球"
 description: ""
 pubDate: "2022-08-10T21:17:29.000Z"
 updatedDate: "2022-10-03T22:02:01.000Z"
-heroImage: "__GHOST_URL__/content/images/wordpress/2022/08/iphone-g226cb67a7_1280.jpg"
+heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/08/iphone-g226cb67a7_1280.jpg"
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 我曾寫過一篇文章跟大家介紹[內容行銷](https://www.contenthacker.today/2019/01/how-to-create-a-successful-content-marketing-strategy.html)，除了可以透過文字內容來行銷，也能夠運用聲音、圖片和影像等多元的內容型態。其中，又以影音內容最受到年輕族群的青睞。
 
-談到影音內容，大家每天在網路上收看[網紅](https://money.udn.com/money/story/8944/5513742?from=edn_search_result)的直播秀，或是在通勤時收聽某些意見領袖的[Podcast](__GHOST_URL__/marketing/reaching-target-audience-via-podcast)節目…影音和我們之間的距離，可說是愈來愈近了，可想而知，影音行銷自然也就應運而生。
+談到影音內容，大家每天在網路上收看[網紅](https://money.udn.com/money/story/8944/5513742?from=edn_search_result)的直播秀，或是在通勤時收聽某些意見領袖的[Podcast](https://copywriting.vista.tw/marketing/reaching-target-audience-via-podcast)節目…影音和我們之間的距離，可說是愈來愈近了，可想而知，影音行銷自然也就應運而生。
 
 顧名思義，影音行銷就是運用獨特的影音內容來吸引[目標受眾](https://www.content.tw/writing/copywriting-skills)的關注，進而促進銷售或達成轉換。當然，影音行銷和內容行銷的關係密切，都是運用優質內容來吸引目標受眾的青睞。
 
@@ -35,7 +35,7 @@ tags: []
 
 —
 
-★ 想有人協助您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](__GHOST_URL__/writing-companion/)」。
+★ 想有人協助您學好寫作嗎？歡迎報名「[Vista寫作陪伴計畫](https://copywriting.vista.tw/writing-companion/)」。
 
 ★ 想學習內容行銷技巧嗎？歡迎報名「[內容力：打造品牌的超能力](https://hahow.in/cr/content-power)」課程。
 

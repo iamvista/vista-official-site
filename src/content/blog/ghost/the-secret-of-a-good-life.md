@@ -17,7 +17,7 @@ tags: ["個人品牌","職涯"]
 
 我從小體弱多病，常覺得自己的命不好，但平心而論，我想自己算是很幸運。能夠活在這個時代、擁有選擇職業的自由與一點點的天賦，甚至慢慢找到屬於自己的位置。但我也很清楚，命好從來不是偶然，而是一連串決定與堅持的結果。那是一條無人能代替走完的路，是一張我用生命一筆一劃所刻畫出來的圖。
 
-![](__GHOST_URL__/content/images/2025/05/---------.png)
+![](https://copywriting.vista.tw/content/images/2025/05/---------.png)
 
 今天傍晚，我從「[誠品人 eslite member](https://www.facebook.com/eslite.member)」粉絲專頁看到一張熟悉的[文氏圖](https://www.facebook.com/eslite.member/posts/pfbid0syZPVfkVVr6FDURKJFnfaNRRs4v57jdSdUhtWf5iv17sWvB91RYC1axuRSKQn3ndl)。三個圓圈疊合在一起：一個是「你喜歡做的事」，一個是「你擅長做的事」，還有一個是「有錢拿的事」。當這三者交會時，那個小小的交集區域，就是傳說中的「命很好」。
 
@@ -113,9 +113,9 @@ tags: ["個人品牌","職涯"]
 
 對我來說，[AI 是實踐的槓桿](https://www.empowerai.school/)，專業是價值的底座，而選擇則是方向的舵。這三者交錯運行，就能讓我的未來不只是「命好」，而是活出一種「可持續的自由」。
 
-如果你願意，也試著重新檢視你的三個圓。你現在在哪裡？下一步可以微調什麼？哪個面向可以用 [AI](__GHOST_URL__/tag/ai/) 協助你突破？哪個專業還可以更明確地被包裝？你有沒有勇氣做出一個不那麼「安全」但更貼近你的選擇？
+如果你願意，也試著重新檢視你的三個圓。你現在在哪裡？下一步可以微調什麼？哪個面向可以用 [AI](https://copywriting.vista.tw/tag/ai/) 協助你突破？哪個專業還可以更明確地被包裝？你有沒有勇氣做出一個不那麼「安全」但更貼近你的選擇？
 
-![](__GHOST_URL__/content/images/2025/05/chart_3_evolution_path.png)
+![](https://copywriting.vista.tw/content/images/2025/05/chart_3_evolution_path.png)
 
 這不是空泛的理論，而是你我都能一步步實踐的人生主題。如果你現在已經走在這條路上，希望這篇文章可以是陪伴你的一張導航地圖。
 

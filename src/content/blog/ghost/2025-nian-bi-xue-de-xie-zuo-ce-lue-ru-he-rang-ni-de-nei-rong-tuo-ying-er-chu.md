@@ -13,7 +13,7 @@ tags: []
 
 ## **內容創作的本質不變，但寫作方式要進化**
 
-無論是經營[部落格](__GHOST_URL__/blog-guide-for-beginners/)、自媒體，或是在企業內負責[內容行銷](__GHOST_URL__/generative-ai-guide-content-marketing/)，寫作的核心價值始終如一——**傳遞價值，解決問題，建立信任**。無論科技如何變遷，人類對於有價值內容的需求依舊存在，這點不會改變。
+無論是經營[部落格](https://copywriting.vista.tw/blog-guide-for-beginners/)、自媒體，或是在企業內負責[內容行銷](https://copywriting.vista.tw/generative-ai-guide-content-marketing/)，寫作的核心價值始終如一——**傳遞價值，解決問題，建立信任**。無論科技如何變遷，人類對於有價值內容的需求依舊存在，這點不會改變。
 
 [
 
@@ -21,11 +21,11 @@ tags: []
 
 在自媒體時代，品牌不分個人或企業都需要經營，擁有自己的粉絲專頁、YouTube頻道、社群，就有了影響力！如果什麼都還沒開始，或正在開始的路上，怎樣經營自媒體？而內容又該如何持續產出？讓資深顧問Vista來告訴大家囉！ 自媒體與社群經營FB社團暴增粉真實故事不私藏－Vista 鄭緯筌專訪 Facebook告訴我，我和Marie是在2010年6月認識的，換句話說，我們的交情已經有十幾年的光景了！ 日前，很高興應Marie之邀上她的Podcast節目《張馬力漫談》，跟大家聊聊有關自媒體與社群經營的話題。在節目裡，我也以自己近年來經營「我愛寫筆記」社團的案例，跟聽眾朋友們分享箇中的秘辛。 有興趣的朋友，歡迎收聽本集節目。對了，如果您對自媒體經營或社群經營有任何問題的話，歡迎留言或寫信與我聯繫唷！
 
-![](__GHOST_URL__/content/images/icon/yv-20.png)VistaVista Cheng
+![](https://copywriting.vista.tw/content/images/icon/yv-20.png)VistaVista Cheng
 
-![](__GHOST_URL__/content/images/thumbnail/photo-1429962714451-bb934ecdc4ec)
+![](https://copywriting.vista.tw/content/images/thumbnail/photo-1429962714451-bb934ecdc4ec)
 
-](__GHOST_URL__/how-to-get-more-followers/)
+](https://copywriting.vista.tw/how-to-get-more-followers/)
 
 然而，2025年的內容環境與五年前相比，已經發生了翻天覆地的變化。AI生成內容（如 ChatGPT、Claude、Gemini 等）不再是輔助工具，而逐漸變成市場的主流之一，許多網站和企業都開始仰賴AI撰寫內容，使得市場上充斥大量機器寫作的文章。這也讓我們不得不思考，**寫作的真正價值究竟來自何處？**
 

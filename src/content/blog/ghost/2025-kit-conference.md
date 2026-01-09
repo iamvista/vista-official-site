@@ -9,7 +9,7 @@ tags: ["個人品牌","自媒體"]
 
 身為此次活動的贊助者之一，很高興可以參與這場在 2025 年 6 月 28 日於臺北所舉辦的閉門分享會。這個午後，小金魚以她一貫的熱情與幽默，分享了她參加美國 [Kit 創作者年會](https://kit.com/conference)的精彩故事。從如何在 400 人中脫穎而出，到與[優優媽咪](https://yoyomammy.com/)一起優化電子報問卷，這場分享會就像一場充滿知識與笑聲的「獵人遊戲」，讓我們看到小金魚如何在陌生環境中找到目標、建立連結，並將靈感化為行動。
 
-![](__GHOST_URL__/content/images/2025/06/IMG_0457.png)
+![](https://copywriting.vista.tw/content/images/2025/06/IMG_0457.png)
 
 * * *
 
@@ -27,7 +27,7 @@ tags: ["個人品牌","自媒體"]
 
 最精彩的環節，莫過於小金魚如何登上主舞臺拍照——這可是 400 人中沒人敢做的事！她鎖定 Kit 活動的負責人 Haley，耐心等到她落單的那一刻，大喊：「Haley，我超愛妳的電子報！」這一招不僅讓 Haley 放下戒心，還讓小金魚成功登臺，拍下了夢寐以求的照片。她在分享會上笑說：「勇敢踏出第一步，機會就會向你敞開！」
 
-![](__GHOST_URL__/content/images/2025/06/stage_photo_strategy.png)
+![](https://copywriting.vista.tw/content/images/2025/06/stage_photo_strategy.png)
 
 ## 從零到一：打造一份有價值的電子報問卷
 
