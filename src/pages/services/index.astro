@@ -28,13 +28,14 @@ import { SITE_TITLE } from '../../consts';
 				margin: 0 auto;
 			}
 			
+            /* Grid Layout */
 			.service-grid {
 				display: grid;
 				grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 				gap: 3rem;
 				max-width: 1200px;
 				margin: 0 auto;
-				padding: 4rem 1rem;
+				padding: 2rem 1rem 6rem 1rem; /* Added bottom padding */
 			}
 			
 			.service-card {
@@ -47,11 +48,13 @@ import { SITE_TITLE } from '../../consts';
 				display: flex;
 				flex-direction: column;
 				height: 100%;
+                /* Ensure separation */
+                margin-bottom: 1rem; 
 			}
 			.service-card:hover {
 				transform: translateY(-5px);
 				box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
-				border-color: var(--accent);
+				border-color: var(--color-red); /* Red Hover */
 			}
 			
 			.icon-wrapper {
@@ -63,7 +66,7 @@ import { SITE_TITLE } from '../../consts';
 				align-items: center;
 				justify-content: center;
 				margin-bottom: 1.5rem;
-				color: var(--color-gold);
+				color: var(--color-red); /* Icon Red */
 				font-size: 2rem;
 			}
 			
@@ -93,7 +96,7 @@ import { SITE_TITLE } from '../../consts';
 			}
 			.service-features li::before {
 				content: '✓';
-				color: var(--color-red);
+				color: var(--color-red); /* Checkmark Red */
 				margin-right: 0.75rem;
 				font-weight: bold;
 			}
@@ -111,30 +114,37 @@ import { SITE_TITLE } from '../../consts';
 				transition: all 0.2s;
 			}
 			.card-btn:hover {
-				background: var(--color-primary);
+				background: var(--color-red);
+                border-color: var(--color-red);
 				color: white;
 			}
 			
+            /* Banner - Light Theme now */
 			.consult-banner {
-				background: var(--color-primary);
-				color: white;
+				background: var(--color-warm-bg); /* Light BG */
+				color: var(--color-primary);
+                border: 2px solid var(--gray-light);
 				padding: 4rem 1rem;
 				text-align: center;
 				border-radius: 20px;
 				max-width: 1000px;
-				margin: 0 auto 4rem;
+				margin: 4rem auto 6rem; /* Huge margins */
 			}
 			.consult-btn {
 				display: inline-block;
 				margin-top: 1.5rem;
-				background: var(--color-golden);
-				background-color: var(--color-gold); 
+				background: var(--color-red); /* Red Button */
 				color: white;
 				padding: 1rem 3rem;
 				border-radius: 9999px;
 				text-decoration: none;
 				font-weight: 700;
+                transition: all 0.2s;
 			}
+            .consult-btn:hover {
+                background: #b91c1c; /* Darker Red */
+                transform: translateY(-2px);
+            }
 
             /* Responsive Adjustments */
             @media (max-width: 768px) {
@@ -205,8 +215,8 @@ import { SITE_TITLE } from '../../consts';
 			</div>
 			
 			<div class="consult-banner">
-				<h2 style="color:white; margin-bottom:1rem;">不確定適合哪種服務？</h2>
-				<p style="color:var(--gray-light); margin-bottom:0;">歡迎預約 30 分鐘免費諮詢，讓我們聊聊您的需求。</p>
+				<h2 style="margin-bottom:1rem;">不確定適合哪種服務？</h2>
+				<p style="margin-bottom:0; color: var(--secondary);">歡迎預約 30 分鐘免費諮詢，讓我們聊聊您的需求。</p>
 				<a href="https://cal.com/iamvista" target="_blank" class="consult-btn">預約免費諮詢</a>
 			</div>
 		</main>
