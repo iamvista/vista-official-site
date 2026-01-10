@@ -21,9 +21,9 @@ tags: []
 
 在自媒體時代，品牌不分個人或企業都需要經營，擁有自己的粉絲專頁、YouTube頻道、社群，就有了影響力！如果什麼都還沒開始，或正在開始的路上，怎樣經營自媒體？而內容又該如何持續產出？讓資深顧問Vista來告訴大家囉！ 自媒體與社群經營FB社團暴增粉真實故事不私藏－Vista 鄭緯筌專訪 Facebook告訴我，我和Marie是在2010年6月認識的，換句話說，我們的交情已經有十幾年的光景了！ 日前，很高興應Marie之邀上她的Podcast節目《張馬力漫談》，跟大家聊聊有關自媒體與社群經營的話題。在節目裡，我也以自己近年來經營「我愛寫筆記」社團的案例，跟聽眾朋友們分享箇中的秘辛。 有興趣的朋友，歡迎收聽本集節目。對了，如果您對自媒體經營或社群經營有任何問題的話，歡迎留言或寫信與我聯繫唷！
 
-![](https://copywriting.vista.tw/content/images/icon/yv-20.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1429962714451-bb934ecdc4ec)
+
 
 ](https://copywriting.vista.tw/how-to-get-more-followers/)
 

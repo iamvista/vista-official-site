@@ -23,9 +23,9 @@ tags: ["人工智慧"]
 
 在歲月流轉中，年節的溫暖總能觸動內心深處。這篇文章記錄了大年初三的點滴——從腳傷漸癒的喜悅，到媽媽細心的熱敷照顧，從寫作的充實感到朋友間的深情問候，每個瞬間都滿溢著感恩與啟發。隨著春節假期接近尾聲，如何在新的一年持續前行、珍惜當下，成為更好的自己？讓我們一起反思生活的美好，擁抱每一份溫暖，迎接未來的無限可能。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-8.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1579208570378-8c970854bc23)
+
 
 ](https://copywriting.vista.tw/be-your-better-self/)
 
@@ -45,9 +45,9 @@ tags: ["人工智慧"]
 
 我要鼓勵大家多看、多聽與多想。透過觀摩他人的作品，不但有助於增廣見聞，更能發現很多觀察事物的角度與方法。一開始在模仿中借鑑、在試錯中進步，同時也在創作中思考⋯⋯當然，這一切的努力都需要花很多的時間和精力來積累，但我相信慢慢地可以從中找到適合自己的寫作模式，然後再逐漸內化，變成自己獨有的特色。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-11.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1542062700-9b61ccbc1696)
+
 
 ](https://copywriting.vista.tw/developing-your-writing-style/)
 
@@ -71,9 +71,9 @@ Vista電子報 No.65：如何利用生成式AI工具創建個人專案
 
 從零開始，和我一起踏上自我實現之路。
 
-![](https://copywriting.vista.tw/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180.png)Vista電子報Vista Cheng
+Vista電子報Vista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2Fdd655c7e-9a61-483b-a189-2191662a84af_1792x1024.heic)
+
 
 ](https://iamvista.substack.com/p/vista-no65ai)
 
@@ -95,9 +95,9 @@ Vista電子報 No.65：如何利用生成式AI工具創建個人專案
 
 書名：1分鐘驚豔ChatGPT爆款文案寫作聖經：寫作教練Vista教你用ChatGPT寫出引人入勝的銷售文案，語言：繁體中文，ISBN：9786267256947，頁數：240，出版社：布克文化，作者：鄭緯筌（Vista Cheng），出版日期：2023/05/27，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Faddons.books.com.tw-2FG-2Fprod-2Fcomingsoon_sq.jpg%26v%3D50617f0ak%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/chatgpt-book)
 
@@ -125,9 +125,9 @@ Vista電子報 No.65：如何利用生成式AI工具創建個人專案
 
 有別於傳統的廣告，內容行銷專注於與消費者建立長期關係，提供資訊或娛樂價值，而不是直接推銷產品或服務。建議大家可以透過文章、影音、圖片、部落格、電子書和社群媒體貼文等多種形式，來從事內容行銷。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-10.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1533750516457-a7f992034fec)
+
 
 ](https://copywriting.vista.tw/generative-ai-guide-content-marketing/)
 
@@ -151,9 +151,9 @@ ChatGPT提問課，做個懂AI的高效工作者
 
 書名：ChatGPT提問課，做個懂AI的高效工作者，原文名稱：從零基礎到對答如流，ChatGPT職場應用指南，語言：繁體中文，ISBN：9786269749676，頁數：304，出版社：虎吉，作者：鄭緯筌（Vista Cheng），出版日期：2024/01/04，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-1.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F097-2F79-2F0010977923.jpg%26v%3D658959d5k%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/ai-book)
 
@@ -177,9 +177,9 @@ Vista五步驟個人定位法，幫助你立足AI時代｜專家論點【鄭緯�
 
 我相信你一定聽過「危機即轉機」這句話，應該也會認同這句話。我們都知道危機在所難免，只要能夠事先因應與預防，就可以防微杜漸，勝於事後的處理。談回今天的主題，最近這半年人工智慧（AI）風起雲湧，AI固然帶來了很多的機遇，卻也加劇當今社會諸多不平等的問題。
 
-![](https://copywriting.vista.tw/content/images/icon/cropped-wordpress_512x512-180x180.png)科技島-掌握科技新聞、科技職場最新資訊vista
+科技島-掌握科技新聞、科技職場最新資訊vista
 
-![](https://copywriting.vista.tw/content/images/thumbnail/112085947_l-1024x768.jpg)
+
 
 ](https://www.technice.com.tw/opinion/64359/)
 

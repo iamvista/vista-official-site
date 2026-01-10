@@ -23,9 +23,9 @@ tags: ["創業","個人品牌"]
 
 書名：不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌，語言：繁體中文，ISBN：9786269899685，頁數：184，出版社：真文化，作者：鄭緯筌（Vista Cheng），出版日期：2025/02/25，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-15.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/no-code-book)
 
@@ -71,9 +71,9 @@ tags: ["創業","個人品牌"]
 
 書名：1分鐘驚豔ChatGPT爆款文案寫作聖經：寫作教練Vista教你用ChatGPT寫出引人入勝的銷售文案，語言：繁體中文，ISBN：9786267256947，頁數：240，出版社：布克文化，作者：鄭緯筌（Vista Cheng），出版日期：2023/05/27，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-16.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Faddons.books.com.tw-2FG-2Fprod-2Fcomingsoon_sq-1.jpg%26v%3D50617f0ak%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/chatgpt-book)
 
@@ -89,9 +89,9 @@ tags: ["創業","個人品牌"]
 
 儘管大家都知道寫作是最好的自我投資，但還是有很多的朋友視寫作為畏途。身為一位教文案寫作與內容行銷的講師，我始終覺得寫作並沒有那麼困難。有別於文學創作，職場寫作其實是有脈絡和方法可以依循。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-38.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1539795845756-4fadad2905ec)
+
 
 ](https://copywriting.vista.tw/content-creation-skills/)
 
@@ -169,9 +169,9 @@ Vista電子報 No.76：開工大吉，迎接更好的自己
 
 投資自己，就趁現在！
 
-![](https://copywriting.vista.tw/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-4.png)Vista電子報Vista Cheng
+Vista電子報Vista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2F81d11daf-9183-4bef-b45c-087023527582_1792x1024-1.heic)
+
 
 ](https://iamvista.substack.com/p/vista-no76)
 
@@ -209,9 +209,9 @@ Tim Ferriss 強調自動化，他的業務靠外包與工具運行。我身邊�
 
 書名：不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌，語言：繁體中文，ISBN：9786269899685，頁數：184，出版社：真文化，作者：鄭緯筌（Vista Cheng），出版日期：2025/02/25，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-17.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-1.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/no-code-book)
 
@@ -425,9 +425,9 @@ Pat Flynn 用聯盟行銷月入 10 萬美元，Tim Ferriss 靠數位產品賺數
 
 一人創業：如何在網路上以最少成本與精力來賺錢.pdf | Powered by Box
 
-![](https://copywriting.vista.tw/content/images/icon/apple-touch-icon-180x180-tV001c.png)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/thumb_1024.jpg)
+
+
 
 ](https://app.box.com/s/sq5ktuf447cz22qzz7vk5xlkmm7ugn8a)
 
@@ -441,9 +441,9 @@ Pat Flynn 用聯盟行銷月入 10 萬美元，Tim Ferriss 靠數位產品賺數
 
 書名：不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌，語言：繁體中文，ISBN：9786269899685，頁數：184，出版社：真文化，作者：鄭緯筌（Vista Cheng），出版日期：2025/02/25，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-18.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F101-2F44-2F0011014433-2.jpg%26v%3D67ace8aak%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/no-code-book)
 

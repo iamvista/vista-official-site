@@ -33,9 +33,9 @@ tags: ["日記"]
 
 人生就像一場不斷前行的旅程，每一步都承載著成長與學習。今天，我在母親的細心照料下，感受到家人的溫暖與支持；在教學的完成與學員的回饋中，體會到知識分享的價值；在與朋友的交流、技術的探索，以及牌卡的啟示中，看見了未來的無限可能。無論是身體的康復，還是心靈的進步，這些細微而深刻的瞬間，都構築了我們向前走的力量。希望透過文字，與你分享這些溫暖的體悟，並一起在生活的旅途中，擁抱挑戰，持續前行。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-21.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1527495726983-4fbb078d7594)
+
 
 ](https://copywriting.vista.tw/every-step/)
 

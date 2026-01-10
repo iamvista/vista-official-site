@@ -19,9 +19,9 @@ tags: []
 
 書名：慢讀秒懂數位好文案（全新增訂版）：Vista老師的文案寫作入門課，語言：繁體中文，ISBN：9786267293157，頁數：240，出版社：大寫出版，作者：Vista（鄭緯筌），出版日期：2023/11/27，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-22.ico)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fim2.book.com.tw-2Fimage-2FgetImage-3Fi-3Dhttps-3A-2F-2Fwww.books.com.tw-2Fimg-2F001-2F097-2F38-2F0010973827.jpg%26v%3D65534cadk%26w%3D1146%26h%3D600)
+
+
 
 ](https://vista.im/writing-book)
 
@@ -55,9 +55,9 @@ tags: []
 
 我每週一站在講臺上，週二則坐回教室當學生。今天，照舊搭了將近一個小時的公車來到學校，走進博士生研究室時，學長已經坐在角落，埋首於論文之中。他說，每天從早上八點多寫到傍晚五點，這樣的日子或許枯燥，卻也單純而美好。午後，手機響起，一家品牌顧問公司來電，希望我能協助規劃線上課程。我聽著對方描述需求，思考著該如何將知識轉化為實用的內容。這一切，似乎都是某種必然的發展。當然，今天最值得記住的，還是新書的出版。早上，它曾短暫擠進博客來的即時排行榜，朋友的訊息接連湧來，讓我覺得這一切的努力都沒有白費。然後，準備迎接接下來的另一場比賽——為中華隊加油。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-43.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1470252649378-9c29740c9fa8)
+
 
 ](https://copywriting.vista.tw/morning-light-and-turning-pages/)
 

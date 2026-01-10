@@ -43,9 +43,9 @@ tags: ["日記"]
 
 人生的每一天，總有值得感恩與學習的時刻。今天，在醫院的短暫停留，讓我對健康的珍貴有了更深一層的體會；與久違的朋友重逢，讓我再次意識到人際連結的重要性；而工作上的新嘗試，則讓我充滿對未來的期待。每個時刻都是學習，每一次經歷都是成長，這一天，既充滿感慨，也滿懷動力。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-23.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1700407168867-d651d2725e98)
+
 
 ](https://copywriting.vista.tw/cherish-the-present/)
 

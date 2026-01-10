@@ -63,9 +63,9 @@ tags: ["人工智慧","內容行銷"]
 
 有別於傳統的廣告，內容行銷專注於與消費者建立長期關係，提供資訊或娛樂價值，而不是直接推銷產品或服務。建議大家可以透過文章、影音、圖片、部落格、電子書和社群媒體貼文等多種形式，來從事內容行銷。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-50.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1533750516457-a7f992034fec-1)
+
 
 ](https://copywriting.vista.tw/generative-ai-guide-content-marketing/)
 
@@ -123,9 +123,9 @@ tags: ["人工智慧","內容行銷"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-51.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-10)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 
@@ -153,7 +153,7 @@ tags: ["人工智慧","內容行銷"]
 
 講座的最後，懿文對未來行銷人才的發展方向進行了前瞻性的分析。她認為，在 AI 時代，主要有三種行銷人才的類型，而每種類型都有其獨特的價值和發展路徑。
 
-![](https://copywriting.vista.tw/content/images/2025/07/future_talent_types.png)
+
 
 第一種是 Performance Optimizer，即績效優化師。這類人才的核心能力是在 AI 已能完成簡單工作的基礎上，進行深度的優化和改進。他們不僅要會使用 AI 工具，更要能夠分析 AI 產出的結果，找出優化空間，進而持續提升效果。這種角色需要具備數據分析能力、業務理解能力和優化思維。
 
@@ -193,7 +193,7 @@ tags: ["人工智慧","內容行銷"]
 
 這讓我思考到，AI 不僅是一個工具，更是一種新的商業邏輯。在這種邏輯下，數據成為了最重要的生產資料，算法成為了核心的生產工具，而人類的創造力和判斷力成為了最稀缺的資源。企業需要重新思考自己的價值創造模式，重新設計自己的組織結構和激勵機制。
 
-![](https://copywriting.vista.tw/content/images/2025/07/implementation_flywheel.png)
+
 
 懿文在講座最後提到，[凱文・凱利](https://zh.wikipedia.org/zh-tw/%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%88%A9)曾經預言，三十年後沒有人會討論 AI，就像現在很少有人討論數位化一樣，因為 AI 將完全融入我們的生活和工作。這個預言讓我既感到興奮又感到時間緊迫。興奮的是，我們正處在一個偉大變革的起點，有機會參與和見證歷史的創造；緊迫的是，這個變革的窗口期可能比我們想像的更短，我們需要更快地學習、適應和行動。
 

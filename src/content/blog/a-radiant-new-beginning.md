@@ -13,7 +13,7 @@ tags: ["日記"]
 
 時間尚早，我本以為自己會是最早抵達教室的人，沒想到，一位來自**山東煙台大學的交換生**已經在座位上靜靜等候。他微笑著向我點頭，眼神中透著一種對學習的熱忱，這讓我內心一陣溫暖。這種專注而謙遜的態度，讓我更加確信，**真正的學習，不在於獲取知識的數量，而在於對知識的敬畏與熱愛。**
 
-![](https://copywriting.vista.tw/content/images/2025/02/480709134_10161007039879053_4958445924297934341_n.jpg)
+
 
 我在世新大學新聞系開設「生成式AI媒體運用」課程
 
@@ -45,9 +45,9 @@ tags: ["日記"]
 
 這些數字看起來相當驚人，我也願意相信書寫的力量是無比巨大的！但是對於還沒找到書寫的樂趣的朋友們，有沒有什麼方法可以開始嘗試呢？作者鼓勵大家寫生活日誌，即便是最簡單的問題，往往也都有深刻的意義。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-33.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1471938537155-7de0bd123d0c-1)
+
 
 ](https://copywriting.vista.tw/make-a-journal-of-your-life/)
 

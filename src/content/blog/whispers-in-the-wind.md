@@ -41,9 +41,9 @@ tags: ["日記"]
 
 自從網際網路盛行，接著智慧型手機、社群媒體出現，使得閱聽人使用習慣轉變，媒體主要收入來源廣告也在 Google 以及 Facebook 的瓜分之下，剩下不到兩成且逐年下降中。媒體產業的經營環境原本已極為艱困，而人工智慧的出現，特別是 2022 年底 ChatGPT 襲捲全球後，媒體存在的必要性和媒體工作者的未來，更令許多人感覺憂心。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon.png)知勢 - 提供AI新知與觀點的媒體溫怡玲
+知勢 - 提供AI新知與觀點的媒體溫怡玲
 
-![](https://copywriting.vista.tw/content/images/thumbnail/01.jpg)
+
 
 ](https://edge.aif.tw/casestudy-popdaily-poc/)
 
@@ -57,9 +57,9 @@ tags: ["日記"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-39.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-6)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 

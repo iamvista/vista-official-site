@@ -17,9 +17,9 @@ AI加持的個人品牌革命：善用科技打造你的專業影響力｜專家
 
 說到個人品牌（Personal Branding），你可能不陌生。簡單來說，這是指個人透過有意識的策略，塑造並推廣一個獨特的公眾形象，以反映其價值觀、專業能力、個性特質或特定使命，從而在特定領域或受眾中建立辨識度、信任與影響力。它類似於企業品牌的概念，但聚焦於個人，涵蓋一個人在職業、社交或公眾領域的聲譽與形象。
 
-![](https://copywriting.vista.tw/content/images/icon/cropped-wordpress_512x512-300x300.png)科技島-掌握科技新聞、科技職場最新資訊李琦瑋
+科技島-掌握科技新聞、科技職場最新資訊李琦瑋
 
-![](https://copywriting.vista.tw/content/images/thumbnail/229741366_m-2.jpg)
+
 
 ](https://www.technice.com.tw/opinion/175600/)
 
@@ -27,7 +27,7 @@ AI加持的個人品牌革命：善用科技打造你的專業影響力｜專家
 
 這不只是理論，而是我陪伴無數學員一步步走出來的實戰經驗。你會發現，只要你願意開始，打造個人品牌這件事並沒有想像中那麼地困難。
 
-![](https://copywriting.vista.tw/content/images/2025/09/------------------------------.png)
+
 
 個人品牌建設核心要素
 
@@ -110,9 +110,9 @@ AI加持的個人品牌革命：善用科技打造你的專業影響力｜專家
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-55.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-12)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 

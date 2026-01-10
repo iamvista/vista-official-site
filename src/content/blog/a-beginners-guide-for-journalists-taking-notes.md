@@ -19,9 +19,9 @@ tags: ["筆記","寫作"]
 
 多年來，朱淑娟的獨立報導，推動了臺灣公民社會對環境保護的覺醒。堅持為環境永續與生存正義付出的她，從主流媒體到一人作業的獨立記者，朱淑娟走過怎樣的「獨立記者」之路？ 2023年9月16日的周六午後，媒體識讀教育基金會邀請大家來聆聽這位優異記者的分享。朱淑娟將告訴大家，如何經營長遠永續的記者生涯。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-6.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/2308290552161290912042.jpg)
+
 
 ](https://www.vistacheng.com/2023/09/how-to-become-freelance-journalist.html)
 
@@ -39,9 +39,9 @@ tags: ["筆記","寫作"]
 
 在今天的節目裡，我談到了很多關於挑選數位筆記軟體的重點，我們可以從價格、功能、使用體驗、擴充性、書寫格式和備份等不同的面向來思考。希望你可以按照自己的興趣與需求，好好挑選喜歡的數位筆記軟體。 除了介紹如何挑選數位筆記軟體，今天我也跟大家分享了我平常喜歡使用的數位筆記軟體，不知道你最喜歡哪個呢？
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-5.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/AVvXsEifFNBgAmiMdOuP0pITPN56djFZPCf-uWwuk5Koi4PxD4uaaX2dRm3Y-FvHWxHAwtkTRtBpq4KUdwRaCe6fTVCkRbBm4AQDeTt11qCx-9hyMzz2MgQfjvupwLldC_noekp7_W22wls5odHs1sk4lb870YOAjXIws8YUcr8mYSevaW68MkgTfCtObYU38A-w1200-h630-p-k-no-nu)
+
 
 ](https://www.vistacheng.com/2022/02/how-to-choose-the-right-note-taking-app.html)
 
@@ -63,9 +63,9 @@ tags: ["筆記","寫作"]
 
 在這兩場的講座中，朱淑娟老師提醒我們，雖然成為獨立記者意味著這是一條漫長的道路，你要做好心理準備，得要自律、不能糾結，在沒有媒體的幫襯之下要走出自己的道路，更要能夠自己經營人脈，管理好所有的大小事物，但這並不意味著你是孤獨的。透過自學、社群合作和持續學習，就可以在這條道路上走得更長遠。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-7.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/2308290552161290912042-1.jpg)
+
 
 ](https://www.vistacheng.com/2023/10/how-to-work-as-a-freelance-journalist.html)
 
@@ -95,9 +95,9 @@ tags: ["筆記","寫作"]
 
 無論我們在做採訪筆記，或者記錄一場精采的講座心得，要緊的是能夠透過簡單扼要的筆記重現精華，讓人事後翻閱筆記時可以宛若看故事一樣。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-17.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1717726974158-2a5ffd7a5451)
+
 
 ](https://copywriting.vista.tw/notetaking-and-writing/)
 

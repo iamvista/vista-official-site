@@ -25,7 +25,7 @@ tags: ["日記"]
 
 這門課的學生來自新聞系的大二生，而**課前問卷的回饋讓我更了解他們的期待與需求**。許多學生希望能學到 AI 工具的應用，能夠輕鬆有趣地學習，但又不想聽太多理論。這反映了當代年輕學子的學習習慣——**他們喜歡動手實作，討厭枯燥的學術內容，卻又想掌握技術的核心價值。**
 
-![](https://copywriting.vista.tw/content/images/2025/02/wordcloud-3.png)
+
 
 同學們對這門 AI 課程的期待
 
@@ -49,7 +49,7 @@ tags: ["日記"]
 
 這場偶遇，開啟了一場精彩的對話。
 
-![](https://copywriting.vista.tw/content/images/2025/02/29603053-0DF2-4F9A-990D-0F31AFDE9383.png)
+
 
 我和 Richard 賢伉儷相見歡
 
@@ -61,9 +61,9 @@ Richard 這幾年專注於 UX 設計的培訓，他的[悠識學院](https://edu
 
 悠識是一間UX使用者經驗顧問公司，運用質性訪談研究與量化問卷、流量數據分析…等方式，深入洞察使用者需求。我們結合商業策略，透過IA資訊架構規劃與原型設計與驗證，以確保體驗符合期待。同時也提供專業知識課程服務，並提供企業內訓與教練計畫，以滿足企業需求。
 
-![](https://copywriting.vista.tw/content/images/icon/Favicon.png)悠識數位 UserXper – 全方位體驗顧問服務iris
+悠識數位 UserXper – 全方位體驗顧問服務iris
 
-![](https://copywriting.vista.tw/content/images/thumbnail/userxper_og.png)
+
 
 ](https://userxper.com)
 
@@ -83,9 +83,9 @@ Richard 這幾年專注於 UX 設計的培訓，他的[悠識學院](https://edu
 
 你好，我是邱奕霖，是一位致力推動『用畫圖解決問題』的圖解教育創業家，也是一名視覺記錄師、作家、講師，同時創辦【圖解力學院】與全台最大視覺筆記社團，至今累積上百場圖解思考、溝通、視覺筆記等培訓課程與演講，客戶包含廣達、信義房屋、富邦、新光、匯豐汽車等企業及學校單位機關。 期待幫助更多人打破『我不會畫圖』的繪畫迷思，踏上成為【圖解力實踐家】的旅程，一起【相信圖解、勇於實踐】。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-12.ico)Portaly
+Portaly
 
-![](https://copywriting.vista.tw/content/images/thumbnail/aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi9wb3J0YWx5LWNhOWUxLmFwcHNwb3QuY29tL28vYk9IbzNPMUFOU29Ba0JpYWx4REglMkZhdmF0YXI_YWx0PW1lZGlhJnRva2VuPWIyMWU3MTk3LWExYzctNDFhNi1hZmQ4LWIzMzJmNzlkNjllMA)
+
 
 ](https://portaly.cc/draw-to-win)
 

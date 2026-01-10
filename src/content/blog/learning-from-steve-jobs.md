@@ -29,7 +29,7 @@ tags: ["讀書心得","職涯"]
 
 當年 [iPod](https://zh.wikipedia.org/wiki/IPod) 的那句廣告詞「把一千首歌裝進口袋」，無疑是一個[經典案例](https://www.cna.com.tw/news/ait/202205110115.aspx)。它不是單純地描述規格，而是願景轉譯——一種讓人立刻懂、立刻想要的語言。
 
-![](https://copywriting.vista.tw/content/images/2025/10/iPod.png)
+
 
 > [iPod](https://medium.com/@onlykutts/ipod-a-thousand-songs-in-your-pocket-c307931d626a) advertising’s success was due in large part to its simplicity. A brief tagline and simple, straightforward message provided all of the information needed to grasp what the iPod is about.
 
@@ -87,7 +87,7 @@ tags: ["讀書心得","職涯"]
 
 賈伯斯懂得用故事說服、啟動共鳴和建立信仰，這是大家都了然於心的。他在產品發表會上總是用衝突、轉折與解決等三幕結構，讓生硬的科技變成生動的戲劇。
 
-![](https://copywriting.vista.tw/content/images/2025/10/----------3.png)
+
 
 卡曼・蓋洛自身是溝通教練，他把這套敘事力延伸為創新溝通的核心能力。這對任何領導者、講師以及創作者來說，都極具啟發意義。
 

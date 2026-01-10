@@ -21,9 +21,9 @@ tags: ["日記"]
 
 今天，是行動與內在思考交錯的一天。我練習幫母親換藥，逐漸熟悉這項技能，看到她的健康穩定恢復，內心充滿感激。與此同時，意外收到研究所老友的支持，提醒我文字的力量不僅能記錄思考，更能影響他人。午後與朋友交換禮物與想法，從策略到職涯，深刻體會到學習與成長，從來都不是單打獨鬥，而是彼此扶持的過程。此外，學校正式發來公函，我的新身份——大學兼任講師，即將開啟一條新的教學之路。最後，抽到「魔術師」塔羅牌，象徵著將想法化為行動的能力，這正是我當下最需要的提醒。與其等待完美時機，不如立刻開始，讓所有計畫真正落地，讓每一天的努力都成為未來的積累。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-31.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1601084836737-bf6275e20b00)
+
 
 ](https://copywriting.vista.tw/mastering-the-rhythm-in-change/)
 
@@ -65,9 +65,9 @@ tags: ["日記"]
 
 說到「隅」這個字，我還滿喜歡的，不知道是不是跟我的個性有關，特別喜歡那種僻靜的角落或者邊遠的地方。不過，似乎有些朋友還不大熟悉這個字，所以請容我先在此掉一下書袋。 根據教育部重編國語辭典修訂版的詮釋，「隅」這個字有以下幾個意思，分別是： \* 山、水彎曲轉角的地方。如：「海隅」。唐．杜甫〈潼關吏〉詩：「要我下馬行，為我指山隅。」 \* 角、角落。如：「牆隅」、「四隅」。《詩經．邶風．靜女》：「靜女其姝，俟我於城隅。」 \* 邊、旁。《樂府詩集．卷三七．相和歌辭十二．古辭．隴西行》：「桂樹夾道生，青龍對道隅。」 \* 邊遠的地方。《淮南子．原道》：「經營四隅，還反於樞。」 \* 事物的一端或一面。《後漢書．卷四九．
 
-![](https://copywriting.vista.tw/content/images/icon/yv-32.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1502085026219-54ac00e06fd9)
+
 
 ](https://copywriting.vista.tw/light-up-the-corner/)
 

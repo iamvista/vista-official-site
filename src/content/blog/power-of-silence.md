@@ -13,9 +13,9 @@ tags: ["職涯","人工智慧"]
 
 黃庭堅 - 維基百科，自由的百科全書
 
-![](https://copywriting.vista.tw/content/images/icon/wikipedia.png)Wikimedia Foundation, Inc.維基媒體專案貢獻者
+Wikimedia Foundation, Inc.維基媒體專案貢獻者
 
-![](https://copywriting.vista.tw/content/images/thumbnail/-E9-BB-84-E5-BA-AD-E5-9D-9A.jpg)
+
 
 ](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%BA%AD%E5%A0%85)
 

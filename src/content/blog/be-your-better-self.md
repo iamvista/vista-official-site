@@ -23,9 +23,9 @@ tags: ["日記"]
 
 我曾看過很多商家所寫的商品文案，上頭寫了密密麻麻的功能、規格和特色，價格看起來也很合理，但成效卻不理想。仔細想想，這是為什麼呢？道理很簡單，因為這些文案並沒有鎖定明確的目標受眾，也並未使用他們所慣用的語言來溝通⋯⋯如此一來，自然也無法激發共鳴。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-7.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1550633600-4cfc6929e592)
+
 
 ](https://copywriting.vista.tw/understanding-your-target-audience/)
 

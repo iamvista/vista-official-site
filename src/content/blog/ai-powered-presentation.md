@@ -17,9 +17,9 @@ tags: ["人工智慧"]
 
 這堂課聚焦「簡報策略思維」，結合商業決策與實戰經驗，教你精準說服、掌握關鍵溝通，讓每場簡報成為成功的轉捩點。
 
-![](https://copywriting.vista.tw/content/images/icon/app-icon-180x180.png)PressPlay Academy 線上課程學習平台孫治華
+PressPlay Academy 線上課程學習平台孫治華
 
-![](https://copywriting.vista.tw/content/images/thumbnail/0911594A2BC79E4F21E40DD4BD2A8961_resized.jpg)
+
 
 ](https://www.pressplay.cc/project/0911594A2BC79E4F21E40DD4BD2A8961/about)
 
@@ -31,7 +31,7 @@ tags: ["人工智慧"]
 
 孫治華老師用一個冰山的比喻，生動地說明了人類與 AI 知識體系的關係：我們所累積的專業知識像是冰山上方的部分，而 AI 的訓練資料則如同冰山的下方——龐大且深不可測。這個比喻極其生動，也讓我們清晰地意識到：這個時代已經完全改變，我們必須順勢而為，接納並善用 AI 的能力。
 
-![](https://copywriting.vista.tw/content/images/2025/03/ai-human-relationship.svg)
+
 
 然而，最關鍵的一點是：我們與 AI 之間的關係是「協作」，而非「一步到位的生成」。這為我們提供了一個基本認知框架，幫助我們在 AI 時代中找到自己的位置。
 
@@ -54,7 +54,7 @@ tags: ["人工智慧"]
 4.  **設計時間減少**：AI 可以協助提供設計建議和框架，減少了這方面所需的時間。
 5.  **相信度的建立成為核心**：在閱讀和反問的過程中，我們逐漸建立對資訊的相信度，這是協作的關鍵成果。
 
-![](https://copywriting.vista.tw/content/images/2025/03/presentation-process-comparison.svg)
+
 
 ### 協作而非一鍵生成
 
@@ -106,7 +106,7 @@ tags: ["人工智慧"]
 
 關鍵策略：事先使用 AI 模擬可能的提問，做足準備工作。真正的說服往往發生在回答問題的環節，而非報告本身。
 
-![](https://copywriting.vista.tw/content/images/2025/03/ai-tools-framework.svg)
+
 
 ## 與 AI 協作的深度策略：問爆它
 
@@ -128,7 +128,7 @@ tags: ["人工智慧"]
 
 正如孫治華老師所言：「你不問爆它，老闆就問爆你。」這句話突顯了準備充分的重要性，特別是在面對決策者的質疑時。
 
-![](https://copywriting.vista.tw/content/images/2025/03/question-ai-strategy.svg)
+
 
 ## 重塑簡報協作流程：建立框架與深度探索
 
@@ -179,7 +179,7 @@ tags: ["人工智慧"]
 
 關鍵點是：協作過程是在創造相信度。只有當我們真正相信這些內容，才能有足夠的表達力去說服他人。
 
-![](https://copywriting.vista.tw/content/images/2025/03/ai-collaboration-process.svg)
+
 
 ## 說服策略：換位思考的藝術
 
@@ -205,7 +205,7 @@ tags: ["人工智慧"]
 
 這種策略直接回應了決策者的核心關切：投資回報和風險控制。
 
-![](https://copywriting.vista.tw/content/images/2025/03/persuasion-strategy-framework.svg)
+
 
 ### 用制度安撫人心
 
@@ -227,9 +227,9 @@ AI 的強大知識庫和處理能力與人類的策略思維和判斷力相結�
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-44.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-7)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 

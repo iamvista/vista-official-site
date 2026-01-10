@@ -59,9 +59,9 @@ tags: ["讀書心得","職涯"]
 
 書名：工作媽媽學會的事：陪伴有時、放飛有時、保有自我，一個母親的旅程，語言：繁體中文，ISBN：9786264173476，頁數：272，出版社：天下文化，作者：丘美珍，出版日期：2025/05/26，類別：心理勵志
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-37.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-10)
+
 
 ](https://www.books.com.tw/products/0011021377?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
 

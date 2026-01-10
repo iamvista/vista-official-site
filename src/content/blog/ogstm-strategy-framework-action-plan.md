@@ -33,6 +33,6 @@ OGSTM是由 Objective（目的）、Goal（具體目標）、Strategy（策略�
 
 企業領導者應重新審視自身策略的執行框架，從建立共識開始，透過對話激活組織動能，並將抽象的願景轉化為具體可操作的行動藍圖。如此一來，企業才能在變局中穩步前進，進而達成真正的轉型目標。
 
-![](https://copywriting.vista.tw/content/images/2025/06/OGSTM.png)
+
 
 [請 Vista 喝杯咖啡](https://vista.im/coffee)

@@ -29,9 +29,9 @@ tags: ["讀書心得"]
 
 書名：最後一次相遇，我們只談喜悅【限量祝福版】三款書籤+有聲陪伴 溫暖收藏，原文名稱：The Book of Joy，語言：繁體中文，ISBN：9789863987789，頁數：384，出版社：天下雜誌，作者：達賴喇嘛,戴斯蒙・屠圖,道格拉斯・亞伯拉姆，譯者：韓絜光，出版日期：2025/06/25，類別：宗教命理
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-35.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-8)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0011024321?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
 

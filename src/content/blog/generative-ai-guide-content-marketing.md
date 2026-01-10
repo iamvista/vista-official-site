@@ -21,9 +21,9 @@ tags: ["內容行銷","人工智慧"]
 
 內容營運的面向牽連甚廣，從內容的蒐集、創作到策畫、呈現，再到溝通、傳播，最後才能進入到成效的檢核與評估。在這個循環中，內容策略的制定是最重要的，而主要的重點就在於適得其所，把對的內容傳遞給對的族群，如此方能各取所需，也能收相得益彰之成效。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-6.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1573055418049-c8e0b7e3403b)
+
 
 ](https://copywriting.vista.tw/what-is-content-operations/)
 

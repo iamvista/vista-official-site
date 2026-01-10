@@ -35,9 +35,9 @@ tags: ["日記"]
 
 有時候，世界太過喧囂，而內心卻只剩下沉默。今天，在醫院陪伴母親，心裡滿是壓力與無力感。即便身邊有人陪伴，卻依然感到孤單，甚至對這個家庭感到無奈。與妹妹話不投機，論文寫不下去，這一天的情緒低落到極點。但即便如此，仍然試圖找到微小的光亮，比如與 AI 討論新商業模式，比如持續堅持某個決定，比如反思人與人之間的真誠與距離。人生或許本就是這樣——在無聲的角落，試著讓自己與世界重新對話。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-27.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1621765808360-5b2ea25d147a)
+
 
 ](https://copywriting.vista.tw/the-weight-of-loneliness/)
 

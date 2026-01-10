@@ -43,9 +43,9 @@ Vista陪你《Ai賦能》重返校園讀博士
 
 本活動開放曾經報名《今周學堂》課程學員「直播講座」免費上課，錄影回放影片後製完成，會上架到課程，限付費學員觀看。
 
-![](https://copywriting.vista.tw/content/images/icon/b172811b-9e2e-4922-9891-7bd91b456a77.png)今周學堂今周學堂PPA
+今周學堂今周學堂PPA
 
-![](https://copywriting.vista.tw/content/images/thumbnail/5df1f396-1e4b-4b24-961f-b2daa035be57.jpg)
+
 
 ](https://school.businesstoday.com.tw/events/20241227-c01)
 

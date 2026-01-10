@@ -53,9 +53,9 @@ tags: ["日記"]
 
 其實，大家用不著擔心自己腹笥甚窘，也無須使用太多優美的詞彙，一開始先練習如何通順的表達自己的想法和觀點就可以了。就像得體的發言也有很多技巧一樣，別以為寫作只是「我手寫我口」，唯有透過閱讀和寫作雙管齊下的練習，方能精進寫作能力！
 
-![](https://copywriting.vista.tw/content/images/icon/yv-28.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1550327149-f5aef60d38f9)
+
 
 ](https://copywriting.vista.tw/improve-your-writing/)
 

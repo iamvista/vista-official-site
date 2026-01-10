@@ -23,9 +23,9 @@ tags: ["日記"]
 
 比爾・蓋茲的童年不是傳說中的「天才起點」，而是一連串深思熟慮的決策與偶然機遇交錯出的成長軌跡。他沉浸在書本中，學會如何用閱讀理解世界；他與夥伴在破舊的電腦教室裡瘋狂敲擊鍵盤，磨練程式設計的技巧；他在家庭的嚴厲與自由之間摸索，培養出一種無所畏懼的專注力與競爭精神。當大多數人還在等待機會降臨，他已經在思考下一步該怎麼走。他相信，只要用腦思考，答案一定存在。這種對問題解決的執著，讓他從一個熱愛數學與邏輯的小男孩，成為改變世界的科技巨擘。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-42.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1570063578733-6a33b69d1439)
+
 
 ](https://copywriting.vista.tw/bill-gates-source-code/)
 
@@ -35,7 +35,7 @@ tags: ["日記"]
 
 與 Steven 道別後，我沿著忠孝東路漫步，前往參與[**臺北教育大學文化創意產業經營學系**](https://ccim.ntue.edu.tw)**的系友會餐敘**。這是一場期待已久的聚會，久未謀面的系友們齊聚一堂，彼此交換近況，也分享各自的成長與挑戰。
 
-![](https://copywriting.vista.tw/content/images/2025/02/------------.jpg)
+
 
 國立臺北教育大學文化創意產業經營學系系友會
 

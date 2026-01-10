@@ -19,7 +19,7 @@ tags: ["創業","職涯"]
 
 ![](https://static.ghost.org/v5.0.0/images/link-icon.svg)知識衛星陳宗賢
 
-![](https://copywriting.vista.tw/content/images/thumbnail/1738556428_-E5-B0-81-E9-9D-A2_872x480-100.jpg)
+
 
 ](https://sat.cool/course/124)
 
@@ -41,7 +41,7 @@ tags: ["創業","職涯"]
 
 談到企業經營，[SWOT 分析](https://zh.wikipedia.org/zh-tw/強弱危機分析)（優勢、劣勢、機會和威脅）是不可或缺的工具。「許多企業做 SWOT 分析只是流於形式，」他指出，「真正有效的 SWOT 分析應該幫助企業找出市場機會，並配合自身優勢來制定具體行動計畫。」SWOT 分析不僅是識別企業內外部環境的工具，更重要的是將分析結果轉化為可執行的策略。
 
-![](https://copywriting.vista.tw/content/images/2025/03/swot-analysis.svg)
+
 
 ## 安索夫矩陣與成長策略
 
@@ -51,7 +51,7 @@ tags: ["創業","職涯"]
 
 不同的成長策略，往往伴隨著不同的風險：市場滲透策略風險最低，適合保守型企業；市場開發和產品開發策略風險適中；多角化策略風險最高，但潛在回報也最大。陳宗賢老師觀察到，臺灣企業往往過於保守，缺乏系統性的成長思維，這多少也會限制了它們的發展潛力。
 
-![](https://copywriting.vista.tw/content/images/2025/03/ansoff-matrix.svg)
+
 
 ## 同心圓理論與創新成長
 
@@ -73,9 +73,9 @@ tags: ["創業","職涯"]
 
 書名：精準獲利：企業永續經營、利潤極大化的商業模式秘訣，語言：繁體中文，ISBN：9789862898970，頁數：392，出版社：墨刻，作者：陳宗賢，出版日期：2023/08/17，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-26.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-2)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0010964848?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202503)
 
@@ -91,7 +91,7 @@ tags: ["創業","職涯"]
 
 這個跨界業務在推出後的第一個月，就創造了 1 億 9 千萬元的營收，充分證明了同心圓理論的商業價值。換言之，同心圓理論的核心是從客戶需求出發，而不是傳統的產品思維，這代表一種顛覆性的商業思考方式。
 
-![](https://copywriting.vista.tw/content/images/2025/03/concentric-circles.svg)
+
 
 ## OKR 與績效管理：自主與負責的文化
 
@@ -103,7 +103,7 @@ tags: ["創業","職涯"]
 
 在評估績效標準時，陳宗賢老師設定了明確的門檻：「70 分是一個門檻，過了才能倖存，我們要用研究所的標準來檢視，即便達到 69.9 分也可能會死掉，那就是 You are nothing。」這種明確的標準讓績效評估更加客觀透明，避免了主觀評價帶來的爭議。
 
-![](https://copywriting.vista.tw/content/images/2025/03/CleanShot-2025-03-05-at-23.07.57@2x.png)
+
 
 ## 「四個共」的領導哲學
 
@@ -149,9 +149,9 @@ tags: ["創業","職涯"]
 
 書名：從0到1的創業思維：高效創利、絕對獲利，新創、接班、轉型必備的企業成長指南，語言：繁體中文，ISBN：9786263980082，頁數：292，出版社：墨刻，作者：陳宗賢,唐美娟，出版日期：2024/07/04，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-25.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-1)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0010992955?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202503)
 

@@ -7,7 +7,7 @@ heroImage: "https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entro
 tags: ["簡報","提案"]
 ---
 
-![](https://copywriting.vista.tw/content/images/2025/04/----------1.png)
+
 
 認識吳玉琥（[Wawa](https://www.facebook.com/wawa.wu)）老師已有一段時日，每次都被他逗趣且豐富的演講內容所吸引。
 
@@ -23,9 +23,9 @@ Wawa 老師是廣告領域中的實戰派專家，他以幽默、自帶音效而
 
 書名：創意細物指南：行銷時代讓你脫穎而出的關鍵能力，語言：繁體中文，ISBN：9789861339610，頁數：256，出版社：圓神，作者：Wawa吳玉琥，出版日期：2025/03/01，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-33.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-7)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0011014593?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
@@ -63,9 +63,9 @@ Wawa 老師用他的提案經驗告訴我們：「如果客戶每天都跟數字
 
 什麼是行動呼籲呢？簡單來說，行動呼籲是激發目標受眾實際採取行動的一種模式，我們可以透過橫幅、圖片或文案來喚醒大眾的關注，進而驅動這群人採取特定的行動──好比希望消費者購買商品，或是捐款、參加活動等等。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-30.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/AVvXsEje4alGOaQi-HOZY4EOP38HsdcOyOSpKH37Ja18kUPI3pGKjOl2Xa9GppxqCSbchZiAjeQ9WIVwjP1X6Wei3w07awFFZFeEyhmjC2QWD-3zqPSYPuG3UitdYoT-P-3xMUbj2p1VfY3SnTfsrTl6KaSErejwj_0HcXXVAUgedQ2neHafCleMxzW0WMNgJw-w1200-h630-p-k-no-nu)
+
 
 ](https://www.vistacheng.com/2022/01/how-to-write-an-effective-call-to-action.html?ref=vista.tw#google_vignette)
 
@@ -97,9 +97,9 @@ Wawa 老師的策略，並非與酸民對抗，而是從品牌角度反問：「
 
 「重組問題框架」不等於「分析問題」，而是一種更高階的能力。學會這套經過實證、威力強大的問題解決策略，不論是領導團隊、創辦公司、談定銷售、制定策略、處理
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-180.png)哈佛商業評論・與世界一流管理接軌哈佛商業評論
+哈佛商業評論・與世界一流管理接軌哈佛商業評論
 
-![](https://copywriting.vista.tw/content/images/thumbnail/20114.png)
+
 
 ](https://www.hbrtaiwan.com/article/20114/learn-reframe-question-before-solve)
 
@@ -119,9 +119,9 @@ Wawa 老師的策略，並非與酸民對抗，而是從品牌角度反問：「
 
 書名：設計思考改造世界（十周年增訂新版），原文名稱：Change by Design: How design thinking transforms organizations and inspires innovation (10th Anniversary Edition)，語言：繁體中文，ISBN：9789570856682，頁數：336，出版社：聯經出版公司，作者：提姆．布朗，譯者：吳莉君,陳依亭，出版日期：2021/01/07，類別：藝術設計
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-31.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-5)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0010879696?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
@@ -170,9 +170,9 @@ Wawa 老師說得好：「你以為你在簡報，其實你在重新定義品牌
 
 書名：內容電力公司(增補更新版)：用好內容玩出大事業，原文名稱：Content Inc., Second Edition: Start a Content-First Business, Build a Massive Audience and Become Radically Successful (With Little to No Money)，語言：繁體中文，ISBN：9786269793532，頁數：424，出版社：行人，作者：喬．普立茲，譯者：廖亭雲，出版日期：2024/02/06，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-32.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage-6)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0010981337?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
@@ -250,9 +250,9 @@ Wawa 老師以他在廣告界的實戰經驗，示範了從乙方執行者進化
 
 《簡報策略學》由簡報專家孫治華親授，結合商業決策與簡報策略，讓你掌握精準說服的關鍵技巧，提升簡報勝率。你將學會如何運用策略思維，讓簡報不只是資訊傳遞，而是影響決策的關鍵工具，無論是提案、會議、募資或銷售，都能透過數據、結構與敘事提升說服力，讓對方無法拒絕你的方案。本課程提供實戰應用與高效溝通模式，透過成功案例拆解，讓你真正理解如何佈局、掌握關鍵溝通，讓每場簡報都成為成功的轉捩點。立即加入，學習孫治華老師的簡報策略學！
 
-![](https://copywriting.vista.tw/content/images/icon/app-icon-180x180-1.png)PressPlay Academy 線上課程學習平台孫治華
+PressPlay Academy 線上課程學習平台孫治華
 
-![](https://copywriting.vista.tw/content/images/thumbnail/0911594A2BC79E4F21E40DD4BD2A8961_resized-1.jpg)
+
 
 ](https://www.pressplay.cc/project/0911594A2BC79E4F21E40DD4BD2A8961/about)
 

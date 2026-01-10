@@ -15,9 +15,9 @@ tags: ["日記"]
 
 一路走來，我特別感恩那些關懷與支援：媽媽的貼心照料、親友的問候鼓勵，以及自己在放慢步伐後重新審視的人生。或許我們常常嚮往「健步如飛」的效率，卻忘了「慢步」也有它的好處——你能看清更多細節，感受更多溫暖，也擁有更多思考與自省的空間。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-22.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1524071556455-5773dff8256d-2)
+
 
 ](https://copywriting.vista.tw/slow-life/)
 
@@ -39,9 +39,9 @@ Vista電子報 No.76：開工大吉，迎接更好的自己
 
 投資自己，就趁現在！
 
-![](https://copywriting.vista.tw/content/images/icon/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F3bd30511-d131-4e19-b0e3-3131209236c1-2Fapple-touch-icon-180x180-3.png)Vista電子報Vista Cheng
+Vista電子報Vista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2F81d11daf-9183-4bef-b45c-087023527582_1792x1024.heic)
+
 
 ](https://iamvista.substack.com/p/vista-no76)
 

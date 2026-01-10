@@ -17,9 +17,9 @@ tags: ["人工智慧"]
 
 當 AI 不再只是工具，而是重塑行銷邏輯與組織文化的驅動力，我們該如何重新定位自我與品牌？7月23日，我參加了【AI驅動 × 永續創新】產業趨勢講座，主講人懿文學妹在這場講座不是在教大家怎麼用AI做廣告，而是帶領我們深入思考：「在 AI 時代，我們要成為什麼樣的行銷人？」從哲學性的廣告價值，到品牌三層論、AI 雙刃劍效應與企業內部的文化轉型，懿文以其30年的產業歷練，條理分明地引領我們穿越技術浪潮，看清產業的底層邏輯。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-52.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/S__2981897_0.jpg)
+
 
 ](https://copywriting.vista.tw/ai-marketing-redefined/)
 
@@ -201,9 +201,9 @@ AI 模擬訓練提供的是近似真實的壓力環境，讓學員得以在反�
 
 在這個內容爆炸、注意力稀缺的時代，我們需要的不只是資訊呈現能力，而是說服力、洞察力與故事力。簡報從來不是單向傳遞資訊，而是為了說服、為了激起行動。AI在這裡，可以幫你做很多事——但你得清楚分工。所以，AI 可以說是我們打造這些能力的第二大腦。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-53.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1677442136019-21780ecad995-1)
+
 
 ](https://copywriting.vista.tw/ai-powered-presentation/)
 

@@ -17,9 +17,9 @@ tags: ["日記"]
 
 這些數字看起來相當驚人，我也願意相信書寫的力量是無比巨大的！但是對於還沒找到書寫的樂趣的朋友們，有沒有什麼方法可以開始嘗試呢？作者鼓勵大家寫生活日誌，即便是最簡單的問題，往往也都有深刻的意義。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-1.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1471938537155-7de0bd123d0c)
+
 
 ](https://copywriting.vista.tw/make-a-journal-of-your-life/)
 

@@ -21,9 +21,9 @@ tags: ["日記"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-30.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-3)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 
@@ -51,7 +51,7 @@ tags: ["日記"]
 
 但另一件事，讓我重新找回對研究的熱情——**二月即將出版的**[**新書**](https://www.books.com.tw/exep/assp.php/vista/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)**，已經能在博客來查到了！**
 
-[![](https://copywriting.vista.tw/content/images/2025/02/---2ARB0034---------------------72dpi-.jpg)](https://www.books.com.tw/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
+[](https://www.books.com.tw/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
 
 不會寫程式也能創立個人品牌和變現：快速打造你的數位助理，建立結帳系統，多管道同步推廣品牌
 

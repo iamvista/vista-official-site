@@ -19,9 +19,9 @@ tags: ["個人品牌","日記"]
 
 在數位時代，文案撰寫已經成為各行各業不可或缺的技能。然而，撰寫引人入勝、動人心弦的文案，卻是一門不易掌握的藝術。直到現在，ChatGPT將帶給您將一分鐘的時間轉化為驚豔的文字表達。本書從實戰出發，透過ChatGPT的千萬級AI語言模型，展示如何應對各種文案撰寫需求。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-2.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1674027444454-97b822a997b6)
+
 
 ](https://copywriting.vista.tw/how-to-use-chatgpt-for-copywriting/)
 
@@ -43,9 +43,9 @@ tags: ["個人品牌","日記"]
 
 今天，對「把握當下」這四個字有了更深的體悟。如果你也跟以前的我一樣，內心偶爾會有小小的完美主義作祟的話，那麼我有兩個錦囊想要送給你：第一個錦囊是「先求有，再求好」，第二個錦囊是「先完成，再完美」。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-4.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1523975864490-174dd4d9a41e)
+
 
 ](https://copywriting.vista.tw/seize-the-day/)
 
@@ -81,9 +81,9 @@ tags: ["個人品牌","日記"]
 
 一路走來，我特別感恩那些關懷與支援：媽媽的貼心照料、親友的問候鼓勵，以及自己在放慢步伐後重新審視的人生。或許我們常常嚮往「健步如飛」的效率，卻忘了「慢步」也有它的好處——你能看清更多細節，感受更多溫暖，也擁有更多思考與自省的空間。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-5.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1524071556455-5773dff8256d)
+
 
 ](https://copywriting.vista.tw/slow-life/)
 

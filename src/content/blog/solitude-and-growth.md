@@ -39,9 +39,9 @@ tags: ["日記"]
 
 金石堂：金石生活學堂‧在生活中閱讀，在閱讀中生活
 
-![](https://copywriting.vista.tw/content/images/icon/kingstone_180x180_2.png)金石堂鄭緯筌
+金石堂鄭緯筌
 
-![](https://copywriting.vista.tw/content/images/thumbnail/ks2021logo.jpg)
+
 
 ](https://www.kingstone.com.tw/stores/ireadlifedetail/202502120006)
 

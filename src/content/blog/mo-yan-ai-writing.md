@@ -15,9 +15,9 @@ tags: ["人工智慧","寫作"]
 
 自从DeepSeek出来以后，文艺界好多人经常聚在一块儿谈论这个话题，也有很多人谈到了他们使用AI创作的体会。 各种意见都有，乐观的、悲观的、积极的、消极的。 .…
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-38.ico)腾讯网
+腾讯网
 
-![](https://copywriting.vista.tw/content/images/thumbnail/0)
+
 
 ](https://news.qq.com/rain/a/20250707A09JLD00)
 
@@ -79,9 +79,9 @@ tags: ["人工智慧","寫作"]
 
 AI 能替代人類寫作嗎？作為一名專業的寫作教練，我想跟大家分享自己與 AI 共舞的真實旅程：除了探討如何在保持創作靈魂的同時善用AI工具，也希望可以幫助品牌在內容洪流中脫穎而出，並為未來寫作者提供明確的價值定位與發展路徑。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-49.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1456324504439-367cee3b3c32-1)
+
 
 ](https://copywriting.vista.tw/when-ai-becomes-a-writing-partner/)
 

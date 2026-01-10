@@ -17,7 +17,7 @@ tags: ["社會公益"]
 
 美國總統川普提出對等關稅政策，恐衝擊國內產業及股市。仰賴中小企業主、一般民眾捐款公益社福組織，也將面對衝擊。公益平台「N…
 
-![](https://copywriting.vista.tw/content/images/icon/icon-192x192.png)聯合新聞網 | 聯合新聞網記者林琮恩／台北即時報導
+聯合新聞網 | 聯合新聞網記者林琮恩／台北即時報導
 
 ![](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31829634.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600)
 

@@ -31,9 +31,9 @@ tags: ["日記","人工智慧"]
 
 今天，知識在時光中流轉，學術、科技與創新彼此交織，構築出一場思維的盛宴。清晨，我步入「新媒體理論」課堂，這或許是博士生涯的最後一門課，望向那些剛踏入學界的學弟妹們，我彷彿看見了去年的自己，懷抱著未知的憧憬。午後，整理過去一年的學術成果，驚覺自己已在2024至2025年間參與六場研討會、投稿四篇學術期刊並獲刊、出版兩本專書，這些數字不只是成績，更是對學術承諾的見證。然而，學術研究不該只是發表論文，更是回應世界的變化。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-34.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1607081759141-5035e0a710a4)
+
 
 ](https://copywriting.vista.tw/the-spectrum-of-knowledge/)
 
@@ -47,9 +47,9 @@ AI重塑數位行銷的新時代｜專家論點【鄭緯筌Vista】
 
 想像一下，當你打開手機，正準備搜尋一款合適跑城市馬拉松的跑鞋時，你的Facebook、Instagram等社群媒體突然自動推播通知，甚至你的電子郵件信箱裡都剛好出現你最感興趣的推薦內容。這一切並非偶然，而是商人的伎倆，也是AI行銷技術在背後默默運行的結果。人工智慧（AI）不僅改變了人類的生活方式，也顛覆了傳統行銷的思維模式，讓品牌與消費者之間的互動變得更加個性化、即時，而且充滿智慧。
 
-![](https://copywriting.vista.tw/content/images/icon/cropped-wordpress_512x512-180x180-2.png)科技島-掌握科技新聞、科技職場最新資訊李琦瑋
+科技島-掌握科技新聞、科技職場最新資訊李琦瑋
 
-![](https://copywriting.vista.tw/content/images/thumbnail/AI-COMPANY.jpg)
+
 
 ](https://www.technice.com.tw/opinion/164929/)
 
@@ -71,9 +71,9 @@ AI重塑數位行銷的新時代｜專家論點【鄭緯筌Vista】
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-35.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-4)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 

@@ -25,9 +25,9 @@ tags: ["日記"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-37.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-5)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 
@@ -47,9 +47,9 @@ tags: ["日記"]
 
 為了讓更多朋友理解何謂個人品牌，以及該怎麼開始動手打造自己的品牌？最近，很高興有機會可以和「理財+1課」的共同創辦人駱潤生進行對談。駱大本身是一位投資理財專家，他平常除了工作，也在媒體撰寫專欄，跟讀者朋友們分享理財資訊。也因為他開始踏上個人品牌之路，所以我們就從這裏談起⋯⋯
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-14.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/-E4-BB-80-E9-BA-BC-E6-98-AF-E5-80-8B-E4-BA-BA-E5-93-81-E7-89-8C-EF-BC-9F.jpg)
+
 
 ](https://www.vistacheng.com/2020/05/what-is-personal-branding.html?ref=vista.tw)
 
@@ -77,9 +77,9 @@ Vista 的進化論
 
 如何在 AI 浪潮中突圍，打造屬於你的個人品牌？我相信，這是很多人感到好奇的問題。從文案寫作到數位行銷，再到 AI 驅動的內容創作，我累積了數年的實戰經驗，見證了品牌行銷的劇變。2025 年，我希望可以引領更多創作者與企業探索 AI 賦能的個人品牌新時代，讓價值不再受限於傳統框架，而是透過數據、技術與策略，拓展影響力的無限可能！
 
-![](https://copywriting.vista.tw/content/images/icon/yv-36.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1669334788758-c97e6263f149)
+
 
 ](https://copywriting.vista.tw/the-evolution-of-vista/)
 

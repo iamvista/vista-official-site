@@ -17,9 +17,9 @@ tags: ["閱讀"]
 
 書名：原始碼：成為比爾．蓋茲，原文名稱：Source Code: My Beginning，語言：繁體中文，ISBN：9786267468685，頁數：432，出版社：天下雜誌，作者：比爾．蓋茲，譯者：吳凱琳，出版日期：2025/02/05，類別：商業理財
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-13.ico)博客來
+博客來
 
-![](https://copywriting.vista.tw/content/images/thumbnail/getImage)
+
 
 ](https://www.books.com.tw/exep/assp.php/vista/products/0011012049?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
 
@@ -71,6 +71,6 @@ tags: ["閱讀"]
 
 如果我們也能學會用這種方式思考與行動，也許，我們也能找到屬於自己的「原始碼」。
 
-[![](https://copywriting.vista.tw/content/images/2025/02/0011012049.jpg)](https://www.books.com.tw/exep/assp.php/vista/products/0011012049?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
+[](https://www.books.com.tw/exep/assp.php/vista/products/0011012049?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)
 
 [請 Vista 喝杯咖啡](https://vista.im/coffee)

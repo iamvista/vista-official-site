@@ -11,7 +11,7 @@ tags: ["人工智慧"]
 
 在本次[講座](https://prompt.1111.com.tw/employment2025/event20250717-001/)中，鄭老師給予的觀念無論是全職學生或職場人士都很受用。老師提到在 AI 的時代，最重要的是「思考」。每個人都能輕鬆建立免費社群帳號，盡情地發表自我，同時創建個人品牌。我們每天都被無數訊息包圍，像是文章、影片、對話或新聞，但多數人只是「經過」，而非「沉澱」。
 
-[![](https://copywriting.vista.tw/content/images/2025/08/0807_title01.webp)](https://prompt.1111.com.tw/employment2025/event20250717-001/)
+[](https://prompt.1111.com.tw/employment2025/event20250717-001/)
 
 知識若沒有經過整理與內化，終將如沙漏般流逝。而 [AI](https://copywriting.vista.tw/tag/ai/)，正是那個能幫我們留住沙粒的容器。無論是錄音、拍照、手寫筆記，甚至是靈光一閃的碎片想法，只要交給 AI 助理，它都能協助我們結構化、提煉重點，把混亂轉為清晰。整理好的筆記，需要定期回顧，進行復盤，過往的日子裡，我也會回顧大學或碩一寫的日記，並且對當時的感受或疑惑給予回饋，讓我可以和不同時空下的自己對話，同時記錄成長的軌跡。
 
@@ -21,9 +21,9 @@ tags: ["人工智慧"]
 
 近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-54.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1517346665566-17b938c7f3ad-11)
+
 
 ](https://copywriting.vista.tw/embracing-ai/)
 

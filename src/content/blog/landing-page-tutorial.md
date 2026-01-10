@@ -23,9 +23,9 @@ tags: ["內容行銷"]
 
 什麼是「FAB銷售法則」（FAB Selling Technique）呢？簡單來說，「FAB銷售法則」是負責推銷的人士以文字、視覺或影音的溝通方式向消費者提供分析、介紹產品利益的一種好方法。想想如果今天你收到主管的指示，要幫某一款產品或服務撰寫銷售的文案，你會如何著手寫這篇文章呢？
 
-![](https://copywriting.vista.tw/content/images/icon/yv-12.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1540080207997-ebe067608bd2)
+
 
 ](https://copywriting.vista.tw/fab-technique/)
 
@@ -45,9 +45,9 @@ tags: ["內容行銷"]
 
 說到銷售頁，大家應該不陌生吧？我們常會從社群網絡上頭看到各種設計精美的網頁，而這些網頁無論是使用坊間常見的架站工具所打造，或奠基於WordPress等部落格平臺，往往都肩負了帶動商品銷售或促進網友採取特定行動的任務。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-2.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/-E5-A6-82-E4-BD-95-E8-AE-93-E9-8A-B7-E5-94-AE-E9-A0-81-E8-AE-8A-E6-88-90-E5-8D-B0-E9-88-94-E6-A9-9F-EF-BC-9F.jpg)
+
 
 ](https://www.contenthacker.today/2019/06/how-to-turn-landing-pages-into-money-making-machines.html)
 
@@ -69,9 +69,9 @@ tags: ["內容行銷"]
 
 我們以坊間常見的銷售頁為例，除了運用清楚的圖文來展現商品的規格與特性，如果可以把獨特價值主張置於行動呼籲（Call to Action）的附近（好比在購買連結旁強化該商品的價值），將有可能進一步觸發或提升消費者的購買決策。
 
-![](https://copywriting.vista.tw/content/images/icon/yv-13.png)VistaVista Cheng
+VistaVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/photo-1665686308827-eb62e4f6604d)
+
 
 ](https://copywriting.vista.tw/how-to-create-a-value-proposition/)
 
@@ -101,9 +101,9 @@ tags: ["內容行銷"]
 
 在內容行銷的領域中，對內容創作者來說，內容策略就像是指引方向的指南針，可說是舉足輕重的角色。它不僅僅是關於創造吸引人的內容，更重要的是協助制定一個明確的計畫，來指導內容的創造、發布、管理過程，以及如何衡量這些內容的效果。一個有效的內容策略能夠幫助創作者與目標受眾建立連結，並且在競爭激烈中脫穎而出。
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-3.ico)BloggerVista Cheng
+BloggerVista Cheng
 
-![](https://copywriting.vista.tw/content/images/thumbnail/DALL-C2-B7E-202024-03-21-2013.11.58-20--20Imagine-20a-20modern-20office-20scene-20where-20two-20Taiwanese-20women-20and-20one-20Taiwanese-20man-20are-20deeply-20engaged-20in-20a-20work-20discussion.-20The-20office-20is-20designed-20with-20sle.jpg)
+
 
 ](https://www.contenthacker.today/2024/06/why-you-need-a-content-strategy.html)
 

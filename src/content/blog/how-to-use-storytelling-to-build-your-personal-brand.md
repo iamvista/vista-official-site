@@ -9,7 +9,7 @@ tags: ["個人品牌","閱讀","自媒體"]
 
 有一次，我在某個企業的內訓課上問學員：「你們還記得上一次被某人說服，是因為數據，還是因為故事？」結果全場安靜了三秒後，幾乎所有人都點頭說：「是故事。」這個簡單的問題，揭示了人類溝通本質的核心：情感的連結，遠比理性的說服來得更有力。而這，也是我翻開《[請開始說你的故事](https://www.books.com.tw/exep/assp.php/vista/products/0011015092?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202505)》這本書的原因。
 
-![](https://copywriting.vista.tw/content/images/2025/05/---.png)
+
 
 [這本書](https://www.books.com.tw/exep/assp.php/vista/products/0011015092?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202505)不僅僅是一本教你怎麼說故事的實用手冊，它更是一封寫給每個現代人的情書，一封鼓勵我們直面自我、坦露真實，並用自己的聲音觸動世界的信。由五位[飛蛾組織](https://themoth.org/)的核心講師撰寫，他們彷彿從舞臺、廣播或教室一路走來，在耳邊輕聲說：「你不是沒有故事，你只是還不知道怎麼說？」
 
@@ -19,9 +19,9 @@ The Moth | The Art and Craft of Storytelling
 
 The Moth is an acclaimed not-for-profit organization dedicated to the art & craft of storytelling. It has presented true & first person stories worldwide.
 
-![](https://copywriting.vista.tw/content/images/icon/favicon-32x32.svg)The Moth (en-US)
+The Moth (en-US)
 
-![](https://copywriting.vista.tw/content/images/thumbnail/230412_NYC_MAIN_RightHereRightNow_64.jpg)
+
 
 ](https://themoth.org/)
 
@@ -37,7 +37,7 @@ The Moth is an acclaimed not-for-profit organization dedicated to the art & craf
 
 書中介紹了「探勘記憶」的技巧，鼓勵我們從自身經驗出發，尋找那些改變人生軌跡的關鍵片段。你可能還記得第一次站上講臺、第一次離開舒適圈出國求學、第一次為理想和現實掙扎到失眠的夜晚——這些時刻，不只形塑了你是誰，也蘊藏著你最真實的價值觀與動機。
 
-![](https://copywriting.vista.tw/content/images/2025/05/memory_mining_process-1.png)
+
 
 我曾在為科技業中高階主管所開設的領導課程中，帶學員進行一個簡單的練習：請他們畫出人生三條故事線，分別是「成功的故事」、「失敗的故事」、「從困境中領悟的故事」。有學員說她原以為自己的故事很無聊，但當她開始講述如何在單親家庭中扛起照顧弟妹的責任、並最終考上國立大學時，全班靜默良久，隨後響起掌聲。那一刻，她不只重新看見自己，也重新定義了自己。
 
@@ -53,7 +53,7 @@ The Moth is an acclaimed not-for-profit organization dedicated to the art & craf
 
 [角色的弧線](https://zh.wikipedia.org/zh-tw/%E8%A7%92%E8%89%B2%E5%BC%A7%E7%BA%BF)讓人記住你做過什麼，也記住你「如何」做到那件事——這正是個人價值與專業形象最強而有力的說服。
 
-![](https://copywriting.vista.tw/content/images/2025/05/story_arc_structure.png)
+
 
 ### 三、你被記住，是因為你說了什麼樣的故事
 
@@ -65,7 +65,7 @@ The Moth is an acclaimed not-for-profit organization dedicated to the art & craf
 
 對了，你的故事裡有沒有畫面？有沒有一句話是聽者聽完會想「這我懂」的？若有，那就夠了。因為真正留下印象的，永遠不是精闢的論點，而是情境與情感的共鳴。
 
-![](https://copywriting.vista.tw/content/images/2025/05/story_adaptation_strategies.png)
+
 
 ### 四、勇敢的不完美，才是真正的信任建立
 
@@ -79,7 +79,7 @@ The Moth is an acclaimed not-for-profit organization dedicated to the art & craf
 
 真誠，不等於揭瘡疤，而是展現你如何從跌倒中站起來。這是我們最能感動人、也最有價值的地方。
 
-![](https://copywriting.vista.tw/content/images/2025/05/story_opening_techniques.png)
+
 
 ### 五、故事是你在世界上的座標
 
@@ -91,7 +91,7 @@ The Moth is an acclaimed not-for-profit organization dedicated to the art & craf
 
 在這個講究個人品牌、IP、自媒體的時代，我們太容易陷入模板式的自我介紹：「我是誰，我有什麼證照，我的專長是……」當然，這些都很重要，但如果你想讓人記住你、相信你以及支持你，你得說一個好故事。故事，不但是你與世界連結的語言，更是你在茫茫人海中留下的方向座標。
 
-![](https://copywriting.vista.tw/content/images/2025/05/personal_brand_building.png)
+
 
 ### 你的故事，是你無法被取代的證明
 
@@ -99,7 +99,7 @@ The Moth is an acclaimed not-for-profit organization dedicated to the art & craf
 
 我們活在一個 [AI](https://www.empowerai.school/2025/05/ai-playbook-for-professionals.html) 可以模仿文章、生成簡報、製作聲音與影像的時代，但唯獨「你的故事」無可被取代。因為你所經歷的獨特人生、你走過的彎路乃至於你所感受過的痛與愛，那些組成你靈魂紋理的片段，只屬於你。
 
-![](https://copywriting.vista.tw/content/images/2025/05/star_framework.png)
+
 
 你不需要是專業作家，也不需要登上 TED 舞臺。你只需要有勇氣，願意開始。從和朋友閒聊的時候、從一場面試的開場白、從一則貼文的背後開始，把那些你以為沒人會在乎的故事說出來——因為，也許那正是某人等了一輩子才終於聽到的共鳴。
 
