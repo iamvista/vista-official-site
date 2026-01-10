@@ -346,7 +346,7 @@ const getMainTag = (post) => {
                             <div class="article-card">
                                 <a href={`/blog/${post.id}/`} style="text-decoration:none; display:flex; flex-direction:column; height:100%;">
                                     <div class="article-image">
-                                        <img src={post.data.heroImage} alt="" />
+                                        <img src={post.data.heroImage || '/blog-placeholder-1.jpg'} alt="" />
                                     </div>
                                     <div class="article-content">
                                         <span class="article-tag">{getMainTag(post)}</span>
