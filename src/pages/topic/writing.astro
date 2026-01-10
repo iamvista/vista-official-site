@@ -48,8 +48,13 @@ const DESCRIPTION = "探索一系列關於寫作心法、技巧與創作習慣�
             .post-item {
                 display: flex;
                 flex-direction: column;
-                padding: 2rem 0;
+                padding: 2rem 0 2rem 1.5rem;
                 border-bottom: 1px solid #eee;
+                border-left: 4px solid var(--color-red);
+                transition: background-color 0.2s;
+            }
+            .post-item:hover {
+                background-color: #fafafa;
             }
             .post-item a {
                 text-decoration: none;

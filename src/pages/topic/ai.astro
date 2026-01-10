@@ -56,8 +56,13 @@ const DESCRIPTION = "探索如何運用 AI 工具提升工作效率與生產力�
             .post-item {
                 display: flex;
                 flex-direction: column;
-                padding: 2rem 0;
+                padding: 2rem 0 2rem 1.5rem;
                 border-bottom: 1px solid #eee;
+                border-left: 4px solid var(--color-red);
+                transition: background-color 0.2s;
+            }
+            .post-item:hover {
+                background-color: #fafafa;
             }
             .post-item a {
                 text-decoration: none;
