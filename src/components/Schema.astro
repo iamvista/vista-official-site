@@ -1,0 +1,131 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+interface Props {
+	type?: 'WebSite' | 'Person' | 'BlogPosting' | 'Service' | 'Organization';
+	title?: string;
+	description?: string;
+	image?: string;
+	publishDate?: Date;
+    updatedDate?: Date;
+    data?: any; // For custom schema data
+}
+
+const { 
+    type = 'WebSite', 
+    title = SITE_TITLE, 
+    description = SITE_DESCRIPTION,
+    image,
+    publishDate,
+    updatedDate,
+    data = {}
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const siteUrl = Astro.site?.toString() || 'https://www.vista.tw';
+const imageUrl = image ? new URL(image, Astro.site).toString() : new URL('/profile.jpg', Astro.site).toString();
+
+let schema = {};
+
+// 1. Global Person Schema (Vista Cheng)
+const personSchema = {
+    "@type": "Person",
+    "name": "Vista Cheng",
+    "alternateName": ["鄭緯筌", "Vista"],
+    "url": siteUrl,
+    "image": new URL('/profile.jpg', Astro.site).toString(),
+    "sameAs": [
+        "https://www.facebook.com/iamvista",
+        "https://www.threads.net/@vista",
+        "https://www.linkedin.com/in/vista/",
+        "https://www.instagram.com/iamvista/"
+    ],
+    "jobTitle": "Corporate Consultant & AI Trainer",
+    "worksFor": {
+        "@type": "Organization",
+        "name": "Vista Writing Lab"
+    },
+    "description": "資深技術作家、企業顧問與 AI 應用講師。專注於內容行銷、個人品牌與 AI 賦能。"
+};
+
+// 2. Specific Type Logics
+if (type === 'WebSite') {
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": SITE_TITLE,
+        "url": siteUrl,
+        "description": SITE_DESCRIPTION,
+        "publisher": {
+            "@id": `${siteUrl}/#person` // Reference the Person
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": `${siteUrl}/search?q={search_term_string}`,
+            "query-input": "required name=search_term_string"
+        }
+    };
+} else if (type === 'BlogPosting') {
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": title,
+        "description": description,
+        "image": imageUrl,
+        "author": {
+            "@type": "Person",
+            "name": "Vista Cheng",
+            "url": siteUrl
+        },
+        "publisher": {
+           "@type": "Organization",
+           "name": "Vista Writing Lab",
+           "logo": {
+               "@type": "ImageObject",
+               "url": new URL('/profile.jpg', Astro.site).toString()
+           }
+        },
+        "datePublished": publishDate?.toISOString(),
+        "dateModified": updatedDate?.toISOString() || publishDate?.toISOString(),
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": canonicalURL.toString()
+        }
+    };
+} else if (type === 'Service') {
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": title,
+        "description": description,
+        "provider": {
+             "@id": `${siteUrl}/#person`
+        },
+        ...data // Allow overriding or adding specific service properties
+    };
+} else if (type === 'Person') {
+     schema = {
+        "@context": "https://schema.org",
+        ...personSchema
+    };
+}
+
+// Ensure Person schema is always available as a reference block if not the main type?
+// Actually simpler: just output the requested schema.
+// For WebSite, we might want to include Person graph.
+
+// Graph approach is robust.
+const graph = {
+    "@context": "https://schema.org",
+    "@graph": [
+        personSchema, // Always include Vista
+        schema // The main entity of this page
+    ]
+};
+
+// Clean up: if schema is WebSite, maybe don't duplicate Person if it's already in graph? 
+// But Schema.org graph handles ID references.
+
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(type === 'Person' ? schema : graph)} />

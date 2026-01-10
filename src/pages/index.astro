@@ -14,6 +14,9 @@ const allPosts = (await getCollection('blog')).sort(
 // Latest 3 posts
 const posts = allPosts.slice(0, 3);
 
+import Schema from '../components/Schema.astro';
+
+// ... (existing code)
 // Helper to get main tag
 const getMainTag = (post) => {
     if (post.data.tags && post.data.tags.length > 0) return post.data.tags[0];
@@ -25,6 +28,7 @@ const getMainTag = (post) => {
 <html lang="zh-Hant">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+        <Schema type="WebSite" />
 		<style>
             /* Ali Abdaal Inspired Styles */
             :root {

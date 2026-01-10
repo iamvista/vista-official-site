@@ -3,12 +3,14 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import Schema from '../components/Schema.astro';
 ---
 
 <!doctype html>
 <html lang="zh-Hant">
 	<head>
 		<BaseHead title={`關於我 - ${SITE_TITLE}`} description="Vista Cheng 的個人故事與經歷" />
+        <Schema type="Person" />
 		<style>
             /* About Page Specific Styles */
             .about-hero {
