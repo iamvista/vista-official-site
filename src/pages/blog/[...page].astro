@@ -13,6 +13,8 @@ export async function getStaticPaths({ paginate }) {
 	return paginate(posts, { pageSize: 12 });
 }
 
+const { page } = Astro.props;
+
 // Pagination Logic
 const { currentPage, lastPage } = page;
 const pageNumbers = [];
