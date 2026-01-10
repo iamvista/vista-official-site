@@ -18,7 +18,16 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				width: 100%;
 				margin: 0;
                 background: #fff;
+                display: flex;
+                flex-direction: column;
+                align-items: center; /* Enforce Centering */
 			}
+            .hero-container {
+                width: 100%;
+                max-width: 1100px; /* Wider Hero */
+                padding: 0 1rem;
+                box-sizing: border-box;
+            }
 			.hero-image {
 				width: 100%;
                 margin-bottom: 3rem;
@@ -26,36 +35,21 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.hero-image img {
 				display: block;
 				margin: 0 auto;
-				border-radius: 0; /* Full width option? Or keep rounded? Let's keep container narrow, image wide? */
-                /* User said "Elegant". Usually wide image, narrow text. */
-                border-radius: 0; 
+                border-radius: 16px; 
 				box-shadow: var(--box-shadow);
                 max-height: 600px;
                 object-fit: cover;
                 width: 100%;
 			}
-            /* If we want the image to be contained, we can wrap it. 
-               Let's make the hero image wide but not full bleed if container constraint exists. 
-               Actually, for a blog post, a contained image is often better.
-               Let's revert to contained.
-            */
-            .hero-container {
-                max-width: 960px;
-                margin: 0 auto;
-                padding: 0 1rem;
-            }
-            .hero-image img {
-                border-radius: 12px;
-                width: 100%;
-            }
 
 			.prose {
 				width: 100%;
-				max-width: 800px; /* Widened from 720px */
+				max-width: 860px; /* Wider Prose */
 				margin: 0 auto;
 				padding: 3rem 1.5rem;
+                box-sizing: border-box;
 				color: var(--gray-dark);
-                font-size: 1.25rem; /* Increased font size */
+                font-size: 1.25rem;
                 line-height: 1.8;
                 font-family: var(--font-body);
 			}
@@ -159,7 +153,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
             }
 		</style>
         <!-- FontAwesome for Share Icons -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 	</head>
 
 	<body>
