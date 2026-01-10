@@ -28,119 +28,85 @@ const { page } = Astro.props;
                 padding: 3rem 1rem;
 			}
             
-            /* Bento Grid Layout */
-            .bento-grid {
-                display: grid;
-                grid-template-columns: repeat(12, 1fr);
-                gap: 1.5rem;
-                auto-rows: minmax(200px, auto);
-            }
+            /* Grid System (Standard) */
+			.bento-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); /* Responsive Grid */
+				gap: var(--gap);
+				list-style-type: none;
+				padding: 0;
+			}
             
-            .post-card {
+            /* Card Styles */
+			.post-card {
+                position: relative;
+				transition: all 0.3s ease;
                 background: white;
                 border-radius: 12px;
                 overflow: hidden;
-                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-                transition: transform 0.2s, box-shadow 0.2s;
+                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
                 display: flex;
                 flex-direction: column;
+                height: 100%; /* Equal Height */
+                border: 1px solid var(--gray-light);
+			}
+            .post-card a {
                 text-decoration: none;
                 color: inherit;
                 height: 100%;
-                border: 1px solid var(--gray-light);
+                display: flex;
+                flex-direction: column;
             }
-            .post-card:hover {
-                transform: translateY(-4px);
-                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-            }
-            
-            .post-image {
+            .image-container {
                 width: 100%;
-                object-fit: cover;
+                overflow: hidden;
                 aspect-ratio: 16/9;
             }
+			.post-card img {
+				width: 100%;
+                height: 100%;
+                object-fit: cover;
+                transition: transform 0.5s ease;
+			}
+            .post-card:hover {
+                transform: translateY(-4px);
+                box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            }
+            .post-card:hover img {
+                transform: scale(1.05);
+            }
             
-            .post-content {
+            .content {
                 padding: 1.5rem;
                 flex: 1;
                 display: flex;
                 flex-direction: column;
             }
-            
-            .post-title {
-                margin: 0 0 0.5rem;
+
+			.title {
+				margin: 0 0 0.5rem 0;
+				color: var(--black);
+				line-height: 1.3;
+                font-family: var(--font-heading);
                 font-size: 1.25rem;
-                color: var(--color-primary);
-                line-height: 1.4;
-            }
-            
-            .post-date {
-                font-size: 0.875rem;
-                color: var(--gray);
+                font-weight: 700;
+			}
+			.date {
+				margin: 0;
+				color: var(--gray);
+                font-size: 0.9rem;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
                 margin-top: auto;
-            }
-
-            /* Grid Spans Pattern */
-            /* Hero Post (1st) */
-            .post-card:nth-child(1) {
-                grid-column: span 12;
-                flex-direction: row; /* Horizontal layout for hero */
-                min-height: 400px;
-            }
-            .post-card:nth-child(1) .post-image {
-                width: 60%;
-                height: 100%;
-                aspect-ratio: auto;
-            }
-            .post-card:nth-child(1) .post-content {
-                width: 40%;
-                justify-content: center;
-                padding: 3rem;
-            }
-            .post-card:nth-child(1) .post-title {
-                font-size: 2.5rem;
-            }
-
-            /* Medium Posts (2, 3) */
-            .post-card:nth-child(6n+2),
-            .post-card:nth-child(6n+3) {
-                grid-column: span 6;
-            }
+			}
             
-            /* Small Posts (4, 5, 6) */
-            .post-card:nth-child(6n+4),
-            .post-card:nth-child(6n+5),
-            .post-card:nth-child(6n+6) {
-                grid-column: span 4;
+            /* Hover Effect */
+            .post-card:hover .title {
+                color: var(--color-red);
             }
 
-            /* Responsive */
-            @media (max-width: 900px) {
-                .post-card:nth-child(1) {
-                    flex-direction: column;
-                    min-height: auto;
-                }
-                .post-card:nth-child(1) .post-image {
-                    width: 100%;
-                    height: 300px;
-                }
-                .post-card:nth-child(1) .post-content {
-                    width: 100%;
-                    padding: 1.5rem;
-                }
-                .post-card:nth-child(6n+2),
-                .post-card:nth-child(6n+3) {
-                    grid-column: span 12; /* Full width on smaller tablets */
-                }
-                 .post-card:nth-child(6n+4),
-                .post-card:nth-child(6n+5),
-                .post-card:nth-child(6n+6) {
-                    grid-column: span 6; /* 2 cols */
-                }
-            }
-            @media (max-width: 600px) {
+			@media (max-width: 600px) {
                 .bento-grid {
-                    display: flex;
                     flex-direction: column;
                 }
                 .post-card { margin-bottom: 1rem; }
