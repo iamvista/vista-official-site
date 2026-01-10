@@ -1,0 +1,166 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`第一次來？從這開始 | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 4rem 1rem;
+			}
+            .intro-section {
+                text-align: center;
+                margin-bottom: 4rem;
+            }
+            .intro-section h1 {
+                font-size: 2.5rem;
+                margin-bottom: 1.5rem;
+                color: var(--color-primary);
+            }
+            .intro-section p {
+                font-size: 1.25rem;
+                color: var(--color-secondary);
+                max-width: 600px;
+                margin: 0 auto;
+                line-height: 1.6;
+            }
+            
+            .category-section {
+                margin: 4rem 0;
+            }
+            .category-title {
+                display: flex;
+                align-items: center;
+                gap: 1rem;
+                margin-bottom: 1.5rem;
+                border-bottom: 2px solid var(--gray-light);
+                padding-bottom: 0.5rem;
+            }
+            .category-title h2 {
+                margin: 0;
+                font-size: 1.8rem;
+                color: var(--color-primary);
+            }
+            .category-icon {
+                font-size: 1.8rem;
+            }
+            
+            .article-list {
+                list-style: none;
+                padding: 0;
+                display: grid;
+                gap: 1rem;
+            }
+            .article-list li a {
+                display: block;
+                padding: 1.5rem;
+                background: white;
+                border: 1px solid var(--gray-light);
+                border-radius: 8px;
+                text-decoration: none;
+                transition: transform 0.2s, border-color 0.2s;
+            }
+            .article-list li a:hover {
+                transform: translateY(-2px);
+                border-color: var(--color-red);
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            }
+            .article-title {
+                font-weight: 700;
+                font-size: 1.2rem;
+                color: var(--color-primary);
+                margin-bottom: 0.5rem;
+                display: block;
+            }
+            .article-desc {
+                color: var(--color-secondary);
+                font-size: 0.95rem;
+            }
+
+            .cta-box {
+                background: var(--color-warm-bg);
+                border: 1px solid var(--gray-light);
+                border-radius: 12px;
+                padding: 3rem;
+                text-align: center;
+                margin-top: 4rem;
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <section class="intro-section">
+                <h1>👋 嗨，第一次來嗎？</h1>
+                <p>
+                    我是 Vista Cheng，這裡是我關於寫作、AI 與個人品牌的數位基地。<br/>
+                    如果你不知道從何看起，我為你整理了這份「入門指南」。
+                </p>
+            </section>
+
+            <section class="category-section">
+                <div class="category-title">
+                    <span class="category-icon">✍️</span>
+                    <h2>寫作心法</h2>
+                </div>
+                <ul class="article-list">
+                    <li>
+                        <a href="/blog/how-to-write-a-good-article/">
+                            <span class="article-title">如何寫出一篇好文章？</span>
+                            <span class="article-desc">從選題、大綱到完稿，給新手的系統化寫作建議。</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/blog/how-to-write-a-good-headline/">
+                            <span class="article-title">下標題的藝術：如何抓住讀者眼球？</span>
+                            <span class="article-desc">好標題是文章的門面，教你用心理學技巧寫出吸睛標題。</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a href="/blog/writing-process-and-methods/">
+                            <span class="article-title">我的寫作流程大公開</span>
+                            <span class="article-desc">如何運用數位工具管理靈感，建立高效率的產出系統。</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="category-section">
+                <div class="category-title">
+                    <span class="category-icon">🤖</span>
+                    <h2>AI 實戰應用</h2>
+                </div>
+                <ul class="article-list">
+                    <li>
+                        <a href="/blog/write-with-ai/">
+                            <span class="article-title">AI 寫作時代：創作者如何不被取代？</span>
+                            <span class="article-desc">探討人機協作的可能性，以及專屬於人類的「靈魂」是什麼。</span>
+                        </a>
+                    </li>
+                     <li>
+                        <a href="/blog/ai-tools-for-writers/">
+                            <span class="article-title">寫作者必備的 AI 工具箱</span>
+                            <span class="article-desc">精選 5 款提升寫作效率的神器，讓你的產出事半功倍。</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+
+            <section class="cta-box">
+                <h2>想要更深入學習？</h2>
+                <p style="margin-bottom: 2rem;">訂閱我的電子報，每週獲得最新的 AI 與寫作乾貨。</p>
+                <a href="https://iamvista.substack.com/" target="_blank" style="background: var(--color-red); color: white; padding: 1rem 2rem; border-radius: 50px; text-decoration: none; font-weight: bold;">
+                    《Vista 電子報》免費訂閱 &rarr;
+                </a>
+            </section>
+		</main>
+		<Footer />
+	</body>
+</html>
