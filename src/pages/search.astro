@@ -1,0 +1,50 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={`搜尋文章 | ${SITE_TITLE}`} description="搜尋全站文章" />
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+		<script src="/pagefind/pagefind-ui.js" is:inline></script>
+		<style>
+			main {
+				width: 960px;
+                max-width: calc(100% - 2em);
+				margin: 0 auto;
+				padding: 3em 1em;
+			}
+            .search-container {
+                margin-top: 2rem;
+                min-height: 50vh;
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <h1>搜尋文章</h1>
+            <div id="search" class="search-container"></div>
+		</main>
+		<Footer />
+        <script>
+            window.addEventListener('DOMContentLoaded', (event) => {
+                new PagefindUI({ 
+                    element: "#search", 
+                    showSubResults: true,
+                    translations: {
+                        placeholder: "輸入關鍵字搜尋...",
+                        clear_search: "清除",
+                        zero_results: "沒有找到相關內容 [SEARCH_TERM]",
+                        many_results: "找到 [COUNT] 篇相關文章",
+                        one_result: "找到 [COUNT] 篇相關文章"
+                    }
+                });
+            });
+        </script>
+	</body>
+</html>
