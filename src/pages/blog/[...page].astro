@@ -48,27 +48,32 @@ const { page } = Astro.props;
                 position: relative;
 				transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
                 background: white;
-                /* Clean Border, No Red */
+                /* Clean Border */
                 border: 1px solid rgba(0,0,0,0.05);
-                border-radius: 4px;
+                /* Rounded Top Only (4px), Square Bottom (0) */
+                border-radius: 4px 4px 0 0;
                 overflow: hidden;
+                /* Premium "Floaty" Shadow */
                 box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
                 display: flex;
                 flex-direction: column;
                 height: 100%;
 			}
             .post-card a {
-                text-decoration: none;
+                text-decoration: none !important; /* Force No Underline */
                 color: inherit;
                 height: 100%;
                 display: flex;
                 flex-direction: column;
             }
+            .post-card a:hover {
+                text-decoration: none !important;
+            }
             
             /* Top Image Area (65%) */
             .image-container {
                 width: 100%;
-                height: 65%; /* Extended Image Area */
+                height: 65%; 
                 overflow: hidden;
                 position: relative;
             }
@@ -82,11 +87,19 @@ const { page } = Astro.props;
             /* Bottom Content Area (35%) */
             .content {
                 height: 35%; 
-                padding: 1.5rem;
+                /* Reduced vertical padding (1.25rem) to reduce space below title */
+                padding: 1.25rem 1.5rem; 
                 display: flex;
                 flex-direction: column;
                 justify-content: space-between;
                 background: white;
+            }
+            
+            /* Wrap Title and Date for flex spacing */
+            .content-wrapper {
+                display: flex;
+                flex-direction: column;
+                gap: 0.5rem; 
             }
 
             .post-card:hover {
@@ -98,7 +111,7 @@ const { page } = Astro.props;
             }
             
 			.title {
-				margin: 0 0 0.5rem 0;
+				margin: 0;
 				color: var(--black);
 				line-height: 1.3;
                 font-family: var(--font-heading);
@@ -109,13 +122,11 @@ const { page } = Astro.props;
                 -webkit-line-clamp: 2;
                 -webkit-box-orient: vertical;
                 overflow: hidden;
-                text-decoration: none; /* No Underline */
+                text-decoration: none !important; /* Double ensure */
 			}
-            
-            /* Hover Effect */
-            .post-card:hover .title {
-                color: var(--color-red);
-            }
+			.title:hover {
+				text-decoration: none !important;
+			}
             
 			.date {
 				margin: 0;
@@ -124,7 +135,13 @@ const { page } = Astro.props;
                 text-transform: uppercase;
                 letter-spacing: 0.08em;
                 font-weight: 500;
+                margin-top: auto; /* Push to bottom if space allows, or keep tight */
 			}
+            
+            /* Hover Effect */
+            .post-card:hover .title {
+                color: var(--color-red);
+            }
             
             /* --- BENTO LOGIC --- */
             
@@ -165,7 +182,7 @@ const { page } = Astro.props;
                 display: flex;
                 justify-content: center;
                 gap: 1rem;
-                margin-top: 8rem; /* Use 8rem for "down 2 lines" visual feel */
+                margin-top: 8rem; 
                 align-items: center;
             } 
             .pagination a {
