@@ -13,7 +13,30 @@ export async function getStaticPaths({ paginate }) {
 	return paginate(posts, { pageSize: 12 });
 }
 
-const { page } = Astro.props;
+// Pagination Logic
+const { currentPage, lastPage } = page;
+const pageNumbers = [];
+if (lastPage <= 7) {
+    for (let i = 1; i <= lastPage; i++) pageNumbers.push(i);
+} else {
+    // Always show 1
+    pageNumbers.push(1);
+    if (currentPage > 3) pageNumbers.push('...');
+    
+    // Show around current
+    let start = Math.max(2, currentPage - 1);
+    let end = Math.min(lastPage - 1, currentPage + 1);
+    
+    // Adjust if near start/end
+    if (currentPage <= 3) { end = 4; }
+    if (currentPage >= lastPage - 2) { start = lastPage - 3; }
+
+    for (let i = start; i <= end; i++) pageNumbers.push(i);
+    
+    if (currentPage < lastPage - 2) pageNumbers.push('...');
+    // Always show last
+    pageNumbers.push(lastPage);
+}
 ---
 
 <!doctype html>
@@ -177,24 +200,48 @@ const { page } = Astro.props;
                 .post-card:nth-child(n) { grid-column: span 12 !important; }
             }
             
-            /* Pagination Styles */
+            /* Modern Pagination Styles */
             .pagination {
                 display: flex;
                 justify-content: center;
-                gap: 1rem;
-                margin-top: 8rem; 
+                gap: 0.5rem;
+                margin-top: 6rem;
                 align-items: center;
+                flex-wrap: wrap;
             } 
-            .pagination a {
-                color: var(--black);
+            .btn {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                width: 44px;
+                height: 44px;
+                border-radius: 50%;
+                background: white;
+                color: var(--gray-dark);
                 text-decoration: none;
-                font-weight: 500;
+                font-weight: 600;
+                transition: all 0.2s;
+                border: 1px solid transparent;
             }
-            .pagination a:hover {
-                color: var(--color-red);
+            .btn:hover {
+                background: #f0f0f0;
+                color: var(--color-primary);
+                transform: translateY(-2px);
             }
-            .page-count {
-                color: #888;
+            .btn.active {
+                background: var(--color-red);
+                color: white;
+                box-shadow: 0 4px 12px rgba(220, 38, 38, 0.3);
+            }
+            .btn-nav {
+                width: auto;
+                padding: 0 1.5rem;
+                border-radius: 22px;
+                border: 1px solid #eee;
+            }
+            .dots {
+                color: var(--gray);
+                padding: 0 0.5rem;
             }
 		</style>
 	</head>
@@ -218,11 +265,26 @@ const { page } = Astro.props;
 				}
 			</section>
             
-            <!-- Pagination Controls -->
+            <!-- Modern Pagination -->
             <div class="pagination">
-                {page.url.prev ? <a href={page.url.prev}>&larr; 上一頁</a> : null}
-                <span class="page-count">第 {page.currentPage} 頁 / 共 {page.lastPage} 頁</span>
-                {page.url.next ? <a href={page.url.next}>下一頁 &rarr;</a> : null}
+                {page.url.prev && (
+                    <a href={page.url.prev} class="btn btn-nav">&larr; 上一頁</a>
+                )}
+                
+                {pageNumbers.map(num => (
+                    num === '...' ? 
+                    <span class="dots">...</span> :
+                    <a 
+                        href={num === 1 ? '/blog' : `/blog/${num}`} 
+                        class={`btn ${currentPage === num ? 'active' : ''}`}
+                    >
+                        {num}
+                    </a>
+                ))}
+                
+                {page.url.next && (
+                    <a href={page.url.next} class="btn btn-nav">下一頁 &rarr;</a>
+                )}
             </div>
 		</main>
 		<Footer />
