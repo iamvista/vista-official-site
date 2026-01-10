@@ -9,107 +9,179 @@ import { SITE_TITLE } from '../consts';
 <html lang="zh-Hant">
 	<head>
 		<BaseHead title={`聯絡我 - ${SITE_TITLE}`} description="預約 Vista Cheng 的諮詢服務，或洽談演講合作。" />
+        <!-- Load FontAwesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 		<style>
-            .contact-hero {
-                padding: 6rem 1rem 4rem;
-                text-align: center;
-                background: var(--color-warm-bg);
-            }
-            .contact-hero h1 { font-size: 3rem; margin-bottom: 1rem; color: var(--color-primary); }
-            .contact-hero p { font-size: 1.25rem; color: var(--color-secondary); max-width: 600px; margin: 0 auto; }
-            
-            .grid-cols {
+            .contact-container {
+                max-width: 1100px;
+                margin: 4rem auto;
+                background: white;
+                border-radius: 20px;
+                overflow: hidden;
+                box-shadow: 0 20px 40px rgba(0,0,0,0.08);
                 display: grid;
                 grid-template-columns: 1fr;
-                gap: 4rem;
-                max-width: 1000px;
-                margin: 4rem auto;
-                padding: 0 1rem;
+            }
+            @media (min-width: 900px) {
+                .contact-container {
+                     grid-template-columns: 400px 1fr;
+                }
+            }
+            
+            .contact-image {
+                background-color: #f0f0f0;
+                position: relative;
+            }
+            .contact-image img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                display: block;
+            }
+            
+            .contact-content {
+                padding: 3rem 2rem;
             }
             @media (min-width: 768px) {
-                .grid-cols { grid-template-columns: 1fr 1fr; }
+                .contact-content { padding: 4rem; }
             }
-
-            .info-card {
-                background: white;
-                padding: 2.5rem;
-                border-radius: 12px;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-                border: 1px solid var(--gray-light);
+            
+            h1 {
+                font-family: var(--font-heading);
+                font-size: 2.5rem;
+                margin-bottom: 0.5rem;
+                color: var(--color-primary);
             }
-            .info-card h2 { font-size: 1.5rem; margin-top: 0; color: var(--color-primary); border-bottom: 2px solid var(--color-red); padding-bottom: 0.5rem; display: inline-block; margin-bottom: 1.5rem; }
-            .info-item { margin-bottom: 1.5rem; font-size: 1.1rem; }
-            .info-item strong { display: block; color: var(--gray-dark); font-size: 0.9rem; margin-bottom: 0.25rem; }
-            .info-item a { color: var(--color-primary); text-decoration: none; font-weight: 500; }
-            .info-item a:hover { color: var(--color-red); }
-
-            .cal-embed {
-                min-height: 600px;
-                background: white;
+            .subtitle {
+                font-size: 1.1rem;
+                color: var(--gray);
+                margin-bottom: 3rem;
+                line-height: 1.6;
+            }
+            
+            .contact-grid {
+                display: grid;
+                gap: 2rem;
+            }
+            .contact-item h3 {
+                font-size: 1.1rem;
+                margin: 0 0 0.5rem 0;
+                color: var(--color-primary);
+                font-weight: 700;
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+            }
+            .contact-item h3 i { color: var(--color-red); }
+            
+            .contact-item p, .contact-item a {
+                color: var(--gray-dark);
+                text-decoration: none;
+                font-size: 1rem;
+                line-height: 1.6;
+                margin: 0;
+            }
+            .contact-item a:hover {
+                color: var(--color-red);
+                text-decoration: underline;
+            }
+            
+            .social-links {
+                display: flex;
+                gap: 1rem;
+                margin-top: 0.5rem;
+            }
+            .social-btn {
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                background: #f5f5f5;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: var(--color-primary);
+                text-decoration: none;
+                transition: all 0.2s;
+            }
+            .social-btn:hover {
+                background: var(--color-red);
+                color: white;
+                transform: translateY(-2px);
+            }
+            
+            .booking-box {
+                background: var(--color-warm-bg);
+                padding: 2rem;
                 border-radius: 12px;
-                overflow: hidden;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                margin-top: 2rem;
+                border: 1px solid rgba(0,0,0,0.05);
+            }
+            .booking-btn {
+                display: inline-block;
+                background: var(--color-primary);
+                color: white;
+                padding: 0.8rem 1.5rem;
+                border-radius: 6px;
+                text-decoration: none;
+                font-weight: 600;
+                margin-top: 1rem;
+                transition: all 0.2s;
+            }
+            .booking-btn:hover {
+                background: var(--color-red);
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.1);
             }
 		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
-            <section class="contact-hero">
-                <h1>聯絡我</h1>
-                <p>無論是演講邀約、企業內訓，還是個人諮詢，都歡迎與我聯繫。</p>
-            </section>
-
-            <div class="grid-cols">
-                <!-- Contact Info -->
-                <div class="info-card">
-                    <h2>合作洽詢</h2>
-                    <p style="margin-bottom: 2rem; color: var(--gray);">
-                        如果您有明確的合作意向，建議直接來信，說明您的需求、預算以及預計時程，我將會優先處理。
-                    </p>
-                    
-                    <div class="info-item">
-                        <strong>Email</strong>
-                        <a href="mailto:vista@VistaCheng.com">vista@VistaCheng.com</a>
-                    </div>
-                    
-                    <div class="info-item">
-                        <strong>社群媒體</strong>
-                        <div style="display: flex; gap: 1rem; margin-top: 0.5rem;">
-                            <a href="https://www.facebook.com/iamvista" target="_blank">Facebook</a>
-                            <span style="color:var(--gray-light)">|</span>
-                            <a href="https://www.threads.net/@vista" target="_blank">Threads</a>
-                        </div>
-                    </div>
-                    
-                    <div class="info-item" style="margin-top: 3rem;">
-                        <strong>訂閱電子報</strong>
-                        <a href="https://iamvista.substack.com/" target="_blank">Vista 的開外掛週報 &rarr;</a>
-                    </div>
+		<main style="padding: 0 1rem;">
+            
+            <div class="contact-container">
+                <!-- Left: Image -->
+                <div class="contact-image">
+                    <img src="/profile.jpg" alt="Vista Cheng" />
                 </div>
-
-                <!-- Calendly Embed (Placeholder/Link) -->
-                <div class="info-card">
-                    <h2>預約諮詢</h2>
-                    <p style="margin-bottom: 2rem; color: var(--gray);">
-                        想聊聊您的寫作計畫或 AI 導入問題？<br/>
-                        歡迎直接預約 30 分鐘的視訊會議。
+                
+                <!-- Right: Content -->
+                <div class="contact-content">
+                    <h1>Let's Connect</h1>
+                    <p class="subtitle">
+                        無論是演講邀約、企業內訓，還是個人諮詢，<br/>都歡迎與我聯繫，一起探索更多可能。
                     </p>
-                    <div style="text-align: center; padding: 3rem 0; background: var(--color-warm-bg); border-radius: 8px;">
-                        <a href="https://cal.com/iamvista" target="_blank" style="
-                            display: inline-block;
-                            padding: 1rem 2rem;
-                            background: var(--color-primary);
-                            color: white;
-                            text-decoration: none;
-                            border-radius: 6px;
-                            font-weight: bold;
-                        ">
-                            前往預約時間 (Cal.com) &rarr;
-                        </a>
+                    
+                    <div class="contact-grid">
+                        
+                        <!-- Email -->
+                        <div class="contact-item">
+                            <h3><i class="fa-regular fa-envelope"></i> 合作洽詢</h3>
+                            <p>如果有明確的合作意向，歡迎直接來信：</p>
+                            <a href="mailto:iamvista@gmail.com" style="font-size: 1.2rem; font-weight: 600; margin-top:0.5rem; display:block;">iamvista@gmail.com</a>
+                        </div>
+                        
+                        <!-- Social -->
+                        <div class="contact-item">
+                            <h3><i class="fa-solid fa-share-nodes"></i> 追蹤動態</h3>
+                            <div class="social-links">
+                                <a href="https://www.facebook.com/iamvista" target="_blank" class="social-btn" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                                <a href="https://www.threads.net/@vista" target="_blank" class="social-btn" aria-label="Threads"><i class="fa-brands fa-threads"></i></a>
+                                <a href="https://iamvista.substack.com/" target="_blank" class="social-btn" aria-label="Substack"><i class="fa-solid fa-newspaper"></i></a>
+                                <a href="https://www.instagram.com/iamvista/" target="_blank" class="social-btn" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        
+                        <!-- Booking -->
+                        <div class="booking-box">
+                            <h3 style="margin-top:0; color:var(--color-primary); font-size:1.1rem; font-weight:700;">🤝 預約諮詢</h3>
+                            <p style="font-size:0.95rem; margin-bottom:0;">想聊聊您的 AI 導入計畫或寫作瓶頸？歡迎直接預約視訊。</p>
+                            <a href="https://cal.com/vista" target="_blank" class="booking-btn">預約 15 分鐘診斷 &rarr;</a>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
+
 		</main>
 		<Footer />
 	</body>
