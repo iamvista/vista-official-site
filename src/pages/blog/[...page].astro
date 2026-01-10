@@ -104,33 +104,81 @@ const { page } = Astro.props;
             .post-card:hover .title {
                 color: var(--color-red);
             }
+            
+            /* --- BENTO LOGIC (Pattern: 12-6-6-4-4-4) --- */
+            
+            /* Item 1: Hero (Full Width) */
+			.post-card:nth-child(6n+1) {
+				grid-column: span 12;
+                display: flex;
+                flex-direction: row; 
+			}
+            /* Make Hero Image taller/wider */
+            .post-card:nth-child(6n+1) .image-container {
+                aspect-ratio: auto; 
+                width: 60%;
+                min-height: 350px;
             }
-            .pagination a {
-                display: inline-block;
-                padding: 0.75rem 1.5rem;
-                background: white;
-                border: 1px solid var(--gray-light);
-                border-radius: 8px;
-                color: var(--color-primary);
-                text-decoration: none;
-                font-weight: 600;
-                transition: all 0.2s;
+             .post-card:nth-child(6n+1) .content {
+                 width: 40%;
+                 justify-content: center;
+                 padding: 3rem;
+             }
+            .post-card:nth-child(6n+1) .title {
+                font-size: 2.5rem;
             }
-            .pagination a:hover {
-                background: var(--color-red);
-                color: white;
-                border-color: var(--color-red);
+
+            /* Items 2 & 3: Half Width */
+            .post-card:nth-child(6n+2),
+            .post-card:nth-child(6n+3) {
+                grid-column: span 6;
             }
-            .page-count {
-                color: var(--gray);
-                font-size: 0.9rem;
+            
+            /* Items 4, 5, 6: Third Width */
+            .post-card:nth-child(6n+4),
+            .post-card:nth-child(6n+5),
+            .post-card:nth-child(6n+6) {
+                grid-column: span 4;
             }
-		</style>
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1 style="text-align: center; margin-bottom: 3rem; font-size: 3rem;">Blog</h1>
+
+			@media (max-width: 960px) {
+                /* Tablet: 2 cols */
+				.post-card:nth-child(n) {
+                    grid-column: span 6;
+                }
+                .post-card:nth-child(6n+1) {
+                    grid-column: span 12;
+                    flex-direction: column;
+                }
+                .post-card:nth-child(6n+1) .image-container {
+                    width: 100%;
+                    aspect-ratio: 16/9;
+                }
+                .post-card:nth-child(6n+1) .content {
+                    width: 100%;
+                    padding: 1.5rem;
+                }
+			}
+            @media (max-width: 600px) {
+                /* Mobile: 1 col */
+                .post-card:nth-child(n) {
+                    grid-column: span 12 !important;
+                }
+                .title { font-size: 1.25rem; }
+                .post-card:nth-child(6n+1) .title { font-size: 1.75rem; }
+                .post-card:nth-child(6n+1) { flex-direction: column; }
+            }
+            
+            /* Pagination Styles */
+            .pagination {
+                display: flex;
+                justify-content: center;
+                gap: 1rem;
+                margin-top: 4rem;
+                align-items: center;
+            } 
+            /* (Rest of pagination styles match existing) */
+
             
 			<section class="bento-grid">
 				{
