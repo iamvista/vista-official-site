@@ -128,13 +128,15 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
             .share-btn {
                 display: inline-flex;
                 align-items: center;
-                gap: 0.5rem;
-                padding: 0.6rem 1.2rem;
+                justify-content: center;
+                width: 44px;
+                height: 44px; /* Circle */
+                padding: 0;
                 border: 1px solid #ddd;
-                border-radius: 50px;
+                border-radius: 50%; /* Circle */
                 color: #555;
                 text-decoration: none;
-                font-size: 0.9rem;
+                font-size: 1.2rem;
                 transition: all 0.2s;
             }
             .share-btn:hover {
@@ -190,17 +192,20 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                     <div class="social-share">
                         <h4>Share this article</h4>
                         <div class="share-buttons">
-                            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://vista.tw/blog/`} target="_blank" class="share-btn" onclick="this.href='https://www.facebook.com/sharer/sharer.php?u='+window.location.href; return true;">
-                                <i class="fa-brands fa-facebook-f"></i> Facebook
+                            <a href={`https://www.facebook.com/sharer/sharer.php?u=https://vista.tw/blog/`} target="_blank" class="share-btn" aria-label="Share on Facebook" onclick="this.href='https://www.facebook.com/sharer/sharer.php?u='+window.location.href; return true;">
+                                <i class="fa-brands fa-facebook-f"></i>
                             </a>
-                            <a href={`https://twitter.com/intent/tweet?url=https://vista.tw/blog/`} target="_blank" class="share-btn" onclick="this.href='https://twitter.com/intent/tweet?url='+window.location.href; return true;">
-                                <i class="fa-brands fa-x-twitter"></i> X
+                            <a href={`https://www.threads.net/intent/post?text=https://vista.tw/blog/`} target="_blank" class="share-btn" aria-label="Share on Threads" onclick="this.href='https://www.threads.net/intent/post?text='+encodeURIComponent(document.title + ' ' + window.location.href); return true;">
+                                <i class="fa-brands fa-threads"></i>
                             </a>
-                            <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://vista.tw/blog/`} target="_blank" class="share-btn" onclick="this.href='https://www.linkedin.com/shareArticle?mini=true&url='+window.location.href; return true;">
-                                <i class="fa-brands fa-linkedin-in"></i> LinkedIn
+                            <a href={`https://twitter.com/intent/tweet?url=https://vista.tw/blog/`} target="_blank" class="share-btn" aria-label="Share on X" onclick="this.href='https://twitter.com/intent/tweet?url='+window.location.href; return true;">
+                                <i class="fa-brands fa-x-twitter"></i>
                             </a>
-                            <a href={`https://social-plugins.line.me/lineit/share?url=https://vista.tw/blog/`} target="_blank" class="share-btn" onclick="this.href='https://social-plugins.line.me/lineit/share?url='+window.location.href; return true;">
-                                <i class="fa-brands fa-line"></i> Line
+                            <a href={`https://www.linkedin.com/shareArticle?mini=true&url=https://vista.tw/blog/`} target="_blank" class="share-btn" aria-label="Share on LinkedIn" onclick="this.href='https://www.linkedin.com/shareArticle?mini=true&url='+window.location.href; return true;">
+                                <i class="fa-brands fa-linkedin-in"></i>
+                            </a>
+                            <a href={`https://social-plugins.line.me/lineit/share?url=https://vista.tw/blog/`} target="_blank" class="share-btn" aria-label="Share on Line" onclick="this.href='https://social-plugins.line.me/lineit/share?url='+window.location.href; return true;">
+                                <i class="fa-brands fa-line"></i>
                             </a>
                         </div>
                     </div>
