@@ -15,17 +15,7 @@ tags: ["日記"]
 
 這個問題，讓我想起前幾天讀到的《Business Insider》[報導](https://copywriting.vista.tw/grace-and-strength/)，當中訪問了**四大國際顧問公司（EY, KPMG, McKinsey, PwC）的 AI 高管**，探討 AI 在日常業務中的應用方式。其中，麥肯錫的 Rodney Zemmel 提到：**「AI 的真正價值，不在於取代人，而在於讓我們把 80% 機械性的工作交給 AI，專注於 20% 高價值的創造性決策。」**
 
-[
 
-我們如何擁抱 AI
-
-近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。
-
-VistaVista Cheng
-
-
-
-](https://copywriting.vista.tw/embracing-ai/)
 
 這段話讓我想到，我們在企業管理上需要一個新的思維模式：[**AI 不是取代人**](https://vista.im/chatgpt-book)**，而是幫助人更有效率地決策。**未來，企業真正的競爭力，不在於技術本身，而在於**誰能夠真正理解 AI，並找到適合自己的協作模式。**
 

@@ -23,17 +23,7 @@ tags: ["讀書心得"]
 
 當世界愈來愈嘈雜，內心卻需要更沉靜，[這本書](https://www.books.com.tw/exep/assp.php/vista/products/0011024321?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)，就是那道靜中有光的所在。
 
-[
 
-最後一次相遇，我們只談喜悅【限量祝福版】三款書籤+有聲陪伴 溫暖收藏
-
-書名：最後一次相遇，我們只談喜悅【限量祝福版】三款書籤+有聲陪伴 溫暖收藏，原文名稱：The Book of Joy，語言：繁體中文，ISBN：9789863987789，頁數：384，出版社：天下雜誌，作者：達賴喇嘛,戴斯蒙・屠圖,道格拉斯・亞伯拉姆，譯者：韓絜光，出版日期：2025/06/25，類別：宗教命理
-
-博客來
-
-
-
-](https://www.books.com.tw/exep/assp.php/vista/products/0011024321?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
 
 我很樂意推薦這本書給所有在人生路上走得有點累、也感到有點疑惑的人，也推薦給想在資訊爆炸的時代找回內在錨點的你。當然，也給那些不想讓自己心變冷的朋友們。
 

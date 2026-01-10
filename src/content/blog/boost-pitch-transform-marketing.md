@@ -17,17 +17,7 @@ Wawa 老師的這場直播，對我而言不僅是一堂生動有趣的簡報課
 
 Wawa 老師是廣告領域中的實戰派專家，他以幽默、自帶音效而又切中問題核心的方式，把原本枯燥的簡報技巧轉化為一場場讓人深思的故事演繹。在當天的直播活動中，我彷彿看見了每一次提案背後的攻防邏輯與心理動線，那些我們以為的設計細節，其實都是策略選擇。
 
-[
 
-創意細物指南：行銷時代讓你脫穎而出的關鍵能力
-
-書名：創意細物指南：行銷時代讓你脫穎而出的關鍵能力，語言：繁體中文，ISBN：9789861339610，頁數：256，出版社：圓神，作者：Wawa吳玉琥，出版日期：2025/03/01，類別：商業理財
-
-博客來
-
-
-
-](https://www.books.com.tw/exep/assp.php/vista/products/0011014593?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
 這篇文章，是我對這場直播的一次深度整理與個人內化紀錄。我將以親身視角出發，帶你一同走過從「廣告人邏輯」看簡報，到「數據與故事」的黃金比例調配，再到如何打破酸民迷思、逆勢翻轉品牌聲量的行銷戰術。我希望這篇長文，不只是紀錄，更能成為你打造簡報戰力、翻轉思維的實用指南。
 
@@ -57,17 +47,7 @@ Wawa 老師用他的提案經驗告訴我們：「如果客戶每天都跟數字
 
 這三部曲之間，不只是流程邏輯，更是策略整合的核心。老師說：「簡報不是讓你講爽的，是讓對方決定要不要跟你做生意的。」
 
-[
 
-《Vista的小聲音》：如何設計有效的行動呼籲
-
-什麼是行動呼籲呢？簡單來說，行動呼籲是激發目標受眾實際採取行動的一種模式，我們可以透過橫幅、圖片或文案來喚醒大眾的關注，進而驅動這群人採取特定的行動──好比希望消費者購買商品，或是捐款、參加活動等等。
-
-BloggerVista Cheng
-
-
-
-](https://www.vistacheng.com/2022/01/how-to-write-an-effective-call-to-action.html?ref=vista.tw#google_vignette)
 
 以商業目的為起點，我們要思考：這場簡報，目的是為了銷售？為了品牌認知？還是為了觸發試用或下載？一旦目的明確，內容架構才會聚焦。
 
@@ -91,17 +71,7 @@ Wawa 老師洞察到的重點，不是酸民很多，而是真正喜歡這款泡
 
 Wawa 老師的策略，並非與酸民對抗，而是從品牌角度反問：「我們的問題真的是口味嗎？還是被霸凌的沉默者？」這就是一種「[再框架化](https://bsccpsy.com/what-is-reframing/)」（Reframing）的操作──將問題從「怎麼回應負評」，轉為「怎麼保護沉默的忠誠者」。
 
-[
 
-想解決真正的問題，請先學會重組問題框架 | 哈佛商業評論・與世界一流管理接軌
-
-「重組問題框架」不等於「分析問題」，而是一種更高階的能力。學會這套經過實證、威力強大的問題解決策略，不論是領導團隊、創辦公司、談定銷售、制定策略、處理
-
-哈佛商業評論・與世界一流管理接軌哈佛商業評論
-
-
-
-](https://www.hbrtaiwan.com/article/20114/learn-reframe-question-before-solve)
 
 他打造了「勇者行銷」──讓敢說好吃的人變成英雄，並創造一整年度的消費者保護計畫。這與[價值共創理論](https://wiki.mbalib.com/zh-tw/%E4%BB%B7%E5%80%BC%E5%85%B1%E5%88%9B)（Value Co-creation, Prahalad & Ramaswamy, 2004） 不謀而合：讓消費者參與品牌故事的定義，不再只是接受訊息，而是成為行動的一部分。
 
@@ -113,17 +83,7 @@ Wawa 老師的策略，並非與酸民對抗，而是從品牌角度反問：「
 
 這與[設計思考](https://zh.wikipedia.org/zh-tw/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83)（Design Thinking）的第一階段「同理心與定義問題」邏輯如出一轍。[Tim Brown](https://www.ideo.org/bio/tim-brown-1)（IDEO 公司的 CEO）曾說過：「問題的定義方式，將決定解決方案的方向與效果。」
 
-[
 
-設計思考改造世界（十周年增訂新版）
-
-書名：設計思考改造世界（十周年增訂新版），原文名稱：Change by Design: How design thinking transforms organizations and inspires innovation (10th Anniversary Edition)，語言：繁體中文，ISBN：9789570856682，頁數：336，出版社：聯經出版公司，作者：提姆．布朗，譯者：吳莉君,陳依亭，出版日期：2021/01/07，類別：藝術設計
-
-博客來
-
-
-
-](https://www.books.com.tw/exep/assp.php/vista/products/0010879696?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
 Wawa 老師反問：「也許我們不該問為什麼東西賣不出去，而是──為什麼消費者不買？他們在意什麼？他們真正的障礙在哪裡？」這種「從供給轉向需求」的問題再定義，其實就是 [STP 分析](https://zh.wikipedia.org/zh-tw/STP%E5%88%86%E6%9E%90)（Segmentation, Targeting, Positioning） 的策略起點──我們不是為了賣東西而做簡報，而是為了解決目標客群的阻力點。
 
@@ -164,17 +124,7 @@ Wawa 老師說得好：「你以為你在簡報，其實你在重新定義品牌
 
 這樣的敘事策略，讓我聯想到內容行銷之父 [Joe Pulizzi](https://www.joepulizzi.com/) 的理論。他在《[Epic Content Marketing](https://www.books.com.tw/exep/assp.php/vista/products/F019180283?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)》一書中指出：「品牌內容的目標，不是銷售產品，而是賦予顧客一個新的世界觀（a new worldview）。」這種世界觀，不只是品牌價值的延伸，更是顧客與品牌產生深層連結的起點。
 
-[
 
-內容電力公司(增補更新版)：用好內容玩出大事業
-
-書名：內容電力公司(增補更新版)：用好內容玩出大事業，原文名稱：Content Inc., Second Edition: Start a Content-First Business, Build a Massive Audience and Become Radically Successful (With Little to No Money)，語言：繁體中文，ISBN：9786269793532，頁數：424，出版社：行人，作者：喬．普立茲，譯者：廖亭雲，出版日期：2024/02/06，類別：商業理財
-
-博客來
-
-
-
-](https://www.books.com.tw/exep/assp.php/vista/products/0010981337?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
 Wawa 老師在雙響泡案例中的策略，正體現了這種「敘事重建」的實踐。他沒有急於解釋「雙響炮其實沒有這麼難吃」，也沒有強行洗白，而是改寫品牌敘事核心：「這是一款曾被霸凌，但終於挺身而出的泡麵──它是我們每個人的縮影。」
 
@@ -244,17 +194,7 @@ Wawa 老師以他在廣告界的實戰經驗，示範了從乙方執行者進化
 
 謝謝 Wawa 老師的分享，也感謝孫老師促成這次直播活動。聽完這場直播，我覺得：當我們能將創意轉譯成策略、把故事對齊商業目標，自己就不再只是「乙方執行者」，而是真正的「價值的催化者」。
 
-[
 
-簡報策略學｜商業邏輯Ｘ關鍵說服Ｘ高效製作 | 職涯發展課程 - PressPlay Academy
-
-《簡報策略學》由簡報專家孫治華親授，結合商業決策與簡報策略，讓你掌握精準說服的關鍵技巧，提升簡報勝率。你將學會如何運用策略思維，讓簡報不只是資訊傳遞，而是影響決策的關鍵工具，無論是提案、會議、募資或銷售，都能透過數據、結構與敘事提升說服力，讓對方無法拒絕你的方案。本課程提供實戰應用與高效溝通模式，透過成功案例拆解，讓你真正理解如何佈局、掌握關鍵溝通，讓每場簡報都成為成功的轉捩點。立即加入，學習孫治華老師的簡報策略學！
-
-PressPlay Academy 線上課程學習平台孫治華
-
-
-
-](https://www.pressplay.cc/project/0911594A2BC79E4F21E40DD4BD2A8961/about)
 
 ## **當簡報變成你我職涯的推進器**
 

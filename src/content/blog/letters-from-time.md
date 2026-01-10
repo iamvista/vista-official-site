@@ -29,11 +29,7 @@ tags: ["日記"]
 
 我隨意地翻開一本科技趨勢的期刊，裡面正好提到《[**中美科技競爭報導框架比較研究——以兩國芯片戰為例（2018-2022）**](http://cmr.zju.edu.cn/details/575.html)》，這篇論文提及[**臧國仁**](https://zh.wikipedia.org/zh-tw/臧國仁)**老師的「**[**三層次框架理論**](https://www.airitilibrary.com/Article/Detail/a0000236-199812-x-3-1-102-a)**」**，讓我對科技與媒體如何塑造全球局勢有了新的思考。
 
-[
 
-臺灣傳播學會 Taiwan Communication Society
-
-![](https://static.ghost.org/v5.0.0/images/link-icon.svg)
 
 
 

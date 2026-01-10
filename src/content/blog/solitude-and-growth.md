@@ -33,17 +33,7 @@ tags: ["日記"]
 
 但我並不覺得失落，反而選擇讓自己投入到創作與學習之中——這一天，我用時間來寫論文，與出版社總編討論[新書的出版計畫](https://www.books.com.tw/exep/assp.php/vista/products/0011014433?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202502)，並且思考如何讓這本書幫助到更多人。
 
-[
 
-金石堂：生活學堂
-
-金石堂：金石生活學堂‧在生活中閱讀，在閱讀中生活
-
-金石堂鄭緯筌
-
-
-
-](https://www.kingstone.com.tw/stores/ireadlifedetail/202502120006)
 
 有人說，**「創作，就是最好的陪伴。」** 這句話，我今天特別有感觸。因為當你全心投入一件事時，那種專注的狀態，讓你不會感到孤單，反而會感受到一種充實的力量。
 

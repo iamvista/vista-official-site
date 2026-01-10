@@ -13,17 +13,7 @@ tags: ["個人品牌","閱讀","自媒體"]
 
 [這本書](https://www.books.com.tw/exep/assp.php/vista/products/0011015092?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202505)不僅僅是一本教你怎麼說故事的實用手冊，它更是一封寫給每個現代人的情書，一封鼓勵我們直面自我、坦露真實，並用自己的聲音觸動世界的信。由五位[飛蛾組織](https://themoth.org/)的核心講師撰寫，他們彷彿從舞臺、廣播或教室一路走來，在耳邊輕聲說：「你不是沒有故事，你只是還不知道怎麼說？」
 
-[
 
-The Moth | The Art and Craft of Storytelling
-
-The Moth is an acclaimed not-for-profit organization dedicated to the art & craft of storytelling. It has presented true & first person stories worldwide.
-
-The Moth (en-US)
-
-
-
-](https://themoth.org/)
 
 身為一位資深的內容創作者、企業講師與教育者，我常年協助他人提煉他們的故事，卻也在這本書中再一次回望自己。以下是我從書中深刻感受到的五個故事力關鍵，每一個領悟，都在我生命的某個時間點，綻放一道光。
 
