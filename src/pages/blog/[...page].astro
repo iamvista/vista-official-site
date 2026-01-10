@@ -18,9 +18,12 @@ const { page } = Astro.props;
 
 <!doctype html>
 <html lang="zh-Hant">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
 			/* Global Variables Local Scope */
             :root {
-                --gap: 3rem;
+                --gap: 4rem; /* Larger Gap as requested */
             }
             
             main {
