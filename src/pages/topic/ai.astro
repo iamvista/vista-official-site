@@ -10,7 +10,15 @@ import FormattedDate from '../../components/FormattedDate.astro';
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
-const posts = allPosts.filter(p => p.data.tags && (p.data.tags.includes('AI') || p.data.tags.includes('AI 工具') || p.data.tags.includes('Artificial Intelligence')));
+const posts = allPosts.filter(p => p.data.tags && (
+    p.data.tags.includes('AI') || 
+    p.data.tags.includes('AI 工具') || 
+    p.data.tags.includes('Artificial Intelligence') ||
+    p.data.tags.includes('人工智慧') ||
+    p.data.tags.includes('ChatGPT') ||
+    p.data.tags.includes('生成式 AI') ||
+    p.data.tags.includes('生成式AI')
+));
 
 const TITLE = "AI 工作流精選";
 const DESCRIPTION = "探索如何運用 AI 工具提升工作效率與生產力。";
