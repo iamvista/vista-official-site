@@ -162,24 +162,31 @@ const posts = (await getCollection('blog')).sort(
             
             /* Responsive Font Sizes */
                 .hero-subtitle { justify-content: center; font-size: 1.25rem; }
+                 .hero-buttons { justify-content: center; }
+            }
+            .hero-buttons {
+                display: flex;
+                gap: 1rem;
+                flex-wrap: wrap;
             }
             
-            /* Start Here Pill Button */
-            .pill-button {
+            .cta-button-red {
                 display: inline-block;
-                background: #333;
+                padding: 1rem 2.5rem;
+                background-color: var(--color-red);
                 color: white;
-                padding: 0.5rem 1.5rem;
-                border-radius: 50px;
                 text-decoration: none;
-                font-size: 0.9rem;
-                letter-spacing: 0.5px;
-                margin-bottom: 1.5rem;
-                border: 1px solid white; /* Contrast */
-                transition: transform 0.2s;
+                border-radius: 9999px;
+                font-weight: 600;
+                font-size: 1.1rem;
+                transition: all 0.2s;
+                border: none;
+                box-shadow: 0 4px 6px rgba(220, 38, 38, 0.2);
             }
-            .pill-button:hover {
-                transform: scale(1.05);
+            .cta-button-red:hover {
+                transform: translateY(-2px);
+                background-color: #b91c1c;
+                box-shadow: 0 10px 15px rgba(220, 38, 38, 0.3);
             }
             
             /* Newsletter Card Redesign */
@@ -198,23 +205,10 @@ const posts = (await getCollection('blog')).sort(
 		<main>
             <!-- Hero Section -->
             <section class="hero-section">
-                <!-- Text Left (Desktop) -->
-                <div class="hero-content">
-                    <!-- Start Here Pill Button -->
-                     <a href="/start-here" class="pill-button">
-                        👉 第一次來？從這開始
-                    </a>
-
-                    <h1>Vista Cheng</h1>
-                    <div class="hero-subtitle">
-                        資深技術作家 <span class="divider">•</span> AI 應用教練
+                    <div class="hero-buttons">
+                        <a href="/about" class="cta-button">關於 Vista &rarr;</a>
+                        <a href="/start-here" class="cta-button-red">👉 第一次來？從這開始</a>
                     </div>
-                    <p>
-                        我相信，寫作與科技是現代人最強大的槓桿。
-                        <br/>
-                        協助你打造個人品牌，建立系統化的知識工作流。
-                    </p>
-                    <a href="/about" class="cta-button">關於 Vista &rarr;</a>
                 </div>
                 <!-- Image Right (Desktop) -->
                 <div class="hero-image">

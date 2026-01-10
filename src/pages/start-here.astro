@@ -45,11 +45,11 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
             }
             .category-title h2 {
                 margin: 0;
-                font-size: 1.8rem;
+                font-size: 2.2rem; /* Larger */
                 color: var(--color-primary);
             }
             .category-icon {
-                font-size: 1.8rem;
+                font-size: 2.2rem; /* Larger */
             }
             
             .article-list {
@@ -62,19 +62,18 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
                 display: block;
                 padding: 1.5rem;
                 background: white;
-                border: 1px solid var(--gray-light);
+                border: 2px solid var(--color-red); /* Red Border */
                 border-radius: 8px;
                 text-decoration: none;
-                transition: transform 0.2s, border-color 0.2s;
+                transition: transform 0.2s, box-shadow 0.2s;
             }
             .article-list li a:hover {
                 transform: translateY(-2px);
-                border-color: var(--color-red);
-                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                box-shadow: 0 10px 15px rgba(220, 38, 38, 0.15);
             }
             .article-title {
                 font-weight: 700;
-                font-size: 1.2rem;
+                font-size: 1.5rem; /* Larger */
                 color: var(--color-primary);
                 margin-bottom: 0.5rem;
                 display: block;

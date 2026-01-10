@@ -1,0 +1,207 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+
+export async function getStaticPaths({ paginate }) {
+	const posts = (await getCollection('blog')).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+	);
+	return paginate(posts, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 960px;
+                max-width: 100%;
+                margin: 0 auto;
+                padding: 3rem 1rem;
+			}
+            
+            /* Bento Grid Layout */
+            .bento-grid {
+                display: grid;
+                grid-template-columns: repeat(12, 1fr);
+                gap: 1.5rem;
+                auto-rows: minmax(200px, auto);
+            }
+            
+            .post-card {
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+                transition: transform 0.2s, box-shadow 0.2s;
+                display: flex;
+                flex-direction: column;
+                text-decoration: none;
+                color: inherit;
+                height: 100%;
+                border: 1px solid var(--gray-light);
+            }
+            .post-card:hover {
+                transform: translateY(-4px);
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            }
+            
+            .post-image {
+                width: 100%;
+                object-fit: cover;
+                aspect-ratio: 16/9;
+            }
+            
+            .post-content {
+                padding: 1.5rem;
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .post-title {
+                margin: 0 0 0.5rem;
+                font-size: 1.25rem;
+                color: var(--color-primary);
+                line-height: 1.4;
+            }
+            
+            .post-date {
+                font-size: 0.875rem;
+                color: var(--gray);
+                margin-top: auto;
+            }
+
+            /* Grid Spans Pattern */
+            /* Hero Post (1st) */
+            .post-card:nth-child(1) {
+                grid-column: span 12;
+                flex-direction: row; /* Horizontal layout for hero */
+                min-height: 400px;
+            }
+            .post-card:nth-child(1) .post-image {
+                width: 60%;
+                height: 100%;
+                aspect-ratio: auto;
+            }
+            .post-card:nth-child(1) .post-content {
+                width: 40%;
+                justify-content: center;
+                padding: 3rem;
+            }
+            .post-card:nth-child(1) .post-title {
+                font-size: 2.5rem;
+            }
+
+            /* Medium Posts (2, 3) */
+            .post-card:nth-child(6n+2),
+            .post-card:nth-child(6n+3) {
+                grid-column: span 6;
+            }
+            
+            /* Small Posts (4, 5, 6) */
+            .post-card:nth-child(6n+4),
+            .post-card:nth-child(6n+5),
+            .post-card:nth-child(6n+6) {
+                grid-column: span 4;
+            }
+
+            /* Responsive */
+            @media (max-width: 900px) {
+                .post-card:nth-child(1) {
+                    flex-direction: column;
+                    min-height: auto;
+                }
+                .post-card:nth-child(1) .post-image {
+                    width: 100%;
+                    height: 300px;
+                }
+                .post-card:nth-child(1) .post-content {
+                    width: 100%;
+                    padding: 1.5rem;
+                }
+                .post-card:nth-child(6n+2),
+                .post-card:nth-child(6n+3) {
+                    grid-column: span 12; /* Full width on smaller tablets */
+                }
+                 .post-card:nth-child(6n+4),
+                .post-card:nth-child(6n+5),
+                .post-card:nth-child(6n+6) {
+                    grid-column: span 6; /* 2 cols */
+                }
+            }
+            @media (max-width: 600px) {
+                .bento-grid {
+                    display: flex;
+                    flex-direction: column;
+                }
+                .post-card { margin-bottom: 1rem; }
+            }
+            
+            /* Pagination Styles */
+            .pagination {
+                display: flex;
+                justify-content: center;
+                gap: 1rem;
+                margin-top: 4rem;
+                align-items: center;
+            }
+            .pagination a {
+                display: inline-block;
+                padding: 0.75rem 1.5rem;
+                background: white;
+                border: 1px solid var(--gray-light);
+                border-radius: 8px;
+                color: var(--color-primary);
+                text-decoration: none;
+                font-weight: 600;
+                transition: all 0.2s;
+            }
+            .pagination a:hover {
+                background: var(--color-red);
+                color: white;
+                border-color: var(--color-red);
+            }
+            .page-count {
+                color: var(--gray);
+                font-size: 0.9rem;
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1 style="text-align: center; margin-bottom: 3rem; font-size: 3rem;">Blog</h1>
+            
+			<section class="bento-grid">
+				{
+					page.data.map((post) => (
+                        <a href={`/blog/${post.slug}/`} class="post-card">
+                            <img width={720} height={360} src={post.data.heroImage} alt="" class="post-image" />
+                            <div class="post-content">
+                                <h4 class="post-title">{post.data.title}</h4>
+                                <FormattedDate date={post.data.pubDate} class="post-date" />
+                            </div>
+                        </a>
+					))
+				}
+			</section>
+            
+            <!-- Pagination Controls -->
+            <div class="pagination">
+                {page.url.prev ? <a href={page.url.prev}>&larr; 上一頁</a> : null}
+                <span class="page-count">第 {page.currentPage} 頁 / 共 {page.lastPage} 頁</span>
+                {page.url.next ? <a href={page.url.next}>下一頁 &rarr;</a> : null}
+            </div>
+		</main>
+		<Footer />
+	</body>
+</html>
