@@ -3,7 +3,7 @@ title: "在流動的時光裡，珍藏那些溫暖相遇"
 description: "今天，是一場關於學習、成長與人際交會的美好旅程。上午，我與有「臺灣教練之母」美譽的王金珠老師相會，與她分享AI技術如何運用於簡報設計，並親手幫她搭建個人網站的雛形，這讓我不禁期待未來能有更多合作的可能性。午後，陪伴好友儀甄踏上她的網站建置之旅，從網域託管到網站模板選購，我們在短短一個下午內，就讓她的品牌有了數位立足點。這一天，是技術的交流，也是心靈的陪伴。傍晚，好友繐綺的一句話深深觸動了我：「我一定要幫你找個美少女當老師未來的人生另一半，納入本年度50個願望之一。看到你幸福，我也會覺得很幸福。」聽到這樣的話語，內心彷彿被輕輕擁抱了一下，原來，這世上真的有人在默默關心著自己，期待著自己的快樂。"
 pubDate: "2025-02-21T14:18:26.000Z"
 updatedDate: "2025-02-21T14:47:17.000Z"
-heroImage: "https://images.unsplash.com/photo-1564635519726-473c8498c3ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4NHx8ZW5jb3VudGVyJTIwbnxlbnwwfHx8fDE3NDAxNDU2OTl8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/cherished-encounter.jpg"
 tags: ["日記"]
 ---
 

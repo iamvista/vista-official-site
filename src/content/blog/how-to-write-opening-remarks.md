@@ -3,7 +3,7 @@ title: "如何寫出一個精彩的開場白？"
 description: "我很喜歡卡倫．方（Karin Fong）對於開場白的詮釋：「開場白就是一個邀請函。好的作品會激發人們的期待，讓閱聽眾更容易參與其中。標題是進入作品的通道，它告訴大家，帷幕已經升起，請暫停懷疑。請注意──現在請把你的日常生活拋在腦後。又一次，一個故事即將展開。」"
 pubDate: "2022-10-23T22:02:41.000Z"
 updatedDate: "2025-01-25T04:21:21.000Z"
-heroImage: "https://images.unsplash.com/photo-1504691342899-4d92b50853e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHx3cml0ZXJ8ZW58MHx8fHwxNzM3Nzc2NTI4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-opening-remarks.jpg"
 tags: ["寫作"]
 ---
 

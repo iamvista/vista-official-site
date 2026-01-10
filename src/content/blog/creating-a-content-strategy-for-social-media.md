@@ -3,7 +3,7 @@ title: "想寫出精彩的社群貼文？請先制定社群媒體的內容策略
 description: "成功絕非僥倖，更需要有方法和策略。希望您未來在產製內容之前，都能以「內容策略」為依歸。在動手打字之前，不妨先問問自己「為什麼」？"
 pubDate: "2022-05-07T20:25:57.000Z"
 updatedDate: "2025-01-26T01:33:07.000Z"
-heroImage: "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNvY2lhbHxlbnwwfHx8fDE3Mzc4NTUxMzZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/creating-a-content-strategy-for-social-media.jpg"
 tags: ["內容策略"]
 ---
 

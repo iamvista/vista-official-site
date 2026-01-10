@@ -3,7 +3,7 @@ title: "送你一隅光亮"
 description: ""
 pubDate: "2022-06-13T16:48:30.000Z"
 updatedDate: "2025-01-30T04:35:42.000Z"
-heroImage: "https://images.unsplash.com/photo-1502085026219-54ac00e06fd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDc2fHxsaWdodHxlbnwwfHx8fDE3MzgxNTM1ODB8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/light-up-the-corner.jpg"
 tags: ["日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "上班族都應該具備的「寫作力」"
 description: "對於廣大的上班族朋友來說，可別以為離開校園之後，就可以跟寫作說聲Bye Bye了！以公務員為例，但凡從進入公務體系的第一天開始，公務員就無可避免得要面對各種承辦業務的公文，並且需要以公文處理長官所交付之繁雜任務。所以，我們可以說公文寫作是公務人員必備的溝通技能與工具。想要當公務員，光是考上高、普考還不夠，你可得具備處理公文的能力哦！"
 pubDate: "2022-09-26T20:35:34.000Z"
 updatedDate: "2025-01-25T04:45:46.000Z"
-heroImage: "https://images.unsplash.com/photo-1667056624790-f0e8e391c086?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNvcHl3cml0aW5nfGVufDB8fHx8MTczNzc3OTI5M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/improve-writing-skills.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "跨境內容行銷三部曲，打開異地市場"
 description: "在這個資訊爆炸的年代，想要吸引觀眾的注意，光是產製內容還不夠，一定要做出具有獨特性且市場缺乏的內容。"
 pubDate: "2022-11-22T22:10:16.000Z"
 updatedDate: "2025-01-26T10:40:40.000Z"
-heroImage: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI1fHxidXNpbmVzc3xlbnwwfHx8fDE3Mzc4NzMwMDl8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/cross-border-content-marketing.jpg"
 tags: ["內容行銷"]
 ---
 

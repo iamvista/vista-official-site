@@ -3,7 +3,7 @@ title: "認識文案：從形式、屬性與使用時機談起"
 description: "中小企業時常需要對外宣傳、曝光，在預算有限的情況下，若能好好組織自家的官網，整理一些常見問答集，同時善用書寫部落格、經營粉絲專頁等方式對外宣傳，無疑是一種內容行銷的好方法。"
 pubDate: "2025-01-26T07:45:15.000Z"
 updatedDate: "2025-01-26T07:46:33.000Z"
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHdyaXRpbmd8ZW58MHx8fHwxNzM3Nzg3NjIzfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/what-is-copywriting.jpg"
 tags: ["寫作"]
 ---
 

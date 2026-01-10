@@ -3,7 +3,7 @@ title: "向前走，迎接未知的美好"
 description: "在這個充滿溫暖與連結的一天，我透過合作夥伴的支持、老朋友的重逢，以及對未來計畫的探索，感受到人生的豐富與無限可能。從企業內訓提案的精進，到書系規劃的初步成形，再到與兩位導演朋友的深度交流，每一步都在為夢想鋪路。這不僅是一次工作的累積，更是一次關於人生價值與成長的思考。透過今天的日記，與你一起感受感恩的力量、友誼的可貴，並探索如何在新的一年裡持續前進，創造更大的影響力。"
 pubDate: "2025-02-01T15:03:48.000Z"
 updatedDate: "2025-02-01T16:32:02.000Z"
-heroImage: "https://images.unsplash.com/photo-1515890435782-59a5bb6ec191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxodWd8ZW58MHx8fHwxNzM4NDIxMzE5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/keep-moving-forward.jpg"
 tags: ["日記"]
 ---
 

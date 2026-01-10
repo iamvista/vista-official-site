@@ -3,7 +3,7 @@ title: "如何寫好一篇專欄？"
 description: "湯馬斯・佛里曼認為，想要寫好一篇專欄，需要具備三種基本要素：第一是個人的價值觀；第二是你對世界運行之道的理解，用他的話說，也就是這個世界上最大的齒輪和滑輪，如何促成事件的發生；第三是專欄作家對人和文化的了解，透過這種了解，去洞察在巨大力量的衝擊下，人們會如何反應。"
 pubDate: "2025-01-26T08:15:01.000Z"
 updatedDate: "2025-01-26T08:15:01.000Z"
-heroImage: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxuZXdzfGVufDB8fHx8MTczNzg3OTEzMHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-a-column.jpg"
 tags: ["寫作"]
 ---
 

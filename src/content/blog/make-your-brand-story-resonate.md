@@ -3,7 +3,7 @@ title: "品牌故事，要能引起共鳴"
 description: "許多人以為品牌故事要有跌宕起伏、充滿戲劇張力才能動人，其實真正能打動人心的，是能引發共鳴的敘事。本篇專欄由《不會寫程式也能創立個人品牌和變現》作者鄭緯筌撰寫，分享五個實用步驟，教你如何從受眾視角出發、用真誠語氣說故事，讓品牌敘事不再只是資訊堆疊，而是觸動人心的溝通行動。從問題出發、營造情境、擁抱真實，到像對朋友說話般的語氣轉化，這些技巧將幫助你打造讓人願意記住、轉發、甚至產生信任與購買的品牌故事。"
 pubDate: "2025-06-08T08:29:20.000Z"
 updatedDate: "2025-06-08T08:36:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGJyYW5kJTIwc3RvfGVufDB8fHx8MTc0OTM3MDkwNHww&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/make-your-brand-story-resonate.jpg"
 tags: ["內容策略","個人品牌","寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "《走跳遊學新人生》Podcast專訪：豐富你的斜槓能力"
 description: "雖然一樣是在講自己熟悉的事情，然而一旦轉換視角和心態，所謂的故事或者心路歷程，也就呈現截然不同的脈絡與風貌了⋯⋯如果你想知道我當初是如何開始踏上斜槓之路的，歡迎收聽本集節目！"
 pubDate: "2022-06-22T15:00:15.000Z"
 updatedDate: "2025-01-27T02:12:55.000Z"
-heroImage: "https://images.unsplash.com/photo-1519929125787-88a2485dc4f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNsYXNofGVufDB8fHx8MTczNzk0Mzg2Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/enrich-yourself.jpg"
 tags: ["職涯"]
 ---
 

@@ -3,7 +3,7 @@ title: "孤單的重量：在沉默的時刻，尋找自己的位置"
 description: "有時候，世界太過喧囂，而內心卻只剩下沉默。今天，在醫院陪伴母親，心裡滿是壓力與無力感。即便身邊有人陪伴，卻依然感到孤單，甚至對這個家庭感到無奈。與妹妹話不投機，論文寫不下去，這一天的情緒低落到極點。但即便如此，仍然試圖找到微小的光亮，比如與 AI 討論新商業模式，比如持續堅持某個決定，比如反思人與人之間的真誠與距離。人生或許本就是這樣——在無聲的角落，試著讓自己與世界重新對話。"
 pubDate: "2025-02-08T14:00:43.000Z"
 updatedDate: "2025-02-10T15:02:21.000Z"
-heroImage: "https://images.unsplash.com/photo-1621765808360-5b2ea25d147a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxsb25laW5lc3N8ZW58MHx8fHwxNzM5MDIzMzg4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-weight-of-loneliness.jpg"
 tags: ["日記"]
 ---
 

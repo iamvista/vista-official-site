@@ -3,7 +3,7 @@ title: "何謂「內容行銷」？這是販賣美好體驗與感受的神奇魔
 description: "如果只從概念和原理的角度來看，內容行銷似乎並不困難，但很多人會誤以為所謂從事內容行銷，就是撰文來創造SEO的成效，也就是使用內容來加強搜尋行銷的做法。所以，有些公司老闆會產生誤解，以為只要找小編來產製大量的內容即可，但其實並不是如此！內容行銷的起因、推廣理念，都和傳統行銷的方式非常不同，如果想要做好內容行銷，最好能夠重新建立正確的邏輯和觀念。"
 pubDate: "2022-05-08T14:04:57.000Z"
 updatedDate: "2025-01-26T01:30:15.000Z"
-heroImage: "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvbnRlbnQlMjBtYXJrZXRpbmd8ZW58MHx8fHwxNzM3ODU0OTI0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/what-is-content-marketing.jpg"
 tags: ["內容行銷"]
 ---
 

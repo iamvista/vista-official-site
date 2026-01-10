@@ -3,7 +3,7 @@ title: "從感恩出發，迎接更好的自己"
 description: "在歲月流轉中，年節的溫暖總能觸動內心深處。這篇文章記錄了大年初三的點滴——從腳傷漸癒的喜悅，到媽媽細心的熱敷照顧，從寫作的充實感到朋友間的深情問候，每個瞬間都滿溢著感恩與啟發。隨著春節假期接近尾聲，如何在新的一年持續前行、珍惜當下，成為更好的自己？讓我們一起反思生活的美好，擁抱每一份溫暖，迎接未來的無限可能。"
 pubDate: "2025-01-31T13:24:57.000Z"
 updatedDate: "2025-01-31T14:06:12.000Z"
-heroImage: "https://images.unsplash.com/photo-1579208570378-8c970854bc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGdyYXRlZnVsfGVufDB8fHx8MTczODMyODc1NXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/be-your-better-self.jpg"
 tags: ["日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "回家的路：從醫院到未來，每一步都是新的開始"
 description: "今天，是母親術後的出院日，也是我們重新適應生活步調的一天。從一早趕往醫院，到繁瑣的出院手續，再到回家的踏實感，這一天的情緒起伏不小。等待的時間或許漫長，但至少母親的狀況穩定，親友的關心讓人感到溫暖，而學習照護技能，則讓我對家庭責任有了更深刻的體會。與此同時，新的挑戰也悄然到來——兼任大學講師的消息讓我既期待又忐忑，而學術研討會的截稿期限則讓我措手不及。生活總是如此，在一件事告一段落時，下一件事已經在催促著我們前行。但無論如何，這條路，我仍會一步步走下去，迎接每一個新的開始。"
 pubDate: "2025-02-09T14:36:49.000Z"
 updatedDate: "2025-02-10T15:02:08.000Z"
-heroImage: "https://images.unsplash.com/photo-1547930021-87cf2913d809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDUwfHxzd2VldCUyMGhvbWV8ZW58MHx8fHwxNzM5MTExNzUyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-way-home.jpg"
 tags: ["日記"]
 ---
 

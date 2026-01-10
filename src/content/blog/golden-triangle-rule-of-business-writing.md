@@ -3,7 +3,7 @@ title: "寫出職場競爭力：巧妙運用黃金三角法則，幫你搞定商
 description: "我為大家介紹商業寫作的「黃金三角法則」，並以深入淺出的方式帶領學員入門。不但有效協助夥伴們提升商業寫作技巧，更希望讓大家在下課之後就可以寫出更有競爭力的商務郵件與企畫！"
 pubDate: "2022-08-07T22:00:25.000Z"
 updatedDate: "2025-01-26T00:02:30.000Z"
-heroImage: "https://images.unsplash.com/photo-1506784926709-22f1ec395907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNhcmVlcnxlbnwwfHx8fDE3Mzc4NDk2NzV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/golden-triangle-rule-of-business-writing.jpg"
 tags: ["寫作"]
 ---
 

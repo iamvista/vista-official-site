@@ -3,7 +3,7 @@ title: "淺談創作者經濟 feat. AnyoneLab 聯合創辦人刁思宇"
 description: "AnyoneLab 為來自亞洲的新創科技公司，曾入選 Female Entrepreneurs Worldwide 企業孵化器、臺灣 AppWorks #23 之初加速器，專注於深耕創作者經濟。該公司的使命是透過科技的力量扶持缺乏團隊資源的個體創作者，並幫助內容創作者解決流量變現問題，為創作者創造發揮價值的平臺。"
 pubDate: "2022-07-30T10:40:49.000Z"
 updatedDate: "2025-01-27T04:44:00.000Z"
-heroImage: "https://images.unsplash.com/photo-1525278070609-779c7adb7b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxjcmVhdG9yfGVufDB8fHx8MTczNzg3MTY0MXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/anyonelab.jpg"
 tags: ["個人品牌"]
 ---
 

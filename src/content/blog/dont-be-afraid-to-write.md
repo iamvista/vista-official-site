@@ -3,7 +3,7 @@ title: "跟作文恐慌症說掰掰"
 description: "根據這幾年來的觀察，我發現很多人對文案寫作有所誤解，以為只要妙筆生花，相關的產品或服務也就一定賣得好！其實，在整個銷售的過程中，文案只是扮演刺激消費慾望的推動角色，背後還需要很多其他環節的共同配合。一篇帶有明確目的且淺顯易懂的文案，不但可以拉近與受眾之間的距離，也有助於傳達觀點。話說回來，這當然也是好文案的基本要件。"
 pubDate: "2025-01-26T03:07:23.000Z"
 updatedDate: "2025-01-26T03:14:26.000Z"
-heroImage: "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fG9mZmljZXxlbnwwfHx8fDE3Mzc4NjA5NTV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/dont-be-afraid-to-write.jpg"
 tags: ["寫作"]
 ---
 

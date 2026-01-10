@@ -3,7 +3,7 @@ title: "參加「Vista寫作陪伴計畫」，讓我學會享受寫作"
 description: "Vista老師非常有耐心，對於我寫的每一篇文章，舉凡受眾思維、結構、句子和詞彙表達，甚至細緻到標點符號的使用，他都給予我許多很有幫助的建議。"
 pubDate: "2022-04-04T22:23:40.000Z"
 updatedDate: "2025-01-27T02:22:22.000Z"
-heroImage: "https://images.unsplash.com/photo-1485217988980-11786ced9454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGVuam95JTIwd29tYW58ZW58MHx8fHwxNzM3OTQ0NDU3fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/awanita-enjoy-writing.jpg"
 tags: ["寫作"]
 ---
 

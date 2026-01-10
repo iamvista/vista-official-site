@@ -3,7 +3,7 @@ title: "我看《新媒體行業寫作與推廣108招》：用寫作打開一片
 description: "想要做好行銷，一定要先豐富行業的知識。假設你在一家室內設計公司工作，如果你想做一些行銷宣傳，讓廣大的客戶都願意把新屋裝潢工作委託給貴公司的話，那麼最好得先理解室內設計與居家裝潢的相關知識。此外，也可花點時間整理室內設計領域的常見問答，讓有興趣或有困擾的潛在受眾可以得到解答，進而願意下單。"
 pubDate: "2025-01-26T09:34:40.000Z"
 updatedDate: "2025-01-31T13:35:05.000Z"
-heroImage: "https://images.unsplash.com/photo-1559526324-c1f275fbfa32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fG1lZGlhfGVufDB8fHx8MTczNzg4Mzk4NHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/social-media-writing.jpg"
 tags: ["寫作"]
 ---
 

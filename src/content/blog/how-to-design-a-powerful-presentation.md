@@ -3,7 +3,7 @@ title: "掌握「黃金圈法則」，打造一份具有行銷思維的吸睛簡
 description: "常有企業界的朋友或學員稱讚我的簡報做得很好，不但版面很美觀，也能夠讓人一眼看到重點。其實，與其說我是一個厲害的簡報設計高手，倒不如說我掌握了簡報設計與溝通傳達的要領，所以可以很快地設計出一份具有行銷思維的簡報。"
 pubDate: "2022-09-13T19:09:07.000Z"
 updatedDate: "2025-01-25T09:05:43.000Z"
-heroImage: "https://images.unsplash.com/photo-1601191905893-d270babd8c87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxnb2xkZW4lMjB8ZW58MHx8fHwxNzM3Nzk1ODcxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-design-a-powerful-presentation.jpg"
 tags: ["內容策略","簡報"]
 ---
 

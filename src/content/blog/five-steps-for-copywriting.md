@@ -3,7 +3,7 @@ title: "掌握五個步驟，寫出超好賣的文案"
 description: "很多人花了很多力氣和篇幅在介紹自家產品，卻忽略了一個基本的原則，也就是我們必須從受眾的角度出發，去思考讀者為何要花時間看您所寫的文案？唯有激發共鳴，才能讓目標受眾買單。"
 pubDate: "2022-06-05T23:20:06.000Z"
 updatedDate: "2025-01-26T01:35:26.000Z"
-heroImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI1fHxzb2NpYWx8ZW58MHx8fHwxNzM3ODU1MTM3fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/five-steps-for-copywriting.jpg"
 tags: ["寫作"]
 ---
 

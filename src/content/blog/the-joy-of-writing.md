@@ -3,7 +3,7 @@ title: "寫作是一件快樂的事：我看鄭緯筌（Vista）老師的《內�
 description: "無論是身在職場上的哪種職務，或許是小編、或許是社群、或許是行銷、或者是業務，構思內容到實際產出的階段，都非常需要寫作的歷練，並且是快速寫作的歷練。而這個能力是平常可以藉由寫部落格</a>來訓練，你也可以使用影片、 簡報、筆記去輸出你的思考，這都是加強寫作的力量。"
 pubDate: "2022-11-16T19:22:36.000Z"
 updatedDate: "2025-01-25T03:31:11.000Z"
-heroImage: "https://images.unsplash.com/photo-1555421689-491a97ff2040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNvbnRlbnR8ZW58MHx8fHwxNzM3NjUxMjMyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-joy-of-writing.jpg"
 tags: ["寫作"]
 ---
 

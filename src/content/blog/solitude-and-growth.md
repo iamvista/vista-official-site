@@ -3,7 +3,7 @@ title: "在孤獨與成長中前行：愛、創作與未來的無限可能"
 description: "今天，是充滿感恩與思考的一天。母親的健康逐漸恢復，讓我體會到陪伴與照顧的價值，學妹的一句「父母是我們的第一個情人」，更讓我對親情有了新的體悟。而這一天，沒有情人的情人節，我選擇用創作、學習與未來的合作機會來填滿。與香港朋友的視訊交流，讓我對未來的可能性感到期待，而與出版社總編的對談，則讓我更加確信，這本即將在二月底出版的新書，能夠真正幫助到更多人。人生不只是擁有愛，還包括創造價值、探索未知，並在孤獨中找到自我的力量。 今天，我允許自己感受孤單，因為孤單並不等於空虛，而是成長的必經之路。即便論文仍是未完成的「不可能任務」，但我知道，每一個不斷努力的瞬間，都是通往更好自己的踏腳石。"
 pubDate: "2025-02-14T13:21:00.000Z"
 updatedDate: "2025-02-15T13:29:37.000Z"
-heroImage: "https://images.unsplash.com/photo-1526779259212-939e64788e3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fFNvbGl0dWRlfGVufDB8fHx8MTczOTYyNTMwNnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/solitude-and-growth.jpg"
 tags: ["日記"]
 ---
 

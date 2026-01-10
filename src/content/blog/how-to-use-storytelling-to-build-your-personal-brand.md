@@ -3,7 +3,7 @@ title: "人生的故事，就是最好的簡報——我讀《請開始說你的
 description: "你不需要是專業作家，也不需要登上 TED 舞臺。你只需要有勇氣，願意開始。從和朋友閒聊的時候、從一場面試的開場白、從一則貼文的背後開始，把那些你以為沒人會在乎的故事說出來——因為，也許那正是某人等了一輩子才終於聽到的共鳴。"
 pubDate: "2025-05-22T09:44:23.000Z"
 updatedDate: "2025-05-22T09:57:52.000Z"
-heroImage: "https://images.unsplash.com/photo-1519791883288-dc8bd696e667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0b3J5fGVufDB8fHx8MTc0NzkwMzg4Nnww&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/how-to-use-storytelling-to-build-your-personal-brand.jpg"
 tags: ["個人品牌","閱讀","自媒體"]
 ---
 

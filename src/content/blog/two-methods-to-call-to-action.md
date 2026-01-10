@@ -3,7 +3,7 @@ title: "掌握兩個方法，幫您輕鬆創造有效的行動呼籲"
 description: "行動呼籲（Call to Action，CTA），其實是激發讀者或目標受眾實際採取行動的一種重要因素。所以，無論是文案撰寫或按鈕設計，其實箇中都有很多的學問和細節。"
 pubDate: "2022-05-29T13:54:57.000Z"
 updatedDate: "2025-01-25T14:55:45.000Z"
-heroImage: "https://images.unsplash.com/photo-1616587226157-48e49175ee20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGNhbGwlMjB0byUyMGFjdGlvbnxlbnwwfHx8fDE3Mzc4MTY4MTF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/two-methods-to-call-to-action.jpg"
 tags: ["內容行銷"]
 ---
 

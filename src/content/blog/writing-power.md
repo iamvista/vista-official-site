@@ -3,7 +3,7 @@ title: "我看《鈔級文字》：打造超級文字力"
 description: ""
 pubDate: "2022-11-28T23:10:38.000Z"
 updatedDate: "2025-01-25T03:26:57.000Z"
-heroImage: "https://images.unsplash.com/photo-1500989145603-8e7ef71d639e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDc5fHx3cml0aW5nJTIwZ2V0JTIwcmljaHxlbnwwfHx8fDE3Mzc3NzU1NzZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writing-power.jpg"
 tags: ["寫作"]
 ---
 

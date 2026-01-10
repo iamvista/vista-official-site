@@ -3,7 +3,7 @@ title: "內容產製五步驟，吸引潛在客戶"
 description: "產製優良的內容（包括文章、影音或資訊圖表等）是我推崇的方式，業者也可考量針對特定產品或服務來設計銷售頁。做這些事情的目的很簡單，都是要吸引「對」的人到貴公司網站，進而產生連結。"
 pubDate: "2022-10-07T23:09:08.000Z"
 updatedDate: "2025-01-31T14:05:08.000Z"
-heroImage: "https://images.unsplash.com/photo-1448387473223-5c37445527e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0ZXB8ZW58MHx8fHwxNzM3ODg4NTg4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/5-steps-to-attract-new-customers.jpg"
 tags: ["內容行銷"]
 ---
 

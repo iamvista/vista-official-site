@@ -3,7 +3,7 @@ title: "從目標受眾的角度出發，寫出讓人有感的文案"
 description: "請謹記撰寫文章或商品文案，其實就是一個不斷優化的過程。想要寫出擲地有聲的好文案，光堆砌詞彙或發想創意還不夠，我們更需要從設定目標受眾、精準定位開始著手……"
 pubDate: "2025-01-26T07:49:44.000Z"
 updatedDate: "2025-01-31T13:34:42.000Z"
-heroImage: "https://images.unsplash.com/photo-1499720843949-d9e6f318dca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGRyYW1hfGVufDB8fHx8MTczNzg3NzY1N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-copy.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "內容營運：做好與目標受眾的連結"
 description: "內容營運的面向牽連甚廣，從內容的蒐集、創作到策畫、呈現，再到溝通、傳播，最後才能進入到成效的檢核與評估。在這個循環中，內容策略的制定是最重要的，而主要的重點就在於適得其所，把對的內容傳遞給對的族群，如此方能各取所需，也能收相得益彰之成效。"
 pubDate: "2025-01-26T08:19:12.000Z"
 updatedDate: "2025-01-31T13:35:43.000Z"
-heroImage: "https://images.unsplash.com/photo-1573055418049-c8e0b7e3403b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM5fHxhdWRpZW5jZXxlbnwwfHx8fDE3Mzc4Nzk0MDl8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/what-is-content-operations.jpg"
 tags: ["內容策略"]
 ---
 

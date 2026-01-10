@@ -3,7 +3,7 @@ title: "文筆不好？請試著創造閃閃發光的細節，吸引讀者的目
 description: "誠然，文學創作和商業文書寫作有些不同，若先撇除文學創作不談，您真的認為每一篇爆紅的文章或商品文案，必然堆砌大量華麗的辭彙嗎？或是用了很多有趣的哏嗎？比起妙筆生花帶給讀者的愉悅感受，您能否好好說一個故事，讓內容的細節閃閃發光，我認為這些更來得重要。"
 pubDate: "2022-08-25T22:26:41.000Z"
 updatedDate: "2025-01-25T14:24:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1509910110001-4e756f86fbd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNwYXJrfGVufDB8fHx8MTczNzgxNDkzNXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/details-in-your-writing-to-grab-attention.jpg"
 tags: ["寫作"]
 ---
 

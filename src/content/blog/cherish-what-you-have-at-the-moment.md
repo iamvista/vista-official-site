@@ -3,7 +3,7 @@ title: "人生的每一步，且行且珍惜"
 description: "生命的旅途充滿變數，讓人驚嘆，也讓人省思。今天的種種經歷，從震驚的消息，到久違的重逢，從新技術的震撼，到未來的戰略思考，每一刻都讓我更加深刻地感受到人生的價值與無常。這一天，我見證了生命的脆弱，也看到了希望的微光；我思索未來的可能，也在當下找到溫暖。每一次連結，每一份學習，都是邁向更好自己的基石。"
 pubDate: "2025-02-03T14:39:59.000Z"
 updatedDate: "2025-02-03T14:56:44.000Z"
-heroImage: "https://images.unsplash.com/photo-1535390313236-547dc376eaf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGFwcHJlY2lhdGUlMjB8ZW58MHx8fHwxNzM4NTkzMTgwfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/cherish-what-you-have-at-the-moment.jpg"
 tags: ["日記"]
 ---
 

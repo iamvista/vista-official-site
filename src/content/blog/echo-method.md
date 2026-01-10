@@ -3,7 +3,7 @@ title: "活用「回音法」，幫助您寫出精彩的文章"
 description: "如果您找到了學習對象或目標，不妨可以把他們的文章印下來，仿照「回音法」的實行步驟進行拆解和學習。<大量閱讀是基本的功課，也別忘了傾聽您內心的回音哦！我們要先能掌握作者寫作的旨趣和切入點，然後再逐一鑽研、分析作者想要傳達的觀點與意涵，最後再觀摩其寫作風格，找到可以學習的方向。"
 pubDate: "2022-08-09T20:54:41.000Z"
 updatedDate: "2025-01-26T01:16:06.000Z"
-heroImage: "https://images.unsplash.com/photo-1480866179948-2caa74d9082a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3fHxzcGVha3xlbnwwfHx8fDE3Mzc4NTQwNzZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/echo-method.jpg"
 tags: ["寫作"]
 ---
 

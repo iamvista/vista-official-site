@@ -3,7 +3,7 @@ title: "內容創作的第一堂課：先求有再求好，勇於輸出與分享
 description: "儘管大家都知道寫作是最好的自我投資，但還是有很多的朋友視寫作為畏途。身為一位教文案寫作與內容行銷的講師，我始終覺得寫作並沒有那麼困難。有別於文學創作，職場寫作其實是有脈絡和方法可以依循。"
 pubDate: "2022-04-10T21:09:18.000Z"
 updatedDate: "2025-01-25T23:43:08.000Z"
-heroImage: "https://images.unsplash.com/photo-1539795845756-4fadad2905ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNvbG9yJTIwcGVufGVufDB8fHx8MTczNzg0ODMxMXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/content-creation-skills.jpg"
 tags: ["內容行銷","寫作"]
 ---
 

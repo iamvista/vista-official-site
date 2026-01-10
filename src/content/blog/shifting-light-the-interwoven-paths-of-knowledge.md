@@ -3,7 +3,7 @@ title: "思緒的微光，穿透書頁與未來"
 description: "清晨，我來到工協，針對AI應用規劃師的職能評量進行專家訪談，兩個小時的深度對話，讓我對未來的 AI 課程規劃有了更明確的藍圖。午後，轉戰中山站，與品牌公司探討課程設計，會議結束後，我獨自前往誠品書店，悄然尋找自己的新書。當它靜靜躺在新書區時，那份微妙的情感湧上心頭，12本整齊排列的封面，彷彿在訴說著這一路的努力與積累。傍晚時分，博士班同學子涵傳來訊息，恭喜我新書出版，還笑著說：「跟你做同學超驕傲的。」這句話比排行榜更讓我感動。夜幕降臨，我靜靜觀看日劇《日本第一的爛男人》，香取慎吾的演技細膩動人，恰如人生中那些被忽略的小人物，卻最能打動人心。"
 pubDate: "2025-02-26T15:04:00.000Z"
 updatedDate: "2025-02-27T03:22:18.000Z"
-heroImage: "https://images.unsplash.com/photo-1482164565953-04b62dcac1cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxsaWdodHxlbnwwfHx8fDE3NDA2MDg0MzV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/shifting-light-the-interwoven-paths-of-knowledge.jpg"
 tags: ["日記"]
 ---
 

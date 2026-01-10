@@ -3,7 +3,7 @@ title: "「感動文案撰寫技巧」課程心得：寫作不一定要靠靈感
 description: "我自己是學電影的，對於我們這一行來說，寫作腳本或拍攝時的靈感固然非常重要，但是一旦放到產業上來拍攝一部電影，常常還會需要一些調查，並且觀察目標受眾的取向，方能達到商業與文藝之間的平衡。"
 pubDate: "2022-04-09T16:34:58.000Z"
 updatedDate: "2025-01-27T02:28:46.000Z"
-heroImage: "https://images.unsplash.com/photo-1564510714747-69c3bc1fab41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE5fHxnb2FsfGVufDB8fHx8MTczNzk0NDU5N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writing-a-captivating-feature-article.jpg"
 tags: ["寫作"]
 ---
 

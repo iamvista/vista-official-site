@@ -3,7 +3,7 @@ title: "如何建立有效的寫作流程"
 description: "寫作的時候光是描述場景或交代細節還不夠，我們更需要多花些心思對讀者說出內心的感覺。舉例來說，您應該清楚地說明為何要寫這個主題？以及讀者為何需要在此刻閱讀您的文章？當您在向目標受眾表達此篇文章的重要性時，除了可以使用視覺元素來輔助說明，也可善用數據或專家證言來加強說服的力道。"
 pubDate: "2023-01-10T20:32:12.000Z"
 updatedDate: "2025-02-01T00:36:54.000Z"
-heroImage: "https://images.unsplash.com/photo-1531256379416-9f000e90aacc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxub3RlfGVufDB8fHx8MTczNzg4NjAwMnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/effective-writing-process.jpg"
 tags: []
 ---
 

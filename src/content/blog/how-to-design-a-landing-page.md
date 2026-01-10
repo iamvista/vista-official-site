@@ -3,7 +3,7 @@ title: "設計數位銷售頁，一圖勝千文"
 description: ""
 pubDate: "2022-08-14T14:18:04.000Z"
 updatedDate: "2025-02-01T03:42:39.000Z"
-heroImage: "https://images.unsplash.com/photo-1580828343064-fde4fc206bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNlbGxpbmd8ZW58MHx8fHwxNzM4MzI0ODMyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-design-a-landing-page.jpg"
 tags: ["內容行銷"]
 ---
 

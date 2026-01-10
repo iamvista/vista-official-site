@@ -3,7 +3,7 @@ title: "活用標題元素，寫出讓人過目不忘的好文章"
 description: "下標，誠然是一門大學問。在跟大家分享下標技巧之前，我認為更重要的，其實是您該用什麼視角和心態來看待呢？是為了流量的考量而急切地「蹭」熱點？還是很真誠地想要跟大家分享有趣的觀點呢？"
 pubDate: "2022-09-09T15:47:55.000Z"
 updatedDate: "2025-02-01T00:41:31.000Z"
-heroImage: "https://images.unsplash.com/photo-1494869042583-f6c911f04b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGV5ZXN8ZW58MHx8fHwxNzM3ODQ5NTAxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-a-great-headline.jpg"
 tags: ["寫作"]
 ---
 

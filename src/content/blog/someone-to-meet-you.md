@@ -3,7 +3,7 @@ title: "寫作，讓你跟你的讀者相遇"
 description: ""
 pubDate: "2022-10-27T17:09:58.000Z"
 updatedDate: "2025-02-01T00:40:04.000Z"
-heroImage: "https://images.unsplash.com/photo-1738240506194-9964c864b684?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8YWxsfDN8fHx8fHx8fDE3MzgzNzAwNjl8&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/someone-to-meet-you.jpg"
 tags: ["寫作"]
 ---
 

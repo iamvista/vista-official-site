@@ -3,7 +3,7 @@ title: "如何寫出吸睛的商品文案"
 description: "在瞭解了潛在顧客的困擾與需求之後，就可順勢帶出我們所提供的解決方案，並且要記得在商品文案中強調購買、使用之後可以帶來的具體利益。如此一來，才能強化目標受眾的動機與信任關係。"
 pubDate: "2023-01-12T22:41:39.000Z"
 updatedDate: "2025-02-01T00:38:03.000Z"
-heroImage: "https://images.unsplash.com/photo-1614332625575-6bef549fcc7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNvcHl8ZW58MHx8fHwxNzM3ODg3MzA1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/eye-catching-copywriting.jpg"
 tags: []
 ---
 

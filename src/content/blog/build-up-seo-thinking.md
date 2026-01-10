@@ -3,7 +3,7 @@ title: "運用三個階段，打造SEO思維的內容策略"
 description: "乍看之下，把內容規畫好之後然後發布應該就沒事了，但為確保內容行銷的成效及優化內容產製的流程，必須借助諸多數位工具進行測量。而測量的指標，除了基本的流量、閱覽次數和粉絲人數，也可多關注互動數、評論數和分享數等。"
 pubDate: "2025-01-26T10:57:51.000Z"
 updatedDate: "2025-01-26T10:58:35.000Z"
-heroImage: "https://images.unsplash.com/photo-1646617747566-b7e784435a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGdpcmx8ZW58MHx8fHwxNzM3ODg5MDAxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/build-up-seo-thinking.jpg"
 tags: ["SEO"]
 ---
 

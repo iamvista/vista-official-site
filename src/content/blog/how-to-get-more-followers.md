@@ -3,7 +3,7 @@ title: "《張馬力漫談》Podcast專訪：自媒體與社群經營，FB社團
 description: ""
 pubDate: "2022-04-13T22:11:52.000Z"
 updatedDate: "2025-01-30T05:35:50.000Z"
-heroImage: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGZhbnN8ZW58MHx8fHwxNzM4MjE1MjkzfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-get-more-followers.jpg"
 tags: ["自媒體"]
 ---
 

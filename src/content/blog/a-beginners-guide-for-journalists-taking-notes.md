@@ -3,7 +3,7 @@ title: "給新手記者的採訪筆記心法：如何高效捕捉關鍵資訊，
 description: "想成為一名優秀的記者，採訪時的筆記技巧至關重要。本篇文章將解析如何以終為始、有效分類資訊、轉化複雜數據，以及如何與受訪者建立信任，幫助你提升筆記效率，寫出有深度的報導。無論你是新手記者還是資深媒體人，這些心法都能讓你的採訪筆記更具價值。"
 pubDate: "2025-02-02T01:49:29.000Z"
 updatedDate: "2025-02-02T01:49:29.000Z"
-heroImage: "https://images.unsplash.com/photo-1543242594-c8bae8b9e708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHJlcG9ydGVyfGVufDB8fHx8MTczODQ1NTQ1Mnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/a-beginners-guide-for-journalists-taking-notes.jpg"
 tags: ["筆記","寫作"]
 ---
 

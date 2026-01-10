@@ -3,7 +3,7 @@ title: "逆境重生：如何在 AI 時代強化你的心理韌性，從逆商�
 description: "在當前全球政治局勢動盪、AI 技術迅速崛起的時代，我們所面臨的挑戰與不確定性比以往任何時候都來得強烈。面對這些變局，我們是否能從容應對，不僅取決於智商（IQ）或情商（EQ），而是我們的逆商（AQ）。在《強大心理韌性的逆商思維》中，逆商之父保羅・史托茲博士深入剖析如何將逆境轉化為成長動力，並提出具體可行的CO2RE模型與LEAD四步驟。這本書不僅適用於個人生活，更可作為職場經營、學術寫作、企業管理中的心態訓練指南。閱讀此書，你將學會如何控制逆境來源、承擔責任、擴大視野，並最終堅持到底，成為逆商高人，從逆境中逆襲重生。想要在變局中掌握自己的命運？這本書就是你所需要的智慧藍圖。"
 pubDate: "2025-05-08T09:12:42.000Z"
 updatedDate: "2025-05-08T10:05:46.000Z"
-heroImage: "https://images.unsplash.com/photo-1525447153550-9b38670d8fcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fG1pbmR8ZW58MHx8fHwxNzQ2Njk0NzU4fDA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/aq-resilience-mindset.jpg"
 tags: ["人工智慧","閱讀"]
 ---
 

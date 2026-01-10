@@ -3,7 +3,7 @@ title: "為什麼經營部落格很重要？就讓室內設計師來告訴您"
 description: "能夠透過文字的力量來書寫生命的故事，當然是很棒的事情！但是我又覺得，如果只是發表在自己的Facebook上，不免有些可惜；倘若可以申請或自行架設一個部落格，並且把它當成自己的主場來好好經營，我想會更好！"
 pubDate: "2022-09-13T18:39:20.000Z"
 updatedDate: "2025-02-01T15:44:06.000Z"
-heroImage: "https://images.unsplash.com/photo-1545239351-ef35f43d514b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGJsb2d8ZW58MHx8fHwxNzM3NzI2NTUwfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/why-you-should-start-a-blog.jpg"
 tags: ["寫作"]
 ---
 

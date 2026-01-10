@@ -3,7 +3,7 @@ title: "時光交錯，知識與回憶的片羽飄落"
 description: "今天的晨光透過車站的玻璃窗投射在地面，我購買三月下旬前往高雄的高鐵票。這不只是一趟旅行，而是一場知識的分享與思想的碰撞。來自學術界與企業的邀約，讓我得以將這些年來的觀察轉化為更有意義的對話。午後，我在京站與台灣人工智能產業協會理事長林立傑博士碰面，我們討論 AI 人才的培養。隨著技術的演進，教育的步伐是否跟得上變化？這場討論讓我開始思考，該如何讓知識真正地轉化為價值？傍晚，我信步走進誠品書店，意外看見一位讀者翻閱一本由我推薦的行銷書籍，於是我們展開了一場關於內容創作與 AI 變革的對話。這一天，不僅是行走在城市間的片刻，更是一場跨越過去與未來的交會。"
 pubDate: "2025-02-28T13:53:45.000Z"
 updatedDate: "2025-02-28T13:53:45.000Z"
-heroImage: "https://images.unsplash.com/photo-1624864719389-35e0a4a26bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxmZWF0aGVyfGVufDB8fHx8MTc0MDc0OTY5N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/fragments-of-time-where-knowledge-and-memories-intertwine.jpg"
 tags: []
 ---
 

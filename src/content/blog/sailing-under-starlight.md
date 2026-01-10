@@ -3,7 +3,7 @@ title: "乘著星光遠航：在變革與學習的浪潮中迎向嶄新篇章"
 description: "明天開學，我將同時迎來大學講師與博士生的雙重身份，在求知與傳授之間找到平衡。學費昂貴，不只是經濟上的壓力，更是對時間價值與學習效率的提醒。今天的重心圍繞著備課、簡報製作與論文構思，在思索如何讓新聞系的大二學生真正掌握 AI 工具的同時，也探索更深的學術議題。傍晚，與悠識數位顧問創辦人 Richard 偶遇，討論 UX 設計的市場趨勢與個人品牌經營的策略，為未來方向提供了更多啟發。夜晚則與圖解力教練邱奕霖商討知識創作講座的規劃，希望幫助學習者將知識轉化為影響力，而非單純累積資訊。"
 pubDate: "2025-02-16T14:26:50.000Z"
 updatedDate: "2025-02-16T15:19:51.000Z"
-heroImage: "https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxTdGFybGlnaHR8ZW58MHx8fHwxNzM5NzE1MDUyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/sailing-under-starlight.jpg"
 tags: ["日記"]
 ---
 

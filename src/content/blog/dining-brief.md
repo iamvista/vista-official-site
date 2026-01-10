@@ -3,7 +3,7 @@ title: "食記該怎麼寫，才能引人入勝？"
 description: "如果您想要寫一篇食記的話，建議先思考一下這兩個問題：第一，目標受眾是哪些人？第二，這次的用餐經驗帶給您最深的感觸是什麼？當您理解設定的受眾是哪些人之後，自然能夠根據這些讀者群的興趣與需求來寫作。"
 pubDate: "2022-07-10T21:58:52.000Z"
 updatedDate: "2025-01-26T01:21:57.000Z"
-heroImage: "https://images.unsplash.com/photo-1472393365320-db77a5abbecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZvb2RpZXxlbnwwfHx8fDE3Mzc4NTQ0NDd8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/dining-brief.jpg"
 tags: ["寫作"]
 ---
 

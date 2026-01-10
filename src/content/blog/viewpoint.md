@@ -3,7 +3,7 @@ title: "強迫自己做個有觀點的人"
 description: "我鼓勵大家不但要多寫文章，也要多看報紙、雜誌或部落格，去觀摩別人所撰寫的文章。當然，閱讀文章也是有一套方法的：不只是看內容本身，也要關注文章的架構、切入點以及作者真正關注的層面與言外之意；除此之外，還可以想想自己是否認同作者的觀點，或者可否提出質疑？然後，還可以再參考作者對於文章鋪陳與版面配置等細節的安排。"
 pubDate: "2023-01-09T16:13:50.000Z"
 updatedDate: "2025-02-01T00:41:19.000Z"
-heroImage: "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHZpZXd8ZW58MHx8fHwxNzM3NzMyMDA4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/viewpoint.jpg"
 tags: ["寫作"]
 ---
 

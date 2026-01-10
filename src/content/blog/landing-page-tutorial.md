@@ -3,7 +3,7 @@ title: "Landing Page 入門指南：掌握必勝關鍵，讓你的網路行銷�
 description: "銷售頁，也就是大家時常在電商或行銷場合中聽到的Landing page。在網路行銷的領域之中，銷售頁可說是一個重要的角色。有的時候，也被稱為「著陸頁」或「名單搜集頁面」，就是當潛在用戶點擊廣告或者利用搜尋引擎搜尋之後顯示給用戶的網頁。一般而言，這個頁面會顯示和所點擊廣告或搜尋結果連結相關的擴展內容，而且這個頁面應該是針對某個關鍵字做過搜尋引擎優化的。"
 pubDate: "2025-02-01T14:18:54.000Z"
 updatedDate: "2025-02-01T14:28:28.000Z"
-heroImage: "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGxhbmRpbmclMjBwYWdlfGVufDB8fHx8MTczODM4MTgyOXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/landing-page-tutorial.jpg"
 tags: ["內容行銷"]
 ---
 

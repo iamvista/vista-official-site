@@ -3,7 +3,7 @@ title: "把握五個方向，寫出吸引人的商品文案"
 description: "舉例來說，如果貴公司想要推出一款很特別的單品咖啡豆。那麼，商品文案該怎麼寫呢？除了載明產地、原料和價格之外，首先可能要先解釋一下何謂單品咖啡？和綜合咖啡又有哪些差別呢？除此之外，貴公司的這款新單品咖啡豆，還有哪些獨特之處呢？"
 pubDate: "2025-01-26T07:57:48.000Z"
 updatedDate: "2025-01-31T14:01:24.000Z"
-heroImage: "https://images.unsplash.com/photo-1564327367919-cb377ea6a88f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ4fHxjYWZlfGVufDB8fHx8MTczNzg3Nzk3MXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/product-copywriting.jpg"
 tags: ["寫作"]
 ---
 

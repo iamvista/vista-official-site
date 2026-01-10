@@ -3,7 +3,7 @@ title: "什麼時候寫作，最有靈感？"
 description: "寫作是很私人的事情。倘若你是一個晝伏夜出的夜貓子，那麼，想當然耳在夜深人靜的時候，最容易寫出精彩的篇章。話說回來，如果你是晨型人的話，那麼選擇在清晨時分進行創作，自然最有可能看到靈感來敲門。"
 pubDate: "2025-01-24T04:21:28.000Z"
 updatedDate: "2025-02-01T00:41:09.000Z"
-heroImage: "https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1hYyUyMHdyaXRpbmclMjBnaXJsfGVufDB8fHx8MTczNzY5MjQyMnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/when-inspiration-sparks.jpg"
 tags: ["寫作"]
 ---
 

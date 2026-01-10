@@ -3,7 +3,7 @@ title: "IC之音《科技領航家》專訪：NFT玩家愛用社群軟體！Disc
 description: ""
 pubDate: "2022-04-13T17:26:03.000Z"
 updatedDate: "2025-01-30T05:47:51.000Z"
-heroImage: "https://images.unsplash.com/photo-1636487658549-0ba2cef1cb9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxkaXNjb3JkfGVufDB8fHx8MTczODIxNTk5NXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/why-you-should-use-discord.jpg"
 tags: ["日記"]
 ---
 

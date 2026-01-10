@@ -3,7 +3,7 @@ title: "Coming soon"
 description: ""
 pubDate: "2025-01-24T00:00:29.000Z"
 updatedDate: "2025-01-25T03:33:13.000Z"
-heroImage: "https://static.ghost.org/v4.0.0/images/feature-image.jpg"
+heroImage: "/images/blog/coming-soon.jpg"
 tags: []
 ---
 

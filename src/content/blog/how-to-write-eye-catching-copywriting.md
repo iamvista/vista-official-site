@@ -3,7 +3,7 @@ title: "如何寫出吸睛的商品文案？"
 description: "看完這份厲害的商品文案，也讓我統整一下自己對於文案撰寫的一些想法。我建議大家在開始撰寫商品文案之前，最好能先思考一下目標受眾的需求以及貴公司可以協助解決哪些問題？"
 pubDate: "2022-04-07T21:21:22.000Z"
 updatedDate: "2025-01-25T09:28:09.000Z"
-heroImage: "https://images.unsplash.com/photo-1486649567693-aaa9b2e59385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGV5ZSUyMGNhdGhjaW5nJTIwfGVufDB8fHx8MTczNzc5NzEzNHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-eye-catching-copywriting.jpg"
 tags: ["寫作"]
 ---
 

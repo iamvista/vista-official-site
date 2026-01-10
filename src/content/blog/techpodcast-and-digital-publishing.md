@@ -3,7 +3,7 @@ title: "「出版進行曲—2021數位出版的趨勢與衝擊」講座：《T�
 description: "簡單來說，《T客播 TechPodcast》是採取預錄方式進行，以輕鬆對談的方式來傳遞內容，並給予聽眾關鍵字，以便迅速掌握該集節目的重點。定時上架，對於養成聽眾的收聽習慣也會有很大的幫助，每一集節目的長度不短於十五分鐘，但有時也會聊超過一個小時。"
 pubDate: "2022-04-24T20:56:48.000Z"
 updatedDate: "2025-01-26T03:04:32.000Z"
-heroImage: "https://images.unsplash.com/photo-1589903308904-1010c2294adc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHBvZGNhc3R8ZW58MHx8fHwxNzM3ODYwNTgxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/techpodcast-and-digital-publishing.jpg"
 tags: []
 ---
 

@@ -3,7 +3,7 @@ title: "善用 OGSTM 策略工具，構建行動藍圖"
 description: "在全球局勢詭譎多變的時代，企業面臨前所未有的挑戰與轉型壓力。《經濟日報》專欄作家鄭緯筌介紹一套實用且具系統性的策略工具——OGSTM。這個由 Objective、Goal、Strategy、Tactics 與 Measurement 構成的五步驟模型，能協助企業明確訂定方向、層層拆解行動方案，並建立橫向對話與垂直共識的橋樑。透過具體案例解析，本篇文章揭示 OGSTM 如何成為企業領導者推動組織溝通與敏捷決策的關鍵利器，打造真正能落地的行動藍圖。"
 pubDate: "2025-06-08T08:51:02.000Z"
 updatedDate: "2025-06-08T08:51:02.000Z"
-heroImage: "https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fHN0cmF0ZWd5fGVufDB8fHx8MTc0OTM3MjIwOHww&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/ogstm-strategy-framework-action-plan.jpg"
 tags: ["職涯"]
 ---
 

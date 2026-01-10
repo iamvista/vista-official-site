@@ -3,7 +3,7 @@ title: "從知識的流動，到人生的積累"
 description: "今天，是一場關於學習、適應與流動的旅程。清晨，與企業主的對話開啟了一場未來的 AI 講座機會，提醒著我，生成式 AI 不只是潮流，而是企業與職場提升競爭力的必要工具。母親回診順利，讓我更加珍惜健康這筆最重要的財富，而自己跌倒後終於能夠恢復超慢跑，則象徵著耐心與堅持終究會帶來回報。午後，學術與寫作的雙重壓力浮現，但新書即將出版的消息，讓我確信，當知識與影響力能夠流動，它才能真正發揮價值。今天抽到的魚牌，意味著財富、能量與情感的自由流動，這不僅是金錢的象徵，更是生命動能的體現。在知識、關係、資源之間建立橋樑，讓它們流動起來，才是創造未來最強大的力量。"
 pubDate: "2025-02-13T13:56:17.000Z"
 updatedDate: "2025-02-13T13:57:05.000Z"
-heroImage: "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGZsb3d8ZW58MHx8fHwxNzM5NDU1MDE4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/finding-strength-in-change.jpg"
 tags: ["日記"]
 ---
 

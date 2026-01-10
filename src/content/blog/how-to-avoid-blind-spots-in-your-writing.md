@@ -3,7 +3,7 @@ title: "寫作的三個盲點，你遇到幾個呢"
 description: "其實，以我們大多數人時常涉獵的職場寫作來說，不管是要達到銷售、說服等目的，終究必須與人溝通，要讓對方能夠迅速理解我們內心的想法。職場寫作有別於文學創作，重點在於爭取認同與共鳴，所以你真的沒有必要把生活或工作場景中所遇到的寫作需求，都當成作文比賽來看待哦！"
 pubDate: "2022-05-20T13:11:44.000Z"
 updatedDate: "2025-01-26T01:24:12.000Z"
-heroImage: "https://images.unsplash.com/photo-1512799906445-d591d53082c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGJsaW5kfGVufDB8fHx8MTczNzg1NDU2MHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-avoid-blind-spots-in-your-writing.jpg"
 tags: ["寫作"]
 ---
 

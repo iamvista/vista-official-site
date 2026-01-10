@@ -3,7 +3,7 @@ title: "用故事包裝事實吸引消費者：向 BBC 專業故事團隊學內�
 description: "當行銷核心從廣告拉回到內容之際，故事行銷（Story Marketing）再度受到業界的高度重視。其實，說故事和行銷本來就是一體兩面，可以視為是相輔相成的事情。妥善運用說故事的技術和方式，不但能讓社會大眾容易理解，更願意接受企業所傳播的資訊，自然也有助於業者和人們建立長期的信任關係。"
 pubDate: "2022-07-30T13:26:27.000Z"
 updatedDate: "2025-02-01T00:40:48.000Z"
-heroImage: "https://images.unsplash.com/photo-1566584165233-023d7f749655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGJiY3xlbnwwfHx8fDE3Mzc4MTY2MzJ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/bbc-storytelling.jpg"
 tags: ["內容行銷"]
 ---
 

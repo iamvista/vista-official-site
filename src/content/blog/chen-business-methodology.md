@@ -3,7 +3,7 @@ title: "陳宗賢的經營方法論：從數據決策到團隊管理的全方位
 description: "在當前競爭激烈的商業環境中，企業的成功不僅取決於產品或服務的優越性，更依賴於精準的策略規劃、有效的團隊管理以及合理的績效評估。陳宗賢老師以其豐富的企業經營經驗，分享了一系列獨特的經營方法論，涵蓋市場機會的發掘、組織管理的變革、績效考核的創新，以及企業文化的塑造。這篇文章將深入探討其核心觀點，幫助企業主與管理者建立更具競爭力的商業模式。"
 pubDate: "2025-03-05T15:29:11.000Z"
 updatedDate: "2025-03-06T07:31:35.000Z"
-heroImage: "https://images.unsplash.com/photo-1665686308827-eb62e4f6604d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGJ1c2luZXNzfGVufDB8fHx8MTc0MTE3ODg1M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/chen-business-methodology.jpg"
 tags: ["創業","職涯"]
 ---
 

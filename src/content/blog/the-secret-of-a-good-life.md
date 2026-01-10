@@ -3,7 +3,7 @@ title: "如何讓自己命變好？三個圓的交集，才是人生真正的富
 description: "當別人問我：「Vista，你怎麼做到讓喜歡的事、擅長的事、有錢拿的事三者合一？」我常說：這不是一蹴可幾，而是一場長期的佈局與調和。而我之所以能逐步靠近這個理想交集，其實倚賴三個關鍵：AI 工具的善用、專業的持續精進，以及人生選擇的主動鍛鍊。"
 pubDate: "2025-05-27T12:45:50.000Z"
 updatedDate: "2025-05-27T12:56:11.000Z"
-heroImage: "https://images.unsplash.com/photo-1482849297070-f4fae2173efe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNtaWxlJTIwZ2lybHxlbnwwfHx8fDE3NDgzNDI4MzB8MA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/the-secret-of-a-good-life.jpg"
 tags: ["個人品牌","職涯"]
 ---
 

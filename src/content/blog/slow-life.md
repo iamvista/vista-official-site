@@ -3,7 +3,7 @@ title: "慢步人生"
 description: "一路走來，我特別感恩那些關懷與支援：媽媽的貼心照料、親友的問候鼓勵，以及自己在放慢步伐後重新審視的人生。或許我們常常嚮往「健步如飛」的效率，卻忘了「慢步」也有它的好處——你能看清更多細節，感受更多溫暖，也擁有更多思考與自省的空間。"
 pubDate: "2025-01-30T12:50:31.000Z"
 updatedDate: "2025-01-31T02:13:32.000Z"
-heroImage: "https://images.unsplash.com/photo-1524071556455-5773dff8256d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHx3YWxrfGVufDB8fHx8MTczODIzOTY5NXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/slow-life.jpg"
 tags: ["日記"]
 ---
 

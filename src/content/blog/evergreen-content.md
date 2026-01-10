@@ -3,7 +3,7 @@ title: "打造長青內容，發揮內容行銷影響力"
 description: "大多數的資訊可能只有短短幾天的保鮮期，就像拜登當選美國總統或是振興三倍券發放的新聞，可能幾天之後大家就不關心了。但是長青內容的意義非凡，發布之後就一直很重要，並會隨著搜尋量的增加而持續導引客群。"
 pubDate: "2022-11-14T20:31:36.000Z"
 updatedDate: "2025-01-26T10:49:10.000Z"
-heroImage: "https://images.unsplash.com/photo-1491146179969-d674118945ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxldmVyZ3JlZW58ZW58MHx8fHwxNzM3ODg4NDcwfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/evergreen-content.jpg"
 tags: ["內容行銷"]
 ---
 

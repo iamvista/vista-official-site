@@ -3,7 +3,7 @@ title: "當 AI 成為寫作助手：我的真實體驗與未來展望"
 description: "AI 能替代人類寫作嗎？作為一名專業的寫作教練，我想跟大家分享自己與 AI 共舞的真實旅程：除了探討如何在保持創作靈魂的同時善用AI工具，也希望可以幫助品牌在內容洪流中脫穎而出，並為未來寫作者提供明確的價值定位與發展路徑。"
 pubDate: "2025-03-01T14:08:17.000Z"
 updatedDate: "2025-03-01T14:41:56.000Z"
-heroImage: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGFpJTIwd3JpdGluZ3xlbnwwfHx8fDE3NDA4MzcwNjB8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/when-ai-becomes-a-writing-partner.jpg"
 tags: ["人工智慧","寫作"]
 ---
 

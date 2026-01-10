@@ -3,7 +3,7 @@ title: "新起點的燦爛晨光：在知識與連結中迎向更遼闊的世界
 description: "今天，是一個意義非凡的開學日，不僅是課堂的啟程，更是新挑戰的序幕。清晨，當我步入教室，以為自己會是最早到的人，卻意外遇見了一位來自山東煙台大學的交換生，他的專注與學習熱忱，讓我對這學期的教學充滿期待。知識的傳遞，不僅是講者與聽者的關係，更是一場心靈與智慧的共鳴。下午，與指導教授商討第二場資格考的準備事宜，獲得許多寶貴建議，讓我更有信心迎戰五月的硬仗。傍晚，收到明志科大寄來的學術期刊，翻開頁面，看見自己論文的文字被正式收錄，內心滿是感恩。這一天，從教學、學術研究到家庭陪伴，每一刻都在提醒我：真正的成長，來自於學習、分享與深刻的連結。"
 pubDate: "2025-02-17T13:52:41.000Z"
 updatedDate: "2025-02-17T14:06:21.000Z"
-heroImage: "https://images.unsplash.com/photo-1462363634827-0734e51f24c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxSYWRpYW50JTIwfGVufDB8fHx8MTczOTc5OTc5OHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/a-radiant-new-beginning.jpg"
 tags: ["日記"]
 ---
 

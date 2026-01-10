@@ -3,7 +3,7 @@ title: "時間不等人，但康復需要時間"
 description: "今天，是學習與適應的一天。從第一次幫母親換藥，到親自跑醫院檢查腳傷，身體逐漸康復的同時，也體會到照護的責任與耐心。等待的過程漫長，但獲得心安；腳步仍受限制，但開始想念走路的日子。而生活中，那些小小的進步——新手機的升級、朋友們加入共學社群、母親的健康改善——都在提醒著我，儘管事情不會總是按計劃前進，但每個努力適應與學習的時刻，都是前進的證明。時間不等人，而我們所能做的，就是珍惜每一天，在康復與成長的路上，穩步向前。"
 pubDate: "2025-02-10T14:56:11.000Z"
 updatedDate: "2025-02-10T15:08:11.000Z"
-heroImage: "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHRpbWV8ZW58MHx8fHwxNzM5MTk5Mjc2fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/time-waits-for-no-one.jpg"
 tags: ["日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "爸爸的靈感筆記"
 description: "說來莞爾，提起靈感這件事，我不但沒有靈感枯竭的問題，在創作的時候也並不依賴靈感。但是，因為工作的關係，我時常在課堂上跟學員們介紹有關培養靈感的方法，長久以來，也總以擁有豐沛的靈感自豪。"
 pubDate: "2025-02-02T02:08:10.000Z"
 updatedDate: "2025-02-02T02:16:20.000Z"
-heroImage: "https://images.unsplash.com/photo-1611934180042-da791b4091e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGluc3BpcmluZ3xlbnwwfHx8fDE3Mzg0NjE1ODJ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/inspiring-notes-from-dad.jpg"
 tags: ["筆記"]
 ---
 

@@ -3,7 +3,7 @@ title: "善用LINE多元行銷，有效傳達資訊"
 description: ""
 pubDate: "2022-08-30T22:32:20.000Z"
 updatedDate: "2025-01-30T05:56:19.000Z"
-heroImage: "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGNvbW11bnxlbnwwfHx8fDE3MzgyMTY0ODd8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/line-application-marketing-strategy.jpg"
 tags: ["內容行銷"]
 ---
 

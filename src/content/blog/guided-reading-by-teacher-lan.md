@@ -3,7 +3,7 @@ title: "跟著藍老師一起讀好書：《文案力就是你的鈔能力》"
 description: ""
 pubDate: "2022-10-29T09:42:12.000Z"
 updatedDate: "2025-01-30T06:17:07.000Z"
-heroImage: "https://images.unsplash.com/photo-1515325915697-9279b4f7effc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNvcHl8ZW58MHx8fHwxNzM4MjE3NjUwfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/guided-reading-by-teacher-lan.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "我看《刪到只剩二十字》：與其妙筆生花，不如淺顯易
 description: "作者提醒我們，善用邏輯思考說故事，將重要的訊息精簡到二十字以內，才是促成目標對象採取行動的關鍵。"
 pubDate: "2025-01-25T13:59:53.000Z"
 updatedDate: "2025-01-25T14:00:42.000Z"
-heroImage: "https://images.unsplash.com/photo-1520763185298-1b434c919102?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxmbG93ZXJ8ZW58MHx8fHwxNzM3ODEzMzcxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/strong-business-writing.jpg"
 tags: ["寫作"]
 ---
 

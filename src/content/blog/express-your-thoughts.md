@@ -3,7 +3,7 @@ title: "勇於表達觀點，讓文章擲地有聲"
 description: "有人曾問過我：「老師，那如果我寫的文章不夠周延，怎麼辦？」嗯，萬一真的說錯了，或是表達不夠完整，其實也不用太擔心啦！只要我們能夠勇敢道歉，並且儘快修正自己的言論或文章也就好了。"
 pubDate: "2025-01-25T09:09:35.000Z"
 updatedDate: "2025-01-31T13:35:24.000Z"
-heroImage: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHRob3VnaHR8ZW58MHx8fHwxNzM3Nzk2MDM0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/express-your-thoughts.jpg"
 tags: ["寫作"]
 ---
 

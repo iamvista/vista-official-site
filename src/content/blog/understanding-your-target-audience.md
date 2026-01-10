@@ -3,7 +3,7 @@ title: "寫出好文案，從理解目標受眾開始"
 description: "我曾看過很多商家所寫的商品文案，上頭寫了密密麻麻的功能、規格和特色，價格看起來也很合理，但成效卻不理想。仔細想想，這是為什麼呢？道理很簡單，因為這些文案並沒有鎖定明確的目標受眾，也並未使用他們所慣用的語言來溝通⋯⋯如此一來，自然也無法激發共鳴。"
 pubDate: "2025-01-26T08:57:12.000Z"
 updatedDate: "2025-02-01T00:42:10.000Z"
-heroImage: "https://images.unsplash.com/photo-1550633600-4cfc6929e592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI5fHxhdWRpZW5jZXxlbnwwfHx8fDE3Mzc4Nzk0MDF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/understanding-your-target-audience.jpg"
 tags: ["寫作","內容行銷"]
 ---
 

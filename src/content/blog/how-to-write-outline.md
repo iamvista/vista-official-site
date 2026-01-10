@@ -3,7 +3,7 @@ title: "寫作前是否要先擬定大綱？"
 description: "撰寫大綱的目的是為了幫助我們確立目標與方向。所以，我也建議大家不要拘泥於大綱的形式與細節，以免浪費太多時間。有的時候如果沒有太多時間擬定大綱，先在內心簡單地構思一遍流程，其實也是很好的做法。正所謂「凡事豫則立，不豫則廢」，就讓我們做最好的準備吧！"
 pubDate: "2022-11-05T14:10:04.000Z"
 updatedDate: "2025-01-25T03:35:28.000Z"
-heroImage: "https://images.unsplash.com/photo-1586281380923-93c9b0a7296e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHB1Ymxpc2hlcnxlbnwwfHx8fDE3Mzc3NzYwMzV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-outline.jpg"
 tags: ["寫作"]
 ---
 

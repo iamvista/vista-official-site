@@ -3,7 +3,7 @@ title: "2025年社群價值的進化關鍵：不是你發了什麼文，而是�
 description: "進入2025年，社群媒體的角色早已不只是「發文」或「曝光」這麼簡單。對真正懂得經營的人而言，它是一套從信任培養到數據資本、從用戶參與到 AI 優化的價值系統。你可以選擇每天發十篇內容，但卻沒有留下任何深度關係；也可以設計一個社群節奏，讓用戶自願參與、分享、甚至與你共創產品與品牌願景。本文不是在教你如何蹭熱點，而是帶你重新認識社群的底層價值架構。我們將深入拆解無印良品如何以沉靜之姿建立信任、Pinkoi 如何從互動行為萃取資料資本、Canva 如何讓創作者成為內容生產者，以及 Lancôme 如何用 AI 智慧推動轉換流程。這不是社群的未來，而是現在正在發生的進化。"
 pubDate: "2025-05-07T08:33:14.000Z"
 updatedDate: "2025-05-07T09:01:11.000Z"
-heroImage: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHNvY2lhbHxlbnwwfHx8fDE3NDY1NzIyNzN8MA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/redefine-social-media-value-2025.jpg"
 tags: ["人工智慧","社群行銷"]
 ---
 

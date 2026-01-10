@@ -3,7 +3,7 @@ title: "在風的流轉中尋找答案：AI、學術與人際的細膩交會"
 description: "中午與大表姐相約，邊享用咖哩飯，邊熱烈討論 AI 的應用，我向她介紹了 Perplexity 的 Deep Research 與史丹佛大學的 STORM，這些技術如何改變學術寫作與職場效率，讓她驚嘆不已。午後，獨自坐在咖啡館裡搜尋論文資料，翻閱參考文獻的同時，思緒也隨著窗外人來人往的身影飄散。AI 的進步，讓研究變得更快速，但人際關係的拿捏，仍需細膩的觀察與體會。傍晚，收到世新大學口傳系的通知，我投稿至 2025「@ AI: 顛覆或鞏固傳播研究」研討會的論文正式被接受，這讓我感到興奮與欣慰，也提醒自己，這條學術之路仍有無限可能。"
 pubDate: "2025-02-19T14:34:02.000Z"
 updatedDate: "2025-02-19T14:40:55.000Z"
-heroImage: "https://images.unsplash.com/photo-1505459668311-8dfac7952bf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMxfHxmbG93fGVufDB8fHx8MTczOTk3NDcwMnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-interplay-of-ai.jpg"
 tags: ["日記","人工智慧"]
 ---
 

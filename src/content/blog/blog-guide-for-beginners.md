@@ -3,7 +3,7 @@ title: "給新手的部落格經營指南"
 description: "我建議您在寫文章的時候，請不要興之所至，就天南地北亂寫一通。適當地做一下市場區隔和主題分類，還是很有必要的。有些主題如果已經成為一片紅海，建議您不妨考慮另闢蹊徑？或者，也可嘗試再切分細一點的主題？"
 pubDate: "2022-08-01T23:33:59.000Z"
 updatedDate: "2025-01-31T14:01:14.000Z"
-heroImage: "https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxibG9nfGVufDB8fHx8MTczNzcyNjU1MHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/blog-guide-for-beginners.jpg"
 tags: ["自媒體","寫作"]
 ---
 

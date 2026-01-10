@@ -3,7 +3,7 @@ title: "推動內容行銷，先從打造支柱內容開始"
 description: "什麼是支柱內容呢？簡單來說，就是專注提供特定領域主題（好比：旅遊、居家修繕、網路服務等）的有用資訊，當潛在客戶搜尋相關問題時，可以提供完整的解決方案。換句話說，一個好的支柱內容頁面必須提供高品質的內容，像是完整的指南，並且包含大量內容，以便搜尋引擎爬蟲進行索引。"
 pubDate: "2022-04-10T19:18:53.000Z"
 updatedDate: "2025-01-25T09:51:49.000Z"
-heroImage: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fG1hcmtldGluZ3xlbnwwfHx8fDE3Mzc3OTg2MjF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-create-pillar-content.jpg"
 tags: ["內容行銷","寫作"]
 ---
 

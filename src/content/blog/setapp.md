@@ -3,7 +3,7 @@ title: "Mac 高手的祕密武器？揭開 Setapp 一次搞定所有軟體的神
 description: "你是否曾在 Mac 上安裝了滿滿軟體，卻還是搞得手忙腳亂？讓我帶你揭開 Setapp 的秘密，告訴你如何一次訂閱，統整多款強大的工具，既省金錢又省時間！"
 pubDate: "2025-01-31T00:21:24.000Z"
 updatedDate: "2025-01-31T02:13:13.000Z"
-heroImage: "https://images.unsplash.com/photo-1501163268664-3fdf329d019f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fG1hY2Jvb2t8ZW58MHx8fHwxNzM4MjgyMTIyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/setapp.jpg"
 tags: ["職涯","軟體"]
 ---
 

@@ -3,7 +3,7 @@ title: "我讀《原始碼：成為比爾・蓋茲》——從天才少年到改
 description: "比爾・蓋茲的童年不是傳說中的「天才起點」，而是一連串深思熟慮的決策與偶然機遇交錯出的成長軌跡。他沉浸在書本中，學會如何用閱讀理解世界；他與夥伴在破舊的電腦教室裡瘋狂敲擊鍵盤，磨練程式設計的技巧；他在家庭的嚴厲與自由之間摸索，培養出一種無所畏懼的專注力與競爭精神。當大多數人還在等待機會降臨，他已經在思考下一步該怎麼走。他相信，只要用腦思考，答案一定存在。這種對問題解決的執著，讓他從一個熱愛數學與邏輯的小男孩，成為改變世界的科技巨擘。"
 pubDate: "2025-02-19T00:48:59.000Z"
 updatedDate: "2025-02-19T14:56:11.000Z"
-heroImage: "https://images.unsplash.com/photo-1570063578733-6a33b69d1439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fG1pY3Jvc29mdHxlbnwwfHx8fDE3Mzk5MjYwOTF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/bill-gates-source-code.jpg"
 tags: ["閱讀"]
 ---
 

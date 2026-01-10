@@ -3,7 +3,7 @@ title: "掌握三個原則，幫你快速寫好文章"
 description: "寫作對我來說，幾乎是不假思索就可以完成的事情。但我赫然發現，對某些朋友來說卻不是這麼一回事。他們寫一篇商品文案或部落格文章，動輒就要花上兩、三個小時⋯⋯甚至要花上大半天！"
 pubDate: "2022-04-21T19:10:26.000Z"
 updatedDate: "2025-01-25T23:54:24.000Z"
-heroImage: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQxfHxwZW4lMjB3cml0aW5nfGVufDB8fHx8MTczNzg0ODk1Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-faster.jpg"
 tags: ["寫作"]
 ---
 

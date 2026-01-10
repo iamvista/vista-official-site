@@ -3,7 +3,7 @@ title: "如何提升寫作能力？"
 description: "其實，大家用不著擔心自己腹笥甚窘，也無須使用太多優美的詞彙，一開始先練習如何通順的表達自己的想法和觀點就可以了。就像得體的發言也有很多技巧一樣，別以為寫作只是「我手寫我口」，唯有透過閱讀和寫作雙管齊下的練習，方能精進寫作能力！"
 pubDate: "2025-01-26T07:40:28.000Z"
 updatedDate: "2025-02-01T00:38:19.000Z"
-heroImage: "https://images.unsplash.com/photo-1550327149-f5aef60d38f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI0fHx3cml0aW5nfGVufDB8fHx8MTczNzc4NzYyM3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/improve-your-writing.jpg"
 tags: ["寫作"]
 ---
 

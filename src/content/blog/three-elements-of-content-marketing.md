@@ -3,7 +3,7 @@ title: "行銷關鍵三要素，抓住受眾眼球"
 description: ""
 pubDate: "2022-11-07T23:12:05.000Z"
 updatedDate: "2025-01-30T04:42:21.000Z"
-heroImage: "https://images.unsplash.com/photo-1494869042583-f6c911f04b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGV5ZXxlbnwwfHx8fDE3MzgyMTE5OTR8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/three-elements-of-content-marketing.jpg"
 tags: ["內容行銷"]
 ---
 

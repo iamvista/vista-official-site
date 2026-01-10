@@ -3,7 +3,7 @@ title: "運用網路研討會，創造多元行銷管道"
 description: ""
 pubDate: "2022-08-08T21:42:17.000Z"
 updatedDate: "2025-02-01T00:38:48.000Z"
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHdlYmluYXJ8ZW58MHx8fHwxNzM4MjE2MzA5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/webinar-marketing.jpg"
 tags: ["內容行銷"]
 ---
 

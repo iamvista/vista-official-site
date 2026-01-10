@@ -3,7 +3,7 @@ title: "如何快速做好聽講筆記"
 description: "很多人做筆記，總會花很多時間挑選文具，或是很在意格式與字跡美醜等等，其實這些都不是最重要的部分。畢竟，撰寫聽講筆記或心得文章的初衷，還是為了自我學習與成長。"
 pubDate: "2023-06-03T11:21:29.000Z"
 updatedDate: "2025-01-31T13:35:34.000Z"
-heroImage: "https://images.unsplash.com/photo-1531256379416-9f000e90aacc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxub3RlfGVufDB8fHx8MTczNzg4NjAwMnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/quick-and-efficient-note-taking.jpg"
 tags: ["筆記"]
 ---
 

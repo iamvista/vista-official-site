@@ -3,7 +3,7 @@ title: "善用求知心、好奇心與同理心，寫出吸睛的演講心得、
 description: "也許是因為以前當過記者，我對於這類的準備功課還算駕輕就熟。我也建議大家，如果有空的話可以先針對活動、講座先做一番準備，這樣寫起文章或演講心得自然能夠旁徵博引，也可以寫出不同於其他人的視角。"
 pubDate: "2022-07-17T23:20:35.000Z"
 updatedDate: "2025-01-26T01:19:29.000Z"
-heroImage: "https://images.unsplash.com/photo-1581103811533-345671cd131b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGF0bHN8ZW58MHx8fHwxNzM3ODU0Mjg1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/speech-reflection.jpg"
 tags: ["寫作"]
 ---
 

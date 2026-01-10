@@ -3,7 +3,7 @@ title: "你會用 AI 寫作嗎"
 description: "如何用 AI 提升寫作效率？關鍵在於精準提問！ AI 不是搜尋引擎，而是你的創作夥伴。透過角色設定、背景敘述與明確輸出需求，你可以讓 AI 產生更具價值的內容。本篇文章深入解析 AI 提問技巧，從深津式提問框架到個人化 AI 應用，幫助你提升寫作效率、優化內容創作策略，讓 AI 成為你的創意助力！"
 pubDate: "2025-02-01T16:20:21.000Z"
 updatedDate: "2025-02-01T16:33:30.000Z"
-heroImage: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGFpJTIwd3JpdGluZ3xlbnwwfHx8fDE3Mzg0MjY0NDZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/write-with-ai.jpg"
 tags: ["人工智慧","寫作"]
 ---
 

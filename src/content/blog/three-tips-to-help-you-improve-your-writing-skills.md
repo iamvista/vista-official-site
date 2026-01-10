@@ -3,7 +3,7 @@ title: "提升寫作技巧的三種能力"
 description: "別把寫作技巧想得太複雜或神聖了，其實只要加強自己的輸出能力、思考能力和解決問題的能力，再加上大量的實作練習，自然就會進步了！"
 pubDate: "2022-08-04T18:03:13.000Z"
 updatedDate: "2025-01-26T01:04:02.000Z"
-heroImage: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHNraWxsfGVufDB8fHx8MTczNzg1MzM3Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/three-tips-to-help-you-improve-your-writing-skills.jpg"
 tags: ["寫作"]
 ---
 

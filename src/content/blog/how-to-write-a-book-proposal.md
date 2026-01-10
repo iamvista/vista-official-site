@@ -3,7 +3,7 @@ title: "如何向出版社提案一次就成功？"
 description: "對於有志出版個人著作的朋友來說，呂總編輯提醒大家要「找對伯樂」。以圖書出版的類型來說，可約略分為：教科書、專業書籍、大眾、綜合型、文字書以及生活圖文書等等，而每個出版社的強項都不盡相同，所以大家在跟出版社提案之前務必要事先做好功課。"
 pubDate: "2022-11-15T16:16:26.000Z"
 updatedDate: "2025-01-27T02:08:16.000Z"
-heroImage: "https://images.unsplash.com/photo-1572028629184-6ecbfc2fcb86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxwdWJsaXNoaW5nfGVufDB8fHx8MTczNzc3NTcyMXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-a-book-proposal.jpg"
 tags: ["提案"]
 ---
 

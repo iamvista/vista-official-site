@@ -3,7 +3,7 @@ title: "「文案策略：開啟你的寫作新旅程」聽講心得：歸零學
 description: ""
 pubDate: "2023-05-22T17:54:11.000Z"
 updatedDate: "2025-01-31T14:04:57.000Z"
-heroImage: "https://images.unsplash.com/photo-1447968954315-3f0c44f7313c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxzdG9yeXxlbnwwfHx8fDE3MzgyODAzMzZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-tell-a-story-effectively.jpg"
 tags: ["寫作"]
 ---
 

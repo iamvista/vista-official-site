@@ -3,7 +3,7 @@ title: "踏出舒適圈，挑戰更多元的寫作型態與風格"
 description: "心理學家認為說故事可以強化認知，使自己融入周遭，設計多種對策，應付變動的環境；而聽故事的人則可以了解別人，探討別人的內心深處，吸取經驗，進而產生共鳴。"
 pubDate: "2025-01-26T08:10:46.000Z"
 updatedDate: "2025-01-31T13:35:15.000Z"
-heroImage: "https://images.unsplash.com/photo-1572075304903-a2dd9c50b1cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU5fHxjYWZlfGVufDB8fHx8MTczNzg3Nzk3MXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writing-for-a-diverse-audience.jpg"
 tags: ["寫作"]
 ---
 

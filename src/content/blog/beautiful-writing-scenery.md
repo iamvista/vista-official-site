@@ -3,7 +3,7 @@ title: "「文案天后」李欣頻：寫出獨特的觀點，讓大家看到我
 description: "李欣頻鼓勵大家多看書，「我認為每個人都應該有自己的書房，每個書房最好還要有自己的系統。你都要做自己的分類，像我自己書房就是非常清楚的分類，基本上我的三個房間全都是書，然後像圖書館一樣的分類。那是因為我太熱愛書了，我不是把它拿來當工具，而是當成一個心靈對話的空間。」"
 pubDate: "2025-01-26T03:18:37.000Z"
 updatedDate: "2025-01-26T03:20:15.000Z"
-heroImage: "https://images.unsplash.com/photo-1559755616-38df3dd4a47a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ4fHxxdWVlbnxlbnwwfHx8fDE3Mzc4NjEzNzh8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/beautiful-writing-scenery.jpg"
 tags: ["寫作"]
 ---
 

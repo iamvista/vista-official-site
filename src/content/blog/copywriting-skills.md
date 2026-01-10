@@ -3,7 +3,7 @@ title: "迎接文案新時代：從設定目標受眾和精準定位開始著手
 description: "對岸的知名作家咪蒙，曾分享過她的寫作公式：從五十個選題裡面選一個，經過四級採訪與五個小時的互動式寫作，然後要取一百個標題，同時拿到五千人的微信群裡投票。最後，再給一篇文章做一萬字的數據分析報告。"
 pubDate: "2022-06-19T22:16:53.000Z"
 updatedDate: "2025-01-26T03:00:26.000Z"
-heroImage: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxhcnRpY2xlfGVufDB8fHx8MTczNzg1ODA0M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/copywriting-skills.jpg"
 tags: ["寫作"]
 ---
 

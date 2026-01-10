@@ -3,7 +3,7 @@ title: "珍惜當下，擁抱人際連結"
 description: "人生的每一天，總有值得感恩與學習的時刻。今天，在醫院的短暫停留，讓我對健康的珍貴有了更深一層的體會；與久違的朋友重逢，讓我再次意識到人際連結的重要性；而工作上的新嘗試，則讓我充滿對未來的期待。每個時刻都是學習，每一次經歷都是成長，這一天，既充滿感慨，也滿懷動力。"
 pubDate: "2025-02-04T13:47:00.000Z"
 updatedDate: "2025-02-06T13:55:09.000Z"
-heroImage: "https://images.unsplash.com/photo-1700407168867-d651d2725e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxjaGVyaXNofGVufDB8fHx8MTczODY3NjI0Mnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/cherish-the-present.jpg"
 tags: ["日記"]
 ---
 

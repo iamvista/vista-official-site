@@ -3,7 +3,7 @@ title: "每一步，都是更好的自己"
 description: "人生就像一場不斷前行的旅程，每一步都承載著成長與學習。今天，我在母親的細心照料下，感受到家人的溫暖與支持；在教學的完成與學員的回饋中，體會到知識分享的價值；在與朋友的交流、技術的探索，以及牌卡的啟示中，看見了未來的無限可能。無論是身體的康復，還是心靈的進步，這些細微而深刻的瞬間，都構築了我們向前走的力量。希望透過文字，與你分享這些溫暖的體悟，並一起在生活的旅途中，擁抱挑戰，持續前行。"
 pubDate: "2025-02-02T13:15:02.000Z"
 updatedDate: "2025-02-02T13:29:31.000Z"
-heroImage: "https://images.unsplash.com/photo-1527495726983-4fbb078d7594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU4fHxzdGVwfGVufDB8fHx8MTczODUwMDg1M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/every-step.jpg"
 tags: ["日記"]
 ---
 

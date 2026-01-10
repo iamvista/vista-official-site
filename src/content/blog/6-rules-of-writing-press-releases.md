@@ -3,7 +3,7 @@ title: "精進新聞稿的撰寫技巧：掌握六個關鍵，有效對外傳達
 description: "雖然，我曾提過新聞稿的寫作和其他文類沒有太大的不同，都必須把讀者放在最重要的位置；但畢竟新聞稿有別於一般的商品文案或廣編稿，媒體通常會優先考量是否有新聞價值？"
 pubDate: "2022-08-03T17:50:21.000Z"
 updatedDate: "2025-02-01T00:42:20.000Z"
-heroImage: "https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG5ld3MlMjB8ZW58MHx8fHwxNzM3ODQ5ODI5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/6-rules-of-writing-press-releases.jpg"
 tags: ["寫作"]
 ---
 

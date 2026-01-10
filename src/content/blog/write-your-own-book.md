@@ -3,7 +3,7 @@ title: "《聯合報》橘世代「寫你的書，開創人生新名片」線上
 description: "在書寫《人生最美好的禮物》時，一些往事一股腦的浮現心頭，有開心的、有五味雜陳的，在醞釀、思考的過程中，有時會陷入迷霧中，失去寫作的方向，有時又會執著於某些細節的描述，取捨之間讓我吃足苦頭。"
 pubDate: "2022-04-09T09:34:38.000Z"
 updatedDate: "2025-01-27T02:07:29.000Z"
-heroImage: "https://images.unsplash.com/photo-1463725876303-ff840e2aa8d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHZpZXd8ZW58MHx8fHwxNzM3OTQzNTExfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/write-your-own-book.jpg"
 tags: ["寫作"]
 ---
 

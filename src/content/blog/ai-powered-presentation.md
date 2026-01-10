@@ -3,7 +3,7 @@ title: "把 AI 變成你的第二大腦：你不是在做簡報，你在設計�
 description: "在這個內容爆炸、注意力稀缺的時代，我們需要的不只是資訊呈現能力，而是說服力、洞察力與故事力。簡報從來不是單向傳遞資訊，而是為了說服、為了激起行動。AI在這裡，可以幫你做很多事——但你得清楚分工。所以，AI 可以說是我們打造這些能力的第二大腦。"
 pubDate: "2025-03-31T15:52:41.000Z"
 updatedDate: "2025-03-31T15:52:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fGFpfGVufDB8fHx8MTc0MzM3NDU2NHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/ai-powered-presentation.jpg"
 tags: ["人工智慧"]
 ---
 

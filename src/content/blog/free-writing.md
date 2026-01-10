@@ -3,7 +3,7 @@ title: "自由書寫，鬆綁大腦，寫出創意靈感"
 description: "其實，寫作並沒有那麼複雜，你可以把自由書寫視為寫作前的暖身運動。換言之，在寫作的過程中先不要拘泥於形式，也毋須在意對錯或是想著要編輯、修改文章，而是盡可能地讓各種想法透過筆尖自然地流洩。"
 pubDate: "2022-08-11T22:26:52.000Z"
 updatedDate: "2025-01-25T14:28:29.000Z"
-heroImage: "https://images.unsplash.com/photo-1589561253831-b8421dd58261?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxpZGVhfGVufDB8fHx8MTczNzczOTg3NHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/free-writing.jpg"
 tags: ["寫作"]
 ---
 

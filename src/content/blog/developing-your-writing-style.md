@@ -3,7 +3,7 @@ title: "如何營造個人的寫作風格"
 description: "我要鼓勵大家多看、多聽與多想。透過觀摩他人的作品，不但有助於增廣見聞，更能發現很多觀察事物的角度與方法。一開始在模仿中借鑑、在試錯中進步，同時也在創作中思考⋯⋯當然，這一切的努力都需要花很多的時間和精力來積累，但我相信慢慢地可以從中找到適合自己的寫作模式，然後再逐漸內化，變成自己獨有的特色。"
 pubDate: "2023-07-01T22:20:36.000Z"
 updatedDate: "2025-01-31T14:01:45.000Z"
-heroImage: "https://images.unsplash.com/photo-1542062700-9b61ccbc1696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxzdHlsZXxlbnwwfHx8fDE3Mzc4ODU0NTV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/developing-your-writing-style.jpg"
 tags: []
 ---
 

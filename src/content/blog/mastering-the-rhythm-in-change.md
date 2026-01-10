@@ -3,7 +3,7 @@ title: "在變動中掌握節奏：人生的修煉、成長與行動力"
 description: "今天，是行動與內在思考交錯的一天。我練習幫母親換藥，逐漸熟悉這項技能，看到她的健康穩定恢復，內心充滿感激。與此同時，意外收到研究所老友的支持，提醒我文字的力量不僅能記錄思考，更能影響他人。午後與朋友交換禮物與想法，從策略到職涯，深刻體會到學習與成長，從來都不是單打獨鬥，而是彼此扶持的過程。此外，學校正式發來公函，我的新身份——大學兼任講師，即將開啟一條新的教學之路。最後，抽到「魔術師」塔羅牌，象徵著將想法化為行動的能力，這正是我當下最需要的提醒。與其等待完美時機，不如立刻開始，讓所有計畫真正落地，讓每一天的努力都成為未來的積累。"
 pubDate: "2025-02-11T14:12:00.000Z"
 updatedDate: "2025-02-11T14:27:14.000Z"
-heroImage: "https://images.unsplash.com/photo-1601084836737-bf6275e20b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQyfHxSaHl0aG18ZW58MHx8fHwxNzM5MjgyMjAxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/mastering-the-rhythm-in-change.jpg"
 tags: ["日記"]
 ---
 

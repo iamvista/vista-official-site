@@ -3,7 +3,7 @@ title: "「國立臺北大學創新創業中心文案工作坊」課程心得：
 description: "就內容上，應注意一篇貼文或文章只適合針對一個重點討論，以避免文章主旨訊息不明確。而標題應具體明確，避免內容農場或是過於抽象的用字，例如：「10個必訪的人間仙境」給予讀者的想像畫面就較薄弱，可在加上1至2個具體地標或主題，賦予「人間仙境」具體的意象，以及說明為何「必訪」。"
 pubDate: "2022-09-13T23:16:46.000Z"
 updatedDate: "2025-01-26T11:06:19.000Z"
-heroImage: "https://images.unsplash.com/photo-1503676382389-4809596d5290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGNvbGxlZ2V8ZW58MHx8fHwxNzM3ODg5NDgyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/learn-writing-skills-from-your-life.jpg"
 tags: ["寫作"]
 ---
 

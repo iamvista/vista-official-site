@@ -3,7 +3,7 @@ title: "寫作不要依賴靈感"
 description: "如果你思來想去，還是覺得自己需要靈感才有辦法寫作的話，我倒是有一個建議可以給你：除了不斷提升自己的寫作技巧之外，也可以透過建立儀式感來強化自己的寫作動機。簡單來說，就是透過一系列事前的準備或者調整，讓自己迅速進入到精力集中的狀態，得以全身心投入到某一件事情當中。"
 pubDate: "2022-06-03T15:21:35.000Z"
 updatedDate: "2025-01-26T01:26:03.000Z"
-heroImage: "https://images.unsplash.com/photo-1623652554515-91c833e3080e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fGlkZWFzfGVufDB8fHx8MTczNzczOTg3Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/stop-relying-on-inspiration-to-write.jpg"
 tags: ["寫作"]
 ---
 

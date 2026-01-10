@@ -3,7 +3,7 @@ title: "你會組織靈感嗎？Vista教你打造靈感資料庫"
 description: "顧名思義，靈感資料庫就是找到一種自己喜歡的工具或方法來儲存、管理各種靈感。如果你喜歡傳統紙筆的紀錄方式，可以準備一本筆記本和便利貼，若你習慣使用電腦或智慧型手機等行動裝置，當然可以選擇像是Roam Research、Evernote、OneNote、Quip、Notion或是Heptabase等各式各樣的數位工具。"
 pubDate: "2022-06-10T21:15:37.000Z"
 updatedDate: "2025-01-25T15:22:10.000Z"
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxpZGVhJTIwYnVyc3J8ZW58MHx8fHwxNzM3ODE4NDQ5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-organize-inspiration-ideas.jpg"
 tags: ["內容策略","寫作"]
 ---
 

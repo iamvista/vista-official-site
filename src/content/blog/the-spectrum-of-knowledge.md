@@ -3,7 +3,7 @@ title: "知識的光譜：在學術、科技與創新的交匯處前行"
 description: "今天，知識在時光中流轉，學術、科技與創新彼此交織，構築出一場思維的盛宴。清晨，我步入「新媒體理論」課堂，這或許是博士生涯的最後一門課，望向那些剛踏入學界的學弟妹們，我彷彿看見了去年的自己，懷抱著未知的憧憬。午後，整理過去一年的學術成果，驚覺自己已在2024至2025年間參與六場研討會、投稿四篇學術期刊並獲刊、出版兩本專書，這些數字不只是成績，更是對學術承諾的見證。然而，學術研究不該只是發表論文，更是回應世界的變化。"
 pubDate: "2025-02-18T15:05:14.000Z"
 updatedDate: "2025-02-18T15:11:46.000Z"
-heroImage: "https://images.unsplash.com/photo-1607081759141-5035e0a710a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMxfHxzcGVjdHJ1bXxlbnwwfHx8fDE3Mzk4OTExNTZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-spectrum-of-knowledge.jpg"
 tags: ["日記"]
 ---
 

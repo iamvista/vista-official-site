@@ -3,7 +3,7 @@ title: "我們如何擁抱 AI"
 description: "近年來，全球掀起一陣 AI 浪潮，所以我也不免俗地開始關注相關的議題。也因為研究如何善用 AI 的力量來寫作跟行銷的緣故，所以我開始在媒體撰寫 AI 專欄，並且在許多公部門、企業和大學院校講授有關 AI 應用的課程。"
 pubDate: "2025-01-31T23:31:45.000Z"
 updatedDate: "2025-02-01T01:59:06.000Z"
-heroImage: "https://images.unsplash.com/photo-1517346665566-17b938c7f3ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGVtYnJhY2V8ZW58MHx8fHwxNzM4MzYzNzA0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/embracing-ai.jpg"
 tags: ["人工智慧"]
 ---
 

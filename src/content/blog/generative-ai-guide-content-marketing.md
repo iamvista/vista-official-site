@@ -3,7 +3,7 @@ title: "善用生成式 AI 助力內容行銷"
 description: "有別於傳統的廣告，內容行銷專注於與消費者建立長期關係，提供資訊或娛樂價值，而不是直接推銷產品或服務。建議大家可以透過文章、影音、圖片、部落格、電子書和社群媒體貼文等多種形式，來從事內容行銷。"
 pubDate: "2025-01-31T05:58:21.000Z"
 updatedDate: "2025-01-31T13:34:12.000Z"
-heroImage: "https://images.unsplash.com/photo-1533750516457-a7f992034fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGdlbmVyYXRpdmUtYWktZ3VpZGUtY29udGVudC1tYXJrZXRpbmd8ZW58MHx8fHwxNzM4MzAzMDgzfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/generative-ai-guide-content-marketing.jpg"
 tags: ["內容行銷","人工智慧"]
 ---
 

@@ -3,7 +3,7 @@ title: "寫作可以善用靈感"
 description: "我想跟你推薦一個腦力激盪的方法，又稱為頭腦風暴法。這是一種為激發創造力、強化思考力而設計出來的一種方法。這個方法是美國BBDO廣告公司創始人亞歷克斯・奧斯本於1938年首創的。可以由一個人或一組人進行。參與者圍在一起，隨意將腦中和研討主題有關的見解提出來，然後再將大家的見解重新分類整理。"
 pubDate: "2022-06-03T22:41:59.000Z"
 updatedDate: "2025-01-26T01:27:38.000Z"
-heroImage: "https://images.unsplash.com/photo-1507494924047-60b8ee826ca9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGlkZWFzfGVufDB8fHx8MTczNzczOTg3Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-find-writing-inspiration.jpg"
 tags: ["寫作"]
 ---
 

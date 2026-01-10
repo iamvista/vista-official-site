@@ -3,7 +3,7 @@ title: "珍惜陪伴，迎接希望"
 description: "清晨的第一道曙光，帶來的不只是新的一天，更是一份珍貴的感恩。今天，陪伴母親進行手術，感受到醫護人員的關懷、人際連結的溫暖，也迎來了新書分享會的好消息。在忙碌的生活中，我再次體會到健康與人際扶持的價值，也提醒自己，無論是照顧家人、寫作和學術研究，只要用心投入，世界就會回應你的努力。這一天，雖然疲憊，卻充滿力量——前方的路仍然漫長，但我願意以筆、腦、心，繼續前行，創造更多有價值的事物。"
 pubDate: "2025-02-07T11:51:20.000Z"
 updatedDate: "2025-02-10T15:02:38.000Z"
-heroImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxudXJzZXxlbnwwfHx8fDE3Mzg4NDkwMzR8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/becoming-a-better-self.jpg"
 tags: ["日記"]
 ---
 

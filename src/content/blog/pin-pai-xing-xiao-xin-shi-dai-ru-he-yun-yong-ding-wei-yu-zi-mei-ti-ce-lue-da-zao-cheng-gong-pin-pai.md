@@ -3,7 +3,7 @@ title: "品牌行銷新時代：如何運用定位與自媒體策略打造成功
 description: ""
 pubDate: "2025-03-04T16:48:26.000Z"
 updatedDate: "2025-03-04T16:50:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1613759612065-d5971d32ca49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBvc2l0aW9uaW5nfGVufDB8fHx8MTc0MTEwNjkyOXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/pin-pai-xing-xiao-xin-shi-dai-ru-he-yun-yong-ding-wei-yu-zi-mei-ti-ce-lue-da-zao-cheng-gong-pin-pai.jpg"
 tags: []
 ---
 

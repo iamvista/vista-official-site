@@ -3,7 +3,7 @@ title: "活用三元素，為您的文案撰寫吸睛標題"
 description: ""
 pubDate: "2022-10-13T22:40:36.000Z"
 updatedDate: "2025-01-31T14:04:24.000Z"
-heroImage: "https://images.unsplash.com/photo-1611673297164-ab2ccc93b15c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM1fHxhdHRyYWN0aXZlfGVufDB8fHx8MTczODMzMjIzM3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/3-tips-for-headline-writing.jpg"
 tags: ["寫作"]
 ---
 

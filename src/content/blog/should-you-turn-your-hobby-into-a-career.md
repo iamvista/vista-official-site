@@ -3,7 +3,7 @@ title: "你想過把愛好當工作嗎？"
 description: ""
 pubDate: "2022-06-09T19:57:30.000Z"
 updatedDate: "2025-01-30T05:57:57.000Z"
-heroImage: "https://images.unsplash.com/photo-1592091077268-001e76b9d3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGhvYmJ5fGVufDB8fHx8MTczODIxNjYyNXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/should-you-turn-your-hobby-into-a-career.jpg"
 tags: ["個人品牌"]
 ---
 

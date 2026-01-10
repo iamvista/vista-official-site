@@ -3,7 +3,7 @@ title: "「數位行銷商品文案寫作」課程心得：寫作力，就是你
 description: "寫作是「輸入→處理→輸出」的歷程，在平常就要廣泛的閱讀與思考，累積一些素材，除此之外，還有其它方法嗎？答案當然是肯定的。"
 pubDate: "2022-09-07T09:11:46.000Z"
 updatedDate: "2025-02-01T00:41:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxjb2xsZWdlfGVufDB8fHx8MTczNzg4OTQ4Mnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/super-power-of-writing.jpg"
 tags: ["寫作"]
 ---
 

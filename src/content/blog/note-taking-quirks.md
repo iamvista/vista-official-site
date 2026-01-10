@@ -3,7 +3,7 @@ title: "寫筆記的怪癖"
 description: "就像「我愛寫筆記」臉書社團裡的筆記達人張俊鴻老師所言，在書上作筆記是縱橫職場的利器。所以，我也認同寫讀書筆記的好處多多！平常，我當然還是會寫讀書筆記，只不過會另外用筆記本、卡片來整理自己的閱讀心得。另外，像是 Roam Research、Notion、Quip 和 Evernote 等各種數位筆記 App，也都是陪伴我多年的好朋友。"
 pubDate: "2025-02-01T23:11:36.000Z"
 updatedDate: "2025-02-01T23:29:46.000Z"
-heroImage: "https://images.unsplash.com/photo-1717726974158-2a5ffd7a5451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxub3RldGFraW5nfGVufDB8fHx8MTczODQ1MTI1OXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/note-taking-quirks.jpg"
 tags: ["筆記","寫作"]
 ---
 

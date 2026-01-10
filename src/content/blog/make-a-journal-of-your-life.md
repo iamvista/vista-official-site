@@ -3,7 +3,7 @@ title: "我看《拿起筆開始寫，你的人生就會改變》：書寫生活
 description: "這些數字看起來相當驚人，我也願意相信書寫的力量是無比巨大的！但是對於還沒找到書寫的樂趣的朋友們，有沒有什麼方法可以開始嘗試呢？作者鼓勵大家寫生活日誌，即便是最簡單的問題，往往也都有深刻的意義。"
 pubDate: "2025-01-26T09:30:51.000Z"
 updatedDate: "2025-01-26T09:30:51.000Z"
-heroImage: "https://images.unsplash.com/photo-1471938537155-7de0bd123d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHx0YXN0ZXxlbnwwfHx8fDE3Mzc4ODMyMTZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/make-a-journal-of-your-life.jpg"
 tags: ["寫作"]
 ---
 

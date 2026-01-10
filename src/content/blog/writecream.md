@@ -3,7 +3,7 @@ title: "Writecream使用心得：電腦不但會選土豆，還會寫文章"
 description: "對某些朋友來說，要寫一篇部落格文章可能有點困難：你不但需要先有一個想法，再據此規劃出一個大綱，最後還得詳細闡述你的觀點與想法。很多人寫篇文章動輒就要一兩個小時，如果此時有人（也許是一個機器人）能為你做這一切，是不是很棒呢？"
 pubDate: "2022-09-14T17:00:30.000Z"
 updatedDate: "2025-02-01T00:38:37.000Z"
-heroImage: "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM1fHxhaXxlbnwwfHx8fDE3Mzc3OTI5MTR8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writecream.jpg"
 tags: ["寫作","人工智慧"]
 ---
 

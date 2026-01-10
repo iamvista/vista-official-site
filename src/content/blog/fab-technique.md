@@ -3,7 +3,7 @@ title: "活用FAB銷售法則，寫出吸睛好文案"
 description: "什麼是「FAB銷售法則」（FAB Selling Technique）呢？簡單來說，「FAB銷售法則」是負責推銷的人士以文字、視覺或影音的溝通方式向消費者提供分析、介紹產品利益的一種好方法。想想如果今天你收到主管的指示，要幫某一款產品或服務撰寫銷售的文案，你會如何著手寫這篇文章呢？"
 pubDate: "2022-04-17T18:21:15.000Z"
 updatedDate: "2025-01-25T23:47:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1540080207997-ebe067608bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM2fHxjb2xvcmZ1bHxlbnwwfHx8fDE3Mzc4NDg3ODB8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/fab-technique.jpg"
 tags: ["寫作"]
 ---
 

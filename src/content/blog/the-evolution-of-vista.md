@@ -3,7 +3,7 @@ title: "Vista 的進化論"
 description: "如何在 AI 浪潮中突圍，打造屬於你的個人品牌？我相信，這是很多人感到好奇的問題。從文案寫作到數位行銷，再到 AI 驅動的內容創作，我累積了數年的實戰經驗，見證了品牌行銷的劇變。2025 年，我希望可以引領更多創作者與企業探索 AI 賦能的個人品牌新時代，讓價值不再受限於傳統框架，而是透過數據、技術與策略，拓展影響力的無限可能！"
 pubDate: "2025-01-31T01:56:45.000Z"
 updatedDate: "2025-01-31T01:56:45.000Z"
-heroImage: "https://images.unsplash.com/photo-1669334788758-c97e6263f149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGV2fGVufDB8fHx8MTczODE5NTkyMnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-evolution-of-vista.jpg"
 tags: ["個人品牌","日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "推薦「Vista寫作陪伴計畫」：一堂為你客製化的寫作課"
 description: ""
 pubDate: "2022-08-15T16:48:35.000Z"
 updatedDate: "2025-01-30T15:34:01.000Z"
-heroImage: "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIxfHxtYWN8ZW58MHx8fHwxNzM4MjUxMTA3fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/improve-your-writing-skills-with-customized-course.jpg"
 tags: ["寫作"]
 ---
 

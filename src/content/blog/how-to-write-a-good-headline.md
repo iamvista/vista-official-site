@@ -3,7 +3,7 @@ title: "寫出有感標題，巧妙抓住眼球"
 description: ""
 pubDate: "2022-09-27T22:03:06.000Z"
 updatedDate: "2025-01-30T06:13:39.000Z"
-heroImage: "https://images.unsplash.com/photo-1521487825080-8276b36eb200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM2fHxleWVzfGVufDB8fHx8MTczODIxNzQ3OXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-a-good-headline.jpg"
 tags: ["寫作"]
 ---
 

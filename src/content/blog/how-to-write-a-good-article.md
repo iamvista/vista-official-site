@@ -3,7 +3,7 @@ title: "如何撰寫一篇好文章"
 description: "培養內容力，是部落客們刻不容緩必須學習的議題。在開始寫文章之前，我們更需要去思考很多的面向，像是讀者（目標受眾）、觀點、意義、價值以及靈感等等，所以我建議大家別急著追逐熱點或忙於寫作，不妨先讓自己沈澱一下，思考可以從什麼角度切入，進而寫出一篇具有獨特視角或價值主張的好文章。"
 pubDate: "2022-08-05T20:27:54.000Z"
 updatedDate: "2025-01-26T02:20:50.000Z"
-heroImage: "https://images.unsplash.com/photo-1484807352052-23338990c6c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxhcnRpY2xlfGVufDB8fHx8MTczNzg1ODA0M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-write-a-good-article.jpg"
 tags: ["寫作"]
 ---
 

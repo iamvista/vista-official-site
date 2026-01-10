@@ -3,7 +3,7 @@ title: "動筆寫作前，請先擬定內容策略"
 description: "很多人在寫作的時候，只把事情發生的來龍去脈做了完整的描述，在我看來這樣還不夠，建議您最好能寫出自己的特色。倘若能夠在開始動筆之前，先思考一下切入點為何？同時規劃要如何破題和收尾，以及加強觀點與相關論述，那就會讓這篇文章更完整，同時也更具可看性。"
 pubDate: "2025-01-26T08:42:16.000Z"
 updatedDate: "2025-02-05T00:08:20.000Z"
-heroImage: "https://images.unsplash.com/photo-1503551723145-6c040742065b-v2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNvbnRlbnQlMjBzdHJhdGVneXxlbnwwfHx8fDE3Mzc4ODA3NTZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/develop-a-content-strategy-first.jpg"
 tags: ["內容策略"]
 ---
 

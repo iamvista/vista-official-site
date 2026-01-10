@@ -3,7 +3,7 @@ title: "踏上征程，向全世界發聲"
 description: ""
 pubDate: "2022-09-05T22:52:49.000Z"
 updatedDate: "2025-01-30T15:55:08.000Z"
-heroImage: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHRyaXB8ZW58MHx8fHwxNzM4MjUyNDI1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/little-voice.jpg"
 tags: ["自媒體"]
 ---
 

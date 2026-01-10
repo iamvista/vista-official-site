@@ -3,7 +3,7 @@ title: "如何快速產製內容？請從建立寫作框架和流程開始"
 description: "如果要我跟大家分享有效且快速產製內容的訣竅，我覺得最要緊的事情還是得「換位思考」，也就是從讀者的角度來思考：換句話說，也就是先想清楚你想要傳達的意義與價值，然後再來考慮內容產製的方法。"
 pubDate: "2022-08-16T21:22:07.000Z"
 updatedDate: "2025-01-25T15:14:09.000Z"
-heroImage: "https://images.unsplash.com/photo-1508004680771-708b02aabdc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGZyYW1lfGVufDB8fHx8MTczNzgxNzkyN3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writing-process.jpg"
 tags: ["內容策略"]
 ---
 

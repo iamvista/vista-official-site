@@ -3,7 +3,7 @@ title: "為您的寫作增添風味，從運用譬喻、掌握細節開始"
 description: "李維菁曾說過：「一場演講中，只要有一個人被自己改變了，那就值得啦。」同樣地，如果能幫自己的寫作增添風味，進而豐潤、影響更多人的日常生活，那何嘗不是好事一件呢？"
 pubDate: "2025-01-26T09:24:27.000Z"
 updatedDate: "2025-01-31T13:34:54.000Z"
-heroImage: "https://images.unsplash.com/photo-1524678516592-b3fbf8938717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHRhc3RlfGVufDB8fHx8MTczNzg4MzIxNnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/using-the-power-of-taste-in-writing.jpg"
 tags: ["寫作"]
 ---
 

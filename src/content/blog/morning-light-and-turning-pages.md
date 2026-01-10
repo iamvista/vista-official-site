@@ -3,7 +3,7 @@ title: "晨光、邀約與書頁翻飛的日子"
 description: "我每週一站在講臺上，週二則坐回教室當學生。今天，照舊搭了將近一個小時的公車來到學校，走進博士生研究室時，學長已經坐在角落，埋首於論文之中。他說，每天從早上八點多寫到傍晚五點，這樣的日子或許枯燥，卻也單純而美好。午後，手機響起，一家品牌顧問公司來電，希望我能協助規劃線上課程。我聽著對方描述需求，思考著該如何將知識轉化為實用的內容。這一切，似乎都是某種必然的發展。當然，今天最值得記住的，還是新書的出版。早上，它曾短暫擠進博客來的即時排行榜，朋友的訊息接連湧來，讓我覺得這一切的努力都沒有白費。然後，準備迎接接下來的另一場比賽——為中華隊加油。"
 pubDate: "2025-02-25T13:20:54.000Z"
 updatedDate: "2025-02-25T13:28:42.000Z"
-heroImage: "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1vcm5pbmd8ZW58MHx8fHwxNzQwNDg3MzM0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/morning-light-and-turning-pages.jpg"
 tags: ["日記"]
 ---
 

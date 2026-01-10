@@ -3,7 +3,7 @@ title: "設計官方網站之前，請謹記要先「換位思考」"
 description: "一個設計良好的官網，除了擁有美輪美奐的外觀，更要提供淺顯易懂的使用說明與導航功能。網站經營者最好能夠換位思考，嘗試從訪客的角度來考量官網的價值，並要有永續經營的決心，方能與時俱進並有效滿足目標受眾的需求。"
 pubDate: "2022-04-11T19:13:52.000Z"
 updatedDate: "2025-01-26T14:49:39.000Z"
-heroImage: "https://images.unsplash.com/photo-1562774053-701939374585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNvbGxlZ2V8ZW58MHx8fHwxNzM3ODg5NDgyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-design-official-websites.jpg"
 tags: ["內容行銷"]
 ---
 

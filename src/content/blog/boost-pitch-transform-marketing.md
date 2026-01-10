@@ -3,7 +3,7 @@ title: "提升提案力，翻轉商業行銷簡報"
 description: "吳玉琥（Wawa）老師是廣告與創意領域中的實戰派專家，他以幽默、自帶音效、而又切中問題核心的方式，把原本枯燥的簡報技巧轉化為一場場讓人深思的故事演繹。在課堂上，我彷彿看見了每一次提案背後的攻防邏輯與心理動線，那些我們以為的「設計細節」，其實都是「策略選擇」。"
 pubDate: "2025-04-27T03:03:07.000Z"
 updatedDate: "2025-04-27T03:36:22.000Z"
-heroImage: "https://images.unsplash.com/photo-1553877522-43269d4ea984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQyfHxwcmVzZW50YXRpb258ZW58MHx8fHwxNzQ1NzIzMjEzfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/boost-pitch-transform-marketing.jpg"
 tags: ["簡報","提案"]
 ---
 

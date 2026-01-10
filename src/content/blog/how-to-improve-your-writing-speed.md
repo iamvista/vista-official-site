@@ -3,7 +3,7 @@ title: "如何提升寫作速度？"
 description: "如果您也想跟我一樣花短短時間就寫好一篇文章，這其實不難，是真的可以辦得到的。只要在寫作或產製內容之前，請您先好好思考想要達成的目的以及可能的目標受眾，再好好整理出自己的觀點即可……"
 pubDate: "2022-10-06T23:26:53.000Z"
 updatedDate: "2025-01-25T04:26:56.000Z"
-heroImage: "https://images.unsplash.com/photo-1508780709619-79562169bc64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQxfHx3cml0aW5nJTIwc3BlZWR8ZW58MHx8fHwxNzM3Nzc5MTk1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-improve-your-writing-speed.jpg"
 tags: ["寫作"]
 ---
 

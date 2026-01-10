@@ -3,7 +3,7 @@ title: "感謝「Vista寫作陪伴計畫」，讓我從零開始寫作生涯"
 description: "這一、兩年下來，我跟隨Vista老師學習，逐漸可以體會老師在文章寫作上的要求嚴謹，給了我很大的幫助。他也時常提醒我要「換位思考」，試著從不同的角度、面向思考。下筆的時候，更要隨時想到：讀者看得懂嗎？內容和主題切合嗎？經過一篇又一篇文章的洗禮，也幫助我提升很多寫作的表達能力。"
 pubDate: "2022-05-30T21:51:08.000Z"
 updatedDate: "2025-01-27T02:01:46.000Z"
-heroImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjb2xsZWdlfGVufDB8fHx8MTczNzg4OTQ4Mnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-i-launched-my-writing-career-from-scratch.jpg"
 tags: ["寫作"]
 ---
 

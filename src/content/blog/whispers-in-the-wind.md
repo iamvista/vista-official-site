@@ -3,7 +3,7 @@ title: "風中的呢喃，在日常裡體悟成長"
 description: "早晨，備課與製作簡報的過程，讓我再一次體會到，大學老師的生活，雖然樸實，卻充滿對知識傳遞的熱忱。傍晚，博士班同學來找我，我們站在風中交換彼此的焦慮與希望。我把資格考的考古題、講義以及自己整理的筆記交給他，心裡默默期望他能順利過關，這也讓我想起自己那段緊張備考的時光。晚上看棒球時，我試著學習如何坦然面對失敗，無論是球場上的輸贏，還是生活中的挫折，能夠從容接受結果，才是真正的成長。"
 pubDate: "2025-02-23T15:45:00.000Z"
 updatedDate: "2025-02-23T22:38:14.000Z"
-heroImage: "https://images.unsplash.com/photo-1704474596984-2f64fd1fdc62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDg2fHx3aGlzcGVyfGVufDB8fHx8MTc0MDM0ODg5MHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/whispers-in-the-wind.jpg"
 tags: ["日記"]
 ---
 

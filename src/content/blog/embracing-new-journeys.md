@@ -3,7 +3,7 @@ title: "踏上嶄新的旅程"
 description: "今天充滿感恩與深思，既有對親人的關懷，也有對夢想的堅持，還有對未來轉機的憧憬。媽媽即將住院開刀，讓我更深刻體會健康的可貴；「職場光合作用」計畫獲得朋友的信任，讓我更堅定地走在助人與共學的道路上；博士班好友的勇敢選擇，讓我再次意識到，每個人都有屬於自己的節奏，而最重要的是忠於自己的步調。今天不僅讓我開始面對論文，也在書本中找到關於人際互動的新啟發，甚至透過占卜，感受到未來的契機正在醞釀。我相信，人生的每一步，都是成長的開始，而我們唯一需要做的，就是勇敢地踏出去，擁抱變化，迎接無限可能。"
 pubDate: "2025-02-05T14:14:22.000Z"
 updatedDate: "2025-02-06T13:54:51.000Z"
-heroImage: "https://images.unsplash.com/photo-1470472304068-4398a9daab00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fEpvdXJuZXlzfGVufDB8fHx8MTczODc2NDQ3Mnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/embracing-new-journeys.jpg"
 tags: ["日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "洞察與落地：探索峰值體驗的關鍵路徑"
 description: "在數位時代的洪流中，如何創造卓越的用戶體驗已成為各類平臺和產品的首要任務。汪志謙老師在他的兩本書中，深入剖析了峰值體驗的核心概念，並闡明許多我們習以為常的設計思維背後的盲點。汪老師在 Vista 所組織的 HPX G5+ 讀書會中，跟大家分享了有關UGC平臺運作、數據應用與峰值體驗的重要觀點，試圖協助大家從根本上理解用戶需求與平臺發展之間的關係。"
 pubDate: "2025-03-22T14:06:01.000Z"
 updatedDate: "2025-03-23T02:49:03.000Z"
-heroImage: "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHBlYWt8ZW58MHx8fHwxNzQyNjQ4MjY1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/path-to-peak-experience.jpg"
 tags: ["創業","職涯"]
 ---
 

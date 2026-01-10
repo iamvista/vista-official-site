@@ -3,7 +3,7 @@ title: "應用D2C策略，擁抱行銷新風潮"
 description: ""
 pubDate: "2022-08-20T21:40:56.000Z"
 updatedDate: "2025-01-30T15:52:36.000Z"
-heroImage: "https://images.unsplash.com/photo-1547072659-ce32013156d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI2fHxzZXh5fGVufDB8fHx8MTczODI1MjMzNXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/direct-to-consumer-marketing-strategy.jpg"
 tags: ["內容行銷"]
 ---
 

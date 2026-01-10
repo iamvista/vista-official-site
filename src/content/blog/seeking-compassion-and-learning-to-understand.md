@@ -3,7 +3,7 @@ title: "醫院裡的一天：期待關懷，也學習理解"
 description: "這一天，情緒如搭雲霄飛車般起伏不定。從一早的忙亂到中午的短暫溫馨，從傍晚的無奈到心裡的深思，醫院本該是一個療癒身心的地方，但今天的體驗卻讓人有些疲憊，甚至難掩失望。然而，當我靜下心來回顧這一天，或許也有一些值得學習的事——關於制度與人性，關於理解與適應，還有關於自己在這樣的環境中，如何保持內心的平衡。"
 pubDate: "2025-02-06T13:38:27.000Z"
 updatedDate: "2025-02-06T13:58:36.000Z"
-heroImage: "https://images.unsplash.com/photo-1590105577767-e21a1067899f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG51cnNlfGVufDB8fHx8MTczODg0OTAzNHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/seeking-compassion-and-learning-to-understand.jpg"
 tags: ["日記"]
 ---
 

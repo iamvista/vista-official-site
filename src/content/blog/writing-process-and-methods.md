@@ -3,7 +3,7 @@ title: "提升寫作效率：從建立自己的寫作流程與方法開始"
 description: "整體而言，如果您想要提升寫作效率，建議先檢視自己平時的寫作習慣，然後思考有沒有更棒的方法和流程值得參考與借鏡。當然，如果您有任何寫作的問題，也歡迎留言或來信和我聯繫。我很願意跟您分享自己的寫作方法和相關技巧，也很樂意和您一起討論相關的問題唷！"
 pubDate: "2022-09-01T23:05:18.000Z"
 updatedDate: "2025-01-26T01:13:06.000Z"
-heroImage: "https://images.unsplash.com/photo-1530099486328-e021101a494a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxza2lsbHxlbnwwfHx8fDE3Mzc4NTMzNzZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writing-process-and-methods.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "經營企業自媒體，從化身「成長編輯」開始"
 description: "成長編輯聽起來好酷，具體要做哪些工作呢？簡單來說，「成長編輯」要用正確的方式觸及更多的目標閱聽眾。他們的日常工作範圍，包括制定社交策略、建立數據分析機制，並組織相關的培訓，同時也要定期寄發電子報（通訊），以及針對行動裝置的參與、互動營運。此外，搜尋引擎優化（SEO）也是「成長編輯」的工作之一。"
 pubDate: "2022-06-05T15:37:39.000Z"
 updatedDate: "2025-01-25T14:12:02.000Z"
-heroImage: "https://images.unsplash.com/photo-1505816014357-96b5ff457e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxncm93dGglMjBoYWNrZXJ8ZW58MHx8fHwxNzM3ODE0MDk0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/being-a-growth-editor.jpg"
 tags: ["自媒體"]
 ---
 

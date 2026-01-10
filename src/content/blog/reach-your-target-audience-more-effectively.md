@@ -3,7 +3,7 @@ title: "如何設定精準的目標受眾？"
 description: "我們在設定目標受眾的時候，除了關注年齡、性別和職業之外，也不妨多去關注這些族群的興趣、價值觀、個性和各種偏好。有關目標受眾的設定和洞察，不是憑感覺就好，而是要經過深入的觀察並佐以數據的搜集與分析，才能真正理出頭緒。"
 pubDate: "2025-01-26T08:51:26.000Z"
 updatedDate: "2025-01-26T08:51:26.000Z"
-heroImage: "https://images.unsplash.com/photo-1705323458589-eedc887b6e4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fHN0YWlvbnN8ZW58MHx8fHwxNzM3ODgxMzcxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/reach-your-target-audience-more-effectively.jpg"
 tags: ["內容行銷"]
 ---
 

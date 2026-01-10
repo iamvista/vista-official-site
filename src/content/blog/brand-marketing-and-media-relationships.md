@@ -3,7 +3,7 @@ title: "「品牌行銷媒體公關術」課程心得：了解媒體生態圈，
 description: ""
 pubDate: "2022-09-09T16:25:34.000Z"
 updatedDate: "2025-01-30T15:41:34.000Z"
-heroImage: "https://images.unsplash.com/photo-1637151774410-bbe2f3eb393d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxwcmVzcyUyMHJlbGVhfGVufDB8fHx8MTczODI1MTYyNHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/brand-marketing-and-media-relationships.jpg"
 tags: ["自媒體"]
 ---
 

@@ -3,7 +3,7 @@ title: "瞄準後疫情時代的網購商機：活用內容行銷，讓事業如
 description: "我們談到內容行銷，意思就是要用優質的內容來驅動。簡單來說，也就是透過創造與發布有價值的內容，以達到吸引目標讀者，並與其互動，最後使其採取行動的行銷技巧。話說回來，內容行銷是一門與客人溝通但不主動銷售的藝術；換言之，內容行銷只傳送有用的資訊，而不推銷產品或服務。"
 pubDate: "2022-04-17T17:42:02.000Z"
 updatedDate: "2025-01-25T23:37:02.000Z"
-heroImage: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGNvbnRlbnR8ZW58MHx8fHwxNzM3ODQ4MDg5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/e-commerce-with-content-marketing.jpg"
 tags: ["內容行銷"]
 ---
 

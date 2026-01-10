@@ -3,7 +3,7 @@ title: "打造職場寫作力，從做筆記開始"
 description: "無論我們在做採訪筆記，或者記錄一場精采的講座心得，要緊的是能夠透過簡單扼要的筆記重現精華，讓人事後翻閱筆記時可以宛若看故事一樣。"
 pubDate: "2025-01-26T08:46:53.000Z"
 updatedDate: "2025-02-01T00:42:01.000Z"
-heroImage: "https://images.unsplash.com/photo-1717726974158-2a5ffd7a5451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxub3RldGFraW5nfGVufDB8fHx8MTczNzg4MTA0MHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/notetaking-and-writing.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "簡單的書寫：把腦子裡浮現的東西，隨心所欲地寫出來
 description: "日本知名作家村上春樹曾說過：「不如捨棄所謂小說就是這種東西，文學就是這麼回事的既成觀念，把感覺到的事，腦子裡浮現的東西，隨心所欲、自由自在地寫出來就行了吧！」"
 pubDate: "2022-08-02T12:13:55.000Z"
 updatedDate: "2025-01-26T01:09:51.000Z"
-heroImage: "https://images.unsplash.com/photo-1589652717406-1c69efaf1ff8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHNraWxsfGVufDB8fHx8MTczNzg1MzM3Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/write-freely.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "星空下的約定"
 description: "在這封寫給已逝摯友 Brian 的信中，我回望當年在臺大工業工程學研究所的青春歲月，感念他一句「你該去念博士」的溫柔鼓勵，如今成為我跨步進入學術世界的引航之光。多年後，當我終於成為博士學位候選人，在浩瀚星空下，我想對他說：「我沒讓你失望。」這是一封關於思念、感謝與未竟約定的信，也是一種回應——向那些在生命中點亮過我們的人，獻上最深的敬意與承諾。"
 pubDate: "2025-06-27T03:05:54.000Z"
 updatedDate: "2025-06-27T03:12:36.000Z"
-heroImage: "https://images.unsplash.com/photo-1464802686167-b939a6910659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHN0YXJyeXxlbnwwfHx8fDE3NTA5OTI3MDB8MA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/letter-to-brian.jpg"
 tags: ["日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "品牌故事如何寫？前總編輯教你創作 4 大原則"
 description: "說一個好的品牌故事的前提，除了故事本身要具有真實性，自然也需要有特色和獨特性，才不會讓人搞混。若能在品牌故事內部嵌入貴公司的獨特價值主張，則更能彰顯各種願景、想望，並能夠與目標受眾進行連結。"
 pubDate: "2022-07-31T22:34:50.000Z"
 updatedDate: "2025-01-25T14:39:07.000Z"
-heroImage: "https://images.unsplash.com/photo-1612969307974-ee4e57d2d5a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGJyYW5kJTIwc3Rvcnl8ZW58MHx8fHwxNzM3ODE1ODU1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/four-rules-for-successful-brand-storytelling.jpg"
 tags: ["內容行銷"]
 ---
 

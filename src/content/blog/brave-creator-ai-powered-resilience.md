@@ -3,7 +3,7 @@ title: "《用AI打造素人影響力：圖解商業定位、內容策略與AI�
 description: "這是一篇由世新大學講師鄭緯筌（Vista）所撰寫的深情推薦序，為 Penny 的新書《用AI打造素人影響力》揭開序幕。Vista 不僅見證 Penny 如何從一個素人一路走到知識創作者的高峰，也欣賞她以人本視角解讀 AI 浪潮，將生活經驗轉譯為實用策略。本篇推薦序不只點出書中精彩亮點，更讓人感受到「誠實比完美更動人」的力量。如果你也在職涯轉彎處迷惘、對AI感到焦慮，這本書與這篇序，會像一封寫給未來的自己之信，引導你在變動中活得更有力量。"
 pubDate: "2025-06-09T00:58:44.000Z"
 updatedDate: "2025-06-09T01:01:39.000Z"
-heroImage: "https://images.unsplash.com/photo-1712002641088-9d76f9080889?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNoYXRncHR8ZW58MHx8fHwxNzQ5NDMwMjAwfDA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/brave-creator-ai-powered-resilience.jpg"
 tags: ["人工智慧","閱讀"]
 ---
 

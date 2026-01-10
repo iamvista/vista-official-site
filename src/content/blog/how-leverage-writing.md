@@ -3,7 +3,7 @@ title: "巧妙運用「槓桿」來寫作"
 description: "我寫部落格已經超過十多年了，寫作的生涯更是漫長，從幼稚園就開始爬格子了！我很清楚寫作是怎麼一回事，在學習、摸索的過程中，又會遇到哪些瓶頸或盲點？也因為自己是過來人，所以我更期待可以幫助大家突破寫作的各種障礙。"
 pubDate: "2025-01-26T08:22:53.000Z"
 updatedDate: "2025-01-26T08:22:53.000Z"
-heroImage: "https://images.unsplash.com/photo-1642055498796-e0d5706a04b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxsZXZlcmFnZXxlbnwwfHx8fDE3Mzc4Nzk2NDF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-leverage-writing.jpg"
 tags: ["寫作"]
 ---
 

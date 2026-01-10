@@ -3,7 +3,7 @@ title: "「內容行銷＆文案寫作6Hrs實務班」課程心得：透過產�
 description: "在課堂中，老師很注重和學員間的互動，不會死板板地站在講臺前一直講解授課內容。課程一開始的時候，老師便請學員簡短地自我介紹，也趁此機會了解大家的背景和需求。在一整天的課程中，老師也會拿學員所待的產業和相關產品去舉例。不只是學員們的案例，老師也額外提供了許許多多值得參考的例子，也解說為什麼這些案例值得參考。"
 pubDate: "2022-09-14T18:04:19.000Z"
 updatedDate: "2025-01-26T10:43:10.000Z"
-heroImage: "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNsYXNzfGVufDB8fHx8MTczNzg4ODA5M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/content-marketing-and-copywriting.jpg"
 tags: ["內容行銷"]
 ---
 

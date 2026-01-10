@@ -3,7 +3,7 @@ title: "善用Podcast助攻，鎖定目標受眾說一個好故事"
 description: "值得注意的是Podcast並非只是品牌推廣工具，它還能夠透過說故事的方式，為聽眾創造具體的價值。不但能讓聽眾們獲得歸屬感，也可以從多元的節目中找到自己所喜歡的主題，並在互動的同時成為該Podcast社群的一分子。"
 pubDate: "2022-05-30T17:03:43.000Z"
 updatedDate: "2025-01-27T04:28:37.000Z"
-heroImage: "https://images.unsplash.com/photo-1554200876-907f9286c2a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE1fHxwb2RjYXN0fGVufDB8fHx8MTczNzg2MDU4MXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/reaching-target-audience-via-podcast.jpg"
 tags: ["自媒體"]
 ---
 

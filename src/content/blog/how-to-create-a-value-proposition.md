@@ -3,7 +3,7 @@ title: "營造獨特價值主張，推動消費者購買決策"
 description: "我們以坊間常見的銷售頁為例，除了運用清楚的圖文來展現商品的規格與特性，如果可以把獨特價值主張置於行動呼籲（Call to Action）的附近（好比在購買連結旁強化該商品的價值），將有可能進一步觸發或提升消費者的購買決策。"
 pubDate: "2022-10-23T22:52:08.000Z"
 updatedDate: "2025-02-01T00:37:31.000Z"
-heroImage: "https://images.unsplash.com/photo-1665686308827-eb62e4f6604d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGJ1c2luZXNzfGVufDB8fHx8MTczNzg3MzAwOXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-create-a-value-proposition.jpg"
 tags: ["內容行銷"]
 ---
 

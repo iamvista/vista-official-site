@@ -3,7 +3,7 @@ title: "《文案力就是你的鈔能力》自序：現在是學習寫作最好
 description: "對我來說，寫作是與生俱來的興趣，甚至是目前賴以為生的技能之一。但我也清楚，並不是每個人都喜歡寫作、或者可以透過文字精準表達自己的觀點。所以，這些年來我不但在許多政府機關、企業和學校講課，也從2019年元月推出「Vista寫作陪伴計畫」，希望可以陪伴更多的夥伴們精進寫作。"
 pubDate: "2022-10-18T08:12:46.000Z"
 updatedDate: "2025-02-01T00:37:03.000Z"
-heroImage: "https://images.unsplash.com/photo-1490724500206-cd5482e02b9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxjb3B5fGVufDB8fHx8MTczODIxNzY1MHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/best-time-to-learn-content-writing.jpg"
 tags: ["寫作"]
 ---
 

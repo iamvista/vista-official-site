@@ -3,7 +3,7 @@ title: "把握當下，踏上美好的征程"
 description: "今天，對「把握當下」這四個字有了更深的體悟。如果你也跟以前的我一樣，內心偶爾會有小小的完美主義作祟的話，那麼我有兩個錦囊想要送給你：第一個錦囊是「先求有，再求好」，第二個錦囊是「先完成，再完美」。"
 pubDate: "2022-06-08T08:36:28.000Z"
 updatedDate: "2025-01-27T04:33:04.000Z"
-heroImage: "https://images.unsplash.com/photo-1523975864490-174dd4d9a41e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGpvdXJuZXl8ZW58MHx8fHwxNzM3ODk1MjcyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/seize-the-day.jpg"
 tags: ["個人品牌"]
 ---
 

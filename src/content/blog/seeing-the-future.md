@@ -3,7 +3,7 @@ title: "在教學與對話中，看見未來的可能"
 description: "新聞系的AI課程進入第二週，我開始帶領學生進入AI文本生成的世界，並教授提示詞技術。課堂上，我期待著學生們的回應，卻發現大家仍然有些害羞，不太習慣與老師互動。但當進入實作環節，氣氛開始活絡起來，每一組都積極討論、發揮創意，甚至在分享作品時展現出自信與驚喜，這讓身為老師的我感到無比欣慰。下午，我與一位好友相約在敦化北路的星巴克，她在醫療產業發展得有聲有色，而我則分享了關於打造個人品牌與網紅經濟的見解。現在，連醫生都需要經營自媒體、提升個人品牌，因為健康才是人們最關心的議題，而醫療產業也因此充滿無限可能。這場對話，不僅是一次產業趨勢的交流，更是一次思維碰撞的激盪。"
 pubDate: "2025-02-24T13:12:14.000Z"
 updatedDate: "2025-02-24T13:22:55.000Z"
-heroImage: "https://images.unsplash.com/photo-1740149263431-098cc6705df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8YWxsfDQ3fHx8fHx8fHwxNzQwNDAxMjM5fA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/seeing-the-future.jpg"
 tags: ["日記"]
 ---
 

@@ -3,7 +3,7 @@ title: "告別「起承轉合」，善用四個邏輯寫出吸睛的商品文案
 description: "所謂的「起承轉合」，其實就是一種文章寫作的流程與架構。簡單來說，「起承轉合」代表一種鋪陳的流程和順序：起，是指文章開頭需要交代的事項。承，則是承接上文，也就是文章中間的內容。轉，則是文章中最特別、令人意想不到的精采過程。合，則是文章中的結尾，並且總結前面的內容。"
 pubDate: "2022-09-29T22:50:39.000Z"
 updatedDate: "2025-01-25T04:30:12.000Z"
-heroImage: "https://images.unsplash.com/photo-1423592707957-3b212afa6733?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNvcHl3cml0aW5nfGVufDB8fHx8MTczNzc3OTI5M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/four-copywriting-tips.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "找回書寫的樂趣"
 description: "作家顏艾琳曾經說過：「寫作的痛苦、快樂，只有你動手寫了，一切才算數。」我很同意這個說法，所以我很愉快地寫作——無論是寫部落格、專欄、商品文案，或者寫許許多多的小說、散文和新詩。"
 pubDate: "2022-09-09T15:24:35.000Z"
 updatedDate: "2025-01-25T09:58:33.000Z"
-heroImage: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxtYXJrZXRpbmd8ZW58MHx8fHwxNzM3Nzk4NjIxfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/joy-of-writing.jpg"
 tags: ["寫作"]
 ---
 

@@ -3,7 +3,7 @@ title: "佈局搜尋引擎行銷策略，讓客戶主動找上門"
 description: "如果我說，搜尋是我們現代人每天必做的眾多事情之一，相信你應該不會反對。無論是找餐館、購物或是查詢2025年的請假攻略，我們每天都在跟Google打交道！換言之，搜尋的背後往往就是意味著各種消費需求，所以，如果你能滿足需求，也就意味著可以為公司帶來源源不絕的訂單！"
 pubDate: "2022-06-08T11:18:57.000Z"
 updatedDate: "2025-01-25T15:30:35.000Z"
-heroImage: "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNlb3xlbnwwfHx8fDE3Mzc3MTgxNzd8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/search-engine-marketing-strategy.jpg"
 tags: ["SEO"]
 ---
 

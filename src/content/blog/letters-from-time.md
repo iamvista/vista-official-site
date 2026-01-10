@@ -3,7 +3,7 @@ title: "時間的信箋：在重逢、探索與溝通中尋找人生的光點"
 description: "今天，是一場充滿溫度的旅程，從老友相聚的歡愉，到知識的沉浸，再到生活細微的體悟，每個瞬間都閃耀著獨特的光點。上午，我搭乘高鐵前往桃園，與多年未見的臺大研究所同學 Newbery 相聚，我們回顧過去，暢談未來，他已踏上創業之路，投入科技紡織產業，而我仍行走在學術與數位科技交匯的軌道上。對話之間，激盪出的思維火花，讓這頓午餐別具意義。"
 pubDate: "2025-02-20T14:43:24.000Z"
 updatedDate: "2025-02-20T22:20:07.000Z"
-heroImage: "https://images.unsplash.com/photo-1501139083538-0139583c060f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRpbWUlMjBsfGVufDB8fHx8MTc0MDA2MTU0OHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/letters-from-time.jpg"
 tags: ["日記"]
 ---
 

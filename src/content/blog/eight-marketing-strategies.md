@@ -3,7 +3,7 @@ title: "市場行銷八關鍵，推動創業路途"
 description: "考慮80/20規則（80%的成功通常來自20%的努力）：監控你的結果，並將更多精力投入到推動取得成功的活動中。這將幫助你優化工作，並可確保自己將時間花在正確的地方。"
 pubDate: "2022-12-05T19:19:57.000Z"
 updatedDate: "2025-01-26T11:04:19.000Z"
-heroImage: "https://images.unsplash.com/photo-1513462561678-a58d2b3b781d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3fHxnaXJsfGVufDB8fHx8MTczNzg4OTAwMXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/eight-marketing-strategies.jpg"
 tags: ["內容行銷"]
 ---
 

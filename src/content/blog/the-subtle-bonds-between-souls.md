@@ -3,7 +3,7 @@ title: "人與人之間的微妙契約：愛、承諾與知識的交匯"
 description: "今天，是一場關於連結、承諾與思考的旅程。當住新竹的四表姊說要來探望母親，那份血脈相繫的關懷讓我深刻體悟，親情並非理所當然，而是一種溫柔的約定。同時，在電視劇的圓滿結局裡，看見故事角色終成眷屬，讓我思索現實生活中的「理想」是否也能如願。而最值得慶幸的是，今天靈感泉湧，思索出三個論文題目，為未來的研究奠定方向。午後沉浸於學術研討會的摘要撰寫，思索知識流動的價值；而即將在新聞系開始授課的我，也迎來了第一位「不小心」自願擔任班代的同學。今天抽到的戒指牌，象徵著承諾與連結，提醒我，生命中的每一段邂逅，無論短暫或深遠，都是一種無形的約定，值得珍惜。"
 pubDate: "2025-02-15T13:38:24.000Z"
 updatedDate: "2025-02-15T13:38:24.000Z"
-heroImage: "https://images.unsplash.com/photo-1580119180669-777ee01cc6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3fHxTdWJ0bGV8ZW58MHx8fHwxNzM5NjI2MjM4fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-subtle-bonds-between-souls.jpg"
 tags: ["日記"]
 ---
 

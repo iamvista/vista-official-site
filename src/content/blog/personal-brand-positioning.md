@@ -3,7 +3,7 @@ title: "《啟航未來》聽講心得：經營個人品牌，從重新定位開
 description: "鄭緯筌（Vista）老師在靈光學院所主辦的《啟航未來》講座，所帶來的課程內容很多、很扎實！從個人定位（找到role model）開始，教大家盤點自己的優勢風格。最重要是要被看見！"
 pubDate: "2022-04-08T12:46:37.000Z"
 updatedDate: "2025-01-27T02:25:13.000Z"
-heroImage: "https://images.unsplash.com/photo-1562217180-021f74991332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxnb2FsfGVufDB8fHx8MTczNzk0NDU5N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/personal-brand-positioning.jpg"
 tags: ["個人品牌"]
 ---
 

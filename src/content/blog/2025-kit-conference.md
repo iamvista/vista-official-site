@@ -3,7 +3,7 @@ title: "小金魚的美國冒險：從獵人遊戲到電子報的創作啟示"
 description: "小金魚帶你走進美國 Kit 創作者年會的精彩世界！在這場臺北閉門分享會中，她以幽默與熱情分享如何在 400 人中脫穎而出、登上主舞臺，以及與優優媽咪打造一份直擊受眾痛點的電子報問卷。從「獵人遊戲」的社交策略到 Darrell 翻轉商業模式的啟發，小金魚用真實案例點燃創作熱情。"
 pubDate: "2025-06-28T13:37:26.000Z"
 updatedDate: "2025-06-28T13:37:26.000Z"
-heroImage: "https://images.unsplash.com/photo-1678227547330-7b17f29fd1ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNvbnZlcnRraXR8ZW58MHx8fHwxNzUxMTE0NDkyfDA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/2025-kit-conference.jpg"
 tags: ["個人品牌","自媒體"]
 ---
 

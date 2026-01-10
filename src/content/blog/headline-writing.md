@@ -3,7 +3,7 @@ title: "掌握三個步驟與五個要點，寫出吸睛的好標題"
 description: "我們在下標的時候，還是先從抓取主題著手，思考如何透過短短的標題，就能讓讀者理解這篇文章主要在談論什麼？當然，您也可以善用主標和副標的作法來下標哦。"
 pubDate: "2022-08-18T21:26:11.000Z"
 updatedDate: "2025-01-25T23:57:37.000Z"
-heroImage: "https://images.unsplash.com/photo-1508780709619-79562169bc64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxtYWN8ZW58MHx8fHwxNzM3ODQ5MzY5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/headline-writing.jpg"
 tags: ["寫作"]
 ---
 

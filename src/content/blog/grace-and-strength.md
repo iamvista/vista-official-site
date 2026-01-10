@@ -3,7 +3,7 @@ title: "溫柔與堅韌：擁抱內在的力量"
 description: "今天的許多時刻，都在提醒我「適應與成長」的必要性。從幫母親換藥的熟練度提升，到親身體驗銀行的數位轉型，再到與博士班同學討論資格考的挑戰，這些大大小小的瞬間交織成一條清晰的成長軌跡。上午閱讀到《Business Insider》訪問四大諮詢公司 AI 高管的文章，深刻體會到AI 不是取代人類，而是幫助我們把握更有價值的 20%。午後收到臺灣電子書協會的研討會邀約，代表著新的機會正在醞釀。而下週開學、論文未竟的壓力，則提醒著我，人生永遠是進步與挑戰並存，關鍵在於我們如何選擇行動，讓每一個當下成為未來的基石。"
 pubDate: "2025-02-12T13:28:03.000Z"
 updatedDate: "2025-02-12T14:42:31.000Z"
-heroImage: "https://images.unsplash.com/photo-1519810410960-332413a4e48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI0fHxncmFjZXxlbnwwfHx8fDE3MzkzNjY4MDF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/grace-and-strength.jpg"
 tags: ["日記"]
 ---
 

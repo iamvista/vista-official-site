@@ -3,7 +3,7 @@ title: "「內容力進階文案工作坊」課程心得：活用九宮格工具
 description: "根據自己的觀察，這堂「內容力進階文案工作坊」實體課程的特色，是Vista老師總是以平和的語氣和鼓勵的方式，帶領大家去發想，同時利用許多生活上的實例及明確的表格、方法，讓我們可以有一系列的方式去遵循及套用。透過演練，讓每一位學員可以把這些技巧、套路，都內化到自己的產製邏輯之中。"
 pubDate: "2022-09-07T09:27:05.000Z"
 updatedDate: "2025-02-01T00:42:37.000Z"
-heroImage: "https://images.unsplash.com/photo-1577896851231-70ef18881754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNsYXNzfGVufDB8fHx8MTczNzg4ODA5M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/writing-with-3-by-3-grid-method.jpg"
 tags: ["寫作"]
 ---
 

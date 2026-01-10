@@ -3,7 +3,7 @@ title: "Dan Koe：打造一人公司商業模式，如何把自己產品化？"
 description: "Dan Koe 是一位一人企業家，透過網路創作分享他的專業知識。他每天只工作幾個小時，卻能獲得遠遠超過傳統朝九晚六工作的收入。他原本是一名網頁設計師，後來成為自由工作者，然後轉型為透過內容創作和數位產品賺取收入的創作者。他經歷了從銷售服務到產品的演變，並且已經幫助數千人透過採用一人公司的商業模式，也改變了這群人的職業軌跡和生活方式。"
 pubDate: "2025-03-28T02:34:43.000Z"
 updatedDate: "2025-03-28T04:05:57.000Z"
-heroImage: "https://images.unsplash.com/photo-1476100299472-8b2ae6997f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG9uZSUyMHBlcnNvbnxlbnwwfHx8fDE3NDMxMzMyOTV8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/dan-koe-tan-ru-he-da-zao-yi-ren-gong-si-shang-ye-mo-shi-2.jpg"
 tags: []
 ---
 

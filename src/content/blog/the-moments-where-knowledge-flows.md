@@ -3,7 +3,7 @@ title: "午後的咖啡香，捎來知識流轉的片刻悸動"
 description: "今天午後，我與好友 Steven 相約在信義區的 CURISTA COFFEE 奎士咖啡市府旗艦店，兩個人一見面就進入了 AI 的世界，討論從技術應用到全球趨勢，甚至聊到如何用 AI 把過去的文章轉成英文，讓知識跨越語言的藩籬，真正走向世界。我心想：「是時候該打世界盃了。」這句話像一顆種子，讓我開始思考未來的無限可能。結束了咖啡談話，我順著忠孝東路五段走向今晚的另一場相遇——國立臺北教育大學文化創意產業經營學系系友會餐敘。許久不見的校友們齊聚一堂，話題從職場經驗到創意產業，彼此交換近況，像是時光倒流，回到當年的青春歲月。"
 pubDate: "2025-02-27T15:04:00.000Z"
 updatedDate: "2025-02-28T06:39:39.000Z"
-heroImage: "https://images.unsplash.com/photo-1453614512568-c4024d13c247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fGNhZmUlMjBib3xlbnwwfHx8fDE3NDA3MjM4NDF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-moments-where-knowledge-flows.jpg"
 tags: ["日記"]
 ---
 

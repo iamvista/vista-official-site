@@ -3,7 +3,7 @@ title: "東吳大學企管系「數位行銷實務專題」聽講心得：數位
 description: "鄭老師透過定義描述，再搭配與同學們互動的舉例方式解釋內容行銷。像是他先提及傳統行銷是直述產品的優點，内容行銷是透過告訴顧客商品的故事，提升產品的價值並吸引到顧客目光；之後，再給同學們兩種文案，讓我們自己感覺哪種文案更吸引人？最後確實也顯示了近代的人們更偏好内容行銷的宣傳方式，因為這樣的手法更打動人心。"
 pubDate: "2022-04-01T11:57:20.000Z"
 updatedDate: "2025-01-27T02:18:35.000Z"
-heroImage: "https://images.unsplash.com/photo-1544648464-5e0f6d52dc42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzbGFzaHxlbnwwfHx8fDE3Mzc5NDM4NjZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/the-power-of-content-marketing.jpg"
 tags: ["內容行銷"]
 ---
 

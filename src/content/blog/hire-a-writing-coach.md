@@ -3,7 +3,7 @@ title: "遇到念理工科的寫作大神：教練相伴，讓寫作不再有壓
 description: "如果沒有教練指導和刻意練習，我們就只能用本能摸索，而且常常原地踏步！如果你原地踏步，踏到地板都出現洞了，那真的很誠摯推薦你參加Vista的寫作課程。線上和實體課程都有，絕對會讓你感受到進步。話說回來，當寫作不再有壓力，自然能寫出好文章！"
 pubDate: "2022-09-13T21:35:21.000Z"
 updatedDate: "2025-01-26T11:08:35.000Z"
-heroImage: "https://images.unsplash.com/photo-1535982330050-f1c2fb79ff78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGNvbGxlZ2V8ZW58MHx8fHwxNzM3ODg5NDgyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/hire-a-writing-coach.jpg"
 tags: ["寫作"]
 ---
 

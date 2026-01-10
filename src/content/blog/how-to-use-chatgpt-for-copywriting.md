@@ -3,7 +3,7 @@ title: "寫作教練Vista教你用ChatGPT寫出引人入勝的銷售文案"
 description: "在數位時代，文案撰寫已經成為各行各業不可或缺的技能。然而，撰寫引人入勝、動人心弦的文案，卻是一門不易掌握的藝術。直到現在，ChatGPT將帶給您將一分鐘的時間轉化為驚豔的文字表達。本書從實戰出發，透過ChatGPT的千萬級AI語言模型，展示如何應對各種文案撰寫需求。"
 pubDate: "2025-01-30T06:54:48.000Z"
 updatedDate: "2025-01-31T13:34:31.000Z"
-heroImage: "https://images.unsplash.com/photo-1674027444454-97b822a997b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxjaGF0Z3B0fGVufDB8fHx8MTczODExMDU1OHww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-use-chatgpt-for-copywriting.jpg"
 tags: ["人工智慧","寫作"]
 ---
 

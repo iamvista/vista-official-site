@@ -3,7 +3,7 @@ title: "「品牌文案撰寫工作坊」課程心得：以誠待人，寫出有
 description: ""
 pubDate: "2022-09-07T08:47:49.000Z"
 updatedDate: "2025-06-08T08:37:24.000Z"
-heroImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxicmFuZCUyMHN0b3xlbnwwfHx8fDE3NDkzNzA5MDR8MA&ixlib=rb-4.1.0&q=80&w=2000"
+heroImage: "/images/blog/the-power-of-copywriting-in-branding.jpg"
 tags: []
 ---
 

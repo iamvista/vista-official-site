@@ -3,7 +3,7 @@ title: "善用下標訣竅，攫取讀者注意力"
 description: ""
 pubDate: "2022-11-08T22:19:04.000Z"
 updatedDate: "2025-01-30T05:50:53.000Z"
-heroImage: "https://images.unsplash.com/photo-1440288736878-766bd5839edb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNhdGNofGVufDB8fHx8MTczODIxNjEyOXww&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/effective-marketing-headlines-to-grab-attentions.jpg"
 tags: ["寫作"]
 ---
 

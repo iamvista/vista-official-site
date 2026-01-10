@@ -3,7 +3,7 @@ title: "如何從零開始做SEO"
 description: "建議有志投入SEO的朋友，可以從換位思考開始，先觀察大家平時搜尋哪些關鍵字或解決方案，當你弄清楚訪客的意圖以及能夠如何回答他們的問題之後，就可以開始建構自己的SEO藍圖。"
 pubDate: "2022-06-05T20:03:27.000Z"
 updatedDate: "2025-01-25T15:28:05.000Z"
-heroImage: "https://images.unsplash.com/photo-1599658880436-c61792e70672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fHNlb3xlbnwwfHx8fDE3Mzc3MTgxNzd8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-do-seo-for-beginners.jpg"
 tags: ["SEO"]
 ---
 

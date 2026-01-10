@@ -3,7 +3,7 @@ title: "分享商品、服務的美好，請先打造爆紅的內容行銷力"
 description: "我在2019年11月出版了《內容感動行銷》這本專門探討內容行銷的書籍，這應該也是臺灣出版市場第一本本土的相關論述，希望可以提供給有志投入內容行銷領域的朋友們參考。"
 pubDate: "2022-04-20T21:22:03.000Z"
 updatedDate: "2025-01-26T02:16:41.000Z"
-heroImage: "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHNvY2lhbHxlbnwwfHx8fDE3Mzc4NTUxMzZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
+heroImage: "/images/blog/how-to-develop-content-marketing-strategy.jpg"
 tags: ["內容行銷"]
 ---
 
