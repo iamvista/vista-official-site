@@ -22,7 +22,7 @@ const { page } = Astro.props;
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 			/* Global Variables Local Scope */
             :root {
-                --gap: 2rem;
+                --gap: 3rem;
             }
             
             main {
@@ -184,14 +184,26 @@ const { page } = Astro.props;
 		<main>
 
             
+			/* Global Variables Local Scope */
+            :root {
+                --gap: 3rem; /* Increased Gap */
+            }
+            /* ... (Keep CSS mostly same, just checking matches) ... */
+            
+            /* ... ensure .image-container and .content match below HTML ... */
+
+            /* (Rest of CSS assumed correct from previous step, just updating HTML loop below) */
+
 			<section class="bento-grid">
 				{
 					page.data.map((post) => (
-                        <a href={`/blog/${post.slug}/`} class="post-card">
-                            <img width={720} height={360} src={post.data.heroImage} alt="" class="post-image" />
-                            <div class="post-content">
-                                <h4 class="post-title">{post.data.title}</h4>
-                                <FormattedDate date={post.data.pubDate} class="post-date" />
+                        <a href={`/blog/${post.id}/`} class="post-card">
+                            <div class="image-container">
+                                <img width={720} height={360} src={post.data.heroImage} alt="" />
+                            </div>
+                            <div class="content">
+                                <h4 class="title">{post.data.title}</h4>
+                                <FormattedDate date={post.data.pubDate} class="date" />
                             </div>
                         </a>
 					))
