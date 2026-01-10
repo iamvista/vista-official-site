@@ -1,0 +1,102 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+
+// Filter Posts
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const posts = allPosts.filter(p => p.data.tags && (p.data.tags.includes('AI') || p.data.tags.includes('AI 工具') || p.data.tags.includes('Artificial Intelligence')));
+
+const TITLE = "AI 工作流精選";
+const DESCRIPTION = "探索如何運用 AI 工具提升工作效率與生產力。";
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+	<head>
+		<BaseHead title={TITLE} description={DESCRIPTION} />
+		<style>
+			main {
+				width: 100%;
+                max-width: 960px;
+                margin: 0 auto;
+                padding: 4rem 1rem;
+			}
+            .page-header {
+                text-align: center;
+                margin-bottom: 4rem;
+            }
+            .page-header h1 {
+                font-size: 2.5rem;
+                color: var(--color-primary);
+                margin-bottom: 1rem;
+            }
+            .page-header p {
+                color: var(--gray-dark);
+                font-size: 1.2rem;
+            }
+            
+            .post-list {
+                list-style: none;
+                padding: 0;
+            }
+            .post-item {
+                display: flex;
+                flex-direction: column;
+                padding: 2rem 0;
+                border-bottom: 1px solid #eee;
+            }
+            .post-item a {
+                text-decoration: none;
+            }
+            .post-title {
+                font-size: 1.5rem;
+                color: var(--color-primary);
+                margin-bottom: 0.5rem;
+                font-family: var(--font-heading);
+                font-weight: 700;
+            }
+            .post-title:hover { color: var(--color-red); }
+            .post-meta {
+                color: #888;
+                font-size: 0.9rem;
+            }
+            .post-excerpt {
+                margin-top: 0.5rem;
+                color: #555;
+                line-height: 1.6;
+            }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+            <div class="page-header">
+                <h1>{TITLE}</h1>
+                <p>{DESCRIPTION}</p>
+            </div>
+            
+            <ul class="post-list">
+                {
+                    posts.map((post) => (
+                        <li class="post-item">
+                            <a href={`/blog/${post.id}/`}>
+                                <h3 class="post-title">{post.data.title}</h3>
+                                <div class="post-meta">
+                                    <FormattedDate date={post.data.pubDate} />
+                                </div>
+                                <p class="post-excerpt">{post.data.description}</p>
+                            </a>
+                        </li>
+                    ))
+                }
+            </ul>
+		</main>
+		<Footer />
+	</body>
+</html>
