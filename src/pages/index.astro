@@ -6,10 +6,24 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
 
-// Get latest 3 posts
-const posts = (await getCollection('blog')).sort(
+// Get all posts
+const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-).slice(0, 3);
+);
+
+// Latest 3 posts
+const posts = allPosts.slice(0, 3);
+
+// Content Curated Lists
+const writingPosts = allPosts.filter(p => p.data.tags && (p.data.tags.includes('寫作') || p.data.tags.includes('Writing') || p.data.tags.includes('寫作技巧'))).slice(0, 5);
+const aiPosts = allPosts.filter(p => p.data.tags && (p.data.tags.includes('AI') || p.data.tags.includes('AI 工具') || p.data.tags.includes('Artificial Intelligence'))).slice(0, 5);
+const brandPosts = allPosts.filter(p => p.data.tags && (p.data.tags.includes('個人品牌') || p.data.tags.includes('Personal Brand') || p.data.tags.includes('品牌行銷'))).slice(0, 5);
+
+// Helper to get main tag
+const getMainTag = (post) => {
+    if (post.data.tags && post.data.tags.length > 0) return post.data.tags[0];
+    return 'Article';
+};
 ---
 
 <!doctype html>
@@ -19,7 +33,7 @@ const posts = (await getCollection('blog')).sort(
 		<style>
             /* Ali Abdaal Inspired Styles */
             :root {
-                --ali-accent: #2563EB; /* Friendly Blue or keep Red? User brand is Red. I'll stick to Vista Red for CTA, but layout changes */
+                --ali-accent: #2563EB;
                 --ali-bg: #FFFFFF;
                 --ali-text: #171717;
             }
@@ -34,7 +48,7 @@ const posts = (await getCollection('blog')).sort(
             .hero {
                 padding: 6rem 0;
                 display: grid;
-                grid-template-columns: 1.2fr 1fr; /* Text larger, Image smaller */
+                grid-template-columns: 1.2fr 1fr;
                 gap: 4rem;
                 align-items: center;
             }
@@ -67,51 +81,32 @@ const posts = (await getCollection('blog')).sort(
             .hero-image img {
                 width: 100%;
                 border-radius: 12px;
-                transform: rotate(2deg); /* Playful tilt */
+                transform: rotate(2deg); 
                 transition: transform 0.3s ease;
-                box-shadow: 20px 20px 0 var(--color-warm-bg); /* Graphical element */
+                box-shadow: 20px 20px 0 var(--color-warm-bg); 
             }
             .hero-image:hover img {
                 transform: rotate(0deg);
             }
             
-            /* Newsletter Form in Hero */
+            /* Newsletter Embed in Hero */
             .hero-newsletter {
-                background: #f9f9f9;
-                padding: 1.5rem;
-                border-radius: 8px;
-                border: 1px solid #eee;
+                /* background: #f9f9f9; Removed background to blend iframe */
+                padding: 0;
+                /* border: 1px solid #eee; */
                 max-width: 500px;
+                overflow: hidden; /* contain iframe */
             }
             @media (max-width: 900px) { .hero-newsletter { margin: 0 auto; } }
             
-            .newsletter-form {
-                display: flex;
-                gap: 0.5rem;
-            }
-            .newsletter-input {
-                flex: 1;
-                padding: 0.8rem 1rem;
-                border: 1px solid #ddd;
-                border-radius: 6px;
-                font-size: 1rem;
-            }
-            .newsletter-btn {
-                background: var(--color-red);
-                color: white;
-                border: none;
-                padding: 0.8rem 1.5rem;
-                border-radius: 6px;
-                font-weight: 600;
-                cursor: pointer;
-                transition: background 0.2s;
-            }
-            .newsletter-btn:hover { background: #b91c1c; }
             .newsletter-caption {
                 font-size: 0.85rem;
                 color: #666;
-                margin-top: 0.8rem;
+                margin-top: 1rem;
+                text-align: left;
             }
+            @media (max-width: 900px) { .newsletter-caption { text-align: center; } }
+
 
             /* SECTIONS */
             .section-header {
@@ -126,6 +121,40 @@ const posts = (await getCollection('blog')).sort(
             .section-header p {
                 color: #666;
                 font-size: 1.1rem;
+                margin-bottom: 0;
+            }
+            
+            /* SERVICES (Restored) */
+            .grid-section {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                gap: 2rem;
+                margin-bottom: 4rem; 
+            }
+            .card {
+                padding: 2rem;
+                background: white;
+                border-radius: 8px; /* Slightly more rounded */
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Softer shadow */
+                transition: transform 0.2s, box-shadow 0.2s;
+                border: 1px solid #eee;
+            }
+            .card:hover {
+                transform: translateY(-4px);
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+                border-color: var(--color-red);
+            }
+            .card h3 {
+                margin-top: 0;
+                font-size: 1.4rem;
+                color: var(--color-primary);
+                margin-bottom: 1rem;
+                font-weight: 700;
+            }
+            .card p {
+                color: var(--gray-dark);
+                line-height: 1.6;
+                margin: 0;
             }
 
             /* LATEST ARTICLES */
@@ -141,6 +170,9 @@ const posts = (await getCollection('blog')).sort(
                 border-radius: 8px;
                 overflow: hidden;
                 transition: transform 0.2s, box-shadow 0.2s;
+                display: flex;
+                flex-direction: column;
+                height: 100%;
             }
             .article-card:hover {
                 transform: translateY(-4px);
@@ -157,6 +189,9 @@ const posts = (await getCollection('blog')).sort(
             }
             .article-content {
                 padding: 1.5rem;
+                flex: 1;
+                display: flex;
+                flex-direction: column;
             }
             .article-tag {
                 font-size: 0.75rem;
@@ -172,17 +207,15 @@ const posts = (await getCollection('blog')).sort(
                 font-weight: 700;
                 margin: 0 0 0.5rem 0;
                 line-height: 1.4;
-            }
-            .article-title a {
                 color: var(--black);
-                text-decoration: none;
             }
             .article-date {
                 font-size: 0.85rem;
                 color: #888;
+                margin-top: auto; /* Push date to bottom */
             }
 
-            /* FEATURED SECTION (Book/Products) */
+            /* FEATURED SECTION (Book/Products) - Curated Lists */
             .featured-section {
                 background: var(--color-warm-bg);
                 padding: 6rem 0;
@@ -190,11 +223,45 @@ const posts = (await getCollection('blog')).sort(
             }
             .featured-grid {
                 display: grid;
-                grid-template-columns: 1fr 1fr;
+                grid-template-columns: 1fr 2fr;
                 gap: 4rem;
-                align-items: center;
+                align-items: start;
             }
              @media (max-width: 900px) { .featured-grid { grid-template-columns: 1fr; } }
+             
+            .curated-lists {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                gap: 2rem;
+            }
+            
+            .list-column h3 {
+                font-size: 1.25rem;
+                border-bottom: 2px solid #ddd;
+                padding-bottom: 0.5rem;
+                margin-bottom: 1.5rem;
+                color: var(--black);
+            }
+            .list-column ul {
+                list-style: none;
+                padding: 0;
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+            }
+            .list-column a {
+                text-decoration: none;
+                color: var(--gray-dark);
+                font-weight: 500;
+                line-height: 1.4;
+                display: block;
+                border-bottom: 1px solid transparent;
+                transition: all 0.2s;
+            }
+            .list-column a:hover {
+                color: var(--color-red);
+                transform: translateX(4px);
+            }
 		</style>
 	</head>
 	<body>
@@ -209,18 +276,34 @@ const posts = (await getCollection('blog')).sort(
                         我是<b>講師、作家與顧問</b>。我透過文章、課程與電子報，協助你透過 <span style="color:var(--color-red); font-weight:bold;">AI 工具</span> 與 <span style="color:var(--color-red); font-weight:bold;">內容策略</span>，建立高效的個人知識系統與商業影響力。
                     </p>
                     
-                    <!-- Newsletter Sign Up -->
+                    <!-- Newsletter Embed (Substack Iframe) -->
                     <div class="hero-newsletter">
-                        <form class="newsletter-form" action="https://iamvista.substack.com/" target="_blank">
-                            <input type="email" placeholder="輸入你的 Email..." class="newsletter-input" required />
-                            <button type="submit" class="newsletter-btn">免費訂閱</button>
-                        </form>
-                        <p class="newsletter-caption">加入 5,000+ 專業工作者的行列，每週獲得最新的 AI 與寫作洞察。</p>
+                        <iframe src="https://iamvista.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+                        <p class="newsletter-caption">加入 15,541+ 專業工作者的行列，每週獲得最新的 AI 與寫作洞察。</p>
                     </div>
                 </div>
                 
                 <div class="hero-image">
                     <img src="/profile.jpg" alt="Vista Cheng" width="600" height="600" />
+                </div>
+            </div>
+            
+            <!-- SERVICES (Added Back) -->
+            <div class="container" style="margin-bottom: 2rem;">
+                 <h2 class="section-title">核心服務</h2>
+                 <div class="grid-section">
+                    <div class="card">
+                        <h3>✍️ 寫作陪伴</h3>
+                        <p>拆解寫作焦慮，建立穩定產出的原子習慣。從部落格到出書，陪你走過創作長路。</p>
+                    </div>
+                    <div class="card">
+                        <h3>🤖 AI 工作流</h3>
+                        <p>不只是下指令，而是打造專屬於你的 AI 協作系統。提升 10 倍效率，專注在更有價值的事。</p>
+                    </div>
+                    <div class="card">
+                        <h3>💼 企業內訓</h3>
+                        <p>為企業團隊導入內容行銷與數位工具思維，提升組織整體的溝通與生產力。</p>
+                    </div>
                 </div>
             </div>
 
@@ -235,12 +318,13 @@ const posts = (await getCollection('blog')).sort(
                     {
                         posts.map((post) => (
                             <div class="article-card">
-                                <a href={`/blog/${post.id}/`} style="text-decoration:none;">
+                                <a href={`/blog/${post.id}/`} style="text-decoration:none; display:flex; flex-direction:column; height:100%;">
                                     <div class="article-image">
                                         <img src={post.data.heroImage} alt="" />
                                     </div>
                                     <div class="article-content">
-                                        <span class="article-tag">Article</span>
+                                        {/* Dynamic Tag */}
+                                        <span class="article-tag">{getMainTag(post)}</span>
                                         <h3 class="article-title">{post.data.title}</h3>
                                         <FormattedDate date={post.data.pubDate} class="article-date" />
                                     </div>
@@ -255,13 +339,14 @@ const posts = (await getCollection('blog')).sort(
                 </div>
             </div>
 
-            <!-- FEATURED / SERVICES -->
+            <!-- START HERE & CURATED LISTS -->
             <div class="featured-section">
                 <div class="container featured-grid">
+                    <!-- Left: Start Here Intro -->
                     <div>
-                         <h2 style="font-size: 2.5rem; margin-bottom: 1.5rem; font-family: var(--font-heading);">Start Here</h2>
+                         <h2 style="font-size: 2.5rem; margin-bottom: 1.5rem; font-family: var(--font-heading);">從這裡開始</h2>
                          <p style="font-size: 1.2rem; line-height: 1.6; color: #444; margin-bottom: 2rem;">
-                             如果你是第一次來到這裡，我為你整理了一份導覽指南。這是我精選的熱門文章列表，涵蓋寫作技巧、AI 應用與更具生產力的生活方式。
+                             如果你是第一次來到這裡，我為你整理了一份導覽指南。這是我精選的熱門文章列表，涵蓋寫作技巧、AI 應用與個人品牌的精華內容。
                          </p>
                          <a href="/start-here" style="
                             display: inline-block;
@@ -271,16 +356,44 @@ const posts = (await getCollection('blog')).sort(
                             text-decoration: none;
                             border-radius: 6px;
                             font-weight: bold;
-                         ">開始探索</a>
+                         ">開始探索 &rarr;</a>
                     </div>
-                    <div>
-                        <!-- Could be an image or a list of categories -->
-                        <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
-                            <h3 style="margin-top:0; margin-bottom:1rem;">熱門主題</h3>
-                            <ul style="list-style: none; padding: 0; display: grid; gap: 1rem;">
-                                <li><a href="/blog" style="color:var(--black); text-decoration:none; display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:0.8rem;"><span>✍️ 寫作技巧</span> <span>&rarr;</span></a></li>
-                                <li><a href="/blog" style="color:var(--black); text-decoration:none; display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:0.8rem;"><span>🤖 AI 工作流</span> <span>&rarr;</span></a></li>
-                                <li><a href="/blog" style="color:var(--black); text-decoration:none; display:flex; justify-content:space-between; padding-bottom:0.8rem;"><span>🚀 個人品牌</span> <span>&rarr;</span></a></li>
+                    
+                    <!-- Right: Curated Lists -->
+                    <div class="curated-lists">
+                        <!-- Writing -->
+                        <div class="list-column">
+                            <h3>✍️ 寫作技巧</h3>
+                            <ul>
+                                {writingPosts.length > 0 ? writingPosts.map(p => (
+                                    <li><a href={`/blog/${p.id}/`}>{p.data.title}</a></li>
+                                )) : (
+                                    <li><a href="/blog">更多寫作文章...</a></li>
+                                )}
+                            </ul>
+                        </div>
+                        
+                        <!-- AI -->
+                        <div class="list-column">
+                            <h3>🤖 AI 工作流</h3>
+                            <ul>
+                                {aiPosts.length > 0 ? aiPosts.map(p => (
+                                    <li><a href={`/blog/${p.id}/`}>{p.data.title}</a></li>
+                                )) : (
+                                    <li><a href="/blog">更多 AI 文章...</a></li>
+                                )}
+                            </ul>
+                        </div>
+                        
+                        <!-- Personal Brand -->
+                        <div class="list-column">
+                            <h3>🚀 個人品牌</h3>
+                            <ul>
+                                {brandPosts.length > 0 ? brandPosts.map(p => (
+                                    <li><a href={`/blog/${p.id}/`}>{p.data.title}</a></li>
+                                )) : (
+                                    <li><a href="/blog">更多品牌文章...</a></li>
+                                )}
                             </ul>
                         </div>
                     </div>
