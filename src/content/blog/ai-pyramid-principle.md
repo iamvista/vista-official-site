@@ -3,7 +3,7 @@ title: "用 AI 思維重讀《金字塔原理》：職場人士的智能時代�
 description: "在 AI 時代，溝通表達的方式正在經歷深刻的變革。傳統的溝通主要是人與人之間的資訊交換，而現在我們需要同時面對人類和 AI 系統兩種不同的溝通對象。這種變化不僅影響了我們表達的內容和方式，更重要的是改變了我們對有效溝通的理解。在《金字塔原理》書中所強調的清晰、邏輯和結構化表達，在這種新環境中獲得了更加重要的地位。"
 pubDate: "2025-09-15T02:12:46.000Z"
 updatedDate: "2025-09-15T02:19:48.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/09/---------------.png"
+heroImage: "/images/blog/ai-pyramid-principle.jpg"
 tags: ["人工智慧","職涯"]
 ---
 

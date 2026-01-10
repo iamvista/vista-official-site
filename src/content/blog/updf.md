@@ -3,7 +3,7 @@ title: "學術寫作的利器：UPDF 讓我在知識的世界裡自由呼吸"
 description: "PDF 雖然是全世界最通用、最穩定的文件格式，卻常常給我一種既熟悉又陌生的矛盾感。直到我遇見了 UPDF，這是一款結合 AI、編輯、註釋、OCR、文件比對與格式轉換等近百項功能的全方位 PDF 工具。它不僅僅是一個軟體，更像是一位隱形的研究助手，默默幫我把原本混亂的文件變得有序，把繁瑣化為效率，甚至在某些時候啟發我以不同角度來看待研究與寫作。 ："
 pubDate: "2025-08-29T06:43:35.000Z"
 updatedDate: "2025-08-29T06:43:35.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/08/updf-blog.png"
+heroImage: "/images/blog/updf.jpg"
 tags: ["人工智慧","寫作","軟體"]
 ---
 

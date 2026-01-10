@@ -3,7 +3,7 @@ title: "關於Vista Lab，我想說的是⋯⋯"
 description: ""
 pubDate: "2022-07-01T07:39:40.000Z"
 updatedDate: "2022-10-03T22:05:18.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/06/%E6%AD%A1%E8%BF%8E%E5%8A%A0%E5%85%A5Vista-Lab.jpg"
+heroImage: "/images/blog/about-vista-lab.jpg"
 tags: []
 ---
 

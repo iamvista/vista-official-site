@@ -3,7 +3,7 @@ title: "AI 不是你的主子，而是靈感的副手：莫言用 AI 寫詩的�
 description: "最近，諾貝爾文學獎得主莫言分享了他與 AI 交手的幾次經驗，引發了我深深的共鳴。身為一位長期關注生成式 AI 發展的講師與創作用者寫，我對莫言的分享不僅感到親切，更感受到這是一個時代文學與科技碰撞的縮影。他的那句：「你得讓它是你的助手，不是你的主子」，引發我的共鳴。"
 pubDate: "2025-07-14T02:12:34.000Z"
 updatedDate: "2025-07-20T12:59:35.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/07/------------.png"
+heroImage: "/images/blog/mo-yan-ai-writing.jpg"
 tags: ["人工智慧","寫作"]
 ---
 

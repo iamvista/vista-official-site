@@ -3,7 +3,7 @@ title: "從「最可能被 AI 取代」到逆勢領航：AI 驅動下的客服�
 description: "AI 浪潮席捲各行各業，客服外包產業被視為最早遭受衝擊的領域之一。然而，程曦資訊董事長黃士軍卻選擇正面迎擊，以招募機器人、面試模擬、訓練 AI 與品質控管自動化等實戰作為，帶領團隊從「被取代邊緣」挺進「數位轉型典範」。7 月 23 日黃士軍董事長在講座中精采分享，全面揭示 AI 如何從工具變為戰略夥伴，如何協助企業重建成本結構、人才布局與競爭優勢。"
 pubDate: "2025-07-24T10:56:03.000Z"
 updatedDate: "2025-07-24T11:49:45.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/07/9B69BE05-07E8-43CE-9C34-ED3B8CFF223A.jpg"
+heroImage: "/images/blog/ai-bpo.jpg"
 tags: ["人工智慧"]
 ---
 

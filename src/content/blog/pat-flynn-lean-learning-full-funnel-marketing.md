@@ -3,7 +3,7 @@ title: "從新書宣傳到打造鐵粉生態圈：Pat Flynn 的全方位漏斗�
 description: "帕特・弗林（Pat Flynn）為了他的新書《Lean Learning》，進行一場為期兩年的全漏斗實驗：他以賽斯・高汀（Seth Godin）背書的銷售頁（Landing Page）鎖定目光，再透過四層購書獎勵、10堂迷你課與30天打卡挑戰，層層引導讀者從買書到加入 Email 名單，再到 Podcast 打造巡迴與社群共創，最終累積鐵粉與長尾收益。本文深入拆解其策略設計、數據驅動優化與心法思維，並提供給創作者、講師與顧問可立即複製的行動清單，帶你學會如何讓一本書變成多管道的現金流和品牌飛輪。立即吸收，掌握漏斗心法，創造長尾營收效益與動能！"
 pubDate: "2025-07-29T03:57:00.000Z"
 updatedDate: "2025-07-29T04:13:40.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/07/pat.png"
+heroImage: "/images/blog/pat-flynn-lean-learning-full-funnel-marketing.jpg"
 tags: ["內容行銷","個人品牌"]
 ---
 

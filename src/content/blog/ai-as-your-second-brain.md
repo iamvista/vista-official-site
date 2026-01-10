@@ -3,7 +3,7 @@ title: "「把 AI 變成你的第二大腦」聽講心得"
 description: "在本次「把 AI 變成你的第二大腦」講座中，鄭老師給予的觀念無論是全職學生或職場人士都很受用。老師提到在 AI 的時代，最重要的是思考。每個人都能輕鬆建立免費社群帳號，盡情地發表自我，同時創建個人品牌。我們每天都被無數訊息包圍，像是文章、影片、對話、新聞，但多數人只是經過，而非沉澱。"
 pubDate: "2025-08-14T09:42:15.000Z"
 updatedDate: "2025-08-14T09:42:15.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/08/---AI.png"
+heroImage: "/images/blog/ai-as-your-second-brain.jpg"
 tags: ["人工智慧"]
 ---
 

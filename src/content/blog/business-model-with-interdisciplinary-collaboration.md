@@ -3,7 +3,7 @@ title: "規劃利他共好策略，跨領域整合產業創新"
 description: ""
 pubDate: "2022-08-17T21:41:55.000Z"
 updatedDate: "2022-10-03T21:59:26.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/08/trust-g66f8632a1_1280.jpg"
+heroImage: "/images/blog/business-model-with-interdisciplinary-collaboration.jpg"
 tags: []
 ---
 

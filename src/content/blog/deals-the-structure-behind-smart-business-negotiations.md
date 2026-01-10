@@ -3,7 +3,7 @@ title: "我看《DEALS 交易力》：看懂商業世界的底層邏輯，學會
 description: "《DEALS 交易力》是美國哈佛與史丹佛大學教授聯手打造的經典課程，帶你從經濟學角度重新理解商業交易。書中透過併購、授權、合作與糾紛等真實案例，揭露交易背後的邏輯：如何處理資訊不對稱、預防道德風險、設計誘因機制與退場條款。作者主張，真正的交易力不在談判技巧，而在結構設計——懂得分配風險、創造共同剩餘、確保長期穩定。這是一本結合理論與實務的策略聖經，適合企業領導者、創業者與顧問精讀。"
 pubDate: "2025-10-06T05:37:34.000Z"
 updatedDate: "2025-10-06T05:49:50.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/2025/10/----------------.png"
+heroImage: "/images/blog/deals-the-structure-behind-smart-business-negotiations.jpg"
 tags: ["讀書心得","職涯"]
 ---
 

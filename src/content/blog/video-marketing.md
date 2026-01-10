@@ -3,7 +3,7 @@ title: "善用影音行銷，有效抓住消費者眼球"
 description: ""
 pubDate: "2022-08-10T21:17:29.000Z"
 updatedDate: "2022-10-03T22:02:01.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/08/iphone-g226cb67a7_1280.jpg"
+heroImage: "/images/blog/video-marketing.jpg"
 tags: []
 ---
 

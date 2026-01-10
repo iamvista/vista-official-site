@@ -3,7 +3,7 @@ title: "三個建議，幫助室內設計師搞定寫作"
 description: ""
 pubDate: "2022-05-01T00:10:16.000Z"
 updatedDate: "2022-10-03T23:08:01.000Z"
-heroImage: "https://copywriting.vista.tw/content/images/wordpress/2022/05/sketchbook-g859acf983_1280.jpg"
+heroImage: "/images/blog/writing-for-interior-design.jpg"
 tags: []
 ---
 
