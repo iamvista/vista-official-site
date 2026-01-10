@@ -17,327 +17,275 @@ const posts = (await getCollection('blog')).sort(
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
-            /* Local Styles for Homepage */
-            .hero-section {
-                padding: 4rem 1rem;
-                background: linear-gradient(180deg, var(--color-warm-bg) 0%, #fff 100%);
-                display: flex;
-                flex-direction: column;
+            /* Ali Abdaal Inspired Styles */
+            :root {
+                --ali-accent: #2563EB; /* Friendly Blue or keep Red? User brand is Red. I'll stick to Vista Red for CTA, but layout changes */
+                --ali-bg: #FFFFFF;
+                --ali-text: #171717;
+            }
+
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 0 1.5rem;
+            }
+
+            /* HERO SECTION */
+            .hero {
+                padding: 6rem 0;
+                display: grid;
+                grid-template-columns: 1.2fr 1fr; /* Text larger, Image smaller */
+                gap: 4rem;
                 align-items: center;
-                text-align: center;
-                gap: 2rem;
             }
-            /* Remove old media query split logic if we want centered always? 
-               User image is centered. I will enforce centered for now as it looks good for Personal Brand.
-            */
-
-            .hero-avatar img {
-                border-radius: 50%;
-                border: 4px solid white;
-                box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-                width: 180px;
-                height: 180px;
-                object-fit: cover;
-            }
-
-            .hero-label {
-                background: #B45309; /* Gold/Brown from image */
-                color: white;
-                padding: 0.5rem 1.5rem;
-                border-radius: 50px;
-                font-weight: bold;
-                font-size: 0.9rem;
-                letter-spacing: 1px;
-                margin-top: -1rem; /* Visual overlap or close spacing */
-            }
-
-            .hero-content {
-                max-width: 800px;
+            @media (max-width: 900px) {
+                .hero {
+                    grid-template-columns: 1fr;
+                    text-align: center;
+                    padding: 4rem 0;
+                }
+                .hero-image { order: -1; margin-bottom: 2rem; }
             }
 
             .hero-content h1 {
-                font-size: 2.5rem;
+                font-family: var(--font-heading);
+                font-size: 3.5rem;
                 font-weight: 800;
-                letter-spacing: -0.02em;
+                line-height: 1.1;
                 margin-bottom: 1.5rem;
-                color: var(--color-primary);
-                line-height: 1.3;
+                color: var(--black);
             }
-            .highlight-blue { color: #3b82f6; }
-            .highlight-dark { color: #1e293b; }
-            
             .hero-content p {
+                font-family: var(--font-body);
                 font-size: 1.25rem;
-                color: var(--color-secondary);
+                line-height: 1.6;
+                color: var(--gray-dark);
                 margin-bottom: 2.5rem;
-                line-height: 1.8;
-                max-width: 700px;
-                margin-left: auto;
-                margin-right: auto;
+                max-width: 600px;
+            }
+
+            .hero-image img {
+                width: 100%;
+                border-radius: 12px;
+                transform: rotate(2deg); /* Playful tilt */
+                transition: transform 0.3s ease;
+                box-shadow: 20px 20px 0 var(--color-warm-bg); /* Graphical element */
+            }
+            .hero-image:hover img {
+                transform: rotate(0deg);
             }
             
-            /* Buttons */
-            .hero-buttons {
+            /* Newsletter Form in Hero */
+            .hero-newsletter {
+                background: #f9f9f9;
+                padding: 1.5rem;
+                border-radius: 8px;
+                border: 1px solid #eee;
+                max-width: 500px;
+            }
+            @media (max-width: 900px) { .hero-newsletter { margin: 0 auto; } }
+            
+            .newsletter-form {
                 display: flex;
-                gap: 1rem;
-                justify-content: center;
-                flex-wrap: wrap;
+                gap: 0.5rem;
             }
-            
-            /* Responsive Font Sizes */
-            @media (min-width: 768px) {
-                .hero-content h1 { font-size: 3.5rem; }
+            .newsletter-input {
+                flex: 1;
+                padding: 0.8rem 1rem;
+                border: 1px solid #ddd;
+                border-radius: 6px;
+                font-size: 1rem;
             }
-            .cta-button {
-                display: inline-block;
-                padding: 1rem 2.5rem;
-                background-color: var(--color-red);
+            .newsletter-btn {
+                background: var(--color-red);
                 color: white;
-                text-decoration: none;
-                border-radius: 9999px;
-                font-weight: 600;
-                font-size: 1.1rem;
-                transition: all 0.2s;
                 border: none;
-                box-shadow: 0 4px 6px rgba(220, 38, 38, 0.2);
+                padding: 0.8rem 1.5rem;
+                border-radius: 6px;
+                font-weight: 600;
+                cursor: pointer;
+                transition: background 0.2s;
             }
-            .cta-button:hover {
-                transform: translateY(-2px);
-                background-color: #b91c1c;
-                box-shadow: 0 10px 15px rgba(220, 38, 38, 0.3);
+            .newsletter-btn:hover { background: #b91c1c; }
+            .newsletter-caption {
+                font-size: 0.85rem;
+                color: #666;
+                margin-top: 0.8rem;
             }
 
-            .section-title {
+            /* SECTIONS */
+            .section-header {
                 text-align: center;
-                font-size: 2.25rem;
                 margin-bottom: 3rem;
-                color: var(--color-primary);
+            }
+            .section-header h2 {
+                font-size: 2.2rem;
                 font-weight: 700;
+                margin-bottom: 0.5rem;
+            }
+            .section-header p {
+                color: #666;
+                font-size: 1.1rem;
             }
 
-            .grid-section {
+            /* LATEST ARTICLES */
+            .latest-grid {
                 display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
                 gap: 2rem;
-                padding: 2rem 0;
-                max-width: 1100px;
-                margin: 0 auto;
+                margin-bottom: 6rem;
             }
-            .card {
-                padding: 2.5rem;
-                background: var(--color-paper);
-                border-radius: 4px; /* More minimal */
-                box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            .article-card {
+                background: white;
+                border: 1px solid #f0f0f0;
+                border-radius: 8px;
+                overflow: hidden;
                 transition: transform 0.2s, box-shadow 0.2s;
-                border: 1px solid var(--gray-light);
             }
-            .card:hover {
-                transform: translateY(-2px);
-                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            .article-card:hover {
+                transform: translateY(-4px);
+                box-shadow: 0 10px 30px rgba(0,0,0,0.08);
             }
-            .card h3 {
-                margin-top: 0;
-                font-size: 1.5rem;
-                color: var(--color-primary);
-                margin-bottom: 1rem;
+            .article-image {
+                height: 200px;
+                overflow: hidden;
             }
-            .card p {
-                color: var(--color-secondary);
-                line-height: 1.6;
+            .article-image img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+            .article-content {
+                padding: 1.5rem;
+            }
+            .article-tag {
+                font-size: 0.75rem;
+                text-transform: uppercase;
+                letter-spacing: 0.05em;
+                color: var(--color-red);
+                font-weight: bold;
+                margin-bottom: 0.5rem;
+                display: block;
+            }
+            .article-title {
+                font-size: 1.25rem;
+                font-weight: 700;
+                margin: 0 0 0.5rem 0;
+                line-height: 1.4;
+            }
+            .article-title a {
+                color: var(--black);
+                text-decoration: none;
+            }
+            .article-date {
+                font-size: 0.85rem;
+                color: #888;
             }
 
-            /* Podcast Section */
-            .podcast-section {
-                background-color: var(--color-primary);
-                color: white;
-                padding: 6rem 1rem;
-                text-align: center;
-                border-radius: 0; /* Full width vibe */
+            /* FEATURED SECTION (Book/Products) */
+            .featured-section {
+                background: var(--color-warm-bg);
+                padding: 6rem 0;
                 margin: 4rem 0;
             }
-            .podcast-section h2 { color: white; margin-bottom: 1rem; }
-            .podcast-section p { color: var(--gray-light); max-width: 600px; margin: 0 auto 2rem; }
-            .podcast-btn {
-                border: 2px solid white;
-                color: white;
-                padding: 0.75rem 2rem;
-                border-radius: 9999px;
-                text-decoration: none;
-                font-weight: 600;
-                transition: all 0.2s;
+            .featured-grid {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 4rem;
+                align-items: center;
             }
-            .podcast-btn:hover {
-                background: white;
-                color: var(--color-primary);
-            }
-            
-            /* Responsive Font Sizes */
-                .hero-subtitle { justify-content: center; font-size: 1.25rem; }
-                 .hero-buttons { justify-content: center; }
-            }
-            .hero-buttons {
-                display: flex;
-                gap: 1rem;
-                flex-wrap: wrap;
-            }
-            
-            .cta-button-red {
-                display: inline-block;
-                padding: 1rem 2.5rem;
-                background-color: var(--color-red);
-                color: white;
-                text-decoration: none;
-                border-radius: 9999px;
-                font-weight: 600;
-                font-size: 1.1rem;
-                transition: all 0.2s;
-                border: none;
-                box-shadow: 0 4px 6px rgba(220, 38, 38, 0.2);
-            }
-            .cta-button-red:hover {
-                transform: translateY(-2px);
-                background-color: #b91c1c;
-                box-shadow: 0 10px 15px rgba(220, 38, 38, 0.3);
-            }
-            
-            /* Newsletter Card Redesign */
-            .newsletter-card {
-                background: #FAF7F5; /* Light Beige */
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 4rem 2rem;
-                border-radius: 16px;
-                border: 1px solid #EAE0D5;
-            }
+             @media (max-width: 900px) { .featured-grid { grid-template-columns: 1fr; } }
 		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-            <!-- Hero Section -->
-            <section class="hero-section">
-                <!-- Avatar (Centered) -->
-                 <div class="hero-avatar">
-                     <img src="/profile.jpg" alt="Vista Cheng Profile" width="200" height="200" />
-                 </div>
-                 
-                 <!-- Label Pill -->
-                 <div class="hero-label">
-                     講師 / 作家 / 顧問
-                 </div>
-
-                <!-- Text Content -->
-                <div class="hero-content">
-                    <h1>
-                        透過 <span class="highlight-blue">AI 工作流</span> 賦能，<br/>
-                        將專業產出轉化為<span class="highlight-dark">高效資產</span>。
-                    </h1>
-                    
-                    <p>
-                        協助企業與知識工作者，透過系統化的「內容策略」與「AI 工具導入」，建立可持續變現的流程系統。
-                    </p>
-
-                    <div class="hero-buttons">
-                        <a href="/about" class="cta-button">關於 Vista &rarr;</a>
-                        <a href="/start-here" class="cta-button-red">👉 第一次來？從這開始</a>
-                    </div>
-                </div>
-            </section>
             
-            <!-- ... (Services code unchanged, assume implicit via context match? No, replace fully if safer) ... -->
-            <!-- Wait, I need to define .pill-button CSS in style block too. I will do that in a separate edit or include style here?
-                 Replace content is only within body/main. I need to add CSS in <style>.
-                 I will update the style block FIRST or separately.
-             -->
-
-            <!-- Services -->
-            <section style="padding: 4rem 1rem;">
-                <h2 class="section-title">核心服務</h2>
-                <div class="grid-section">
-                    <div class="card">
-                        <h3>✍️ 寫作陪伴</h3>
-                        <p>拆解寫作焦慮，建立穩定產出的原子習慣。從部落格到出書，陪你走過創作長路。</p>
-                    </div>
-                    <div class="card">
-                        <h3>🤖 AI 工作流</h3>
-                        <p>不只是下指令，而是打造專屬於你的 AI 協作系統。提升 10 倍效率，專注在更有價值的事。</p>
-                    </div>
-                    <div class="card">
-                        <h3>💼 企業內訓</h3>
-                        <p>為企業團隊導入內容行銷與數位工具思維，提升組織整體的溝通與生產力。</p>
+            <!-- HERO -->
+            <div class="container hero">
+                <div class="hero-content">
+                    <h1>Hey, I'm Vista 👋</h1>
+                    <p>
+                        我是<b>講師、作家與顧問</b>。我透過文章、課程與電子報，協助你透過 <span style="color:var(--color-red); font-weight:bold;">AI 工具</span> 與 <span style="color:var(--color-red); font-weight:bold;">內容策略</span>，建立高效的個人知識系統與商業影響力。
+                    </p>
+                    
+                    <!-- Newsletter Sign Up -->
+                    <div class="hero-newsletter">
+                        <form class="newsletter-form" action="https://iamvista.substack.com/" target="_blank">
+                            <input type="email" placeholder="輸入你的 Email..." class="newsletter-input" required />
+                            <button type="submit" class="newsletter-btn">免費訂閱</button>
+                        </form>
+                        <p class="newsletter-caption">加入 5,000+ 專業工作者的行列，每週獲得最新的 AI 與寫作洞察。</p>
                     </div>
                 </div>
-            </section>
-
-            <!-- Podcast Feature -->
-            <div class="podcast-section">
-                <h2>Podcast: 開外掛的人</h2>
-                <p>探索 AI 工具、生產力方法與創作者心法。每週更新，為你的生活與工作「開外掛」。</p>
-                <a href="https://podcasts.apple.com/" class="podcast-btn" target="_blank">收聽最新單元</a>
+                
+                <div class="hero-image">
+                    <img src="/profile.jpg" alt="Vista Cheng" width="600" height="600" />
+                </div>
             </div>
 
-            <!-- Latest Articles -->
-            <section style="padding: 4rem 1rem;">
-                <h2 class="section-title">最新觀點</h2>
-                <div style="max-width: 800px; margin: 0 auto;">
-                    <ul style="list-style: none; padding: 0; display: grid; gap: 2rem;">
-                        {
-                            posts.map((post) => (
-                                <li style="margin-bottom: 0;">
-                                    <a href={`/blog/${post.id}/`} style="text-decoration: none; display: block;">
-                                        <div class="card" style="padding: 2rem; border-left: 4px solid var(--color-red);">
-                                            <h4 style="margin:0 0 0.5rem 0; font-size: 1.4rem; color: var(--color-primary);">{post.data.title}</h4>
-                                            <div style="display: flex; justify-content: space-between; font-size: 0.9rem; color: var(--gray);">
-                                                <FormattedDate date={post.data.pubDate} />
-                                                <span style="color: var(--color-red); font-weight: 500;">閱讀全文 &rarr;</span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </li>
-                            ))
-                        }
-                    </ul>
-                    <div style="text-align: center; margin-top: 3rem;">
-                        <a href="/blog" style="font-weight: 600; text-decoration: none; color: var(--color-gray-dark); border-bottom: 2px solid var(--color-red);">閱讀更多文章</a>
-                    </div>
+            <!-- LATEST ARTICLES -->
+            <div class="container">
+                <div class="section-header">
+                    <h2>最新文章</h2>
+                    <p>探索 AI、寫作與自我成長的最新觀點</p>
                 </div>
-            </section>
+                
+                <div class="latest-grid">
+                    {
+                        posts.map((post) => (
+                            <div class="article-card">
+                                <a href={`/blog/${post.id}/`} style="text-decoration:none;">
+                                    <div class="article-image">
+                                        <img src={post.data.heroImage} alt="" />
+                                    </div>
+                                    <div class="article-content">
+                                        <span class="article-tag">Article</span>
+                                        <h3 class="article-title">{post.data.title}</h3>
+                                        <FormattedDate date={post.data.pubDate} class="article-date" />
+                                    </div>
+                                </a>
+                            </div>
+                        ))
+                    }
+                </div>
+                
+                <div style="text-align: center; margin-bottom: 6rem;">
+                     <a href="/blog" style="font-weight: 600; text-decoration: none; color: var(--color-black); border-bottom: 2px solid var(--color-red); padding-bottom: 2px;">閱讀所有文章 &rarr;</a>
+                </div>
+            </div>
 
-            <!-- Newsletter Section (Redesigned) -->
-            <section style="padding: 4rem 1rem; text-align: center; background: #fff;">
-                <div class="newsletter-card">
-                    <!-- Orange Icon -->
-                    <div style="font-size: 3rem; margin-bottom: 1rem; color: #ff5722;">
-                        <i class="fa-solid fa-envelope-open-text"></i><!-- Using FA icon or simpler SVG -->
-                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block">
-                             <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line>
-                        </svg>
+            <!-- FEATURED / SERVICES -->
+            <div class="featured-section">
+                <div class="container featured-grid">
+                    <div>
+                         <h2 style="font-size: 2.5rem; margin-bottom: 1.5rem; font-family: var(--font-heading);">Start Here</h2>
+                         <p style="font-size: 1.2rem; line-height: 1.6; color: #444; margin-bottom: 2rem;">
+                             如果你是第一次來到這裡，我為你整理了一份導覽指南。這是我精選的熱門文章列表，涵蓋寫作技巧、AI 應用與更具生產力的生活方式。
+                         </p>
+                         <a href="/start-here" style="
+                            display: inline-block;
+                            padding: 1rem 2rem;
+                            background: var(--black);
+                            color: white;
+                            text-decoration: none;
+                            border-radius: 6px;
+                            font-weight: bold;
+                         ">開始探索</a>
                     </div>
-                    
-                    <h2 style="color: var(--black); margin-bottom: 0.5rem; font-size: 2rem; font-family: var(--font-heading);">
-                        《Vista 電子報》
-                    </h2>
-                    
-                    <p style="color: var(--gray-dark); margin-bottom: 2rem; font-size: 1.1rem;">
-                        訂閱電子報，一起探索未知、挑戰自我。
-                    </p>
-                    
-                    <a href="https://iamvista.substack.com/" target="_blank" style="
-                        display: inline-block;
-                        background: #ff5722; /* Orange */
-                        color: white;
-                        text-decoration: none;
-                        padding: 1rem 3rem;
-                        border-radius: 8px; /* Slightly rounded */
-                        font-weight: bold;
-                        font-size: 1.2rem;
-                        transition: all 0.2s;
-                        box-shadow: 0 4px 14px rgba(255, 87, 34, 0.4);
-                    " onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-                        立即訂閱
-                    </a>
+                    <div>
+                        <!-- Could be an image or a list of categories -->
+                        <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+                            <h3 style="margin-top:0; margin-bottom:1rem;">熱門主題</h3>
+                            <ul style="list-style: none; padding: 0; display: grid; gap: 1rem;">
+                                <li><a href="/blog" style="color:var(--black); text-decoration:none; display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:0.8rem;"><span>✍️ 寫作技巧</span> <span>&rarr;</span></a></li>
+                                <li><a href="/blog" style="color:var(--black); text-decoration:none; display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:0.8rem;"><span>🤖 AI 工作流</span> <span>&rarr;</span></a></li>
+                                <li><a href="/blog" style="color:var(--black); text-decoration:none; display:flex; justify-content:space-between; padding-bottom:0.8rem;"><span>🚀 個人品牌</span> <span>&rarr;</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-            </section>
+            </div>
 
 		</main>
 		<Footer />
