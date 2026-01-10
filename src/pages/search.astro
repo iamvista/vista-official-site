@@ -32,25 +32,34 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		</main>
 		<Footer />
         <script>
-            window.addEventListener('DOMContentLoaded', (event) => {
-                new PagefindUI({ 
-                    element: "#search", 
-                    showSubResults: true,
-                    processResult: function (result) {
-                        if (!result.meta.image) {
-                            result.meta.image = "/search-placeholder.jpg";
+            function initSearch() {
+                const searchDiv = document.getElementById("search");
+                if (searchDiv) {
+                    searchDiv.innerHTML = ''; // Clear existing to prevent duplicates
+                    new PagefindUI({ 
+                        element: "#search", 
+                        showSubResults: true,
+                        processResult: function (result) {
+                            if (!result.meta.image) {
+                                result.meta.image = "/search-placeholder.jpg";
+                            }
+                            return result;
+                        },
+                        translations: {
+                            placeholder: "輸入關鍵字搜尋...",
+                            clear_search: "清除",
+                            zero_results: "沒有找到相關內容 [SEARCH_TERM]",
+                            many_results: "找到 [COUNT] 篇相關文章",
+                            one_result: "找到 [COUNT] 篇相關文章"
                         }
-                        return result;
-                    },
-                    translations: {
-                        placeholder: "輸入關鍵字搜尋...",
-                        clear_search: "清除",
-                        zero_results: "沒有找到相關內容 [SEARCH_TERM]",
-                        many_results: "找到 [COUNT] 篇相關文章",
-                        one_result: "找到 [COUNT] 篇相關文章"
-                    }
-                });
-            });
+                    });
+                }
+            }
+
+            // Run on initial load
+            document.addEventListener('DOMContentLoaded', initSearch);
+            // Run on Astro View Transitions navigation
+            document.addEventListener('astro:page-load', initSearch);
         </script>
 	</body>
 </html>
